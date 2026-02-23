@@ -65,35 +65,35 @@ Estrutura de documentos HTML [23](#estrutura-de-documentos-html)
 Exemplo de *tags* básicas do HTML:
 [23](#exemplo-de-tags-básicas-do-html)
 
-Exemplo de uso das *tags* \<head\> e \<body\>:
+Exemplo de uso das *tags* <head> e <body>:
 [23](#exemplo-de-uso-das-tags-head-e-body)
 
 Contraexemplo de título de página:
 [23](#contraexemplo-de-título-de-página)
 
-Exemplo de *tags* \<meta\>: [24](#exemplo-de-tags-meta)
+Exemplo de *tags* <meta>: [24](#exemplo-de-tags-meta)
 
 Contraexemplo sobre atualização automática de páginas:
 [24](#contraexemplo-sobre-atualização-automática-de-páginas)
 
-Exemplo de relação entre documentos na *tag* \<link\>:
+Exemplo de relação entre documentos na *tag* <link>:
 [24](#exemplo-de-relação-entre-documentos-na-tag-link)
 
-Exemplo da *tag* \<body\>: [25](#exemplo-da-tag-body)
+Exemplo da *tag* <body>: [25](#exemplo-da-tag-body)
 
-Âncoras e hiperlinks - A tag HTML \<a\>
+Âncoras e hiperlinks - A tag HTML <a>
 [26](#âncoras-e-hiperlinks---a-tag-html-a)
 
 Exemplo de *skip link*: [26](#exemplo-de-skip-link)
 
-Mapeamentos - A tag HTML \<map\> [28](#mapeamentos---a-tag-html-map)
+Mapeamentos - A tag HTML <map> [28](#mapeamentos---a-tag-html-map)
 
-Listas - As tags HTML \<ol\>, \<ul\> e \<dl\>
+Listas - As tags HTML <ol>, <ul> e <dl>
 [29](#listas---as-tags-html-ol-ul-e-dl)
 
-Exemplo das *tags* \<dt\> e \<dd\>: [29](#exemplo-das-tags-dt-e-dd)
+Exemplo das *tags* <dt> e <dd>: [29](#exemplo-das-tags-dt-e-dd)
 
-Subtópicos - As tags HTML \<h1\> a \<h6\>
+Subtópicos - As tags HTML <h1> a <h6>
 [31](#subtópicos---as-tags-html-h1-a-h6)
 
 Exemplo de aninhamento de *tags* para subtópicos:
@@ -102,58 +102,58 @@ Exemplo de aninhamento de *tags* para subtópicos:
 Tabulação - O atributo HTML tabindex
 [32](#tabulação---o-atributo-html-tabindex)
 
-Frames - A tag HTML \<frame\> [33](#frames---a-tag-html-frame)
+Frames - A tag HTML <frame> [33](#frames---a-tag-html-frame)
 
 Elementos de bloco e elementos de linha
 [34](#elementos-de-bloco-e-elementos-de-linha)
 
-Agrupamento de elementos de bloco - A tag HTML \<div\>
+Agrupamento de elementos de bloco - A tag HTML <div>
 [35](#agrupamento-de-elementos-de-bloco---a-tag-html-div)
 
-Exemplo da *tag* \<div\>: [35](#exemplo-da-tag-div)
+Exemplo da *tag* <div>: [35](#exemplo-da-tag-div)
 
-Agrupamento de texto - A tag HTML \<span\>
+Agrupamento de texto - A tag HTML <span>
 [36](#agrupamento-de-texto---a-tag-html-span)
 
-Exemplo da *tag* \<span\>: [36](#exemplo-da-tag-span)
+Exemplo da *tag* <span>: [36](#exemplo-da-tag-span)
 
-Quebras de linha - A tag HTML \<br\>
+Quebras de linha - A tag HTML <br>
 [37](#quebras-de-linha---a-tag-html-br)
 
-Exemplo da *tag* \<br\>: [37](#exemplo-da-tag-br)
+Exemplo da *tag* <br>: [37](#exemplo-da-tag-br)
 
-Parágrafos - A tag HTML \<p\> [38](#parágrafos---a-tag-html-p)
+Parágrafos - A tag HTML <p> [38](#parágrafos---a-tag-html-p)
 
-Exemplo da *tag* \<p\>: [38](#exemplo-da-tag-p)
+Exemplo da *tag* <p>: [38](#exemplo-da-tag-p)
 
 Idiomas - O atributo HTML lang [39](#idiomas---o-atributo-html-lang)
 
 Exemplo do atributo *lang*: [39](#exemplo-do-atributo-lang)
 
-Textos sobrescritos - A tag HTML \<sup\>
+Textos sobrescritos - A tag HTML <sup>
 [40](#textos-sobrescritos---a-tag-html-sup)
 
-Exemplo da *tag* \<sup\>: [40](#exemplo-da-tag-sup)
+Exemplo da *tag* <sup>: [40](#exemplo-da-tag-sup)
 
-Textos subscritos - A tag HTML \<sub\>
+Textos subscritos - A tag HTML <sub>
 [41](#textos-subscritos---a-tag-html-sub)
 
-Exemplo da *tag* \<sub\>: [41](#exemplo-da-tag-sub)
+Exemplo da *tag* <sub>: [41](#exemplo-da-tag-sub)
 
-Fontes - A tag HTML \<font\> [42](#fontes---a-tag-html-font)
+Fontes - A tag HTML <font> [42](#fontes---a-tag-html-font)
 
-Exemplo da *tag* \<font\>: [42](#exemplo-da-tag-font)
+Exemplo da *tag* <font>: [42](#exemplo-da-tag-font)
 
-Ênfase no texto - As tags HTML \<em\> e \<strong\>
+Ênfase no texto - As tags HTML <em> e <strong>
 [43](#ênfase-no-texto---as-tags-html-em-e-strong)
 
-Exemplo das *tags* \<em\> e \<strong\>:
+Exemplo das *tags* <em> e <strong>:
 [43](#exemplo-das-tags-em-e-strong)
 
-Abreviações e siglas - As tags HTML \<abbr\> e \<acronym\>
+Abreviações e siglas - As tags HTML <abbr> e <acronym>
 [44](#abreviações-e-siglas---a-tags-html-abbr)
 
-Exemplo das *tags* \<abbr\> e \<acronym\>: [44](#exemplos-da-tag-abbr)
+Exemplo das *tags* <abbr> e <acronym>: [44](#exemplos-da-tag-abbr)
 
 Exemplo: [44](#exemplo)
 
@@ -163,69 +163,69 @@ Cores - Os atributos HTML color e bgcolor
 Exemplo dos atributos color e bgcolor:
 [45](#exemplo-dos-atributos-color-e-bgcolor)
 
-Réguas horizontais - A tag HTML \<hr\>
+Réguas horizontais - A tag HTML <hr>
 [46](#réguas-horizontais---a-tag-html-hr)
 
-Exemplo da *tag* \<hr\>: [46](#exemplo-da-tag-hr)
+Exemplo da *tag* <hr>: [46](#exemplo-da-tag-hr)
 
 Textos alternativos [47](#textos-alternativos)
 
-Imagens - A tag HTML \<img\> [48](#imagens---a-tag-html-img)
+Imagens - A tag HTML <img> [48](#imagens---a-tag-html-img)
 
-Exemplo da *tag* \<img\>: [48](#exemplo-da-tag-img)
+Exemplo da *tag* <img>: [48](#exemplo-da-tag-img)
 
-Elementos multimídia - A tag HTML \<object\>
+Elementos multimídia - A tag HTML <object>
 [49](#elementos-multimídia---a-tag-html-object)
 
-Exemplo da *tag* \<object\>: [49](#exemplo-da-tag-object)
+Exemplo da *tag* <object>: [49](#exemplo-da-tag-object)
 
-Formulários - A tag HTML \<form\> [50](#formulários---a-tag-html-form)
+Formulários - A tag HTML <form> [50](#formulários---a-tag-html-form)
 
 Exemplo de URL destino de um formulário via *get*:
 [50](#exemplo-de-url-destino-de-um-formulário-via-get)
 
-Campos de entrada de dados - A tag HTML \<input\>
+Campos de entrada de dados - A tag HTML <input>
 [51](#campos-de-entrada-de-dados---a-tag-html-input)
 
-Exemplo da *tag* \<input\>: [51](#exemplo-da-tag-input)
+Exemplo da *tag* <input>: [51](#exemplo-da-tag-input)
 
-Rótulos - A tag HTML \<label\> [52](#rótulos---a-tag-html-label)
+Rótulos - A tag HTML <label> [52](#rótulos---a-tag-html-label)
 
-Exemplo da *tag* \<label\>: [52](#exemplo-da-tag-label)
+Exemplo da *tag* <label>: [52](#exemplo-da-tag-label)
 
-Caixas de seleção - A tag HTML \<select\>
+Caixas de seleção - A tag HTML <select>
 [53](#caixas-de-seleção---a-tag-html-select)
 
-Exemplo da *tag* \<select\>: [53](#exemplo-da-tag-select)
+Exemplo da *tag* <select>: [53](#exemplo-da-tag-select)
 
-Exemplo da *tag* \<optgroup\>: [53](#exemplo-da-tag-optgroup)
+Exemplo da *tag* <optgroup>: [53](#exemplo-da-tag-optgroup)
 
-Campos de texto - A tag HTML \<textarea\>
+Campos de texto - A tag HTML <textarea>
 [54](#campos-de-texto---a-tag-html-textarea)
 
-Exemplo da *tag* \<textarea\>: [54](#exemplo-da-tag-textarea)
+Exemplo da *tag* <textarea>: [54](#exemplo-da-tag-textarea)
 
-Agrupamento de elementos de formulário - A tag HTML \<fieldset\>
+Agrupamento de elementos de formulário - A tag HTML <fieldset>
 [55](#agrupamento-de-elementos-de-formulário---a-tag-html-fieldset)
 
-Exemplo da *tag* \<fieldset\>: [55](#exemplo-da-tag-fieldset)
+Exemplo da *tag* <fieldset>: [55](#exemplo-da-tag-fieldset)
 
-Rótulos para fieldsets - A tag HTML \<legend\>
+Rótulos para fieldsets - A tag HTML <legend>
 [56](#rótulos-para-fieldsets---a-tag-html-legend)
 
-Exemplo da *tag* \<legend\>: [56](#exemplo-da-tag-legend)
+Exemplo da *tag* <legend>: [56](#exemplo-da-tag-legend)
 
-Tabelas - As tags HTML \<table\>, \<td\>, \<tr\>, \<th\> e \<caption\>
+Tabelas - As tags HTML <table>, <td>, <tr>, <th> e <caption>
 [57](#tabelas---as-tags-html-table-td-tr-th-e-caption)
 
-Exemplo da *tag* \<table\>: [57](#exemplo-da-tag-table)
+Exemplo da *tag* <table>: [57](#exemplo-da-tag-table)
 
-Exemplo da *tag* \<th\>: [57](#exemplo-da-tag-th)
+Exemplo da *tag* <th>: [57](#exemplo-da-tag-th)
 
-Exemplo do atributo *abbr* na *tag* \<th\>:
+Exemplo do atributo *abbr* na *tag* <th>:
 [58](#exemplo-do-atributo-abbr-na-tag-th)
 
-Exemplo da *tag* \<caption\>: [58](#exemplo-da-tag-caption)
+Exemplo da *tag* <caption>: [58](#exemplo-da-tag-caption)
 
 Validação de código HTML [60](#validação-de-código-html)
 
@@ -521,7 +521,7 @@ Exemplo de validação de formulários usando Javascript:
 Acesso a conteúdo e redundância utilizando JavaScript
 [103](#acesso-a-conteúdo-e-redundância-utilizando-javascript)
 
-Exemplo de uso da *tag* \<noscript\>:
+Exemplo de uso da *tag* <noscript>:
 [103](#exemplo-de-uso-da-tag-noscript)
 
 Gráficos e animações utilizando JavaScript
@@ -757,8 +757,8 @@ práticas para a criação de código Web acessível e usável. O nascimento
 do projeto foi marcado pela publicação do relatório técnico intitulado
 *Um processo para adequação de websites a requisitos de acessibilidade e
 usabilidade*, 2008 \[1\]. Este relatório representa uma contribuição ao
-Projeto \"*Acesso, Permanência e Prosseguimento da Escolaridade em Nível
-Superior de Pessoas com Deficiência: Ambientes Inclusivos*\"
+Projeto "*Acesso, Permanência e Prosseguimento da Escolaridade em Nível
+Superior de Pessoas com Deficiência: Ambientes Inclusivos*"
 (PROESP/CAPES), realizado na Universidade Estadual de Campinas
 (UNICAMP). Além disso, o WARAU também envolveu um estudo realizado com
 uma equipe de desenvolvimento de sistemas *Web* da UNICAMP em que foram
@@ -896,8 +896,8 @@ Informatics with Semiotics (AIS) lab da University of Reading (Dept. of
 Computer Science) em 2002, UK. Recebeu a Cátedra Ibero-Americana
 UNICAMP-Santander Banespa para estudar problemas de acessibilidade em
 engenharia de software na Universidad Politécnica de Madrid, Espanha
-(2006-2007). Foi agraciada com o Diploma do Mérito Educacional \"Prof.
-Darcy Ribeiro\" em 2006 e com o ACM SIGDOC Rigo Award em 2010. É
+(2006-2007). Foi agraciada com o Diploma do Mérito Educacional "Prof.
+Darcy Ribeiro" em 2006 e com o ACM SIGDOC Rigo Award em 2010. É
 Professora Titular da Universidade Estadual de Campinas. Tem experiência
 na área de Ciência da Computação, com ênfase em Metodologia e Técnicas
 da Computação, atuando principalmente nos seguintes temas: interação
@@ -951,7 +951,7 @@ suas habilidades devido à idade (WAI - Web Accessibility Initiative).
 Assim, podemos pensar na acessibilidade como sendo a qualidade de
 locais, dispositivos, meios de comunicação, sistemas e serviços, que
 podem ser utilizados por pessoas com diferentes necessidades e
-capacidades. Note que por \"pessoas com diferentes necessidades\" nos
+capacidades. Note que por "pessoas com diferentes necessidades" nos
 referimos a qualquer indivíduo, uma vez que existem inúmeras situações
 em que um ou mais sentidos de uma pessoa não estão voltados para a mesma
 tarefa. A seguir são apresentados alguns cenários em que estão
@@ -1007,9 +1007,9 @@ Redator
 Desenvolvedor
 
 O *Design* Universal é um conceito bastante polêmico, dada a sua
-definição inicial, que é \"o *design* de produtos e ambientes para serem
+definição inicial, que é "o *design* de produtos e ambientes para serem
 usáveis por todas as pessoas, na maior extensão possível, sem a
-necessidade de adaptação ou *design* especializado.\" (The Center for
+necessidade de adaptação ou *design* especializado." (The Center for
 Universal Design: The Principles of Universal Design, Version 2.0,
 1997), tradução de (Baranauskas, 2007). No entanto, é necessário
 salientar que criar produtos segundo os princípios do *Design* Universal
@@ -1040,9 +1040,9 @@ passarela ao lado. Essa forma de *design* faz uso de produtos diferentes
 para usuários com habilidades distintas.
 
 Já o *Design* Acessível é um subconjunto do *Design* Universal e,
-consequentemente, possui um escopo mais restrito. Assim, \"\... o
+consequentemente, possui um escopo mais restrito. Assim, "\... o
 *Design* Acessível foca nos princípios que estendem o processo de
-*design* padrão para aquelas pessoas com algum tipo de limitação\".
+*design* padrão para aquelas pessoas com algum tipo de limitação".
 (Vanderheinden, G. C., 1992, tradução de (Baranauskas, 2007))
 
 # Tecnologias Assistivas
@@ -1129,11 +1129,11 @@ integração de tecnologias. São eles:
     linguagens de marcação (e.g., títulos, parágrafos, tabelas,
     abreviações).
 
-    - Subtópicos - As tags HTML \<h1\> a \<h6\>;
+    - Subtópicos - As tags HTML <h1> a <h6>;
 
     - Idiomas - O atributo HTML lang;
 
-    - Ênfase no texto - As tags HTML \<em\> e \<strong\>;
+    - Ênfase no texto - As tags HTML <em> e <strong>;
 
 4.  **Aplicar padrões e diretrizes de tecnologias e conceitos** -
     Linguagens *Web* contam com padrões e recomendações que, quando
@@ -1163,7 +1163,7 @@ integração de tecnologias. São eles:
 
 6.  **Considerar a diversidade de usuários** - Ao contrário do que
     geralmente é adotado por mantenedores de *websites*, desenvolver
-    *websites* para o \"usuário médio\" não é garantia de ampla
+    *websites* para o "usuário médio" não é garantia de ampla
     aceitação de *websites*. Portanto, o conhecimento da diversidade de
     usuários pode ser fator determinante para o sucesso de um *website*.
     Tal conhecimento complementa e, por vezes, redireciona diretrizes e
@@ -1243,13 +1243,13 @@ minúsculas. Esta é uma das recomendações do W3C para HTML. Padronização
 de código facilita bastante a manutenção.
 
 Basicamente existem dois tipos de *tags* HTML: as vazias e as não
-vazias. *Tags* vazias não contam com *tag* de fechamento (e.g., \<br\>)
+vazias. *Tags* vazias não contam com *tag* de fechamento (e.g., <br>)
 e *tags* não vazias sempre devem utilizar *tags* de abertura e
-fechamento (e.g., \<em\> e \</em\>).
+fechamento (e.g., <em> e </em>).
 
 Atributos fornecem informações adicionais sobre uma *tag*. Eles sempre
 aparecem na *tag* de abertura para *tags* não vazias e sempre são
-formados por pares do tipo nome=\"valor\". Sugerimos que os atributos
+formados por pares do tipo nome="valor". Sugerimos que os atributos
 sejam escritos em letras minúsculas pelo mesmo motivo comentado em
 relação às *tags*.
 
@@ -1261,7 +1261,7 @@ aspas dentro de um atributo.
 ### Exemplo de atributo HTML com aspas simples:
 
 ```html
-alt=\"Foto de Anderson \'Spyder\' Silva\"
+alt="Foto de Anderson 'Spyder' Silva"
 ```
 
 Comentários são utilizados para demarcar código que não será mostrado
@@ -1293,71 +1293,79 @@ Redator
 
 Designer
 
-Um arquivo HTML possui as seguintes *tags* básicas: \<html\>, \<head\> e
-\<body\>. Elas possuem *tag* de abertura e fechamento e cada uma delas
+Um arquivo HTML possui as seguintes *tags* básicas: <html>, <head> e
+<body>. Elas possuem *tag* de abertura e fechamento e cada uma delas
 deve aparecer somente uma vez por página.
 
-A *tag* \<html\> deve estar após a declaração DOCTYPE e a *tag* de
-\</html\> deve ser a última *tag* do código HTML. Para a *tag* \<html\>
+A *tag* <html> deve estar após a declaração DOCTYPE e a *tag* de
+</html> deve ser a última *tag* do código HTML. Para a *tag* <html>
 pode ser definido o atributo lang, que define o idioma a que o conteúdo
 se refere.
 
 ### Exemplo de *tags* básicas do HTML:
 
-\<!DOCTYPE html\>\
-\<html lang=\"pt-br\"\>\
-\...\
-\</html\>
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+...
+</html>
+```
 
-A *tag* \<head\> deve estar após a *tag* \<html\> e a *tag* \</head\>
-deve aparecer antes da *tag* \<body\>.
+A *tag* <head> deve estar após a *tag* <html> e a *tag* </head>
+deve aparecer antes da *tag* <body>.
 
-### Exemplo de uso das *tags* \<head\> e \<body\>:
+### Exemplo de uso das *tags* <head> e <body>:
 
-\<!DOCTYPE html\>\
-\<html lang=\"pt-br\"\>\
-\<head\>\
-\...\
-\</head\>\
-\<body\>\
-\...\
-\</body\>\
-\</html\>
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+...
+</head>
+<body>
+...
+</body>
+</html>
+```
 
-Na *tag* \<head\> são inseridas *tags* utilizadas para indexação do
-documento HTML (e.g., \<title\>, \<meta\>) e relacionamento com
-documentos externos (e.g., \<link\>).
+Na *tag* <head> são inseridas *tags* utilizadas para indexação do
+documento HTML (e.g., <title>, <meta>) e relacionamento com
+documentos externos (e.g., <link>).
 
-A *tag* \<title\> é utilizada para definir o título da página, que é um
+A *tag* <title> é utilizada para definir o título da página, que é um
 dos principais conteúdos indexados pelas ferramentas de buscas e é o
 primeiro elemento processado por leitores de tela, contextualizando o
 usuário sobre o que a página trata.
 
 Procure redigir o conteúdo de forma concisa e sem pontuações que
 procurem reproduzir detalhes gráficos, também conhecidos como ASCII
-*art*, pois nestes casos o leitor de telas vai \"falar\" todas as
+*art*, pois nestes casos o leitor de telas vai "falar" todas as
 pontuações que estiverem presentes no título.
 
 ### Contraexemplo de título de página:
 
-\<title\>\_.:\^ Teste \^:.\_\</title\>
+```html
+<title>_.:\^ Teste \^:.\_</title>
+```
 
-As *tags* \<meta\> fornecem importantes informações sobre o documento
+As *tags* <meta> fornecem importantes informações sobre o documento
 para navegadores, ferramentas de busca, servidores de *proxy*, leitores
 de tela, entre outros.
 
-### Exemplo de *tags* \<meta\>:
+### Exemplo de *tags* <meta>:
 
-\<meta name=\"author\" content=\"Nome do autor\"\>\
-\<meta name=\"keywords\" content=\"HTML, Acessibilidade\"\>\
-\<meta name=\"description\" content=\"Descrição utilizada por
-ferramentas de busca\"\>\
-\<meta http-equiv=\"content-type\" content=\"text/html;
-charset=ISO-8859-1\"\>\
-\<meta http-equiv=\"pragma\" content=\"no-cache\"\>\
-\<meta http-equiv=\"expires\" content=\"Thu, 01 Jan 1970 00:00:00
-GMT\"\>\
-\<meta http-equiv=\"cache-control\" content=\"no-store\"\>
+```html
+<meta name="author" content="Nome do autor">
+<meta name="keywords" content="HTML, Acessibilidade">
+<meta name="description" content="Descrição utilizada por
+ferramentas de busca">
+<meta http-equiv="content-type" content="text/html;
+charset=ISO-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
+GMT">
+<meta http-equiv="cache-control" content="no-store">
+```
 
 Desenvolvedor
 
@@ -1365,7 +1373,7 @@ Redator
 
 Designer
 
-Além destes exemplos, as *tags* \<meta\> podem ser utilizadas para
+Além destes exemplos, as *tags* <meta> podem ser utilizadas para
 atualizar a página automaticamente e redirecionar o usuário para outra
 página. No entanto, estas funcionalidades devem ser utilizadas com
 cuidado, pois essas manipulações devem ser feitas somente se o usuário
@@ -1379,10 +1387,12 @@ utilizando um leitor de telas.
 
 ### Contraexemplo sobre atualização automática de páginas:
 
-\<meta http-equiv=\"refresh\" content=\"60\"\>\
-\<meta http-equiv=\"refresh\" content=\"1; http://www.unicamp.br/\"\>
+```html
+<meta http-equiv="refresh" content="60">
+<meta http-equiv="refresh" content="1; http://www.unicamp.br/">
+```
 
-A *tag* *link* deve estar entre as *tags* \<head\> e \</head\>. Com ela
+A *tag* *link* deve estar entre as *tags* <head> e </head>. Com ela
 é possível definir a relação entre documentos, como indicar a relação de
 uma página com uma folha de estilo, ou definir para quais tipos de
 dispositivos uma determinada página será utilizada.
@@ -1395,27 +1405,30 @@ dispositivos a página em questão será utilizada. Alguns dos valores
 possíveis são: *screen*, *tty*, *tv*, *projection*, *handheld*, *print*,
 *braille*, *aural* ou *all*.
 
-### Exemplo de relação entre documentos na *tag* \<link\>:
+### Exemplo de relação entre documentos na *tag* <link>:
 
-\<link rel=\"stylesheet\" type=\"text/css\" href=\"estilo.css\"\
-media=\"screen, tty, print, braille, aural\"\>
+```html
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen, tty, print, braille, aural">
+```
 
 A última das *tags* básicas da estrutura de documentos HTML é a *tag*
-\<body\>, que deve estar após a *tag* \</head\>, e a *tag* \</body\>,
-que deve estar antes da *tag* \</html\>. Na *tag* \<body\> é incluído
+<body>, que deve estar após a *tag* </head>, e a *tag* </body>,
+que deve estar antes da *tag* </html>. Na *tag* <body> é incluído
 todo o conteúdo do documento HTML que será exibido no navegador.
 
-### Exemplo da *tag* \<body\>:
+### Exemplo da *tag* <body>:
 
-\<!DOCTYPE html\>\
-\<html lang=\"pt-br\"\>\
-\<head\>\
-\...\
-\</head\>\
-\<body\>\
-\...\
-\</body\>\
-\</html\>
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+...
+</head>
+<body>
+...
+</body>
+</html>
+```
 
 Desenvolvedor
 
@@ -1423,7 +1436,7 @@ Redator
 
 Designer
 
-# Âncoras e hiperlinks - A tag HTML \<a\>
+# Âncoras e hiperlinks - A tag HTML <a>
 
 Designer
 
@@ -1431,7 +1444,7 @@ Redator
 
 Desenvolvedor
 
-As *tags* \<a\> e \</a\> são utilizadas para definir um *hiperlink*.
+As *tags* <a> e </a> são utilizadas para definir um *hiperlink*.
 Note que o texto (ou rótulo) do *hiperlink* deve identificar claramente
 o local para onde o usuário será enviado. Não utilize palavras vagas nem
 repita o mesmo conteúdo para dois *hiperlinks* distintos. Toda âncora
@@ -1454,16 +1467,18 @@ chamado de *skip link*.
 
 ### Exemplo de *skip link*:
 
-\<a href=\"#conteudo\"\>Ir para conteúdo principal\</a\>\
-\...\
-\<a id=\"conteudo\"\>Início do conteúdo\</a\>
+```html
+<a href="#conteudo">Ir para conteúdo principal</a>
+...
+<a id="conteudo">Início do conteúdo</a>
+```
 
 #### 
 
 #### Código renderizado
 
-[Ir para conteúdo principal]{.underline}\
-\...\
+[Ir para conteúdo principal]{.underline}
+...
 Início do conteúdo
 
 O atributo *accesskey* indica um atalho pelo qual o usuário poderá
@@ -1472,9 +1487,9 @@ com o caractere associado a este atributo, sem necessitar do *mouse*.
 Note que o uso deste atributo deve ser consistente e único para cada
 *hiperlink* ou função do *website*.
 
-O atributo *title* é diferente da *tag* \<title\>. Aqui o atributo
+O atributo *title* é diferente da *tag* <title>. Aqui o atributo
 indica ao usuário o que há na página/âncora que o *hiperlink* remete, já
-a *tag* \<title\> se refere ao título da página.
+a *tag* <title> se refere ao título da página.
 
 Designer
 
@@ -1484,7 +1499,7 @@ Desenvolvedor
 
 Redator
 
-# Mapeamentos - A tag HTML \<map\>
+# Mapeamentos - A tag HTML <map>
 
 Designer
 
@@ -1496,7 +1511,7 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<map\> é utilizada para definir diferentes *links* para
+A *tag* `<map>' é utilizada para definir diferentes *links* para
 diferentes regiões de uma mesma imagem.
 
 Evite utilizá-la, pois alguns leitores de tela (e.g., Virtual Vision)
@@ -1507,7 +1522,7 @@ de tela.
 No entanto, se utilizar algum tipo de mapeamento, forneça também os
 mesmos *hiperlinks* em formato textual.
 
-# Listas - As tags HTML \<ol\>, \<ul\> e \<dl\>
+# Listas - As tags HTML <ol>, <ul> e <dl>
 
 Designer
 
@@ -1515,17 +1530,17 @@ Redator
 
 Desenvolvedor
 
-HTML permite a criação de três tipos básicos de listas: \<ol\> (listas
-ordenadas), \<ul\> (listas não ordenadas) e \<dl\> (listas de
+HTML permite a criação de três tipos básicos de listas: <ol> (listas
+ordenadas), <ul> (listas não ordenadas) e <dl> (listas de
 termos/definições).
 
-As *tags* \<ol\> e \</ol\> demarcam uma lista ordenada de itens, ou
+As *tags* <ol> e </ol> demarcam uma lista ordenada de itens, ou
 seja, os marcadores dos itens seguem uma ordem, como 1, 2, 3, etc.
 
-As *tags* \<ul\> e \</ul\> demarcam uma lista não ordenada de itens, ou
+As *tags* <ul> e </ul> demarcam uma lista não ordenada de itens, ou
 seja, apenas por tópicos não numerados.
 
-As *tags* \<li\> e \</li\> são utilizadas para demarcar um item de uma
+As *tags* <li> e </li> são utilizadas para demarcar um item de uma
 lista, seja ela ordenada ou não.
 
 Sempre que for aplicável prefira listas ordenadas, pois estas auxiliam
@@ -1537,18 +1552,18 @@ de forma indentada. No entanto, estas marcações devem ser utilizadas
 somente para listas. Se o intuito for exclusivamente a indentação,
 deve-se utilizar outro tipo de formatação via CSS.
 
-As *tags* \<dl\> e \</dl\> demarcam uma lista de definições de termos.
-Dentro delas, cada termo é delimitado por \<dt\> e \</dt\>; cada
-definição por \<dd\> e \</dd\>.
+As *tags* <dl> e </dl> demarcam uma lista de definições de termos.
+Dentro delas, cada termo é delimitado por <dt> e </dt>; cada
+definição por <dd> e </dd>.
 
-### Exemplo das *tags* \<dt\> e \<dd\>:
+### Exemplo das *tags* <dt> e <dd>:
 
-\<dl\>\
-\<dt\>Usabilidade\</dt\>\
-\<dd\>É a capacidade de um produto qualquer ser utilizado por seus
+<dl>
+<dt>Usabilidade</dt>
+<dd>É a capacidade de um produto qualquer ser utilizado por seus
 usuários de maneira que eles atinjam seus objetivos com eficiência e
-satisfação.\</dd\>\
-\</dl\>
+satisfação.</dd>
+</dl>
 
 #### 
 
@@ -1568,7 +1583,7 @@ Desenvolvedor
 
  
 
-# Subtópicos - As tags HTML \<h1\> a \<h6\>
+# Subtópicos - As tags HTML <h1> a <h6>
 
 Designer
 
@@ -1576,21 +1591,21 @@ Redator
 
 Desenvolvedor
 
-Utilize as *tags* \<h1\>, \<h2\>, \<h3\>, \<h4\>, \<h5\> e \<h6\> para
+Utilize as *tags* <h1>, <h2>, <h3>, <h4>, <h5> e <h6> para
 estruturar uma página por meio do particionamento do conteúdo em
-subtópicos. O \<h1\> deve ser utilizado para os tópicos mais gerais e a
+subtópicos. O <h1> deve ser utilizado para os tópicos mais gerais e a
 partir de cada subtópico deve-se utilizar o número seguinte, por
-exemplo, \<h2\>, depois \<h3\>, e assim sucessivamente até o \<h6\>.
+exemplo, <h2>, depois <h3>, e assim sucessivamente até o <h6>.
 
 É importante que os elementos sejam aninhados corretamente de acordo com
 sua estrutura.
 
 ### Exemplo de aninhamento de *tags* para subtópicos:
 
-\<h1\>Título\</h1\>\
-\<h2\>Subtítulo\</h2\>\
-\<h3\>Intertítulo\</h3\>\
-\<h3\>Intertítulo\</h3\>
+<h1>Título</h1>
+<h2>Subtítulo</h2>
+<h3>Intertítulo</h3>
+<h3>Intertítulo</h3>
 
 Note que estas *tags* não devem ser utilizadas com o intuito formatar
 algum conteúdo textual, elas devem indicar uma hierarquia no documento.
@@ -1619,7 +1634,7 @@ Além da tabulação em HTML, também é necessário verificar se elementos
 gerados em outras linguagens, como Flash ou Silverlight, oferecem a
 tabulação em uma ordem que faça sentido ao usuário.
 
-# Frames - A tag HTML \<frame\>
+# Frames - A tag HTML <frame>
 
 Desenvolvedor
 
@@ -1627,7 +1642,7 @@ Designer
 
 Redator
 
-*Tags* \<frame\> são utilizadas juntamente com *tags* \<frameset\> para
+*Tags* <frame> são utilizadas juntamente com *tags* <frameset> para
 dividir o espaço útil da tela em regiões que podem conter páginas HTML
 diferentes, como navegação e conteúdo.
 
@@ -1649,9 +1664,9 @@ Desenvolvedor
 
 Redator
 
-Há duas formas básicas de diferenciar elementos de bloco (e.g., \<p\>,
-\<h1\>, \<form\>, \<table\>) de elementos de linha (e.g., \<em\>,
-\<span\>, \<input\>):
+Há duas formas básicas de diferenciar elementos de bloco (e.g., <p>,
+<h1>, <form>, <table>) de elementos de linha (e.g., <em>,
+<span>, <input>):
 
 - **Conteúdo** - elementos de bloco podem conter outros elementos de
   bloco e elementos de linha. Já os elementos de linha somente podem
@@ -1660,7 +1675,7 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., \<p\>,
 - **Formatação** - elementos de bloco começam em novas linhas, o que não
   acontece com elementos de linha.
 
-# Agrupamento de elementos de bloco - A tag HTML \<div\>
+# Agrupamento de elementos de bloco - A tag HTML <div>
 
 Designer
 
@@ -1668,26 +1683,26 @@ Desenvolvedor
 
 Redator
 
-A *tag* \<div\> delimita elementos de bloco, ou seja, é um elemento de
+A *tag* <div> delimita elementos de bloco, ou seja, é um elemento de
 bloco utilizado para encapsular elementos de bloco ou conjuntos de texto
 com algum propósito especial.
 
-### Exemplo da *tag* \<div\>:
+### Exemplo da *tag* <div>:
 
-\<div class=\"citacoes\"\>\
-\<p\>
+<div class="citacoes">
+<p>
 
-\<span class=\"citacao\"\>
+<span class="citacao">
 
-O personagem diz \<span lang=\"it\"\>\"Buon Giorno
-Principessa\"\</span\>
+O personagem diz <span lang="it">"Buon Giorno
+Principessa"</span>
 
-\</span\>
+</span>
 
-\</p\>\
-\</div\>
+</p>
+</div>
 
-# Agrupamento de texto - A tag HTML \<span\>
+# Agrupamento de texto - A tag HTML <span>
 
 Designer
 
@@ -1695,26 +1710,26 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<span\> é um elemento de linha utilizado para encapsular um
+A *tag* <span> é um elemento de linha utilizado para encapsular um
 conjunto de texto com algum propósito especial. Por exemplo, para
 aplicar um determinado estilo em CSS ou para delimitar um conteúdo em
 uma língua diferente do resto do texto.
 
-### Exemplo da *tag* \<span\>:
+### Exemplo da *tag* <span>:
 
-\<p\>
+<p>
 
-\<span class=\"citacao\"\>
+<span class="citacao">
 
-O personagem diz \<span lang=\"it\"\>\"Buon Giorno Principessa\"
+O personagem diz <span lang="it">"Buon Giorno Principessa"
 
-\</span\>
+</span>
 
-\</span\>
+</span>
 
-\</p\>
+</p>
 
-# Quebras de linha - A tag HTML \<br\>
+# Quebras de linha - A tag HTML <br>
 
 Designer
 
@@ -1722,22 +1737,22 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<br\> define uma quebra de linha. Ela não possui *tag* de
+A *tag* <br> define uma quebra de linha. Ela não possui *tag* de
 fechamento.
 
-### Exemplo da *tag* \<br\>:
+### Exemplo da *tag* <br>:
 
-Linha 1\<br\>Linha 2\<br\>Linha 3
+Linha 1<br>Linha 2<br>Linha 3
 
 #### 
 
 #### Código renderizado
 
-Linha 1\
-Linha 2\
+Linha 1
+Linha 2
 Linha 3
 
-# Parágrafos - A tag HTML \<p\>
+# Parágrafos - A tag HTML <p>
 
 Designer
 
@@ -1745,7 +1760,7 @@ Redator
 
 Desenvolvedor
 
-Utilize as *tags* \<p\> e \</p\> para delimitar parágrafos. Use \<br\>
+Utilize as *tags* <p> e </p> para delimitar parágrafos. Use <br>
 somente quando se referir a quebras de linha dentro do mesmo parágrafo.
 
 Para facilitar a leitura, o espaçamento entre linhas de parágrafos deve
@@ -1753,16 +1768,16 @@ ser pelo menos de 1,5. E o espaçamento entre parágrafos deve ser de pelo
 menos de 1,5 o tamanho do espaçamento entre linhas. O alinhamento dos
 parágrafos **não** dever ser justificado.
 
-### Exemplo da *tag* \<p\>:
+### Exemplo da *tag* <p>:
 
-\<p\>Parágrafo 1. Linha 1\<br\>Parágrafo 1. Linha 2\</p\>\
-\<p\>Parágrafo 2.\</p\>
+<p>Parágrafo 1. Linha 1<br>Parágrafo 1. Linha 2</p>
+<p>Parágrafo 2.</p>
 
 #### 
 
 #### Código renderizado
 
-Parágrafo 1. Linha 1\
+Parágrafo 1. Linha 1
 Parágrafo 1. Linha 2
 
 Parágrafo 2.
@@ -1780,20 +1795,20 @@ Para qualquer mudança de idioma no conteúdo textual utilize o atributo
 
 Com isso, leitores de tela que suportam diferentes linguagens lerão o
 trecho de acordo com o idioma indicado e não de acordo com o idioma
-padrão ou o que foi definido para todo o documento na *tag* \<html\>.
+padrão ou o que foi definido para todo o documento na *tag* <html>.
 
 ### Exemplo do atributo *lang*:
 
-\<html lang=\"pt-br\"\>\
-\...\
-\<p\>O personagem diz \<span lang=\"it\"\>\"Buon Giorno
-Principessa\"\</span\>\</p\>
+<html lang="pt-br">
+...
+<p>O personagem diz <span lang="it">"Buon Giorno
+Principessa"</span></p>
 
 Outra funcionalidade deste atributo é que usuários que lerem o conteúdo
 em Braille contarão com as marcações adequadas e abreviações para cada
 linguagem.
 
-# Textos sobrescritos - A tag HTML \<sup\>
+# Textos sobrescritos - A tag HTML <sup>
 
 Designer
 
@@ -1801,21 +1816,21 @@ Redator
 
 Desenvolvedor
 
-As *tags* \<sup\> e \</sup\> são utilizadas para demarcar conteúdo
+As *tags* <sup> e </sup> são utilizadas para demarcar conteúdo
 sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
-### Exemplo da *tag* \<sup\>:
+### Exemplo da *tag* <sup>:
 
-\<p\>2\<sup\>2\</sup\> \<br\>2\<sup\>3\<sup\>4\</sup\>\</sup\>\</p\>
+<p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
 
 #### 
 
 #### Código renderizado
 
-2^2^\
+2^2^
 $$2^{3^{4}}$$
 
-# Textos subscritos - A tag HTML \<sub\>
+# Textos subscritos - A tag HTML <sub>
 
 Designer
 
@@ -1823,13 +1838,13 @@ Redator
 
 Desenvolvedor
 
-As *tags* \<sub\> e \</sub\> são utilizadas para fazer com que elementos
+As *tags* <sub> e </sub> são utilizadas para fazer com que elementos
 fiquem subscritos como, por exemplo, o número de átomos em uma molécula
 de um elemento químico.
 
-### Exemplo da *tag* \<sub\>:
+### Exemplo da *tag* <sub>:
 
-\<p\>Óxido de ouro - Au\<sub\>2\</sub\>O\<sub\>3\</sub\>\</p\>
+<p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
 
 #### 
 
@@ -1837,7 +1852,7 @@ de um elemento químico.
 
 Óxido de ouro - Au~2~O~3~
 
-# Fontes - A tag HTML \<font\>
+# Fontes - A tag HTML <font>
 
 Designer
 
@@ -1845,7 +1860,7 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<font\> é pouco utilizada atualmente e não pertence ao conjunto
+A *tag* <font> é pouco utilizada atualmente e não pertence ao conjunto
 de *tags* do HTML 5, portanto seu uso deve ser evitado. Recomendamos a
 configuração de fontes utilizando CSS. No entanto, por ser uma *tag*
 presente em muitos *websites* apresentamos alguns pontos relativos à
@@ -1857,16 +1872,16 @@ tamanhos pré-definidos. No entanto, quando utilizamos valores inteiros
 acompanhados dos sinais de + ou - os tamanhos são relacionados às
 configurações do navegador do usuário.
 
-Portanto sugerimos que ao utilizar a tag \<font\> os tamanhos sejam
+Portanto sugerimos que ao utilizar a tag <font> os tamanhos sejam
 sempre especificados de forma relativa às configurações do usuário, pois
 quando um usuário configura uma fonte de tamanho maior, todo o *website*
 se adequa aos novos parâmetros.
 
-### Exemplo da *tag* \<font\>:
+### Exemplo da *tag* <font>:
 
-\<font size=\"+1\"\>\...\</font\>
+<font size="+1">...</font>
 
-# Ênfase no texto - As tags HTML \<em\> e \<strong\>
+# Ênfase no texto - As tags HTML <em> e <strong>
 
 Designer
 
@@ -1874,30 +1889,30 @@ Redator
 
 Desenvolvedor
 
-As *tags* \<em\> e \<strong\> são utilizadas para dar ênfase e
+As *tags* <em> e <strong> são utilizadas para dar ênfase e
 estruturar o conteúdo de um documento.
 
-Evite a utilização das *tags* \<b\> (negrito) e \<i\> (itálico), pois
-elas implicam apenas no destaque visual. As *tags* \<em\> e \<strong\>
+Evite a utilização das *tags* <b> (negrito) e <i> (itálico), pois
+elas implicam apenas no destaque visual. As *tags* <em> e <strong>
 foram projetadas para indicar ênfase e, portanto, podem ser renderizadas
 de várias formas, inclusive via leitor de telas.
 
-### Exemplo das *tags* \<em\> e \<strong\>:
+### Exemplo das *tags* <em> e <strong>:
 
-\<p\>\<strong\>A grande produção\</strong\> de
-\<em\>adrenalina\</em\>.\</p\>\
-\....\
-\<p\>\<strong\>Não\</strong\> use \<em\>clique aqui\</em\>.\</p\>
+<p><strong>A grande produção</strong> de
+<em>adrenalina</em>.</p>
+....
+<p><strong>Não</strong> use <em>clique aqui</em>.</p>
 
 #### Código renderizado
 
 **A grande produção** de *adrenalina*.
 
-\...
+...
 
 **Não** use *clique aqui*.
 
-# Abreviações e siglas - A tags HTML \<abbr\>
+# Abreviações e siglas - A tags HTML <abbr>
 
 Designer
 
@@ -1905,15 +1920,15 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<abbr\> deve ser utilizada para demarcar abreviações e siglas.
+A *tag* <abbr> deve ser utilizada para demarcar abreviações e siglas.
 O atributo title é usado para apresentar a forma completa do termo
 reduzido.
 
-### Exemplos da *tag* \<abbr\>:
+### Exemplos da *tag* <abbr>:
 
-\<p\>\<abbr title=\"Universidade Estadual de
-Campinas\"\>Unicamp\</abbr\>\</p\>\
-\<p\>\<abbr title=\"Código de Endereçamento Postal\"\>CEP\</abbr\>\</p\>
+<p><abbr title="Universidade Estadual de
+Campinas">Unicamp</abbr></p>
+<p><abbr title="Código de Endereçamento Postal">CEP</abbr></p>
 
 #### 
 
@@ -1923,12 +1938,12 @@ Campinas\"\>Unicamp\</abbr\>\</p\>\
 
 [CEP]{.underline}
 
-Outra utilização da tag \<abbr\> é para tornar conteúdos do tipo ASCII
+Outra utilização da tag <abbr> é para tornar conteúdos do tipo ASCII
 *art* acessíveis.
 
 ### Exemplo:
 
-\<abbr title=\"smiley\"\>:-)\</abbr\>
+<abbr title="smiley">:-)</abbr>
 
 #### Código renderizado
 
@@ -1944,7 +1959,7 @@ Redator
 
 O atributo *color* é utilizado para definir a cor de texto e o atributo
 *bgcolor* é utilizado para definir a cor de fundo de várias *tags* como
-\<body\>, \<table\>, \<td\>, entre outras. Não utilize como valor destes
+<body>, <table>, <td>, entre outras. Não utilize como valor destes
 atributos os nomes das cores (e.g., *red*, *black*, *white*, entre
 outros), pois é uma definição ultrapassada e não é utilizada nos padrões
 mais recentes.
@@ -1957,19 +1972,19 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 
 ### Exemplo dos atributos color e bgcolor:
 
-\<table bgcolor=\"#0000bb\"\>
+<table bgcolor="#0000bb">
 
-\<tr\>
+<tr>
 
-\<td\>coluna 1\</td\>
+<td>coluna 1</td>
 
-\<td\>\<font color=\"#00ff00\"\>coluna 2\</font\>\</td\>
+<td><font color="#00ff00">coluna 2</font></td>
 
-\</tr\>
+</tr>
 
-\</table\>
+</table>
 
-# Réguas horizontais - A tag HTML \<hr\>
+# Réguas horizontais - A tag HTML <hr>
 
 Designer
 
@@ -1977,15 +1992,15 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<hr\> não possui *tag* de fechamento. Ela define uma régua
+A *tag* <hr> não possui *tag* de fechamento. Ela define uma régua
 horizontal e é utilizada para auxiliar na distinção de blocos de
 conteúdo.
 
-### Exemplo da *tag* \<hr\>:
+### Exemplo da *tag* <hr>:
 
-\<p\>Texto do primeiro bloco.\</p\>\
-\<hr\>\
-\<p\>Texto do segundo bloco.\</p\>
+<p>Texto do primeiro bloco.</p>
+<hr>
+<p>Texto do segundo bloco.</p>
 
 #### Código renderizado
 
@@ -2020,7 +2035,7 @@ Se o elemento for somente para decoração ou estiver invisível na
 página - por exemplo: bordas e fundos de tela -, então não deve ser
 criado texto alternativo.
 
-# Imagens - A tag HTML \<img\>
+# Imagens - A tag HTML <img>
 
 Designer
 
@@ -2028,20 +2043,20 @@ Redator
 
 Desenvolvedor
 
-A *tag* \<img\> é utilizada para adicionar imagens ao documento HTML.
+A *tag* <img> é utilizada para adicionar imagens ao documento HTML.
 Ela não possui *tag* de fechamento.
 
-Um dos principais atributos da *tag* \<img\>, no que diz respeito à
+Um dos principais atributos da *tag* <img>, no que diz respeito à
 acessibilidade, é o atributo *alt*, para o texto alternativo. Seu
 conteúdo deve refletir o que está apresentado na imagem ou na ação
 associada à imagem, ou seja, ser um texto equivalente ao conteúdo da
 imagem.
 
-### Exemplo da *tag* \<img\>:
+### Exemplo da *tag* <img>:
 
-\<img src=\"livros.gif\" width=\"15\" height=\"10\" alt=\"Livros\"\>\
-\<a href=\"servicos.html\"\>\<img src=\"icone.gif\" width=\"15\"
-height=\"10\" border=\"0\" alt=\"Acessar serviços\"\>\</a\>
+<img src="livros.gif" width="15" height="10" alt="Livros">
+<a href="servicos.html"><img src="icone.gif" width="15"
+height="10" border="0" alt="Acessar serviços"></a>
 
 O conteúdo do atributo *alt* é utilizado em vários cenários. Entre eles:
 quando as imagens estão desabilitadas, quando o usuário utiliza leitor
@@ -2050,7 +2065,7 @@ de telas ou quando o usuário utiliza um navegador baseado em texto
 
 Para que um código HTML seja válido todas as imagens devem contar com o
 atributo *alt*, assim, para imagens decorativas ou estruturais este
-atributo deve ser vazio (i.e., alt=\"\").
+atributo deve ser vazio (i.e., alt="").
 
 Não recomendamos a utilização de imagens para representar textos com
 efeitos gráficos. Em vez disso, recomendamos a utilização de atributos
@@ -2059,7 +2074,7 @@ CSS.
 Por fim, não utilize imagens animadas a não ser que o usuário tenha uma
 forma de interromper o movimento.
 
-# Elementos multimídia - A tag HTML \<object\>
+# Elementos multimídia - A tag HTML <object>
 
 Designer
 
@@ -2067,14 +2082,14 @@ Desenvolvedor
 
 Redator
 
-A *tag* \<object\> é usada para incluir elementos de multimídia em uma
+A *tag* <object> é usada para incluir elementos de multimídia em uma
 página HTML, por exemplo, animações em Flash, vídeos, etc.
 
 Ao utilizar estes elementos multimídia deve-se oferecer conteúdo
 equivalente em texto e/ou áudio, isto é, texto alternativo. Isso pode
 ser alcançado adicionando uma ou mais das alternativas:
 
-- descrição geral na tag \<object\>, conforme exemplo abaixo;
+- descrição geral na tag <object>, conforme exemplo abaixo;
 
 - legenda sincronizada com a animação ou vídeo;
 
@@ -2095,15 +2110,15 @@ hemorragias, olhos injetados, vertigens e desmaios. No dia seguinte,
 mais de 12.000 estudantes faltaram às aulas (somente em Tóquio), a
 maioria decorrente de problemas relacionados ao desenho.
 
-### Exemplo da *tag* \<object\>:
+### Exemplo da *tag* <object>:
 
-\<object id=\"ex22_slides\" data=\"apresentacao.swf\"\>\
+<object id="ex22_slides" data="apresentacao.swf">
 Apresentação de slides sobre utilização de HTML válido utilizando
-aspectos de usabilidade.\
-\...\
-\</object\>
+aspectos de usabilidade.
+...
+</object>
 
-# Formulários - A tag HTML \<form\>
+# Formulários - A tag HTML <form>
 
 Desenvolvedor
 
@@ -2111,7 +2126,7 @@ Designer
 
 Redator
 
-As *tags* \<form\> e \</form\> são utilizadas para delimitar quais
+As *tags* <form> e </form> são utilizadas para delimitar quais
 campos fazem parte de um formulário. Seus principais atributos são:
 *action*, *method* e *name*.
 
@@ -2142,7 +2157,7 @@ Note que se o formulário utilizar dados que não são caracteres (e.g.,
 O atributo *name* é utilizado para nomear o formulário para que ele
 possa ser referenciado dentro da página.
 
-# Campos de entrada de dados - A tag HTML \<input\>
+# Campos de entrada de dados - A tag HTML <input>
 
 Designer
 
@@ -2150,7 +2165,7 @@ Desenvolvedor
 
 Redator
 
-A *tag* \<input\> é utilizada para definir um campo de entrada de dados
+A *tag* <input> é utilizada para definir um campo de entrada de dados
 em um formulário. Por meio do seu atributo *type* é possível escolher
 qual é o tipo de elemento a ser utilizado. Os principais valores para o
 atributo *type* são: *text*, *checkbox*, *radio* e *submit*.
@@ -2159,7 +2174,7 @@ Além do atributo *type* deve-se utilizar os atributos *id*, *name* e
 *value*.
 
 O atributo *id* serve para identificar o elemento e, entre outras
-coisas, possibilitar o uso da *tag* \<label\>.
+coisas, possibilitar o uso da *tag* <label>.
 
 O atributo *name* é utilizado para referenciar o elemento no formulário
 via programação no cliente ou no servidor. O atributo *value* indica
@@ -2168,14 +2183,14 @@ qual é o valor inicial do campo.
 Quando for necessário indicar que um campo está selecionado, use o
 atributo *checked* com valor *checked*.
 
-### Exemplo da *tag* \<input\>:
+### Exemplo da *tag* <input>:
 
-\<label for=\"ex24_idade\"\>Idade:\</label\>
+<label for="ex24_idade">Idade:</label>
 
-\<input type=\"text\" id=\"ex24_idade\" name=\"campo_idade\"
-value=\"18\"/\>\
-\<input type=\"submit\" id=\"ex24_enviar\" name=\"botao_enviar\"
-value=\"Enviar\"/\>
+<input type="text" id="ex24_idade" name="campo_idade"
+value="18"/>
+<input type="submit" id="ex24_enviar" name="botao_enviar"
+value="Enviar"/>
 
 #### 
 
@@ -2184,7 +2199,7 @@ value=\"Enviar\"/\>
 ![](media/image3.png){width="2.3386832895888015in"
 height="0.4208070866141732in"}
 
-# Rótulos - A tag HTML \<label\>
+# Rótulos - A tag HTML <label>
 
 Designer
 
@@ -2192,23 +2207,23 @@ Desenvolvedor
 
 Redator
 
-Sempre utilize a *tag* \<label\> para associar um rótulo ao seu
+Sempre utilize a *tag* <label> para associar um rótulo ao seu
 respectivo campo de um formulário.
 
-A associação é feita por meio dos atributos *id* da *tag* \<input\> e
-*for* da *tag* \<label\>.
+A associação é feita por meio dos atributos *id* da *tag* <input> e
+*for* da *tag* <label>.
 
 Para destacar um elemento como obrigatório inclua a marcação dentro das
-*tags* \<label\>.
+*tags* <label>.
 
 Note que quando usa um rótulo, ele se torna um elemento clicável. E
 quando clicado, o foco é aplicado no campo de formulário a que fez
 referência.
 
-### Exemplo da *tag* \<label\>:
+### Exemplo da *tag* <label>:
 
-\<label for=\"ex25_nome\"\>\* Nome:\</label\>\
-\<input type=\"text\" name=\"nome\" id=\"ex25_nome\" value=\"João\"/\>
+<label for="ex25_nome">* Nome:</label>
+<input type="text" name="nome" id="ex25_nome" value="João"/>
 
 #### 
 
@@ -2217,7 +2232,7 @@ referência.
 ­­­­­­­­­­­![](media/image4.png){width="3.054805336832896in"
 height="0.5208748906386702in"}
 
-# Caixas de seleção - A tag HTML \<select\>
+# Caixas de seleção - A tag HTML <select>
 
 Designer
 
@@ -2225,46 +2240,46 @@ Desenvolvedor
 
 Redator
 
-A *tag* \<label\> permite a criação de uma caixa de seleção de itens.
+A *tag* <label> permite a criação de uma caixa de seleção de itens.
 Para permitir a seleção de vários itens use o atributo *multiple*. O
 número de itens exibidos simultaneamente na caixa é definido pelo
 atributo *size*.
 
-Para adicionar um item à caixa use a tag \<option\>. Para indicar que um
+Para adicionar um item à caixa use a tag <option>. Para indicar que um
 item da caixa de seleção está selecionado use o atributo *selected* com
 valor *selected*.
 
-### Exemplo da *tag* \<select\>:
+### Exemplo da *tag* <select>:
 
-\<label for=\"ex26_personagens\"\>Personagens\</label\>\
-\<select multiple=\"multiple\" size=\"3\" id=\"ex26_personagens\"\>\
-\<option value=\"1\"\>He-man\</option\>\
-\<option value=\"2\"\>Teela\</option\>\
-\<option value=\"3\"\>Mentor\</option\>\
-\<option value=\"4\"\>Feiticeira\</option\>\
-\<option value=\"5\"\>Gorpo\</option\>\
-\</select\>
+<label for="ex26_personagens">Personagens</label>
+<select multiple="multiple" size="3" id="ex26_personagens">
+<option value="1">He-man</option>
+<option value="2">Teela</option>
+<option value="3">Mentor</option>
+<option value="4">Feiticeira</option>
+<option value="5">Gorpo</option>
+</select>
 
-A *tag* \<optgroup\> deve ser utilizada para agrupar *tags* \<option\>.
+A *tag* <optgroup> deve ser utilizada para agrupar *tags* <option>.
 Ela permite reunir elementos, estruturá-los e facilitar sua
 identificação.
 
-### Exemplo da *tag* \<optgroup\>:
+### Exemplo da *tag* <optgroup>:
 
-\<label for=\"ex26_herois\"\>Heróis/heroínas\</label\>\
-\<select multiple=\"multiple\" size=\"3\" id=\"ex26_herois\"\>\
-\<optgroup label=\"Heróis\"\>\
-\<option value=\"1\"\>He-man\</option\>\
-\<option value=\"5\"\>Gorpo\</option\>\
-\<option value=\"3\"\>Mentor\</option\>\
-\</optgroup\>\
-\<optgroup label=\"Heroínas\"\>\
-\<option value=\"2\"\>Teela\</option\>\
-\<option value=\"4\"\>Feiticeira\</option\>\
-\</optgroup\>\
-\</select\>
+<label for="ex26_herois">Heróis/heroínas</label>
+<select multiple="multiple" size="3" id="ex26_herois">
+<optgroup label="Heróis">
+<option value="1">He-man</option>
+<option value="5">Gorpo</option>
+<option value="3">Mentor</option>
+</optgroup>
+<optgroup label="Heroínas">
+<option value="2">Teela</option>
+<option value="4">Feiticeira</option>
+</optgroup>
+</select>
 
-# Campos de texto - A tag HTML \<textarea\>
+# Campos de texto - A tag HTML <textarea>
 
 Designer
 
@@ -2272,19 +2287,19 @@ Desenvolvedor
 
 Redator
 
-As *tags* \<textarea\> e \</textarea\> delimitam uma área de entrada de
+As *tags* <textarea> e </textarea> delimitam uma área de entrada de
 texto extenso. Os atributos *rows* e *cols* definem o número de linhas e
 colunas, respectivamente.
 
-### Exemplo da *tag* \<textarea\>:
+### Exemplo da *tag* <textarea>:
 
-\<label for=\"ex27_texto\"\>Texto\</label\>\
-\<textarea rows=\"5\" cols=\"15\" id=\"ex27_texto\"\>\
+<label for="ex27_texto">Texto</label>
+<textarea rows="5" cols="15" id="ex27_texto">
 A tag textarea permite a criação de campos de entrada de texto de várias
-linhas.\
-\</textarea\>
+linhas.
+</textarea>
 
-# Agrupamento de elementos de formulário - A tag HTML \<fieldset\>
+# Agrupamento de elementos de formulário - A tag HTML <fieldset>
 
 Designer
 
@@ -2292,19 +2307,19 @@ Desenvolvedor
 
 Redator
 
-A *tag* \<fieldset\> deve ser utilizada para agrupar elementos de
+A *tag* <fieldset> deve ser utilizada para agrupar elementos de
 formulários correlacionados.
 
-### Exemplo da *tag* \<fieldset\>:
+### Exemplo da *tag* <fieldset>:
 
-\<fieldset\>\
-\<label for=\"ex28_nome\"\>Nome:\</label\>
+<fieldset>
+<label for="ex28_nome">Nome:</label>
 
-\<input type=\"text\" name=\"nome\" id=\"ex28_nome\" value=\"João\" /\>\
-\<label for=\"ex28_idade\"\>Idade:\</label\>
+<input type="text" name="nome" id="ex28_nome" value="João" />
+<label for="ex28_idade">Idade:</label>
 
-\<input type=\"text\" name=\"idade\" id=\"ex28_idade\" value=\"18\" /\>\
-\</fieldset\>
+<input type="text" name="idade" id="ex28_idade" value="18" />
+</fieldset>
 
 #### 
 
@@ -2313,7 +2328,7 @@ formulários correlacionados.
 ![](media/image5.png){width="2.604093394575678in"
 height="1.0442355643044618in"}
 
-# Rótulos para fieldsets - A tag HTML \<legend\>
+# Rótulos para fieldsets - A tag HTML <legend>
 
 Designer
 
@@ -2321,27 +2336,27 @@ Desenvolvedor
 
 Redator
 
-A *tag* \<legend\> é utilizada para atribuir um rótulo a um
-\<fieldset\>.
+A *tag* <legend> é utilizada para atribuir um rótulo a um
+<fieldset>.
 
-### Exemplo da *tag* \<legend\>:
+### Exemplo da *tag* <legend>:
 
-\<fieldset\>\
-\<legend\>Dados pessoais\</legend\>\
-\<label for=\"ex29_nome\"\>Nome:\</label\>
+<fieldset>
+<legend>Dados pessoais</legend>
+<label for="ex29_nome">Nome:</label>
 
-\<input type=\"text\" name=\"nome\" id=\"ex29_nome\" value=\"\" /\>\
-\<label for=\"ex29_idade\"\>Idade:\</label\>
+<input type="text" name="nome" id="ex29_nome" value="" />
+<label for="ex29_idade">Idade:</label>
 
-\<input type=\"text\" name=\"idade\" id=\"ex29_idade\" value=\"\" /\>\
-\</fieldset\>
+<input type="text" name="idade" id="ex29_idade" value="" />
+</fieldset>
 
 #### Código renderizado
 
 ![](media/image6.png){width="2.799547244094488in"
 height="1.1837554680664917in"}
 
-# Tabelas - As tags HTML \<table\>, \<td\>, \<tr\>, \<th\> e \<caption\>
+# Tabelas - As tags HTML <table>, <td>, <tr>, <th> e <caption>
 
 Designer
 
@@ -2357,25 +2372,25 @@ se trata sem terem que ler a tabela célula a célula.
 Evite utilizar tabelas para dados não tabulares, por exemplo, somente
 para posicionar elementos. Mas, se utilizar para esta finalidade, não
 coloque nenhuma informação sobre o conteúdo nem estrutura da tabela
-(e.g., *summary*, \<caption\>, \<th\>, etc.). Faça também com que as
+(e.g., *summary*, <caption>, <th>, etc.). Faça também com que as
 tabelas sejam linearizáveis, ou seja, ao ignorar toda a informação de
 linhas e colunas e renderizar todo o conteúdo como se fosse uma série de
 parágrafos o conteúdo deve ser facilmente entendido.
 
-A *tag* \<td\> é utilizada para demarcar o conteúdo de uma célula de
+A *tag* <td> é utilizada para demarcar o conteúdo de uma célula de
 tabela.
 
-A tag \<tr\> é utilizada para demarcar o conteúdo de uma linha de
+A tag <tr> é utilizada para demarcar o conteúdo de uma linha de
 tabela.
 
-### Exemplo da *tag* \<table\>:
+### Exemplo da *tag* <table>:
 
-\<table summary=\"Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 12 meses, mês a mês.\"\>\
-\<tr\>\
-\<td\>R\$ 3,97\</td\>\<td\>R\$ 4,02\</td\>\
-\</tr\>\
-\</table\>
+<table summary="Esta tabela mostra a evolução da cotação do dólar
+turismo nos últimos 12 meses, mês a mês.">
+<tr>
+<td>R\$ 3,97</td><td>R\$ 4,02</td>
+</tr>
+</table>
 
 #### Código renderizado
 
@@ -2388,27 +2403,27 @@ turismo nos últimos 12 meses, mês a mês.\"\>\
   : Esta tabela mostra a evolução da cotação do dólar turismo nos
   últimos 12 meses, mês a mês.
 
-A *tag* \<th\> é utilizada para demarcar o conteúdo do cabeçalho de uma
+A *tag* <th> é utilizada para demarcar o conteúdo do cabeçalho de uma
 coluna.
 
-O conteúdo do atributo *id* da *tag* \<th\> é utilizado pelas células
+O conteúdo do atributo *id* da *tag* <th> é utilizado pelas células
 das linhas seguintes para referenciar seu cabeçalho. Com isto quando um
 leitor de telas processa cada célula ele pode repetir o conteúdo da
 célula referenciada pelo *id* e assim contextualizar a informação lida.
 
-### Exemplo da *tag* \<th\>:
+### Exemplo da *tag* <th>:
 
-\<table summary=\"Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 12 meses, mês a mês.\"\>\
-\<tr\>\
-\<th id=\"ex31a_col_jun\"\>Junho\</th\>\
-\<th id=\"ex31a_col_jul\"\>Julho\</th\>\
-\</tr\>\
-\<tr\>\
-\<td headers=\"ex31a_col_jun\"\>R\$ 3,97\</td\>\
-\<td headers=\"ex31a_col_jul\"\>R\$ 4,02\</td\>\
-\</tr\>\
-\</table\>
+<table summary="Esta tabela mostra a evolução da cotação do dólar
+turismo nos últimos 12 meses, mês a mês.">
+<tr>
+<th id="ex31a_col_jun">Junho</th>
+<th id="ex31a_col_jul">Julho</th>
+</tr>
+<tr>
+<td headers="ex31a_col_jun">R\$ 3,97</td>
+<td headers="ex31a_col_jul">R\$ 4,02</td>
+</tr>
+</table>
 
 #### Código renderizado
 
@@ -2423,7 +2438,7 @@ turismo nos últimos 12 meses, mês a mês.\"\>\
   últimos 12 meses, mês a mês.
 
 Complementarmente, o atributo *abbr* pode ser utilizado nos casos em que
-o conteúdo da *tag* \<th\> for extenso, o que tornaria o processamento
+o conteúdo da *tag* <th> for extenso, o que tornaria o processamento
 de uma tabela por um leitor de telas muito cansativo para o usuário.
 
 Designer
@@ -2432,21 +2447,21 @@ Desenvolvedor
 
 Redator
 
-### Exemplo do atributo *abbr* na *tag* \<th\>:
+### Exemplo do atributo *abbr* na *tag* <th>:
 
-\<table summary=\"Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 12 meses, mês a mês.\"\>\
-\<tr\>\
-\<th id=\"ex31_col_totaljun\" abbr=\"Média Junho\"\>Média da cotação do
-dólar pelo Banco Central no mês de junho.\</th\>\
-\<th id=\"ex31_col_totaljul\" abbr=\"Média Julho\"\>Média da cotação do
-dólar pelo Banco Central no mês de julho.\</th\>\
-\</tr\>\
-\<tr\>\
-\<td headers=\"ex31_col_totaljun\"\>R\$ 3,97\</td\>\
-\<td headers=\"ex31_col_totaljul\"\>R\$ 4,02\</td\>\
-\</tr\>\
-\</table\>
+<table summary="Esta tabela mostra a evolução da cotação do dólar
+turismo nos últimos 12 meses, mês a mês.">
+<tr>
+<th id="ex31_col_totaljun" abbr="Média Junho">Média da cotação do
+dólar pelo Banco Central no mês de junho.</th>
+<th id="ex31_col_totaljul" abbr="Média Julho">Média da cotação do
+dólar pelo Banco Central no mês de julho.</th>
+</tr>
+<tr>
+<td headers="ex31_col_totaljun">R\$ 3,97</td>
+<td headers="ex31_col_totaljul">R\$ 4,02</td>
+</tr>
+</table>
 
 #### 
 
@@ -2463,23 +2478,23 @@ dólar pelo Banco Central no mês de julho.\</th\>\
   : Esta tabela mostra a evolução da cotação do dólar turismo nos
   últimos 12 meses, mês a mês.
 
-As tags \<caption\> e \</caption\> são utilizadas para definir uma
+As tags <caption> e </caption> são utilizadas para definir uma
 legenda de uma tabela.
 
-### Exemplo da *tag* \<caption\>:
+### Exemplo da *tag* <caption>:
 
-\<table summary=\"Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 2 meses.\"\>\
-\<caption\>Cotação do dólar turismo\</caption\>\
-\<tr\>\
-\<th id=\"ex31b_col_jun\"\>Junho\</th\>\
-\<th id=\"ex31b_col_jul\"\>Julho\</th\>\
-\</tr\>\
-\<tr\>\
-\<td headers=\"ex31b_col_jun\"\>R\$ 3,97\</td\>\
-\<td headers=\"ex31b_col_jul\"\>R\$ 4,02\</td\>\
-\</tr\>\
-\</table\>
+<table summary="Esta tabela mostra a evolução da cotação do dólar
+turismo nos últimos 2 meses.">
+<caption>Cotação do dólar turismo</caption>
+<tr>
+<th id="ex31b_col_jun">Junho</th>
+<th id="ex31b_col_jul">Julho</th>
+</tr>
+<tr>
+<td headers="ex31b_col_jun">R\$ 3,97</td>
+<td headers="ex31b_col_jul">R\$ 4,02</td>
+</tr>
+</table>
 
 #### 
 
@@ -2534,10 +2549,10 @@ seletor {atributo: valor; \[atributo: valor;\]}
 
 ### Exemplo de declaração atributo-valor CSS:
 
-body {background-color: #00ff00;}\
-p {font-family: \"sans serif\";}
+body {background-color: #00ff00;}
+p {font-family: "sans serif";}
 
-\* Note o uso das aspas para nomes compostos
+* Note o uso das aspas para nomes compostos
 
 **Agrupamento** - O CSS permite que você agrupe seletores que tenham
 propriedades em comum.
@@ -2554,26 +2569,26 @@ elemento parágrafo.
 
 ### Exemplo de seletor *class* em CSS:
 
-p.citacao {text-align: right;}\
-p.paragrafoComum {text-align: left;}\
+p.citacao {text-align: right;}
+p.paragrafoComum {text-align: left;}
 p.destaque {background-color: #00ff00;}
 
 **No HTML:**
 
 ### Exemplo de uso do seletor *class* CSS no HTML:
 
-\<p class=\"paragrafoComum\"\>Parágrafo comum.\</p\>\
-\<p class=\"citacao\"\>Parágrafo alinhado à direita.\</p\>
+<p class="paragrafoComum">Parágrafo comum.</p>
+<p class="citacao">Parágrafo alinhado à direita.</p>
 
 Também é possível combinar duas ou mais classes.
 
 ### Exemplo de uso combinado de classes CSS:
 
-\<p class=\"citacao destaque\"\>
+<p class="citacao destaque">
 
 Parágrafo alinhado à direita com fundo verde.
 
-\</p\>
+</p>
 
 Outro recurso é o de omitir o nome do elemento HTML na classe. Dessa
 forma é possível utilizar a classe para qualquer elemento que possua as
@@ -2595,8 +2610,8 @@ Desenvolvedor
 
 ### Exemplo de uso de classe CSS com omissão do elemento HTML:
 
-\<p class=\"destaque\"\>Parágrafo com fundo verde.\</p\>\
-\<div class=\"destaque\"\>Bloco com com fundo verde.\</div\>
+<p class="destaque">Parágrafo com fundo verde.</p>
+<div class="destaque">Bloco com com fundo verde.</div>
 
 # Inclusão de código CSS
 
@@ -2621,30 +2636,30 @@ conteúdo como sendo texto.
 
 ### Exemplo de declaração interna do CSS:
 
-\...\
-\<head\>\
-\<meta http-equiv=\"content-type\" content=\"text/html;
-charset=UTF-8\"\>\
-\<style type=\"text/css\"\>\<!\--\
-hr {color: #000000;}\
-p {margin-left: 20em;}\
-body {background-image: url(\"images/back40.gif\");}\
-\--\>\</style\>\
-\</head\>\
-\...
+...
+<head>
+<meta http-equiv="content-type" content="text/html;
+charset=UTF-8">
+<style type="text/css"><!\--
+hr {color: #000000;}
+p {margin-left: 20em;}
+body {background-image: url("images/back40.gif");}
+--></style>
+</head>
+...
 
 **Declaração externa do CSS** - É a forma mais recomendada, pois permite
 o melhor reuso e clareza do documento HTML.
 
 ### Exemplo de declaração externo do CSS:
 
-\...\
-\<head\>\
-\<meta http-equiv=\"content-type\" content=\"text/html;
-charset=UTF-8\"\>\
-\<link rel=\"stylesheet\" type=\"text/css\" href=\"estilos.css\"\>\
-\</head\>\
-\...
+...
+<head>
+<meta http-equiv="content-type" content="text/html;
+charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+...
 
 Note que em casos como este a folha de estilo não necessita estar dentro
 dos comentários CSS.
@@ -2654,11 +2669,11 @@ o elemento HTML.
 
 ### Exemplo de declaração *inline* do CSS:
 
-\...\
-\<p style=\"color: #000000; margin-left: 20em;\"\>\
-Este é um parágrafo\
-\</p\>\
-\...
+...
+<p style="color: #000000; margin-left: 20em;">
+Este é um parágrafo
+</p>
+...
 
 Designer
 
@@ -2684,7 +2699,7 @@ o maior número tem maior prioridade):
 
 2.  *Style sheet* externo;
 
-3.  *Style sheet* interno (entre as *tags* \<head\> e \</head\>);
+3.  *Style sheet* interno (entre as *tags* <head> e </head>);
 
 4.  *Inline style* (no atributo *style* de uma *tags*).
 
@@ -2695,14 +2710,14 @@ o peso calculado maior será a especificidade do seletor.
 
 ### Exemplo de cálculo de pesos de seletores CSS:
 
-strong { color: #ff0000; } /\* id=0 classe=0 tag=1 -\> peso = 1 \*/\
-p strong { color: #00ff00; } /\* id=0 classe=0 tag=2 -\> peso = 2 \*/\
-div p strong { color: #0000ff; } /\* id=0 classe=0 tag=3 -\> peso = 3
-\*/\
-strong.fantasia { color: #000000; } /\* id=0 classe=1 tag=1 -\> peso =
-11 \*/\
-#cabecalho { color: #336699; } /\* id=1 classe=0 tag=0 -\> peso = 100
-\*/
+strong { color: #ff0000; } /\* id=0 classe=0 tag=1 -> peso = 1 \*/
+p strong { color: #00ff00; } /\* id=0 classe=0 tag=2 -> peso = 2 \*/
+div p strong { color: #0000ff; } /\* id=0 classe=0 tag=3 -> peso = 3
+*/
+strong.fantasia { color: #000000; } /\* id=0 classe=1 tag=1 -> peso =
+11 \*/
+#cabecalho { color: #336699; } /\* id=1 classe=0 tag=0 -> peso = 100
+*/
 
 # Padronização de código CSS
 
@@ -2727,11 +2742,11 @@ propriedades, além de facilitar uma eventual migração de estilos
 
 ### Contraexemplo de declaração *inline* em CSS:
 
-\<td style=\"font-weight: bold\"\>
+<td style="font-weight: bold">
 
 ### Exemplo de declaração *inline* em CSS:
 
-\<td style=\"font-weight: bold;\"\>
+<td style="font-weight: bold;">
 
 Ao nomear seletores nunca se deve associar o nome à aparência do
 elemento. Tente sempre identificar o seletor a partir da função ou do
@@ -2739,19 +2754,19 @@ dado a que ele se refere.
 
 ### Contraexemplo de declaração CSS baseada na aparência:
 
-\<td class=\"corVermelha\"\>01/01/2007\</td\>
+<td class="corVermelha">01/01/2007</td>
 
 ### 
 
 ### Contraexemplo de declaração CSS baseada no conteúdo:
 
-\<td class=\"texto1\"\>01/01/2007\</td\>
+<td class="texto1">01/01/2007</td>
 
 ### 
 
 ### Exemplo de declaração CSS baseada na função do dado:
 
-\<td class=\"data\"\>01/01/2007\</td\>
+<td class="data">01/01/2007</td>
 
 Por fim, devido a problemas de compatibilidade na interpretação de CSS
 entre diferentes navegadores, especialmente para os mais antigos,
@@ -2792,10 +2807,10 @@ Desenvolvedor
 Utilize sempre unidades de medida relativas para que a apresentação da
 página possa se adequar à saída, da melhor forma possível. As unidades
 de medida que sugerimos são porcentagens e *em*. Note que a unidade de
-medida do CSS e a *tag* \<em\> do HTML são duas coisas diferentes. No
+medida do CSS e a *tag* <em> do HTML são duas coisas diferentes. No
 CSS a unidade *em* é utilizada para referenciar a letra *M* do tamanho
 da fonte que estiver configurada no dispositivo do usuário. No HTML, a
-*tag* \<em\> é utilizada para dar ênfase a conteúdos textuais.
+*tag* <em> é utilizada para dar ênfase a conteúdos textuais.
 
 O principal objetivo de utilizar unidades de medida relativas é fazer
 com que a formatação possa se adequar às configurações e ao dispositivo
@@ -2842,8 +2857,8 @@ Desenvolvedor
 
 Redator
 
-Sugerimos a utilização de listas ordenadas (*tag* \<ol\>) em vez das
-listas não ordenadas (*tag* \<ul\>). No entanto, ao utilizar listas
+Sugerimos a utilização de listas ordenadas (*tag* <ol>) em vez das
+listas não ordenadas (*tag* <ul>). No entanto, ao utilizar listas
 numeradas aninhadas surge um problema de contextualização, pois o número
 de cada item representa apenas sua posição em relação aos outros que
 estão no mesmo nível. Para uma pessoa que somente ouve o conteúdo de uma
@@ -2857,9 +2872,9 @@ HTML, e é aí que entra a utilização de CSS.
 
 ### Exemplo de CSS para listas ordenadas com subníveis:
 
-ul, ol { counter-reset: item; }\
-li { display: block; }\
-li:before { content: counters(item, \".\") ; counter-increment: item; }
+ul, ol { counter-reset: item; }
+li { display: block; }
+li:before { content: counters(item, ".") ; counter-increment: item; }
 
 Outra forma de melhorar a acessibilidade de uma lista é incluir
 marcações que auxiliem na navegação entre seus itens. Assim, além da
@@ -2876,20 +2891,20 @@ span.fimDeLista { display: none; }
 
 ### Exemplo de marcações de fim de listas ordenadas usando CSS no HTML:
 
-\<ol\>\
-\<li\>\
-Padronização\
-\<ol\>\
-\<li\>Marcação\</li\>\
-\<li\>Folha de Estilo\</li\>\
-\<li\>Scripts \<span class=\"fimDeLista\"\>Fim das
-linguagens\</span\>\</li\>\
-\</ol\>\
-\</li\>\
-\<li\>Usabilidade\</li\>\
-\<li\>Acessibilidade \<span class=\"fimDeLista\"\>Fim da
-lista\</span\>\</li\>\
-\</ol\>
+<ol>
+<li>
+Padronização
+<ol>
+<li>Marcação</li>
+<li>Folha de Estilo</li>
+<li>Scripts <span class="fimDeLista">Fim das
+linguagens</span></li>
+</ol>
+</li>
+<li>Usabilidade</li>
+<li>Acessibilidade <span class="fimDeLista">Fim da
+lista</span></li>
+</ol>
 
 #### Código renderizado
 
@@ -2919,7 +2934,7 @@ Desenvolvedor
 
 Redator
 
-No HTML as réguas horizontais (\<hr\>) são indicadas para separar e
+No HTML as réguas horizontais (<hr>) são indicadas para separar e
 delimitar blocos de conteúdo. Com a utilização de CSS elas se
 transformam em um elemento muito versátil para a separação de conteúdo.
 Propriedades de CSS como borda, estilos de borda, cor, margem e imagem
@@ -2932,11 +2947,11 @@ formas.
 
 hr.reguaDeInstrucoes {
 
-> margin: 1em 0 1em 0;\
-> height: 1em;\
-> border: none;\
-> background-image: url(\"estrela.gif\");\
-> background-repeat: no-repeat;\
+> margin: 1em 0 1em 0;
+> height: 1em;
+> border: none;
+> background-image: url("estrela.gif");
+> background-repeat: no-repeat;
 > background-position: center center;
 
 }
@@ -2947,7 +2962,7 @@ hr:before { content: attr(title); }
 
 ### Exemplo de alteração da aparência de réguas usando CSS no HTML:
 
-\<hr title=\"Fim das instruções\" class=\"reguaDeInstrucoes\"\>
+<hr title="Fim das instruções" class="reguaDeInstrucoes">
 
 # Bordas utilizando CSS
 
@@ -2962,16 +2977,16 @@ tipos de formatação que sem sua utilização seriam possíveis apenas com
 imagens.
 
 Além de possibilitar alterações na cor, tamanho e estilo, é possível
-editar cada um dos quatro lados dos elementos de bloco (e.g., \<table\>,
-\<div\>, \<p\>, entre outros).
+editar cada um dos quatro lados dos elementos de bloco (e.g., <table>,
+<div>, <p>, entre outros).
 
 ### Exemplo de definição de bordas usando CSS:
 
 div {
 
-> border-top: 0.2em dotted #000000;\
-> border-right: 0.2em dotted #cccccc;\
-> border-bottom: 0.3em double #000000;\
+> border-top: 0.2em dotted #000000;
+> border-right: 0.2em dotted #cccccc;
+> border-bottom: 0.3em double #000000;
 > border-left: 0.3em double #cccccc;
 
 }
@@ -3018,7 +3033,7 @@ teríamos o seguinte CSS:
 
 ### Exemplo de posicionamento usando CSS:
 
-table { margin-top: 0.5em; margin-bottom: 0.5em; }\
+table { margin-top: 0.5em; margin-bottom: 0.5em; }
 table tr td { padding: 0.1em; }
 
 # Fontes utilizando CSS
@@ -3058,7 +3073,7 @@ feita a separação entre os dados e sua apresentação.
 
 ### Contraexemplo de uso de letras maiúsculas no HTML:
 
-\<strong\>DESTAQUES DO EVENTO\</strong\>
+<strong>DESTAQUES DO EVENTO</strong>
 
 **No CSS:**
 
@@ -3070,7 +3085,7 @@ strong.destaque { text-transform: uppercase; }
 
 ### Exemplo de transformação de texto para letras maiúsculas usando CSS no HTML:
 
-\<strong class=\"destaque\"\>Destaques do evento\</strong\>
+<strong class="destaque">Destaques do evento</strong>
 
 Por fim, imagine um *website* milhares ou milhões de páginas que
 utilizam algumas informações em letras maiúsculas. Agora como seria a
@@ -3106,9 +3121,9 @@ em.mensagem { letter-spacing: 150%; text-transform: uppercase; }
 
 ### Exemplo de ênfase em texto usando classe CSS no HTML:
 
-\<em class=\"mensagem\"\>Atenção\</em\>
+<em class="mensagem">Atenção</em>
 
-Por fim, em vez de utilizar a *tag* \<center\> para controlar o
+Por fim, em vez de utilizar a *tag* <center> para controlar o
 alinhamento de texto, use a respectiva propriedade de CSS da seguinte
 forma: text-align: center.
 
@@ -3128,11 +3143,11 @@ assistivas que se baseiam no conteúdo textual.
 
 ### Contraexemplo de uso de imagens para representar texto:
 
-\<p\>\
-\<a href=\"pagina_2.html\"\>\
-\<img src=\"proxima_pagina.png\" alt=\"Próxima página\"\>\
-\</a\>\
-\</p\>
+<p>
+<a href="pagina_2.html">
+<img src="proxima_pagina.png" alt="Próxima página">
+</a>
+</p>
 
 **No CSS:**
 
@@ -3140,8 +3155,8 @@ assistivas que se baseiam no conteúdo textual.
 
 a.paginacao {
 
-> font-family: verdana, sans-serif;\
-> font-weight: bold;\
+> font-family: verdana, sans-serif;
+> font-weight: bold;
 > letter-spacing: 150%;
 
 }
@@ -3150,8 +3165,8 @@ a.paginacao {
 
 ### Exemplo de uso de classe CSS para alterar a aparência do texto no HTML:
 
-\<p\>\<a href=\"pagina_2.html\" class=\"paginacao\"\>Próxima
-página\</a\>\</p\>
+<p><a href="pagina_2.html" class="paginacao">Próxima
+página</a></p>
 
 # Atributos aurais com CSS
 
@@ -3198,7 +3213,7 @@ Analyser.
 
 ### Exemplo de definição de cor de fundo e de texto usando CSS:
 
-p.destaque { color: #000000; background-color: #ffffff; }\
+p.destaque { color: #000000; background-color: #ffffff; }
 p.destaque p.titulo { color: #663399; background-color: transparent; }
 
 A redundância é um dos pontos-chaves no desenvolvimento de páginas
@@ -3270,16 +3285,16 @@ utilizada seja a seguinte:
 
 ### Exemplo de inclusão de JavaScript internamente no HTML:
 
-\<script type=\"text/javascript\"\>\<!\--\
-código JavaScript\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+código JavaScript
+//\--></script>
 
 Priorize a declaração de códigos JavaScript no início dos documentos
-HTML, dentro da *tag* \<head\>. Com isso, você melhora a legibilidade do
+HTML, dentro da *tag* <head>. Com isso, você melhora a legibilidade do
 código e evita erros de escopo de declaração de variáveis e ordem de
 métodos.
 
-Note que os comandos \<!\-- e //\--\> localizados após as tags *script*
+Note que os comandos <!\-- e //\--> localizados após as tags *script*
 de abertura e fechamento, respectivamente, são usados para que código
 JavaScript não seja mostrado por navegadores que não suportam *scripts*.
 Esta solução está caindo em desuso com a evolução dos navegadores, mesmo
@@ -3289,7 +3304,7 @@ A inserção de *scripts* externos pode ser feita da seguinte forma:
 
 ### Exemplo de inclusão de documento Javascript no HTML:
 
-\<script type=\"text/javascript\" src=\"codigo.js\"\> \</script\>
+<script type="text/javascript" src="codigo.js"> </script>
 
 Note que arquivos externos não precisam iniciar com os comandos
 utilizados nos *scripts* internos, pois o arquivo externo só será
@@ -3315,37 +3330,37 @@ dentro do escopo em que foram criadas.
 
 ### Contraexemplo de uso de variáveis fora de seu escopo:
 
-function Valida(pa,pb) {\
-\...\
-if (pa) {\
-\...\
-var soma = new Number( 0 );\
-soma = pb;\
-} else {\
-soma = 1;\
-}\
-\...\
+function Valida(pa,pb) {
+...
+if (pa) {
+...
+var soma = new Number( 0 );
+soma = pb;
+} else {
+soma = 1;
+}
+...
 };
 
 ### Exemplo de uso de variáveis com o escopo correto:
 
-function Valida(pa,pb) {\
-var soma = new Number( 0 );\
-\...\
-if (pa) {\
-\...\
-soma = pb;\
-} else {\
-soma = 1;\
-}\
-\...\
+function Valida(pa,pb) {
+var soma = new Number( 0 );
+...
+if (pa) {
+...
+soma = pb;
+} else {
+soma = 1;
+}
+...
 };
 
 # Ordem da declaração de variáveis e métodos em JavaScript
 
 A declaração de métodos e variáveis deve ser ordenada de forma que eles
 sejam utilizados somente após terem sido declarados. Uma boa prática é
-manter o código JavaScript na *tag* \<head\>.
+manter o código JavaScript na *tag* <head>.
 
 Desenvolvedor
 
@@ -3373,17 +3388,17 @@ Designer
 
 ### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
 
-\<script type=\"text/javascript\"\>\<!\--\
-var x = new Number( 1 )\
-x = 2\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+var x = new Number( 1 )
+x = 2
+//\--></script>
 
 ### Exemplo de declaração em Javascript usando ponto-e-vírgula:
 
-\<script type=\"text/javascript\"\>\<!\--\
-var x = new Number( 1 );\
-x = 2;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+var x = new Number( 1 );
+x = 2;
+//\--></script>
 
 # Cuidados com versões da linguagem JavaScript
 
@@ -3409,7 +3424,7 @@ Sugerimos que evite fazer verificações relacionadas ao navegador
 utilizado pelo usuário, uma vez que restringem a execução do código
 JavaScript a um grupo muito específico, além de não levar em conta
 usuários de navegadores que serão lançados. Lembre-se que quanto mais
-tempo seu código \"sobreviver\" menos manutenção ele necessitará.
+tempo seu código "sobreviver" menos manutenção ele necessitará.
 
 Desenvolvedor
 
@@ -3419,27 +3434,27 @@ Designer
 
 ### Contraexemplo de código Javascript dependente de navegador:
 
-\<script type=\"text/javascript\"\>\<!\--\
-var browserName = navigator.appName ;\
-if ( browserName == \"Firefox\" ){\
-\...\
-}\
-//\--\>\</script\>\
-\...
+<script type="text/javascript"><!\--
+var browserName = navigator.appName ;
+if ( browserName == "Firefox" ){
+...
+}
+//\--></script>
+...
 
 Em vez disso, para garantir que o código será executado corretamente,
 sugerimos utilizar a detecção de objetos e métodos dessa forma:
 
 ### Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador:
 
-\<script type=\"text/javascript\"\>\<!\--\
-if ( document.getElementById ){\
-  // O objeto getElementById pode ser utilizado\
-}\
-else{\
-  // O objeto não pode ser utilizado\
-}\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+if ( document.getElementById ){
+  // O objeto getElementById pode ser utilizado
+}
+else{
+  // O objeto não pode ser utilizado
+}
+//\--></script>
 
 Além da detecção de objetos sugerimos a utilização da detecção de
 métodos. Note que para detecção de métodos não se deve utilizar
@@ -3448,22 +3463,22 @@ verificação de sua existência.
 
 ### Contraexemplo de detecção de método Javascript com uso de parênteses:
 
-\<script type=\"text/javascript\"\>\<!\--\
-// Verifica se é possível colocar o foco na janela,\
-// assumindo que o método pode ser utilizado\
-if ( window.focus() ){\
-\...\
-}\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+// Verifica se é possível colocar o foco na janela,
+// assumindo que o método pode ser utilizado
+if ( window.focus() ){
+...
+}
+//\--></script>
 
 ### Exemplo de detecção de método Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-// Verifica se existe suporte ao método focus\
-if ( window.focus ){\
-\...\
-}\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+// Verifica se existe suporte ao método focus
+if ( window.focus ){
+...
+}
+//\--></script>
 
 Desenvolvedor
 
@@ -3486,25 +3501,25 @@ Designer
 
 ### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
 
-\<script type=\"text/javascript\"\>\<!\--\
-var x = new String( \"1\" ) ;\
-\...\
-y = new Number ( 1 ) ;\
-if ( x == y ){\
-\...\
-}\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+var x = new String( "1" ) ;
+...
+y = new Number ( 1 ) ;
+if ( x == y ){
+...
+}
+//\--></script>
 
 ### Exemplo de conversão de tipo de variável Javascript antes de comparação:
 
-\<script type=\"text/javascript\"\>\<!\--\
-var x = new String( \"1\" ) ;\
-\...\
-y = new Number ( 1 ) ;\
-if ( new Number ( x ) == y ){\
-\...\
-}\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+var x = new String( "1" ) ;
+...
+y = new Number ( 1 ) ;
+if ( new Number ( x ) == y ){
+...
+}
+//\--></script>
 
 As implementações da versão 1.2 do Javascript não convertem os tipos
 antes de uma comparação, já as implementações da versão 1.3 do
@@ -3521,11 +3536,11 @@ legível e mais estruturado.
 
 ### Exemplo de retorno de função com tipo de dados compatível com a lógica da função:
 
-function getLinha(pval){\
-var linha=new String();\
-linha = pval;\
-\...\
-return new Number( linha ) ;\
+function getLinha(pval){
+var linha=new String();
+linha = pval;
+...
+return new Number( linha ) ;
 }
 
 Desenvolvedor
@@ -3552,26 +3567,26 @@ mesma funcionalidade a partir do *onkeypress*, e vice-versa.
 
 ### Exemplo de manipuladores Javascript de eventos para diferentes dispositivos:
 
-\<script type=\"text/javascript\"\>\<!\--\
+<script type="text/javascript"><!\--
 function selecionou(porigem) {
 
-if (porigem == \"M\") {
+if (porigem == "M") {
 
-> alert(\"Selecionou o link pelo mouse.\");\
-> } else if (porigem == \"T\") {
+> alert("Selecionou o link pelo mouse.");
+> } else if (porigem == "T") {
 >
-> alert(\"Selecionou o link pelo teclado.\");
+> alert("Selecionou o link pelo teclado.");
 >
 > };
 
-};\
-//\--\>\</script\>\
-\...\
-\<a title=\"Clique para testar a redundância de manipuladores\"
-href=\"#\" onclick=\"selecionou(\'M\')\"
-onkeypress=\"selecionou(\'T\');\"\>Clique para testar a redundância de
-manipuladores\</a\>\
-\...
+};
+//\--></script>
+...
+<a title="Clique para testar a redundância de manipuladores"
+href="#" onclick="selecionou(\'M\')"
+onkeypress="selecionou(\'T\');">Clique para testar a redundância de
+manipuladores</a>
+...
 
 # Desvios e laços condicionais em JavaScript
 
@@ -3588,18 +3603,18 @@ Designer
 
 ### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-if ( \... )\
-  // apenas uma expressão\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+if ( \... )
+  // apenas uma expressão
+//\--></script>
 
 ### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-if ( \... ){\
-  // uma ou mais expressões;\
-}\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+if ( \... ){
+  // uma ou mais expressões;
+}
+//\--></script>
 
 # Escrita de HTML via JavaScript
 
@@ -3616,28 +3631,28 @@ Designer
 
 ### Contraexemplo de impressão em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \"\<table\>\" ) ;\
-document.write( \"\<tr\>\<td\>\" ) ;\
-document.write( \"teste\" ) ;\
-document.write( \"\<\\/td\>\<\\/tr\>\" ) ;\
-document.write( \"\<\\/table\>\" ) ;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+document.write( "<table>" ) ;
+document.write( "<tr><td>" ) ;
+document.write( "teste" ) ;
+document.write( "<\\/td><\\/tr>" ) ;
+document.write( "<\\/table>" ) ;
+//\--></script>
 
 ### Exemplo de impressão em Javascript usando concatenação:
 
-\<script type=\"text/javascript\"\>\<!\--\
-var html_code = \"\<table\>\"\
-html_code += \"\<tr\>\<td\>\" ;\
-html_code += \"teste\" ;\
-html_code += \"\<\\/td\>\<\\/tr\>\" ;\
-html_code += \"\<\\/table\>\" ;\
-document.write( html_code ) ;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+var html_code = "<table>"
+html_code += "<tr><td>" ;
+html_code += "teste" ;
+html_code += "<\\/td><\\/tr>" ;
+html_code += "<\\/table>" ;
+document.write( html_code ) ;
+//\--></script>
 
 # Aspas simples e duplas em JavaScript
 
-Conteúdo de texto deve estar sempre entre aspas duplas (\") e todas
+Conteúdo de texto deve estar sempre entre aspas duplas (") e todas
 ocorrências delas no conteúdo devem ser escapadas com a barra invertida
 (\\).
 
@@ -3649,27 +3664,27 @@ Designer
 
 ### Contraexemplo de uso de aspas em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \'Conteúdo de texto. \"Teste\", teste.\' ) ;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+document.write( \'Conteúdo de texto. "Teste", teste.\' ) ;
+//\--></script>
 
 ### Exemplo de uso de aspas em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \"Conteúdo de texto. \\\"Teste\\\", teste.\" ) ;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+document.write( "Conteúdo de texto. \\"Teste\\", teste." ) ;
+//\--></script>
 
 Aspa simples ou apóstrofe (\') deve ser utilizada somente quando o
 código JavaScript estiver dentro de um atributo de uma tag HTML.
 
 ### Exemplo de uso de aspas simples em Javascript:
 
-\...\<a href=\"./\" onClick=\"alert( function( \'conteúdo string\' ) )
-;\"\>\...
+...<a href="./" onClick="alert( function( \'conteúdo string\' ) )
+;">...
 
 # ETAGO em JavaScript
 
-Deve-se escapar a barra de qualquer ETAGO (\</) que estiver sendo
+Deve-se escapar a barra de qualquer ETAGO (</) que estiver sendo
 escrito pelo JavaScript. Isso evita que o *parser* identifique um ETAGO
 de outra *tag* como sendo a de *script*.
 
@@ -3681,15 +3696,15 @@ Designer
 
 ### Contraexemplo de impressão de ETAGO em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \"\<p\>Teste\</p\>\" ) ;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+document.write( "<p>Teste</p>" ) ;
+//\--></script>
 
 ### Exemplo de impressão de ETAGO em Javascript:
 
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \"\<p\>Teste\<\\/p\>\" ) ;\
-//\--\>\</script\>
+<script type="text/javascript"><!\--
+document.write( "<p>Teste<\\/p>" ) ;
+//\--></script>
 
 # Escrevendo a palavra reservada script
 
@@ -3705,23 +3720,23 @@ Designer
 
 ### Contraexemplo de impressão da palavra script:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \"\<script language=\\\"javascript\\\"
-type=\\\"text/javascript\\\"\
-src=\\\"codigo.js\\\"\>\<\\/script\> \" ) ;\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+document.write( "<script language=\\"javascript\\"
+type=\\"text/javascript\\"
+src=\\"codigo.js\\"><\\/script> " ) ;
+//\--></script>
+...
 
 ### Exemplo de impressão da palavra script:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-document.write( \"\<scr\" + \"ipt language=\\\"javascript\\\"\
-type=\\\"text/javascript\\\" src=\\\"codigo.js\\\"\>\<\\/scr\" + \"ipt\>
-\" ) ;\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+document.write( "<scr" + "ipt language=\\"javascript\\"
+type=\\"text/javascript\\" src=\\"codigo.js\\"><\\/scr" + "ipt>
+" ) ;
+//\--></script>
+...
 
 # Manipulação de CSS utilizando JavaScript
 
@@ -3741,13 +3756,13 @@ propriedades do objeto *style* dos elementos ou alterar o atributo
 
 ### Exemplo de manipulação de CSS utilizando Javascript:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-var name_element = document.getElementById( \"name\" ) ;\
-name_element.style.backgroundColor = \"#00ff99\" ;\
-name_element.style.borderColor = \"#000000\" ;\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+var name_element = document.getElementById( "name" ) ;
+name_element.style.backgroundColor = "#00ff99" ;
+name_element.style.borderColor = "#000000" ;
+//\--></script>
+...
 
 # Navegação utilizando JavaScript
 
@@ -3778,49 +3793,49 @@ elementos.
 
 ### Exemplo de melhoria de navegação usando Javascript:
 
-\...\
-\<ol id=\"ex415_navegacao\"\>\
-\<li id=\"ex415_graduacao\"\>\
-\<a href=\"#\" onclick=\"open_close( new Array( \'ex415_graduacao_menu\'
-) ); return false;\"\>Graduação\</a\>\
-\<ol id=\"ex415_graduacao_menu\"\>\
-\<li\>\<a href=\"#\"\>Cursos\</a\>\</li\>\
-\<li\>\<a href=\"#\"\>Institutos\</a\>\</li\>\
-\</ol\>\
-\</li\>\
-\<li id=\"ex415_pos_graduacao\"\>\<a href=\"#\" onclick=\"open_close(
+...
+<ol id="ex415_navegacao">
+<li id="ex415_graduacao">
+<a href="#" onclick="open_close( new Array( \'ex415_graduacao_menu\'
+) ); return false;">Graduação</a>
+<ol id="ex415_graduacao_menu">
+<li><a href="#">Cursos</a></li>
+<li><a href="#">Institutos</a></li>
+</ol>
+</li>
+<li id="ex415_pos_graduacao"><a href="#" onclick="open_close(
 new Array( \'ex415_pos_graduacao_menu\' ) ); return
-false;\"\>Pós-graduação\</a\>\
-\<ol id=\"ex415_pos_graduacao_menu\"\>\
-\<li\>\<a href=\"#\"\>Mestrado profissional\</a\>\</li\>\
-\<li\>\<a href=\"#\"\>Mestrado acadêmico\</a\>\</li\>\
-\<li\>\<a href=\"#\"\>Doutorado\</a\>\</li\>\
-\</ol\>\
-\</li\>\
-\</ol\>\
-\<script type=\"text/javascript\"\>\<!\--\
-function open_close( id_array ){\
-  if ( !document.getElementById ){\
-    return ;\
-  }\
-  for ( i = 0 ; i \< id_array.length ; i++ ){\
-    if ( document.getElementById( id_array\[i\] ) ){\
+false;">Pós-graduação</a>
+<ol id="ex415_pos_graduacao_menu">
+<li><a href="#">Mestrado profissional</a></li>
+<li><a href="#">Mestrado acadêmico</a></li>
+<li><a href="#">Doutorado</a></li>
+</ol>
+</li>
+</ol>
+<script type="text/javascript"><!\--
+function open_close( id_array ){
+  if ( !document.getElementById ){
+    return ;
+  }
+  for ( i = 0 ; i < id_array.length ; i++ ){
+    if ( document.getElementById( id_array\[i\] ) ){
       if ( document.getElementById( id_array\[i\] ).style.display ==
-\"none\" ){\
+"none" ){
         document.getElementById( id_array\[i\] ).style.display =
-\"block\" ;\
-      }\
-      else{\
+"block" ;
+      }
+      else{
         document.getElementById( id_array\[i\] ).style.display =
-\"none\" ;\
-      }\
-    }\
-  }\
-}\
-open_close( new Array( \"ex415_graduacao_menu\",
-\"ex415_pos_graduacao_menu\" ) ) ;\
-//\--\>\</script\>\
-\...
+"none" ;
+      }
+    }
+  }
+}
+open_close( new Array( "ex415_graduacao_menu",
+"ex415_pos_graduacao_menu" ) ) ;
+//\--></script>
+...
 
 Desenvolvedor
 
@@ -3830,7 +3845,7 @@ Redator
 
 #### Código renderizado
 
-\...
+...
 
 1.  Graduação
 
@@ -3846,7 +3861,7 @@ Redator
 
     3.  Doutorado
 
-\...
+...
 
 # Validação de formulários utilizando JavaScript
 
@@ -3868,30 +3883,30 @@ números.
 
 ### Exemplo de validação de formulários usando Javascript:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-var expressao = /\^\\d+\$/;\
-function verificarInteiro( val ){\
-  if( expressao.test( val ) ){\
-    alert( \"OK\" );\
-  }\
-  else{\
-    if( val != null && val != \"\" ){\
-      alert( \"Não é um inteiro válido\" );\
-    }\
-  }\
-}\
-//\--\>\</script\>\
-\<form id=\"frmInteiro\" action=\"#\"
-onsubmit=\"verificarInteiro(this.txtInteiro.value); return false;\"\>\
-\<div\>\
-\<label for=\"txtInteiro\"\>Valor:\</label\>\
-\<input type=\"text\" size=\"10\" id=\"txtInteiro\"
-name=\"txtInteiro\"\>\
-\<input type=\"submit\" value=\"Validar\"\>\
-\</div\>\
-\</form\>\
-\...
+...
+<script type="text/javascript"><!\--
+var expressao = /\^\\d+\$/;
+function verificarInteiro( val ){
+  if( expressao.test( val ) ){
+    alert( "OK" );
+  }
+  else{
+    if( val != null && val != "" ){
+      alert( "Não é um inteiro válido" );
+    }
+  }
+}
+//\--></script>
+<form id="frmInteiro" action="#"
+onsubmit="verificarInteiro(this.txtInteiro.value); return false;">
+<div>
+<label for="txtInteiro">Valor:</label>
+<input type="text" size="10" id="txtInteiro"
+name="txtInteiro">
+<input type="submit" value="Validar">
+</div>
+</form>
+...
 
 # Acesso a conteúdo e redundância utilizando JavaScript
 
@@ -3905,19 +3920,19 @@ A execução de *scripts* pode ser desabilitada por várias razões tais
 como segurança, limitações do navegador ou por opção do usuário (comum
 em usuários com deficiência visual). Portanto, é interessante que sejam
 fornecidas outras formas de acesso ao conteúdo que seria apresentado
-pelo código JavaScript. Para tanto pode ser utilizada a tag \<noscript\>
+pelo código JavaScript. Para tanto pode ser utilizada a tag <noscript>
 que é executada sempre que *scripts client-side* estejam desabilitados.
 
-### Exemplo de uso da *tag* \<noscript\>:
+### Exemplo de uso da *tag* <noscript>:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-document.write(\"Texto escrito via javascript!\");\
-//\--\>\</script\>\
-\<noscript\>\
-\<p\>Texto alternativo\</p\>\
-\</noscript\>\
-\...
+...
+<script type="text/javascript"><!\--
+document.write("Texto escrito via javascript!");
+//\--></script>
+<noscript>
+<p>Texto alternativo</p>
+</noscript>
+...
 
 # Gráficos e animações utilizando JavaScript
 
@@ -3925,9 +3940,9 @@ JavaScript também pode ser utilizado para produzir efeitos como
 animações. Para ilustrar essa funcionalidade apresentamos o código de um
 *ticker*. Uma característica desse código é que ele permite a
 visualização das mensagens de forma estática quando o JavaScript não
-está disponível, sem fazer uso do elemento \<noscript\>. O intuito é
+está disponível, sem fazer uso do elemento <noscript>. O intuito é
 mostrar que, apesar de ser uma boa opção para garantir a redundância de
-funcionalidades, o elemento \<noscript\> não é o único recurso
+funcionalidades, o elemento <noscript> não é o único recurso
 disponível.
 
 Desenvolvedor
@@ -3938,76 +3953,76 @@ Designer
 
 ### Exemplo de animação utilizando Javascript:
 
-\...\
-\<div id=\"ex418_caption\"\>\
-\<p\>Universidade Estadual de Campinas\</p\>\
-\<p\>Websites Atendendo a Requisitos de Acessibilidade e
-Usabilidade\</p\>\
-\<p\>Experimente desabilitar o JavaScript do seu navegador\</p\>\
-\</div\>\
-\<script type=\"text/javascript\"\>\<!\--\
-var message_counter = 0 ;\
-var char_counter = 0 ;\
-var messages = new Array() ;\
-//Torna o objeto invisível\
-function init( obj_id ){\
-  if ( !document.getElementById ){\
-    return ;\
-  }\
-  if ( document.getElementById( obj_id ) ){\
-    document.getElementById( obj_id ).style.display = \"none\" ;\
-  }\
-}\
-//Carrega as mensagens que serão apresentadas no ticker\
-function get_messages( noscript_container ){\
-  if ( !document.getElementById ){\
-    return ;\
-  }\
-  var obj = document.getElementById( noscript_container ) ;\
-  var p_array = obj.getElementsByTagName( \"p\" ) ;\
-  for ( var i = 0 ; i \< p_array.length ; i++ ){\
-    messages.push( p_array\[i\].innerHTML ) ;\
-  }\
-  obj.innerHTML = \"\" ;\
-  obj.style.display = \"block\" ;\
-}\
-//Mostra as mensagens carregadas no ticker\
-function play_caption(){\
-  if ( !document.getElementById ){\
-    return ;\
-  }\
-  //Limpa o ticker caso esteja começando uma nova mensagem\
-  if ( char_counter == 0 ){\
-    document.getElementById( \"ex418_caption\" ).innerHTML = \"\" ;\
-  }\
-  //Mostra o próximo caracter da mensagem\
-  if ( document.getElementById( \"ex418_caption\" ) ){\
-    if ( char_counter \< messages\[ message_counter \].length ){\
-      document.getElementById( \"ex418_caption\" ).innerHTML +=
-messages\[message_counter\].charAt( char_counter++ ) ;\
-      setTimeout( \'play_caption()\', 150 ) ;\
-    }\
-    else{\
-      char_counter = 0 ;\
-      message_counter++ ;\
-      //Intervalo antes de iniciar uma nova mensagem\
-      if ( message_counter \< messages.length ){\
-        setTimeout( \'play_caption()\', 2000 ) ;\
-      }\
-      //Intervalo antes de iniciar a primeira mensagem\
-      else{\
-        message_counter = 0 ;\
-        setTimeout( \'play_caption()\', 2000 );\
-      }\
-    }\
-  }\
-}\
-// Chamada às funções\
-init( \'ex418_caption\' ) ;\
-get_messages( \'ex418_caption\' ) ;\
-setTimeout( \"play_caption()\", 1000 ) ;\
-//\--\>\</script\>\
-\...
+...
+<div id="ex418_caption">
+<p>Universidade Estadual de Campinas</p>
+<p>Websites Atendendo a Requisitos de Acessibilidade e
+Usabilidade</p>
+<p>Experimente desabilitar o JavaScript do seu navegador</p>
+</div>
+<script type="text/javascript"><!\--
+var message_counter = 0 ;
+var char_counter = 0 ;
+var messages = new Array() ;
+//Torna o objeto invisível
+function init( obj_id ){
+  if ( !document.getElementById ){
+    return ;
+  }
+  if ( document.getElementById( obj_id ) ){
+    document.getElementById( obj_id ).style.display = "none" ;
+  }
+}
+//Carrega as mensagens que serão apresentadas no ticker
+function get_messages( noscript_container ){
+  if ( !document.getElementById ){
+    return ;
+  }
+  var obj = document.getElementById( noscript_container ) ;
+  var p_array = obj.getElementsByTagName( "p" ) ;
+  for ( var i = 0 ; i < p_array.length ; i++ ){
+    messages.push( p_array\[i\].innerHTML ) ;
+  }
+  obj.innerHTML = "" ;
+  obj.style.display = "block" ;
+}
+//Mostra as mensagens carregadas no ticker
+function play_caption(){
+  if ( !document.getElementById ){
+    return ;
+  }
+  //Limpa o ticker caso esteja começando uma nova mensagem
+  if ( char_counter == 0 ){
+    document.getElementById( "ex418_caption" ).innerHTML = "" ;
+  }
+  //Mostra o próximo caracter da mensagem
+  if ( document.getElementById( "ex418_caption" ) ){
+    if ( char_counter < messages\[ message_counter \].length ){
+      document.getElementById( "ex418_caption" ).innerHTML +=
+messages\[message_counter\].charAt( char_counter++ ) ;
+      setTimeout( \'play_caption()\', 150 ) ;
+    }
+    else{
+      char_counter = 0 ;
+      message_counter++ ;
+      //Intervalo antes de iniciar uma nova mensagem
+      if ( message_counter < messages.length ){
+        setTimeout( \'play_caption()\', 2000 ) ;
+      }
+      //Intervalo antes de iniciar a primeira mensagem
+      else{
+        message_counter = 0 ;
+        setTimeout( \'play_caption()\', 2000 );
+      }
+    }
+  }
+}
+// Chamada às funções
+init( \'ex418_caption\' ) ;
+get_messages( \'ex418_caption\' ) ;
+setTimeout( "play_caption()", 1000 ) ;
+//\--></script>
+...
 
 Desenvolvedor
 
@@ -4032,12 +4047,12 @@ conteúdo da *tags*.
 
 ### Exemplo de alteração de código HTML utilizando Javascript:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-var name_element = document.getElementById( \"name\" ) ;\
-name_element.innerHTML = name_element.innerHTML + \"\_\" ;\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+var name_element = document.getElementById( "name" ) ;
+name_element.innerHTML = name_element.innerHTML + "\_" ;
+//\--></script>
+...
 
 # AJAX
 
@@ -4073,7 +4088,7 @@ marcação muito portável e permite troca de informações entre as mais
 diversas tecnologias e plataformas. Mesmo assim, outras opções como JSON
 (*JavaScript Object Notation*) ou mesmo texto são possíveis. Para quem
 leva o acrônimo ao pé-da-letra estes dois casos resultariam em AJAJ e
-AJAT, respectivamente. Trocando o \"X\" de XML por \"J\" de JSON e \"T\"
+AJAT, respectivamente. Trocando o "X" de XML por "J" de JSON e "T"
 de Text.
 
 O exemplo a seguir usa o objeto XMLHTTPRequest do JavaScript para fazer
@@ -4084,34 +4099,34 @@ mais simples.
 
 ### Exemplo de busca dinâmica utilizando AJAX:
 
-\<script type=\"text/javascript\"\>\<!\--\
-function getSuggestions(q){\
- var xmlHttp;\
- try { xmlHttp=new XMLHttpRequest(); } catch (e) {\
-  try { xmlHttp=new ActiveXObject(\"Msxml2.XMLHTTP\"); } catch (e) {\
-   try { xmlHttp=new ActiveXObject(\"Microsoft.XMLHTTP\"); } catch (e)
-{\
-    return false;\
-   }\
-  }\
- }\
- xmlHttp.onreadystatechange = function(){\
-  if( xmlHttp.readyState == 4 ){\
-   try{\
-    document.getElementById(\"ex421_topicSearchResults\").innerHTML =
-xmlHttp.responseText ;\
-   }\
-   catch( e ) { }\
-  }\
- } ;\
+<script type="text/javascript"><!\--
+function getSuggestions(q){
+ var xmlHttp;
+ try { xmlHttp=new XMLHttpRequest(); } catch (e) {
+  try { xmlHttp=new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {
+   try { xmlHttp=new ActiveXObject("Microsoft.XMLHTTP"); } catch (e)
+{
+    return false;
+   }
+  }
+ }
+ xmlHttp.onreadystatechange = function(){
+  if( xmlHttp.readyState == 4 ){
+   try{
+    document.getElementById("ex421_topicSearchResults").innerHTML =
+xmlHttp.responseText ;
+   }
+   catch( e ) { }
+  }
+ } ;
  xmlHttp.open(
-\"GET\",\"sites/default/files/examples/ajax-suggest.php?q=\" + q , true
-) ;\
- xmlHttp.send( null ) ;\
-}\
-//\--\>\</script\>\
-\<form action=\"/files/examples/ajax-suggest.php\"\>\
-\<fieldset id=\"ex421_busca\"\>
+"GET","sites/default/files/examples/ajax-suggest.php?q=" + q , true
+) ;
+ xmlHttp.send( null ) ;
+}
+//\--></script>
+<form action="/files/examples/ajax-suggest.php">
+<fieldset id="ex421_busca">
 
 Designer
 
@@ -4119,29 +4134,29 @@ Desenvolvedor
 
 Redator
 
-\<label for=\"ex421_input\"\>Procure por um tópico\</label\>
+<label for="ex421_input">Procure por um tópico</label>
 
-\<input id=\"ex421_input\" type=\"text\"
-onkeyup=\"getSuggestions(this.value);\" name=\"q\" /\>\</fieldset\>\
-\<div id=\"ex421_topicSearchResults\"\>\
-\</div\>\
-\</form\>
+<input id="ex421_input" type="text"
+onkeyup="getSuggestions(this.value);" name="q" /></fieldset>
+<div id="ex421_topicSearchResults">
+</div>
+</form>
 
 Bottom of Form
 
 Neste exemplo, os três elementos principais são: um formulário HTML, que
-contém o \<input\> para o usuário buscar conteúdo e o \<div\> onde serão
+contém o <input> para o usuário buscar conteúdo e o <div> onde serão
 apresentados os resultados da busca; uma função JavaScript
 *getSuggestions*, que efetua a conexão assíncrona com o servidor a cada
-vez que um caractere é inserido no \<input\>; um programa PHP
+vez que um caractere é inserido no <input>; um programa PHP
 (/sites/default/files/examples/ajax-suggest.php) no lado do servidor,
-que procura os títulos que contêm o texto passado pela variável \"q\" e
+que procura os títulos que contêm o texto passado pela variável "q" e
 devolve uma lista em HTML.
 
 O trecho que usa o manipulador de evento *onreadystatechange* define o
 que deve acontecer quando o estado for igual a 4, ou seja, quando a
 resposta do servidor tiver sido concluída. Neste caso, o conteúdo
-retornado (*responseText*) é inserido diretamente no elemento \<div\>
+retornado (*responseText*) é inserido diretamente no elemento <div>
 dos resultados.
 
 # Manipulação de HTML utilizando JavaScript
@@ -4159,12 +4174,12 @@ conteúdo da *tags*.
 
 ### Exemplo:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-var name_element = document.getElementById( \"name\" ) ;\
-name_element.innerHTML = name_element.innerHTML + \"\_\" ;\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+var name_element = document.getElementById( "name" ) ;
+name_element.innerHTML = name_element.innerHTML + "\_" ;
+//\--></script>
+...
 
 # Verificação de código JavaScript
 
@@ -4204,52 +4219,52 @@ código.
 
 ### Contraexemplo de documento HTML que não propicia reaproveitamento de código:
 
-\<!DOCTYPE html\>\
-\<html lang=\"pt-br\"\>\
-\<head\>\
-\<meta name=\"author\" content=\"João\"\>\
-\<meta name=\"keywords\" content=\"HTML, Acessibilidade\"\>\
-\<meta name=\"description\" content=\"Página de teste\"\>\
-\<meta http-equiv=\"content-type\" content=\"text/html;
-charset=ISO-8859-1\"\>\
-\<meta http-equiv=\"pragma\" content=\"no-cache\"\>\
-\<meta http-equiv=\"expires\" content=\"Thu, 01 Jan 1970 00:00:00
-GMT\"\>\
-\<meta http-equiv=\"cache-control\" content=\"no-store\"\>\
-\<title\>Página inicial\</title\>\
-\</head\>\
-\<body\>\
-\...\
-\</body\>\
-\</html\>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta name="author" content="João">
+<meta name="keywords" content="HTML, Acessibilidade">
+<meta name="description" content="Página de teste">
+<meta http-equiv="content-type" content="text/html;
+charset=ISO-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
+GMT">
+<meta http-equiv="cache-control" content="no-store">
+<title>Página inicial</title>
+</head>
+<body>
+...
+</body>
+</html>
 
 O exemplo a seguir usa o comando include de *Server Side Include* para
 incluir um arquivo de cabeçalho.
 
 ### Exemplo de declaração de HTML reaproveitando código para cabeçalho:
 
-\[Arquivo cabecalho.inc\]\
-\<meta name=\"author\" content=\"João\"\>\
-\<meta name=\"keywords\" content=\"HTML, Acessibilidade\"\>\
-\<meta name=\"description\" content=\"Página de teste\"\>\
-\<meta http-equiv=\"content-type\" content=\"text/html;
-charset=ISO-8859-1\"\>\
-\<meta http-equiv=\"pragma\" content=\"no-cache\"\>\
-\<meta http-equiv=\"expires\" content=\"Thu, 01 Jan 1970 00:00:00
-GMT\"\>\
-\<meta http-equiv=\"cache-control\" content=\"no-store\"\>
+[Arquivo cabecalho.inc\]
+<meta name="author" content="João">
+<meta name="keywords" content="HTML, Acessibilidade">
+<meta name="description" content="Página de teste">
+<meta http-equiv="content-type" content="text/html;
+charset=ISO-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
+GMT">
+<meta http-equiv="cache-control" content="no-store">
 
-\[Arquivo index.html\]\
-\<!DOCTYPE html\>\
-\<html lang=\"pt-br\"\>\
-\<head\>\
-\<!\--#include virtual=\"/cabecalho.inc\" \--\>\
-\<title\>Página inicial\</title\>\
-\</head\>\
-\<body\>\
-\...\
-\</body\>\
-\</html\>
+[Arquivo index.html\]
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<!\--#include virtual="/cabecalho.inc" \-->
+<title>Página inicial</title>
+</head>
+<body>
+...
+</body>
+</html>
 
 Designer
 
@@ -4267,21 +4282,21 @@ Redator
 
 ### Contraexemplo de seletores CSS que não propiciam reaproveitamento:
 
-\...\
-p.exemplo { font-family: verdana, sans-serif; font-weight: bold;\
-margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #00ff00; }\
+...
+p.exemplo { font-family: verdana, sans-serif; font-weight: bold;
+margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #00ff00; }
 p.contraExemplo { font-family: verdana, sans-serif; font-weight: bold;
-margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #ff0000; }\
-\...
+margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #ff0000; }
+...
 
 ### Exemplo de declaração de seletores CSS utilizando a estrutura em cascata:
 
-\...\
-p { font-family: verdana, sans-serif; font-weight: bold;\
-margin: 0.2em 0 0.2em 0; padding: 0.2em; }\
-p.exemplo { color: #00ff00; }\
-p.contraExemplo { color: #ff0000; }\
-\...
+...
+p { font-family: verdana, sans-serif; font-weight: bold;
+margin: 0.2em 0 0.2em 0; padding: 0.2em; }
+p.exemplo { color: #00ff00; }
+p.contraExemplo { color: #ff0000; }
+...
 
 **Em JavaScript:**
 
@@ -4293,19 +4308,19 @@ p.contraExemplo { color: #ff0000; }\
 
 ### Contraexemplo de Javascript para reaproveitamento de código:
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-function isLoginFormfilled(){\
- if( document.getElementById(\"email\").value == \"\" \|\|
-document.getElementById(\"password\").value == \"\" ){\
-  return false ;\
- }\
- else{\
-  return true;\
- }\
-}\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+function isLoginFormfilled(){
+ if( document.getElementById("email").value == "" \|\|
+document.getElementById("password").value == "" ){
+  return false ;
+ }
+ else{
+  return true;
+ }
+}
+//\--></script>
+...
 
 ### Exemplo de Javascript para reaproveitamento de código: 
 
@@ -4315,18 +4330,18 @@ Desenvolvedor
 
 Redator
 
-\...\
-\<script type=\"text/javascript\"\>\<!\--\
-function isFormFilled( formObject ){\
- for( var i = 0 ; i \< formObject.elements.length ; i++ ){\
-  if( formObject.elements\[i\].value == \"\" ){\
-   return false ;\
-  }\
- }\
- return true ;\
-}\
-//\--\>\</script\>\
-\...
+...
+<script type="text/javascript"><!\--
+function isFormFilled( formObject ){
+ for( var i = 0 ; i < formObject.elements.length ; i++ ){
+  if( formObject.elements\[i\].value == "" ){
+   return false ;
+  }
+ }
+ return true ;
+}
+//\--></script>
+...
 
 # O que é Usabilidade?
 
@@ -4397,9 +4412,9 @@ apresentar alguns elementos que ela utiliza. São eles:
   métodos subjetivos e/ou objetivos.
 
 A partir destes elementos a atual abordagem de usabilidade foi definida
-como a *\"capacidade de um produto ser usado por usuários específicos
+como a *"capacidade de um produto ser usado por usuários específicos
 para atingir objetivos específicos com eficácia, eficiência e satisfação
-em um contexto específico de uso\"* (International Standards
+em um contexto específico de uso"* (International Standards
 Organization (ISO), 1998).
 
 Designer
@@ -4502,12 +4517,12 @@ da lista de Nielsen (Nielsen, 2007):
     maneira mais importante dos usuários descobrirem *websites*. Também
     é uma forma dos usuários encontrarem o que procuram dentro de um
     *website*. O título das páginas *Web* (i.e., o conteúdo dentro das
-    tags \<title\> e \</title\>) é a principal ferramenta para atrair
+    tags <title> e </title>) é a principal ferramenta para atrair
     novos visitantes a partir de resultados em ferramentas de busca.
     Este conteúdo é comumente utilizado para nomear *bookmarks*. Evite
     títulos demasiadamente longos e que utilizem informação pouco
-    relevante para identificar a página (e.g., \"Bem-vindo ao\...\" ou
-    \"O maior *website* de\...\"). Por fim, títulos das páginas também
+    relevante para identificar a página (e.g., "Bem-vindo ao\..." ou
+    "O maior *website* de\..."). Por fim, títulos das páginas também
     auxiliam na definição de contexto para usuários que estão utilizando
     várias janelas ao mesmo tempo;
 
@@ -4543,15 +4558,15 @@ Redator
     experiências anteriores. Quanto mais as expectativas dos usuários
     estiverem corretas, mais eles sentirão que comandam o sistema.
     Quanto mais o inverso ocorre, mais eles se sentirão inseguros.
-    Segundo Nielsen, \"*usuários passam a maior parte do tempo em outros
-    sites*\", ou seja, suas expectativas se basearão no que é comumente
+    Segundo Nielsen, "*usuários passam a maior parte do tempo em outros
+    sites*", ou seja, suas expectativas se basearão no que é comumente
     feito na maioria dos outros *websites;*
 
 9.  **Abrindo novas janelas do navegador** - *Links* que abrem em novas
     janelas são usados comumente com o intuito de evitar que um usuário
     vá para outro *website* e não retorne. No entanto, esta prática
     acaba poluindo a tela do usuário com várias janelas. Outro resultado
-    ainda mais grave é que o botão \"Voltar\" da nova janela fica
+    ainda mais grave é que o botão "Voltar" da nova janela fica
     desabilitado. Assim, se um usuário não notar que uma nova janela foi
     aberta ele não conseguirá retornar para a página de origem;
 
@@ -4649,8 +4664,8 @@ contida em (Rocha e Baranauskas, 2003).
 
 7.  **Flexibilidade e eficiência de uso** - Usuários novatos se tornam
     peritos com o uso. Prover aceleradores de formar a aumentar a
-    velocidade da interação. Permitir a usuários experientes \"cortar
-    caminho\" em ações frequentes;
+    velocidade da interação. Permitir a usuários experientes "cortar
+    caminho" em ações frequentes;
 
 8.  **Estética e design minimalista** - Diálogos não devem conter
     informação irrelevante ou raramente necessária. Qualquer unidade de
@@ -4948,12 +4963,12 @@ Designer
 Redator
 
 **Avaliador:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Descrição da URL:**
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 URL:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_\
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_
 Níveis de Severidade:**
 
 - 0 - não concordo que seja um problema de usabilidade
@@ -5133,7 +5148,7 @@ Redator
 
 Desenvolvedor
 
-Como mencionado no tópico "O que é Acessibilidade?\", por meio do
+Como mencionado no tópico "O que é Acessibilidade?", por meio do
 *decreto* (DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004, 2004), o Governo
 brasileiro estabelece a obrigatoriedade de oferecer acessibilidade em
 *websites* governamentais. Para apoiar a criação/manutenção da
@@ -5222,23 +5237,23 @@ somente seria acessado após a leitura de todo o cabeçalho e dos itens do
 menu.
 
 Para tentar solucionar este problema são utilizados os *skip links*, que
-são *links* para regiões da página (e.g., um *skip link* \"Ir para o
-conteúdo\", no cabeçalho da página). Assim, usuários de leitores de
-telas ou que naveguem via teclado podem \"pular\" trechos da página que
+são *links* para regiões da página (e.g., um *skip link* "Ir para o
+conteúdo", no cabeçalho da página). Assim, usuários de leitores de
+telas ou que naveguem via teclado podem "pular" trechos da página que
 não lhe interessam, tal como é feito pelos demais usuários. *Skip links*
 podem ser feitos de diversas maneiras. Uma forma comum é usar um *link*
-visível no início da região que pode ser \"pulada\".
+visível no início da região que pode ser "pulada".
 
 ### Exemplo de *skip link*:
 
-\...\
-\<body\>\
-\<a href=\"#conteudo\"\>Ir para o conteúdo\</a\>\
-\...\
-\<h1\>\<a name=\"conteudo\" id=\"conteudo\"\>Título
-principal\</a\>\</h1\>\
-\<p\>Texto do conteúdo\</p\>\
-\...
+...
+<body>
+<a href="#conteudo">Ir para o conteúdo</a>
+...
+<h1><a name="conteudo" id="conteudo">Título
+principal</a></h1>
+<p>Texto do conteúdo</p>
+...
 
 Para evitar que o *skip link* afete a estética da página, muitos
 *designers* criam *skip links* invisíveis (isso pode ser feito
@@ -5265,7 +5280,7 @@ Nielsen aponta razões para utilizar *breadcrumbs*:
   relação ao resto do *website*;
 
 - *Breadcrumbs* oferecem acesso em um clique para níveis mais altos do
-  *website* e, portanto, resgatam usuários que \"caem de para-quedas\"
+  *website* e, portanto, resgatam usuários que "caem de para-quedas"
   em destinos muito específicos, mas inapropriados através de pesquisas
   ou *links* profundos;
 
@@ -5287,31 +5302,31 @@ uma linha horizontal que (Nielsen, 2007):
   corrente);
 
 - possui um separador de um caracter entre os níveis (geralmente
-  \"\>\").
+  ">").
 
-Além do sinal de maior (\>) existem outras opções como a barra (/), dois
+Além do sinal de maior (>) existem outras opções como a barra (/), dois
 pontos (:) e imagens de setas. Ainda não existe um padrão para o
 separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 1999).
 
 ### Exemplo de *breadcrumb*:
 
-\...\
-\<a href=\"/acessibilidade/\"\>Acessibilidade\</a\> \>\
-\<a href=\"/acessibilidade/web/\"\>Acessibilidade na Web\</a\> \>
+...
+<a href="/acessibilidade/">Acessibilidade</a> >
+<a href="/acessibilidade/web/">Acessibilidade na Web</a> >
 
-\<a href=\"/acessibilidade/web/navegação/\"\>Navegação\</a\> \>
-Breadcrumbs\
-\...
+<a href="/acessibilidade/web/navegação/">Navegação</a> >
+Breadcrumbs
+...
 
 #### 
 
 #### Código renderizado
 
-\...\
-[Acessibilidade]{.underline} \> [Acessibilidade na Web]{.underline} \>
-[Navegação]{.underline} \> Breadcrumbs\
-\...
+...
+[Acessibilidade]{.underline} > [Acessibilidade na Web]{.underline} >
+[Navegação]{.underline} > Breadcrumbs
+...
 
 Designer
 
@@ -5341,12 +5356,12 @@ utilizada pelo seu navegador (e.g., ALT).
 
 ### Exemplo de declaração de teclas de atalho utilizando o atributo accesskey:
 
-\...\
-\<a href=\"#conteudo\" accesskey=\"c\"\>Ir para o conteúdo\</a\>\
-\...\
-\<label for=\"ex808a_busca\" accesskey=\"b\"\>Buscar\</label\>\
-\<input type=\"text\" name=\"busca\" id=\"ex808a_busca\" value=\"\"\>\
-\...
+...
+<a href="#conteudo" accesskey="c">Ir para o conteúdo</a>
+...
+<label for="ex808a_busca" accesskey="b">Buscar</label>
+<input type="text" name="busca" id="ex808a_busca" value="">
+...
 
 Apesar de ser um recurso interessante no que diz respeito à
 acessibilidade, uma vez que é uma solução para pessoas que utilizam
@@ -5369,9 +5384,9 @@ semelhante à utilizada em alguns sistemas operacionais.
 
 ### Exemplo de CSS para indicação visual de teclas de atalho:
 
-\...\
-span.shortcut { text-decoration: underline; font-weight: bold; }\
-\...
+...
+span.shortcut { text-decoration: underline; font-weight: bold; }
+...
 
 **No HTML:**
 
@@ -5383,14 +5398,14 @@ Redator
 
 ### Exemplo de uso de classe CSS para indiciação visual de teclas de atalho no HTML:
 
-\...\
-\<a href=\"#conteudo\" accesskey=\"c\"\>Ir para o \<span
-class=\"shortcut\"\>c\</span\>onteúdo\</a\>\
-\...\
-\<label for=\"ex808b_busca\" accesskey=\"b\"\>\
-\<span class=\"shortcut\"\>B\</span\>usca:\</label\>\
-\<input type=\"text\" name=\"busca\" id=\"ex808b_busca\" value=\"\"\>\
-\...
+...
+<a href="#conteudo" accesskey="c">Ir para o <span
+class="shortcut">c</span>onteúdo</a>
+...
+<label for="ex808b_busca" accesskey="b">
+<span class="shortcut">B</span>usca:</label>
+<input type="text" name="busca" id="ex808b_busca" value="">
+...
 
 # Recomendações de Acessibilidade para: Legibilidade
 
@@ -5400,8 +5415,8 @@ Redator
 
 Desenvolvedor
 
-Segundo Nielsen, *\"todo o resto - design, velocidade, conteúdo - falha
-quando os usuários não conseguem ler o texto\"* (Nielsen, 2000). Páginas
+Segundo Nielsen, *"todo o resto - design, velocidade, conteúdo - falha
+quando os usuários não conseguem ler o texto"* (Nielsen, 2000). Páginas
 *Web* bem projetadas e com redação adequada para a mídia, obtém boa
 legibilidade de forma natural. No entanto, Nielsen (2000) apresenta
 algumas regras básicas para que *websites* obtenham boa legibilidade,
@@ -5441,16 +5456,16 @@ Desenvolvedor
 
 Um dos principais erros cometidos ao criar conteúdos para *websites* é o
 de ignorar o conhecimento sobre o domínio do *website* e o nível de
-letramento dos usuários. O WCAG, no critério de sucesso 3.1.5 \"*Reading
-Level*\", define que textos não devem requerer habilidade de leitura
+letramento dos usuários. O WCAG, no critério de sucesso 3.1.5 "*Reading
+Level*", define que textos não devem requerer habilidade de leitura
 mais avançada que o nível inferior secundário de educação ou deve
 fornecer uma apresentação alternativa da informação.
 
-Para entender a relação do que seria o \"nível inferior secundário de
-educação\" no contexto brasileiro, podemos consultar a definição
-fornecida pela UNESCO: \"\... o período de dois ou três anos de educação
+Para entender a relação do que seria o "nível inferior secundário de
+educação" no contexto brasileiro, podemos consultar a definição
+fornecida pela UNESCO: "\... o período de dois ou três anos de educação
 que começa depois da conclusão de seis anos de escola e termina nove
-anos depois do início da educação primária\". Apesar de
+anos depois do início da educação primária". Apesar de
 internacionalmente aceito, ela pode não refletir a realidade em países
 em desenvolvimento (e.g., Índia e Brasil).
 
@@ -5546,7 +5561,7 @@ cor, forma, textura, formam um grupo), continuidade (i.e., conjunto de
 objetos formam uma entidade), *common fate* (i.e., objetos movendo-se na
 mesma direção pertencem ao mesmo grupo. Movimentos singulares na mesma
 direção são vistos como movimento do todo) e *connectedness* (i.e.,
-objetos conectados entre si, \"tocando\", pertencem ao mesmo grupo).
+objetos conectados entre si, "tocando", pertencem ao mesmo grupo).
 
 Cada uma das Leis de Gestalt pode ser facilmente traduzida para
 elementos de uma página HTML. Exemplos seriam:
@@ -5601,16 +5616,16 @@ cores também esteja disponível sem cores.
 
 ### Contraexemplo de informação fornecida somente por cores:
 
-\<table width=\"50%\" cellpadding=\"5\" cellspacing=\"0\" border=\"1\"
-style=\"font-weight: bold;\"\>\
-\<tr style=\"background-color: #cccccc;\"\>\
-\<td\>Com cores\</td\>\
-\<td\>Sem cores\</td\>\
-\</tr\>\
-\<tr\>\<td style=\"color: #0000ff\"\>10\</td\>\<td\>10\</td\>\</tr\>\
-\<tr\>\<td style=\"color: #ff0000\"\>5\</td\>\<td\>5\</td\>\</tr\>\
-\<tr\>\<td style=\"color: #0000ff\"\>50\</td\>\<td\>50\</td\>\</tr\>\
-\</table\>
+<table width="50%" cellpadding="5" cellspacing="0" border="1"
+style="font-weight: bold;">
+<tr style="background-color: #cccccc;">
+<td>Com cores</td>
+<td>Sem cores</td>
+</tr>
+<tr><td style="color: #0000ff">10</td><td>10</td></tr>
+<tr><td style="color: #ff0000">5</td><td>5</td></tr>
+<tr><td style="color: #0000ff">50</td><td>50</td></tr>
+</table>
 
 #### Código renderizado
 
@@ -5628,16 +5643,16 @@ style=\"font-weight: bold;\"\>\
 
 ### Exemplo de informação fornecida por cores e texto:
 
-\<table width=\"50%\" cellpadding=\"5\" cellspacing=\"0\" border=\"1\"
-style=\"font-weight: bold;\"\>\
-\<tr style=\"background-color: #cccccc;\"\>\
-\<td\>Com cores\</td\>\
-\<td\>Sem cores\</td\>\
-\</tr\>\
-\<tr\>\<td style=\"color: #0000ff\"\>10\</td\>\<td\>10\</td\>\</tr\>\
-\<tr\>\<td style=\"color: #ff0000\"\>-5\</td\>\<td\>-5\</td\>\</tr\>\
-\<tr\>\<td style=\"color: #0000ff\"\>50\</td\>\<td\>50\</td\>\</tr\>\
-\</table\>
+<table width="50%" cellpadding="5" cellspacing="0" border="1"
+style="font-weight: bold;">
+<tr style="background-color: #cccccc;">
+<td>Com cores</td>
+<td>Sem cores</td>
+</tr>
+<tr><td style="color: #0000ff">10</td><td>10</td></tr>
+<tr><td style="color: #ff0000">-5</td><td>-5</td></tr>
+<tr><td style="color: #0000ff">50</td><td>50</td></tr>
+</table>
 
 #### 
 
@@ -5803,7 +5818,7 @@ que deverá retornar todas as possíveis falhas de acessibilidade do
 *website*.
 
 Em 2006, Christian Heilmann (Heilmann, 2006a, 2006b) publicou um artigo
-entitulado \"*Seven Accessibility Mistakes*\" que reflete, segundo a
+entitulado "*Seven Accessibility Mistakes*" que reflete, segundo a
 percepção do autor, os erros mais comuns em acessibilidade encontrados
 na *Web*.
 
@@ -5893,16 +5908,16 @@ Desenvolvedor
 
 Redator
 
-**(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais,\
+**(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais,
 Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de
 Computação - UNICAMP)**
 
 **Avaliador:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Descrição da URL:**
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 URL:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_**
 
 **Níveis de Severidade:**
@@ -5935,14 +5950,14 @@ Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_**
 |                                  |                          |                          |
 | - No Chrome: usar o complemento  |                          |                          |
 |   *web developer* ou ir em       |                          |                          |
-|   Opções \> Configurações        |                          |                          |
-|   avançadas \> Configurações de  |                          |                          |
-|   conteúdo \> Imagens \> Não     |                          |                          |
+|   Opções > Configurações        |                          |                          |
+|   avançadas > Configurações de  |                          |                          |
+|   conteúdo > Imagens > Não     |                          |                          |
 |   mostrar nenhuma imagem.        |                          |                          |
 |                                  |                          |                          |
 | - No Firefox: usar o complemento |                          |                          |
 |   *web developer* ou ir em       |                          |                          |
-|   Opções \> Conteúdo \> Carregar |                          |                          |
+|   Opções > Conteúdo > Carregar |                          |                          |
 |   imagens automaticamente.       |                          |                          |
 +----------------------------------+--------------------------+--------------------------+
 | 2\. Desabilitar som - Verificar  |                          |                          |
@@ -5963,8 +5978,8 @@ Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_**
 |   *touchpad* ou;                 |                          |                          |
 |                                  |                          |                          |
 | - Tecla Control (CTRL) e         |                          |                          |
-|   pressionar as teclas \"+\" ou  |                          |                          |
-|   \"-\", para aumentar ou        |                          |                          |
+|   pressionar as teclas "+" ou  |                          |                          |
+|   "-", para aumentar ou        |                          |                          |
 |   reduzir o tamanho da fonte;    |                          |                          |
 |                                  |                          |                          |
 | - Tecla Control (CTRL) combinada |                          |                          |
@@ -5975,7 +5990,7 @@ Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_**
 |                                  |                          |                          |
 | - Usando o complemento *web      |                          |                          |
 |   developer* no Firefox ou no    |                          |                          |
-|   Chrome: ir em redimensionar \> |                          |                          |
+|   Chrome: ir em redimensionar > |                          |                          |
 |   escolher uma das resoluções    |                          |                          |
 |   disponíveis ou definir uma     |                          |                          |
 |   outra;                         |                          |                          |
@@ -6080,101 +6095,101 @@ operacionais.
 
 # Referências
 
-1.  Baranauskas, M. C. C., (2007)\
+1.  Baranauskas, M. C. C., (2007)
     Design Universal e Design Acessível Notas de Aula do curso MO622 -
     Fatores Humanos em Sistemas Computacionais. Universidade Estadual de
     Campinas, Instituto de Computação.
 
-2.  Baranauskas, M. C. C., (2007)\
+2.  Baranauskas, M. C. C., (2007)
     Mecanismos da Percepção Humana Notas de Aula do curso MO622 -
     Fatores Humanos em Sistemas Computacionais. Universidade Estadual de
     Campinas, Instituto de Computação.
 
-3.  Calazans, F. (2011)\
-    Biomidiologia: Pokemon\
+3.  Calazans, F. (2011)
+    Biomidiologia: Pokemon
     http://www.calazans.ppg.br/c_pok.htm
 
-4.  Chisholm, W. A., Henry, S. L., (2005)\
+4.  Chisholm, W. A., Henry, S. L., (2005)
     Interdependent components of web accessibility In Proceedings of the
     2005 international Cross-Disciplinary Workshop on Web Accessibility
     (W4a), vol. 88, pp. 31-37. ACM.
 
 5.  Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Berners-Lee, T.,
-    (1997)\
+    (1997)
     RFC 2068-Hypertext Transfer Protocol-HTTP/1.1. IETF-Network Working
     Group. http://www.ietf.org/rfc/rfc2068.txt
 
-6.  Heilmann, C., (2006a)\
-    Seven Accessibility Mistakes (part 1)\
+6.  Heilmann, C., (2006a)
+    Seven Accessibility Mistakes (part 1)
     <http://www.digital-web.com/articles/seven_accessibility_mistakes_part_1/>
 
-7.  Heilmann, C., (2006b)\
-    Seven Accessibility Mistakes (part 2)\
+7.  Heilmann, C., (2006b)
+    Seven Accessibility Mistakes (part 2)
     <http://www.digital-web.com:80/articles/seven_accessibility_mistakes_part_2/>
 
-8.  International Standards Organization (ISO)., (1998)\
+8.  International Standards Organization (ISO)., (1998)
     Ergonomic requirements for office work with display terminals
     (VDTs). Part 11: Guidance on usability Genève.
 
-9.  Melo, A. M., Baranauskas, M. C. C., (2005)\
+9.  Melo, A. M., Baranauskas, M. C. C., (2005)
     Design e Avaliação de Tecnologia Web-acessível. XXV Congresso da
-    Sociedade Brasileira da Computação. pg. 1500-1544.\
+    Sociedade Brasileira da Computação. pg. 1500-1544.
     <http://www.sbc.org.br/bibliotecadigital/download.php?paper=131>
 
-10. Nielsen, J., (2007)\
-    Breadcrumb Navigation Increasingly Useful.\
+10. Nielsen, J., (2007)
+    Breadcrumb Navigation Increasingly Useful.
     [www.useit.com/alertbox/breadcrumbs.html](http://www.useit.com/alertbox/breadcrumbs.html)
 
-11. Nielsen, J., (2000)\
+11. Nielsen, J., (2000)
     Projetando Websites Rio de Janeiro: Elsevier.
 
-12. Nielsen, J., (2007)\
-    Top Ten Mistakes in Web Design.\
+12. Nielsen, J., (2007)
+    Top Ten Mistakes in Web Design.
     <http://ww.useit.com/alertbox/9605.html>
 
-13. Nielsen, J., (1993)\
+13. Nielsen, J., (1993)
     Usability Engineering Academic Press, Cambridge, MA.
 
-14. Nielsen, J., (1999)\
-    When Bad Design Elements Become the Standard.\
+14. Nielsen, J., (1999)
+    When Bad Design Elements Become the Standard.
     <http://www.useit.com/alertbox/991114.html>
 
-15. Robertson, S., (2003)\
-    Accesskeys: Unlocking Hidden Navigation.\
+15. Robertson, S., (2003)
+    Accesskeys: Unlocking Hidden Navigation.
     <http://www.alistapart.com/articles/accesskeys/>
 
-16. Rocha, H. V. da, Baranauskas, M. C. C., (2003)\
+16. Rocha, H. V. da, Baranauskas, M. C. C., (2003)
     Design e Avaliação de Interfaces Humano-Computador Campinas,
     NIED/UNICAMP.
 
-17. Rutter, J. P., (2004)\
+17. Rutter, J. P., (2004)
     Web Heuristic Evaluation III Web Conference. State College,
     Pennsylvania.
 
-18. Silva, M. S., (2005)\
-    Componentes essenciais para Acessibilidade à Web.\
-    <http://maujor.com/w3c/wcacomponents.html>\
-    Tradução do texto \"Essential Components of Web Accessibility\", Web
+18. Silva, M. S., (2005)
+    Componentes essenciais para Acessibilidade à Web.
+    <http://maujor.com/w3c/wcacomponents.html>
+    Tradução do texto "Essential Components of Web Accessibility", Web
     Accessibility Initiative (W3C)
 
 19. Acesso Digital. http://acessodigital.net
 
-20. ASES - Avaliador e Simulador de AcessibilidadE de Sítios.\
+20. ASES - Avaliador e Simulador de AcessibilidadE de Sítios.
     <http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG/ases-avaliador-e-simulador-de-acessibilidade-sitios>
 
-21. ATAG - Authoring Tool Accessibility Guidelines 2.0.\
+21. ATAG - Authoring Tool Accessibility Guidelines 2.0.
     <http://www.w3.org:80/TR/ATAG20/>
 
-22. Centricle.com - Will the browser apply the rule(s)?\
+22. Centricle.com - Will the browser apply the rule(s)?
     <http://centricle.com/ref/css/filters/>
 
-23. Client-Side JavaScript Reference.\
+23. Client-Side JavaScript Reference.
     <http://docs.sun.com:80/source/816-6408-10/whatsnew.htm>
 
-24. Core JavaScript 1.5 Reference:Operators:Comparison Operators\
+24. Core JavaScript 1.5 Reference:Operators:Comparison Operators
     <http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:Operators:Comparison_Operators>
 
-25. Client-Side JavaScript Reference - Event Handlers.\
+25. Client-Side JavaScript Reference - Event Handlers.
     http://docs.sun.com:80/source/816-6408-10/handlers.htm
 
 26. Client-Side Scripting and HTML.
@@ -6185,7 +6200,7 @@ operacionais.
 
 28. Colorblind Web Page Filter. <http://colorfilter.wickline.org/>
 
-29. CSS Techniques for Web Content Accessibility Guidelines 1.0.\
+29. CSS Techniques for Web Content Accessibility Guidelines 1.0.
     <http://www.w3.org/TR/WCAG10-CSS-TECHS/>
 
 30. DaSilva. <http://www.dasilva.org.br/>
@@ -6193,7 +6208,7 @@ operacionais.
 31. DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004.
     www.planalto.gov.br/ccivil_03/\_ato2004-2006/2004/decreto/d5296.htm
 
-32. e-MAG - Modelo de Acessibilidade de Governo Eletrônico.\
+32. e-MAG - Modelo de Acessibilidade de Governo Eletrônico.
     https://emag.governoeletronico.gov.br/
 
 33. Gestalt Laws.
@@ -6210,7 +6225,7 @@ operacionais.
 
 38. JSLint: The JavaScript Verifier. <http://www.jslint.com/lint.html>
 
-39. Juicy Studio - Luminosity Colour Contrast Ratio Analyser.\
+39. Juicy Studio - Luminosity Colour Contrast Ratio Analyser.
     http://juicystudio.com/services/luminositycontrastratio.php
 
 40. Lomak - Light Operated Mouse and Keyboard.
@@ -6233,14 +6248,14 @@ operacionais.
 46. Todos Nós - UNICAMP acessível. <http://www.todosnos.unicamp.br/>
 
 47. The Center for Universal Design: The Principles of Universal Design,
-    Version 2.0. Raleigh, NC:North Carolina State University. (1997)\
+    Version 2.0. Raleigh, NC:North Carolina State University. (1997)
     <http://www.design.ncsu.edu/cud/about_ud/udprincipleshtmlformat.html#top>
 
 48. UAAG - User Agent Accessibility Guidelines 2.0.
     <http://www.w3.org/TR/UAAG20/>
 
 49. W3C Recommendation - Cascading Style Sheets, level 1 - Cascading
-    order.\
+    order.
     <http://www.w3.org/TR/REC-CSS1#cascading-order>
 
 50. W3Schools - CSS 2 Reference.
@@ -6258,7 +6273,7 @@ operacionais.
 55. WCAG - Web Content Accessibility Guidelines 2.2.
     <http://www.w3.org/TR/WCAG22/>
 
-56. WebAIM - Web Accessibility In Mind: \"Skip Navigation\" Links.
+56. WebAIM - Web Accessibility In Mind: "Skip Navigation" Links.
     <http://www.webaim.org/techniques/skipnav/>
 
 57. WebAnywhere. <http://webanywhere.cs.washington.edu/>
@@ -6456,9 +6471,9 @@ INAF
 
 inclusão
 
-> Segundo Maria Teresa Eglér Mantoan, \"é a nossa capacidade de entender
+> Segundo Maria Teresa Eglér Mantoan, "é a nossa capacidade de entender
 > e reconhecer o outro e, assim, ter o privilégio de conviver e
-> compartilhar com pessoas diferentes de nós\".
+> compartilhar com pessoas diferentes de nós".
 
 independência de dispositivo
 
@@ -6542,7 +6557,7 @@ síntese de voz
 tag
 
 > É uma marca utilizada em linguagens de marcação para diferenciar
-> conteúdo de marcação. Por exemplo: \<tag\>Conteúdo textual\</tag\>.
+> conteúdo de marcação. Por exemplo: <tag>Conteúdo textual</tag>.
 
 tecnologia assistiva
 
@@ -6628,59 +6643,59 @@ XML
 ## Referências do Glossário
 
 1.  Braille Virtual - Universidade de São Paulo. Disponível em:
-    \<<http://www.braillevirtual.fe.usp.br/> \>. Acesso em: 15 de
+    <<http://www.braillevirtual.fe.usp.br/> >. Acesso em: 15 de
     setembro de 2008.
 
 2.  ECMA International - Standard ECMA-262 Disponível em:
-    \<<http://www.ecma-international.org/publications/standards/Ecma-262.htm>
-    \>. Acesso em: 15 de setembro de 2008.
+    <<http://www.ecma-international.org/publications/standards/Ecma-262.htm>
+    >. Acesso em: 15 de setembro de 2008.
 
 3.  HULL, L. Accessibility: It's not just for disabilities any more.
     Interactions, New York, v. 11, n. 2, 36-41, Mar./Abr. 2004.
 
-4.  JSON. Disponível em: \<<http://www.json.org/> \>. Acesso em: 15 de
+4.  JSON. Disponível em: <<http://www.json.org/> >. Acesso em: 15 de
     setembro de 2008.
 
 5.  MELO, A. M. Design inclusivo de sistemas de informação na Web. 2007.
     xxiv, 339 p. (Doutorado em Ciência da Computação) -- Instituto de
     Computação, Universidade Estadual de Campinas, Campinas, 2007.
     Disponível em:
-    \<<http://libdigi.unicamp.br/document/?code=vtls000438900> \>.
+    <<http://libdigi.unicamp.br/document/?code=vtls000438900> >.
     Acesso em: 15 de setembro de 2008.
 
 6.  MÍDIA e Deficiência. Brasília: Andi, 2003. 184 p. (Diversidade).
     Disponível em:
-    \<<http://www.andi.org.br/_pdfs/Midia_e_deficiencia.pdf> \>. Acesso
+    <<http://www.andi.org.br/_pdfs/Midia_e_deficiencia.pdf> >. Acesso
     em: 17 de setembro de 2008.
 
 7.  Netscape - Core JavaScript Reference 1.5: Core JavaScript Reference.
     Disponível em:
-    \<<http://devedge-temp.mozilla.org/library/manuals/2000/javascript/1.5/reference/>
-    \>. Acesso em: 15 de setembro de 2008.
+    <<http://devedge-temp.mozilla.org/library/manuals/2000/javascript/1.5/reference/>
+    >. Acesso em: 15 de setembro de 2008.
 
 8.  PUPO, D. T.; MELO, A. M.; PÉREZ FERRÉS, S. (Org.) Acessibilidade:
     discurso e prática no cotidiano das bibliotecas. Campinas:
     Unicamp/Biblioteca Central Cesar Lattes, 2006. 91 p. Disponível em:
-    \<<http://styx.nied.unicamp.br:8080/todosnos/artigos-cientificos/livro_acessibilidade_bibliotecas.pdf>
-    \>. Acesso em: 18 de setembro de 2008.
+    <<http://styx.nied.unicamp.br:8080/todosnos/artigos-cientificos/livro_acessibilidade_bibliotecas.pdf>
+    >. Acesso em: 18 de setembro de 2008.
 
 9.  ROCHA, H. V.; BARANAUSKAS, M. C. Design e Avaliação de Interfaces
     Humano-Computador. Campinas: Nied-Unicamp, 2003. 244 p. Disponível
-    em: \<<http://www.nied.unicamp.br/download_livro.html> \>. Acesso
+    em: <<http://www.nied.unicamp.br/download_livro.html> >. Acesso
     em: 17 de setembro de 2008.
 
 10. WebAIM - Web Accessibility in Mind. Creating Accessible Flash
-    Content. Disponível em: \< <http://www.webaim.org/techniques/flash/>
-    \>. Acesso em: 3 de outubro de 2008.
+    Content. Disponível em: < <http://www.webaim.org/techniques/flash/>
+    >. Acesso em: 3 de outubro de 2008.
 
 11. W3C - World Wide Web Consortium. Web Accessibility Guidelines 1.0 -
     Apendix B. 1999. Disponível em:
-    \<<http://www.w3.org/TR/WCAG10/#glossary> \>. Acesso em: 15 de
+    <<http://www.w3.org/TR/WCAG10/#glossary> >. Acesso em: 15 de
     setembro de 2008.
 
 12. W3C - World Wide Web Consortium. Web Accessibility Guidelines 2.0 -
     Apendix A. 2008. Disponível em:
-    \<<http://www.w3.org/TR/WCAG20/#glossary> \>. Acesso em: 15 de
+    <<http://www.w3.org/TR/WCAG20/#glossary> >. Acesso em: 15 de
     setembro de 2008.
 
 [^1]: Pesquisa apoiada até março de 2009 pela Coordenação de
