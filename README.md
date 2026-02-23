@@ -1260,7 +1260,9 @@ aspas dentro de um atributo.
 
 ### Exemplo de atributo HTML com aspas simples:
 
+```html
 alt=\"Foto de Anderson \'Spyder\' Silva\"
+```
 
 Comentários são utilizados para demarcar código que não será mostrado
 nos navegadores. Procure utilizar comentários somente onde for
@@ -1270,10 +1272,12 @@ pois isto pode causar erros.
 
 ### Exemplo de comentário em HTML:
 
-\<p\>\
-Texto mostrado\
-\<!\-- Texto não mostrado \--\>\
-\</p\>
+```html
+<p>
+Texto mostrado
+<!-- Texto não mostrado -->
+</p>
+```
 
 #### 
 
