@@ -537,6 +537,15 @@ Vídeo: Acessibilidade - Siga esta ideia. Fonte: CONADE - Conselho
 Nacional dos Direitos das Pessoas Portadoras de Deficiência.
 https://www.youtube.com/watch?v=IXPgg04_Evw
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Design Universal e Design Acessível
 
 O *Design* Universal é um conceito bastante polêmico, dada a sua
@@ -577,6 +586,14 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 *Design* Acessível foca nos princípios que estendem o processo de
 *design* padrão para aquelas pessoas com algum tipo de limitação".
 (Vanderheinden, G. C., 1992, tradução de (Baranauskas, 2007))
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Tecnologias Assistivas
 
@@ -614,6 +631,15 @@ Barra de acessibilidade do *website*.
 movimentos da cabeça.
 
 Versão em alto contraste.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Princípios para o desenvolvimento Web acessível
 
@@ -737,6 +763,15 @@ integração de tecnologias. São eles:
 
     - Integração Usabilidade - Acessibilidade.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Padronização de códigos HTML
 
 Como em qualquer linguagem de programação, sugerimos que todos que
@@ -793,6 +828,15 @@ Texto mostrado
 #### Código renderizado
 
 Texto mostrado
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Estrutura de documentos HTML
 
@@ -927,6 +971,15 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 </html>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Âncoras e hiperlinks - A tag HTML `<a>`
 
 As *tags* `<a>` e `</a>` são utilizadas para definir um *hiperlink*.
@@ -976,6 +1029,15 @@ O atributo *title* é diferente da *tag* `<title>`. Aqui o atributo
 indica ao usuário o que há na página/âncora que o *hiperlink* remete, já
 a *tag* `<title>` se refere ao título da página.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Mapeamentos - A tag HTML `<map>`
 
 A *tag* `<map>` é utilizada para definir diferentes *links* para
@@ -988,6 +1050,15 @@ de tela.
 
 No entanto, se utilizar algum tipo de mapeamento, forneça também os
 mesmos *hiperlinks* em formato textual.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 
@@ -1038,7 +1109,15 @@ Usabilidade
 > de maneira que eles atinjam seus objetivos com eficiência e
 > satisfação.
 
- 
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Subtópicos - As tags HTML `<h1>` a `<h6>`
 
@@ -1064,6 +1143,15 @@ Note que estas *tags* não devem ser utilizadas com o intuito formatar
 algum conteúdo textual, elas devem indicar uma hierarquia no documento.
 Dê preferência sempre à formatação via CSS.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Tabulação - O atributo HTML tabindex
 
 Note que a ordem padrão da tabulação é a que os elementos aparecem no
@@ -1081,6 +1169,15 @@ Além da tabulação em HTML, também é necessário verificar se elementos
 gerados em outras linguagens, como Flash ou Silverlight, oferecem a
 tabulação em uma ordem que faça sentido ao usuário.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Frames - A tag HTML `<frame>`
 
 *Tags* `<frame>` são utilizadas juntamente com *tags* `<frameset>` para
@@ -1097,6 +1194,15 @@ diferentes navegadores e comumente causam problemas de usabilidade.
 Folhas de estilo CSS são uma boa alternativa aos *frames* e eliminam
 muitos desses problemas.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Elementos de bloco e elementos de linha
 
 Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
@@ -1109,6 +1215,15 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 
 - **Formatação** - elementos de bloco começam em novas linhas, o que não
   acontece com elementos de linha.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Agrupamento de elementos de bloco - A tag HTML `<div>`
 
@@ -1128,6 +1243,15 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"</span>
 </div>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Agrupamento de texto - A tag HTML `<span>`
 
 A *tag* `<span>` é um elemento de linha utilizado para encapsular um
@@ -1146,6 +1270,15 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"
 </p>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Quebras de linha - A tag HTML `<br>`
 
 A *tag* `<br>` define uma quebra de linha. Ela não possui *tag* de
@@ -1162,6 +1295,15 @@ Linha 1<br>Linha 2<br>Linha 3
 #### Código renderizado
 
 Linha 1<br>Linha 2<br>Linha 3
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Parágrafos - A tag HTML `<p>`
 
@@ -1187,6 +1329,15 @@ parágrafos **não** dever ser justificado.
 <p>Parágrafo 1. Linha 1<br>Parágrafo 1. Linha 2</p>
 <p>Parágrafo 2.</p>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Idiomas - O atributo HTML lang
 
 Para qualquer mudança de idioma no conteúdo textual utilize o atributo
@@ -1208,6 +1359,15 @@ Outra funcionalidade deste atributo é que usuários que lerem o conteúdo
 em Braille contarão com as marcações adequadas e abreviações para cada
 linguagem.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Textos sobrescritos - A tag HTML `<sup>`
 
 As *tags* `<sup>` e `</sup>` são utilizadas para demarcar conteúdo
@@ -1224,6 +1384,15 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 #### Código renderizado
 
 <p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Textos subscritos - A tag HTML `<sub>`
 
@@ -1242,6 +1411,15 @@ de um elemento químico.
 #### Código renderizado
 
 <p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Fontes - A tag HTML `<font>`
 
@@ -1268,6 +1446,15 @@ se adequa aos novos parâmetros.
 <font size="+1">...</font>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Ênfase no texto - As tags HTML `<em>` e `<strong>`
 
 As *tags* `<em>` e `<strong>` são utilizadas para dar ênfase e
@@ -1292,6 +1479,15 @@ de várias formas, inclusive via leitor de telas.
 <p><strong>A grande produção</strong> de <em>adrenalina</em>.</p>
 ....
 <p><strong>Não</strong> use <em>clique aqui</em>.</p>
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Abreviações e siglas - A tags HTML `<abbr>`
 
@@ -1325,6 +1521,15 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 
 <abbr title="smiley">:-)</abbr>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Cores - Os atributos HTML color e bgcolor
 
 O atributo *color* é utilizado para definir a cor de texto e o atributo
@@ -1351,6 +1556,15 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 </table>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Réguas horizontais - A tag HTML `<hr>`
 
 A *tag* `<hr>` não possui *tag* de fechamento. Ela define uma régua
@@ -1370,6 +1584,15 @@ conteúdo.
 <p>Texto do primeiro bloco.</p>
 <hr>
 <p>Texto do segundo bloco.</p>
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Textos alternativos
 
@@ -1391,6 +1614,15 @@ recurso que use um mecanismo perceptual diferente, tal como áudio.
 Se o elemento for somente para decoração ou estiver invisível na
 página - por exemplo: bordas e fundos de tela -, então não deve ser
 criado texto alternativo.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Imagens - A tag HTML `<img>`
 
@@ -1426,6 +1658,15 @@ CSS.
 
 Por fim, não utilize imagens animadas a não ser que o usuário tenha uma
 forma de interromper o movimento.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Elementos multimídia - A tag HTML `<object>`
 
@@ -1465,6 +1706,15 @@ aspectos de usabilidade.
 ...
 </object>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Formulários - A tag HTML `<form>`
 
 As *tags* `<form>` e `</form>` são utilizadas para delimitar quais
@@ -1499,6 +1749,15 @@ Note que se o formulário utilizar dados que não são caracteres (e.g.,
 
 O atributo *name* é utilizado para nomear o formulário para que ele
 possa ser referenciado dentro da página.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Campos de entrada de dados - A tag HTML `<input>`
 
@@ -1536,6 +1795,15 @@ atributo *checked* com valor *checked*.
 <input type="text" id="ex24_idade" name="campo_idade" value="18"/>
 <input type="submit" id="ex24_enviar" name="botao_enviar" value="Enviar"/>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Rótulos - A tag HTML `<label>`
 
 Sempre utilize a *tag* `<label>` para associar um rótulo ao seu
@@ -1565,6 +1833,15 @@ referência.
 <label for="ex25_nome">* Nome:</label>
 <input type="text" name="nome" id="ex25_nome" value="João"/>
 ­­­­­­­­­­­
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Caixas de seleção - A tag HTML `<select>`
 
@@ -1611,6 +1888,15 @@ identificação.
 </select>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Campos de texto - A tag HTML `<textarea>`
 
 As *tags* `<textarea>` e `</textarea>` delimitam uma área de entrada de
@@ -1626,6 +1912,15 @@ A tag textarea permite a criação de campos de entrada de texto de várias
 linhas.
 </textarea>
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
 
@@ -1654,6 +1949,15 @@ formulários correlacionados.
 <input type="text" name="idade" id="ex28_idade" value="18" />
 </fieldset>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Rótulos para fieldsets - A tag HTML `<legend>`
 
 A *tag* `<legend>` é utilizada para atribuir um rótulo a um
@@ -1680,6 +1984,15 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 <label for="ex29_idade">Idade:</label>
 <input type="text" name="idade" id="ex29_idade" value="" />
 </fieldset>
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
 
@@ -1821,6 +2134,15 @@ legenda de uma tabela.
 </tr>
 </table>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Validação de código HTML
 
 Para validar páginas HTML, o W3C disponibiliza o Markup Validation
@@ -1828,6 +2150,15 @@ Service (http://validator.w3.org/) que é uma ferramenta *online*, onde
 basta informar a URL, fazer *upload* do arquivo ou informar o código
 diretamente, para receber uma relação de possíveis erros, segundo a
 versão do HTML que esteja sendo utilizada na página.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Sintaxe CSS
 
@@ -1913,6 +2244,15 @@ propriedades utilizadas.
 <div class="destaque">Bloco com com fundo verde.</div>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Inclusão de código CSS
 
 CSS permite que você defina a forma de exibição dos elementos de
@@ -1974,6 +2314,15 @@ Este é um parágrafo
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Estrutura de documentos CSS
 
 Caso sejam feitas várias definições de estilo sobre um mesmo elemento,
@@ -2004,6 +2353,15 @@ div p strong { color: #0000ff; } /* id=0 classe=0 tag=3 -> peso = 3 */
 strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 #cabecalho { color: #336699; } /* id=1 classe=0 tag=0 -> peso = 100 */
 ````
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Padronização de código CSS
 
@@ -2068,6 +2426,15 @@ são compatíveis com os navegadores usados. Exemplos de atalhos que
 funcionam em navegadores mais antigos são: *margin*, *padding* e
 *border*.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Prioridade para estilos do usuário
 
 O operador *!important* é usado em CSS para forçar a aplicação de um
@@ -2075,6 +2442,15 @@ determinado estilo. No entanto, ele descarta toda a estrutura e pesos de
 seletores aplicados. Dessa forma, não use *!important*, pois ele é um
 indicativo que há problemas na estruturação do código CSS, uma vez que
 foi necessário forçar a aplicação de um determinado estilo.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Unidades de medida relativas - Unidades em CSS: Porcentagem e em
 
@@ -2096,6 +2472,15 @@ Unidades de medida fixa (e.g., px) devem ser usadas somente quando o
 elemento a ser definido contiver algo com medida fixa (e.g., imagens não
 vetoriais).
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Conteúdos gerados pelo CSS: os pseudo-elementos before e after
 
 A geração de conteúdo utilizando CSS é uma característica do CSS nível
@@ -2116,6 +2501,15 @@ igual a cor de fundo. Conforme comentado anteriormente, verifique sempre
 a compatibilidade das propriedades e elementos que deseja utilizar com
 os navegadores utilizados no seu *website*. A referência sugerida é
 Referência de CSS do W3 Schools.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Listas ordenadas utilizando CSS
 
@@ -2191,6 +2585,15 @@ linguagens</span></li>
 lista</span></li>
 </ol>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Réguas - Alterando a aparência com CSS
 
 No HTML as réguas horizontais (`<hr>`) são indicadas para separar e
@@ -2225,6 +2628,15 @@ hr:before { content: attr(title); }
 <hr title="Fim das instruções" class="reguaDeInstrucoes">
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Bordas utilizando CSS
 
 Através das propriedades oferecidas pelo CSS é possível atribuir vários
@@ -2245,6 +2657,15 @@ div {
     border-left: 0.3em double #cccccc;
 }
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Posicionamento utilizando CSS
 
@@ -2287,6 +2708,15 @@ table { margin-top: 0.5em; margin-bottom: 0.5em; }
 table tr td { padding: 0.1em; }
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Fontes utilizando CSS
 
 Sempre utilize uma família de fonte genérica, pois elas estão presentes
@@ -2305,6 +2735,15 @@ antigos a propriedade *text-transform* não funciona quando usada dentro
 de atalho. No entanto, esta é uma situação bastante específica. Como
 regra geral mantenha seu código válido e faça com que seus usuários não
 sejam prejudicados por problemas de compatibilidade dos navegadores.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Efeitos em texto utilizando CSS
 
@@ -2339,6 +2778,15 @@ utilizam algumas informações em letras maiúsculas. Agora como seria a
 alteração dessas informações para minúsculas se as páginas não
 utilizassem CSS?
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Formatação e posicionamento de texto utilizando CSS
 
 Utilize CSS para alcançar a formatação que deseja. Não utilize espaços
@@ -2371,6 +2819,15 @@ em.mensagem { letter-spacing: 150%; text-transform: uppercase; }
 Por fim, em vez de utilizar a *tag* `<center>` para controlar o
 alinhamento de texto, use a respectiva propriedade de CSS da seguinte
 forma: text-align: center.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Utilizando texto em vez de imagem
 
@@ -2410,6 +2867,15 @@ a.paginacao {
 <p><a href="pagina_2.html" class="paginacao">Próxima página</a></p>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Atributos aurais com CSS
 
 As propriedades relacionadas aos atributos aurais fazem parte do CSS
@@ -2428,6 +2894,15 @@ Aural do W3 Schools.
 ```css
 h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Cores com CSS
 
@@ -2458,6 +2933,15 @@ contextualizar quaisquer informações. Uma forma simples de testar o
 contraste de sua página *Web* é imprimir a página em preto e branco,
 incluindo imagens e cores de fundo.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Validação de folhas de estilo CSS
 
 Para validar folhas de estilo CSS, o W3C disponibiliza o CSS Validation
@@ -2465,6 +2949,15 @@ Service (http://jigsaw.w3.org/css-validator/) que é uma ferramenta
 *online*, em que basta informar a URL, fazer *upload* do arquivo ou
 informar o código diretamente, para receber uma relação de possíveis
 erros, segundo a versão do CSS que esteja sendo utilizada na página.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações para uso do JavaScript
 
@@ -2492,6 +2985,15 @@ forma de adicionar determinadas funcionalidades.
 **JavaScript deve ser usado de maneira redundante e oferecer
 funcionalidades adicionais**. Ele não deve ser a única tecnologia usada
 para oferecer funcionalidades básicas de um *website*.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Inclusão de código JavaScript
 
@@ -2529,6 +3031,15 @@ A inserção de *scripts* externos pode ser feita da seguinte forma:
 Note que arquivos externos não precisam iniciar com os comandos
 utilizados nos *scripts* internos, pois o arquivo externo só será
 interpretado se o navegador suportar JavaScript.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Declaração de variáveis em JavaScript
 
@@ -2576,6 +3087,15 @@ function Valida(pa,pb) {
 };
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Ordem da declaração de variáveis e métodos em JavaScript
 
 A declaração de métodos e variáveis deve ser ordenada de forma que eles
@@ -2586,6 +3106,15 @@ Quando não respeitada a ordem de declaração e uso de variáveis e métodos
 você fica sujeito a problemas de compatibilidade entre versões de
 JavaScript e diferentes formas de interpretação do código realizadas
 pelos navegadores.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Quebras de linha no código JavaScript
 
@@ -2612,6 +3141,15 @@ x = 2;
 //--></script>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Cuidados com versões da linguagem JavaScript
 
 Não utilize versão da linguagem na declaração do *script*. Diferentes
@@ -2623,6 +3161,15 @@ corretamente em futuras versões, desde que suportem o objeto utilizado.
 Se não se sentir seguro em verificações deste tipo ou se preferir não
 ter que fazê-la, pense na possibilidade de utilizar bibliotecas de
 *script* que já façam esse tipo de verificação para você.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Detecção de navegador, objetos e métodos utilizando JavaScript
 
@@ -2688,6 +3235,15 @@ if ( window.focus ){
 //--></script>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Conversão de tipo de dados em JavaScript
 
 Operadores de comparação estritos ( === ou !== ) não devem ser
@@ -2745,6 +3301,15 @@ function getLinha(pval){
 }
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Manipuladores de evento em HTML
 
 A partir da versão 4.0 o HTML possui recursos para disparar eventos por
@@ -2772,6 +3337,15 @@ function selecionou(porigem) {
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Desvios e laços condicionais em JavaScript
 
 De acordo com a especificação da linguagem, as chaves não são
@@ -2797,6 +3371,15 @@ if ( ... ){
 }
 //--></script>
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Escrita de HTML via JavaScript
 
@@ -2830,6 +3413,15 @@ document.write( html_code ) ;
 //--></script>
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Aspas simples e duplas em JavaScript
 
 Conteúdo de texto deve estar sempre entre aspas duplas (") e todas
@@ -2861,6 +3453,15 @@ código JavaScript estiver dentro de um atributo de uma tag HTML.
 ...<a href="./" onClick="alert( function( 'conteúdo string' ) );">...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # ETAGO em JavaScript
 
 Deve-se escapar a barra de qualquer ETAGO (</) que estiver sendo
@@ -2882,6 +3483,15 @@ document.write( "<p>Teste</p>" ) ;
 document.write( "<p>Teste<\/p>" ) ;
 //--></script>
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Escrevendo a palavra reservada script
 
@@ -2909,6 +3519,15 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Manipulação de CSS utilizando JavaScript
 
 A combinação de JavaScript, CSS e HTML é muito utilizada em *websites*.
@@ -2930,6 +3549,15 @@ name_element.style.borderColor = "#000000" ;
 //--></script>
 ...
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Navegação utilizando JavaScript
 
@@ -3030,6 +3658,15 @@ function open_close( id_array ){
 open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 //--></script>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Validação de formulários utilizando JavaScript
 
 Uma das primeiras funções mais interessantes do uso de JavaScript na Web
@@ -3069,6 +3706,15 @@ function verificarInteiro( val ){
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Acesso a conteúdo e redundância utilizando JavaScript
 
 A execução de *scripts* pode ser desabilitada por várias razões tais
@@ -3090,6 +3736,15 @@ document.write("Texto escrito via javascript!");
 </noscript>
 ...
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Gráficos e animações utilizando JavaScript
 
@@ -3176,7 +3831,14 @@ setTimeout( "play_caption()", 1000 ) ;
 ...
 ```
 
-#### 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Manipulação de HTML utilizando JavaScript
 
@@ -3195,6 +3857,15 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 //--></script>
 ...
 ```
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # AJAX
 
@@ -3283,6 +3954,15 @@ resposta do servidor tiver sido concluída. Neste caso, o conteúdo
 retornado (*responseText*) é inserido diretamente no elemento `<div>`
 dos resultados.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Manipulação de HTML utilizando JavaScript
 
 Para alterar conteúdo de *tags* HTML, a maneira mais simples é utilizar
@@ -3301,12 +3981,30 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Verificação de código JavaScript
 
 Para validar código JavaScript, pode-se utilizar o JSLint
 (http://www.jslint.com/) que é uma ferramenta *online*, em que basta
 informar a informar o código diretamente, para receber uma relação de
 possíveis erros e recomendações segundo boas práticas.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Reaproveitamento de Código
 
@@ -3452,6 +4150,15 @@ function isFormFilled( formObject ){
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # O que é Usabilidade?
 
 Resumidamente, um produto tem boa usabilidade se pode ser utilizado por
@@ -3520,6 +4227,15 @@ para atingir objetivos específicos com eficácia, eficiência e satisfação
 em um contexto específico de uso"* (International Standards
 Organization (ISO), 1998).
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Integração Usabilidade - Acessibilidade
 
 A integração de acessibilidade e usabilidade deve ser buscada, pois a
@@ -3536,6 +4252,15 @@ usabilidade também endereçam alguns aspectos relacionados à
 acessibilidade, por exemplo, visibilidade do status do sistema,
 compatibilidade do sistema com o mundo real, reconhecimento ao invés de
 relembrança.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Os 10 maiores erros em webdesign
 
@@ -3660,6 +4385,15 @@ da lista de Nielsen (Nielsen, 2007):
     produtos ou serviços, não fornecer taxa de juros, não fornecer preço
     total a prazo, etc.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Inspeção Heurística de Usabilidade
 
 Muitas das ferramentas e metodologias para avaliação de *websites* são
@@ -3689,6 +4423,15 @@ comuns aos avaliadores durante o processo de desenvolvimento e,
 portanto, com o passar do tempo e com a experiência eles agregam as
 heurísticas ao conjunto de premissas a serem seguidas naturalmente
 durante o *design*.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Heurística genéricas
 
@@ -3742,6 +4485,15 @@ contida em (Rocha e Baranauskas, 2003).
     ser usado sem documentação, é necessário prover *help* e
     documentação. Essas informações devem ser fáceis de encontrar,
     focalizadas na tarefa do usuário e não muito extensas.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Usabilidade na Web
 
@@ -4001,6 +4753,15 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </tr>
 </table>
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Formulário de Inspeção Heurística na Web
 
 | Campo | Dado da avaliação |
@@ -4052,6 +4813,15 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 | Meta tags                                                             |               |                |
 | Copyright                                                             |               |                |
 | Informações para Contato                                              |               |                |
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Acessibilidade no W3C
 
@@ -4118,6 +4888,15 @@ Os quatro princípios são:
     conteúdo permaneça acessível à medida que navegadores e tecnologias
     evoluem.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Modelo de Acessibilidade Brasileiro - e-MAG
 
 Como mencionado no tópico "O que é Acessibilidade?", por meio do
@@ -4134,6 +4913,15 @@ as diretrizes do e-MAG e a simulação de restrições, tais como, as
 visuais. Outra ferramenta que oferece validação segundo as diretrizes do
 e-MAG é o (DaSilva).
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Recomendações de Acessibilidade para: Utilização de novas tecnologias
 
 Ao utilizar novas tecnologias deve-se projetar as páginas *Web* de forma
@@ -4143,6 +4931,15 @@ normalmente. A principal maneira para garantir a utilização de seu
 *website* em diversos dispositivos é o atendimento aos padrões e
 recomendações de tecnologias *Web*. Nesse cenário, a W3C é a principal
 organização para a definição de padrões.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações de Acessibilidade para: Portabilidade
 
@@ -4157,6 +4954,15 @@ desafios está em possibilitar que o percurso possível na tela do
 computador, que é bidimensional, seja feito em mídias que contam com
 apenas uma dimensão (e.g., áudio).
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Bloqueio da navegação por teclado
 
 Usuários devem poder navegar por todos os elementos do *website* usando
@@ -4170,6 +4976,15 @@ navegação por teclado, por exemplo:
 - *Breadcrumbs*;
 
 - Atalhos.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações de Acessibilidade para: Skip Links
 
@@ -4209,6 +5024,15 @@ Para evitar que o *skip link* afete a estética da página, muitos
 utilizando CSS). Esta solução resolve o problema para usuários de
 leitores de telas. Entretanto, ela não atende usuários que navegam na
 *Web* via teclado e que não usam leitores de tela.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações de Acessibilidade para: Breadcrumbs
 
@@ -4265,6 +5089,15 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 #### Código renderizado
 
 <a href="/acessibilidade/">Acessibilidade</a> > <a href="/acessibilidade/web/">Acessibilidade na Web</a> > <a href="/acessibilidade/web/navegação/">Navegação</a> > Breadcrumbs
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações de Acessibilidade para: Teclas de Atalho
 
@@ -4330,6 +5163,15 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 ...
 ```
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Recomendações de Acessibilidade para: Legibilidade
 
 Segundo Nielsen, *"todo o resto - design, velocidade, conteúdo - falha
@@ -4362,6 +5204,15 @@ deficiência visual, pois, por exemplo, com a popularização de conexão
 com a Internet em automóveis, será possível que um motorista escute o
 conteúdo de um *website* enquanto dirige seu carro e está com a visão
 ocupada.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Escrita de textos para a Web
 
@@ -4403,6 +5254,15 @@ os idosos. Dessa maneira, a escolha de texto e termos utilizados deve
 ser realizada de maneira cuidadosa para ser adequada ao público
 esperado.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Recomendações de Acessibilidade para: Contexto
 
 É um desafio manter o usuário sempre informado sobre onde ele está e,
@@ -4440,6 +5300,15 @@ Exemplos da importância da definição de contexto:
   via teclas de atalho, um trecho do conteúdo. Neste caso, a página deve
   conter indicações de qual é o contexto do trecho acessado.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Recomendações de Acessibilidade para: Agrupamento Espacial
 
 A tolerância de usuários de páginas *Web* é baixa, dada a variedade de
@@ -4470,6 +5339,15 @@ elementos de uma página HTML. Exemplos seriam:
 - por meio de CSS, poderia ser atribuída cor de fundo e contorno para
   identificar elementos de menu.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Recomendações de Acessibilidade para: Ícones
 
 Pessoas não letradas ou com baixo letramento têm dificuldade para
@@ -4492,6 +5370,15 @@ uso for necessário, deve-se verificar se uma representação simples pode
 substituí-lo e realizar testes com usuários potenciais, considerando a
 facilidade de os usuários relembrarem a função do signo em utilizações
 futuras.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações de Acessibilidade para: Redundância
 
@@ -4563,6 +5450,15 @@ sistema operacional do usuário; e o *Colorblind Web Page Filter*
 qualquer e a visualize utilizando as cores que um usuário com
 determinado tipo de deficiência enxergaria.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Recomendações de Acessibilidade para: Recursos de Áudio
 
 A redundância nas formas de apresentação é uma palavra-chave quando se
@@ -4595,6 +5491,15 @@ Exemplos de utilização desse tipo de recurso por parte dos navegadores
 ocorrem quando é disparada a função *alert* de JavaScript ou quando um
 *download* é concluído. Note que sempre deve haver meios para que o
 usuário possa desativar estes recursos.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Recomendações de Acessibilidade para: Controle do Usuário
 
@@ -4629,6 +5534,15 @@ preenchimento de um formulário, etc. Para esses casos, usuários devem
 poder: estender ou desligar a opção (exceto em casos em que isso possa
 comprometer a segurança do usuário ou do *website*).
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Técnicas para encontrar conteúdo em um website
 
 A quantidade de informações disponíveis nos *websites* cresce
@@ -4656,6 +5570,15 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
   provedores de serviço de busca que permitem indexar seu conteúdo e
   obter melhores resultados do que em uma implementação local e.g.
   Google Custom Search Engine.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Avaliação Simplificada de Acessibilidade
 
@@ -4749,6 +5672,15 @@ solicitações do cliente, ele deve se colocar na posição de especialista
 na área e estabelecer alguns limites e requisitos que devem ser
 atendidos na construção do *website*.
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Formulário para Avaliação Simplificada de Acessibilidade
 
 **(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais, Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de Computação - UNICAMP)**
@@ -4803,6 +5735,15 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | --- | --- | --- |
 | Comentários dos resultados   |   |   |
 
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
+
 # Avaliação de acessibilidade utilizando ferramentas semiautomáticas
 
 Ferramentas semiautomáticas de avaliação de acessibilidade na *Web*
@@ -4835,6 +5776,15 @@ e recomendações que não se restringem à codificação válida. Em
 avaliação manual que pode ser bastante útil para identificar os
 problemas de acessibilidade que não se restringem às diretrizes
 operacionais.
+
+| Ficha | |
+| --- | --- |
+| Tema | Acessibilidade | 
+| Relevância para designers | Alta |
+| Relevância para desenvolvedores | Alta |
+| Relevância para redatores | Alta |
+| Ferramental utilizado | WAI |
+| Resultados esperados | Definição de conceitos |
 
 # Referências
 
