@@ -1052,9 +1052,10 @@ chamado de *skip link*.
 
 #### Código renderizado
 
-[Ir para conteúdo principal]{.underline}
+<a href="#conteudo">Ir para conteúdo principal</a>
 ...
-Início do conteúdo
+<a id="conteudo">Início do conteúdo</a>
+
 
 O atributo *accesskey* indica um atalho pelo qual o usuário poderá
 acessar um *hiperlink* apenas combinando uma tecla especial (e.g., ALT)
