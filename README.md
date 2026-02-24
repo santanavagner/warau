@@ -4568,117 +4568,117 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Flexibilidade e eficiência de uso                    |
-+=========================+=================================+=========================+
-| Heurística Genérica -7. Flexibilidade e eficiência de uso                           |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Modos de interação      | O *website* permite que o       | O *website* oferece     |
-|                         | usuário interaja de mais de um  | somente um modo de      |
-|                         | modo (e.g., passo a passo,      | interação.              |
-|                         | atalhos), de forma a se adaptar |                         |
-|                         | da melhor forma às preferências |                         |
-|                         | do usuário.                     |                         |
-+-------------------------+---------------------------------+-------------------------+
-|                         |                                 |                         |
-+-------------------------+---------------------------------+-------------------------+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Flexibilidade e eficiência de uso</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica -7. Flexibilidade e eficiência de uso</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Modos de interação</td>
+ <td>O website permite que o usuário interaja de mais de um modo (e.g., passo a passo, atalhos), de forma a se adaptar da melhor forma às preferências do usuário.</td>
+ <td>O website oferece somente um modo de interação.</td>
+</tr>
+</table>
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Estética e design minimalista                        |
-+=========================+=================================+=========================+
-| Heurística Genérica - 8. Estética e design minimalista                              |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Background              | *Background* é muito atrativo,  | *Background* atrapalha  |
-|                         | consistente entre as páginas,   | a legibilidade do       |
-|                         | incrementa o tema ou propósito  | *website*.              |
-|                         | do website e não atrapalha a    |                         |
-|                         | legibilidade.                   |                         |
-+-------------------------+---------------------------------+-------------------------+
-| Cor                     | Cores de background, fontes,    | Cores de *background*,  |
-|                         | links formam uma paleta de      | fontes, links tornam o  |
-|                         | cores agradável, não atrapalham | conteúdo difícil de     |
-|                         | o conteúdo e são consistentes   | compreender ou distrai  |
-|                         | entres as páginas do *website*. | o leitor.               |
-+-------------------------+---------------------------------+-------------------------+
-| Gráficos                | Gráficos são relacionados ao    | Gráficos são escolhidos |
-|                         | tema/propósito do *website*,    | randomicamente, de      |
-|                         | são conscientemente editados,   | baixa qualidade ou      |
-|                         | de alta qualidade e aumentam o  | distraem o usuário.     |
-|                         | interesse e compreensão do      |                         |
-|                         | leitor.                         |                         |
-+-------------------------+---------------------------------+-------------------------+
-| Layout                  | O *website* tem um layout       | As páginas possuem uma  |
-|                         | atrativo e usável. É fácil de   | aparência desordenada   |
-|                         | localizar todos os elementos    | ou confusa. É           |
-|                         | importantes. Espaço em branco,  | frequentemente difícil  |
-|                         | elementos gráficos e            | localizar elementos     |
-|                         | alinhamento são utilizados para | importantes.            |
-|                         | organizar o material.           |                         |
-+-------------------------+---------------------------------+-------------------------+
-| Fontes                  | Fontes são consistentes, fáceis | Uma grande variedade de |
-|                         | de ler e os tamanhos variam     | fontes, estilos e       |
-|                         | conforme os títulos e texto. O  | tamanhos de fontes são  |
-|                         | uso de estilos de fonte (e.g.,  | utilizados.             |
-|                         | itálico, negrito, sublinhado) é |                         |
-|                         | consistente e melhora a         |                         |
-|                         | legibilidade.                   |                         |
-+-------------------------+---------------------------------+-------------------------+
 
-+--------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Ajudar os usuários a reconhecer, diagnosticar e       |
-| corrigir erros                                                                       |
-+=========================+==================================+=========================+
-| Heurística Genérica - 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir    |
-| erros                                                                                |
-+-------------------------+----------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                        | **Incompleto**          |
-+-------------------------+----------------------------------+-------------------------+
-| Mensagens de erros      | Como o comportamento de websites | As mensagens de erro    |
-| compreensíveis          | é bastante sensível a            | são apresentadas da     |
-|                         | navegadores, sistemas            | mesma forma que são     |
-|                         | operacionais e configurações do  | geradas. Isso torna sua |
-|                         | usuário. O website apresenta     | compreensão restrita a  |
-|                         | mensagens de erro que tratam as  | especialistas da área.  |
-|                         | mensagens geradas externamente   |                         |
-|                         | apresentando: descrição do erro, |                         |
-|                         | origem do erro e procedimento    |                         |
-|                         | para solucioná-lo.               |                         |
-+-------------------------+----------------------------------+-------------------------+
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Help e documentação                                  |
-+=========================+=================================+=========================+
-| Heurística Genérica - 10. Help e documentação                                       |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Meta *tags*             | As meta *tags* utilizadas       | As meta *tags* estão    |
-|                         | descrevem muito bem a           | faltando. O conteúdo da |
-|                         | compreensão do material         | página não é refletido  |
-|                         | incluído na página. Descrição,  | em nenhuma meta tag.    |
-|                         | título, autor, palavras-chave,  |                         |
-|                         | classificação, tipo de recurso, |                         |
-|                         | entre outros, refletem          |                         |
-|                         | precisamente o conteúdo das     |                         |
-|                         | páginas.                        |                         |
-+-------------------------+---------------------------------+-------------------------+
-| Copyright               | Todo material utilizado de      | Materiais de fontes     |
-|                         | outras fontes é devidamente     | externas não são        |
-|                         | referenciado e citado.          | propriamente            |
-|                         |                                 | documentados ou o       |
-|                         |                                 | material foi utilizado  |
-|                         |                                 | sem permissão da fonte. |
-+-------------------------+---------------------------------+-------------------------+
-| Informações para        | Cada página contém informação   | Várias páginas não      |
-| Contato                 | de autoria, data de             | contêm informação de    |
-|                         | publicação/última data de       | autoria, data de        |
-|                         | edição.                         | publicação/última data  |
-|                         |                                 | de edição.              |
-+-------------------------+---------------------------------+-------------------------+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Estética e design minimalista</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 8. Estética e design minimalista</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Background</td>
+ <td>Background é muito atrativo, consistente entre as páginas, incrementa o tema ou propósito do website e não atrapalha a legibilidade.</td>
+ <td>Background atrapalha a legibilidade do website.</td>
+</tr>
+<tr>
+ <td>Cor</td>
+ <td>Cores de background, fontes, links formam uma paleta de cores agradável, não atrapalham o conteúdo e são consistentes entres as páginas do website.</td>
+ <td>Cores de background, fontes, links tornam o conteúdo difícil de compreender ou distrai o leitor.</td>
+</tr>
+<tr>
+ <td>Gráficos</td>
+ <td>Gráficos são relacionados ao tema/propósito do website, são conscientemente editados, de alta qualidade e aumentam o interesse e compreensão do leitor.</td>
+ <td>Gráficos são escolhidos randomicamente, de baixa qualidade ou distraem o usuário.</td>
+</tr>
+<tr>
+ <td>Layout</td>
+ <td>O website tem um layout atrativo e usável. É fácil de localizar todos os elementos importantes. Espaço em branco, elementos gráficos e alinhamento são utilizados para organizar o material.</td>
+ <td>As páginas possuem uma aparência desordenada ou confusa. É frequentemente difícil localizar elementos importantes.</td>
+</tr>
+<tr>
+ <td>Fontes</td>
+ <td>Fontes são consistentes, fáceis de ler e os tamanhos variam conforme os títulos e texto. O uso de estilos de fonte (e.g., itálico, negrito, sublinhado) é consistente e melhora a legibilidade.</td>
+ <td>Uma grande variedade de fontes, estilos e tamanhos de fontes são utilizados.</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Ajudar os usuários a reconhecer, diagnosticar e corrigir erros</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir erros</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Mensagens de erros compreensíveis</td>
+ <td>Como o comportamento de websites é bastante sensível a navegadores, sistemas operacionais e configurações do usuário. O website apresenta mensagens de erro que tratam as mensagens geradas externamente apresentando: descrição do erro, origem do erro e procedimento para solucioná-lo.</td>
+ <td>As mensagens de erro são apresentadas da mesma forma que são geradas. Isso torna sua compreensão restrita a especialistas da área.</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Help e documentação</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 10. Help e documentação</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Meta tags</td>
+ <td>As meta tags utilizadas descrevem muito bem a compreensão do material incluído na página. Descrição, título, autor, palavras-chave, classificação, tipo de recurso, entre outros, refletem precisamente o conteúdo das páginas.</td>
+ <td>As meta tags estão faltando. O conteúdo da página não é refletido em nenhuma meta tag.</td>
+</tr>
+<tr>
+ <td>Copyright</td>
+ <td>Todo material utilizado de outras fontes é devidamente referenciado e citado.</td>
+ <td>Materiais de fontes externas não são propriamente documentados ou o material foi utilizado sem permissão da fonte.</td>
+</tr>
+<tr>
+ <td>Informações para Contato</td>
+ <td>Cada página contém informação de autoria, data de publicação/última data de edição.</td>
+ <td>Várias páginas não contêm informação de autoria, data de publicação/última data de edição.</td>
+</tr>
+</table>
 
 # Formulário de Inspeção Heurística na Web
 
