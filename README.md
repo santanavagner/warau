@@ -3451,6 +3451,7 @@ propriedades do objeto *style* dos elementos ou alterar o atributo
 
 ### Exemplo de manipulação de CSS utilizando Javascript:
 
+```html
 ...
 <script type="text/javascript"><!--
 var name_element = document.getElementById( "name" ) ;
@@ -3458,6 +3459,7 @@ name_element.style.backgroundColor = "#00ff99" ;
 name_element.style.borderColor = "#000000" ;
 //--></script>
 ...
+```
 
 # Navegação utilizando JavaScript
 
@@ -3488,19 +3490,17 @@ elementos.
 
 ### Exemplo de melhoria de navegação usando Javascript:
 
+```html
 ...
 <ol id="ex415_navegacao">
 <li id="ex415_graduacao">
-<a href="#" onclick="open_close( new Array( \'ex415_graduacao_menu\'
-) ); return false;">Graduação</a>
+<a href="#" onclick="open_close( new Array( 'ex415_graduacao_menu') ); return false;">Graduação</a>
 <ol id="ex415_graduacao_menu">
 <li><a href="#">Cursos</a></li>
 <li><a href="#">Institutos</a></li>
 </ol>
 </li>
-<li id="ex415_pos_graduacao"><a href="#" onclick="open_close(
-new Array( \'ex415_pos_graduacao_menu\' ) ); return
-false;">Pós-graduação</a>
+<li id="ex415_pos_graduacao"><a href="#" onclick="open_close( new Array( 'ex415_pos_graduacao_menu' ) ); return false;">Pós-graduação</a>
 <ol id="ex415_pos_graduacao_menu">
 <li><a href="#">Mestrado profissional</a></li>
 <li><a href="#">Mestrado acadêmico</a></li>
@@ -3513,24 +3513,21 @@ function open_close( id_array ){
   if ( !document.getElementById ){
     return ;
   }
-  for ( i = 0 ; i `< id_array.length ; i++ ){
+  for ( i = 0 ; i < id_array.length ; i++ ){
     if ( document.getElementById( id_array\[i\] ) ){
-      if ( document.getElementById( id_array\[i\] ).style.display ==
-"none" ){
-        document.getElementById( id_array\[i\] ).style.display =
-"block" ;
+      if ( document.getElementById( id_array\[i\] ).style.display == "none" ){
+        document.getElementById( id_array\[i\] ).style.display = "block" ;
       }
       else{
-        document.getElementById( id_array\[i\] ).style.display =
-"none" ;
+        document.getElementById( id_array\[i\] ).style.display = "none" ;
       }
     }
   }
 }
-open_close( new Array( "ex415_graduacao_menu",
-"ex415_pos_graduacao_menu" ) ) ;
+open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 //--></script>
 ...
+```
 
 Desenvolvedor
 
@@ -3540,23 +3537,40 @@ Redator
 
 #### Código renderizado
 
-...
-
-1.  Graduação
-
-    1.  Cursos
-
-    2.  Institutos
-
-2.  Pós-graduação
-
-    1.  Mestrado profissional
-
-    2.  Mestrado acadêmico
-
-    3.  Doutorado
-
-...
+<ol id="ex415_navegacao">
+<li id="ex415_graduacao">
+<a href="#" onclick="open_close( new Array( 'ex415_graduacao_menu') ); return false;">Graduação</a>
+<ol id="ex415_graduacao_menu">
+<li><a href="#">Cursos</a></li>
+<li><a href="#">Institutos</a></li>
+</ol>
+</li>
+<li id="ex415_pos_graduacao"><a href="#" onclick="open_close( new Array( 'ex415_pos_graduacao_menu' ) ); return false;">Pós-graduação</a>
+<ol id="ex415_pos_graduacao_menu">
+<li><a href="#">Mestrado profissional</a></li>
+<li><a href="#">Mestrado acadêmico</a></li>
+<li><a href="#">Doutorado</a></li>
+</ol>
+</li>
+</ol>
+<script type="text/javascript"><!--
+function open_close( id_array ){
+  if ( !document.getElementById ){
+    return ;
+  }
+  for ( i = 0 ; i < id_array.length ; i++ ){
+    if ( document.getElementById( id_array\[i\] ) ){
+      if ( document.getElementById( id_array\[i\] ).style.display == "none" ){
+        document.getElementById( id_array\[i\] ).style.display = "block" ;
+      }
+      else{
+        document.getElementById( id_array\[i\] ).style.display = "none" ;
+      }
+    }
+  }
+}
+open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
+//--></script>
 
 # Validação de formulários utilizando JavaScript
 
@@ -3578,9 +3592,10 @@ números.
 
 ### Exemplo de validação de formulários usando Javascript:
 
+```html
 ...
 <script type="text/javascript"><!--
-var expressao = /\^\\d+\$/;
+var expressao = /^\d+\$/;
 function verificarInteiro( val ){
   if( expressao.test( val ) ){
     alert( "OK" );
@@ -3592,16 +3607,15 @@ function verificarInteiro( val ){
   }
 }
 //--></script>
-<form id="frmInteiro" action="#"
-onsubmit="verificarInteiro(this.txtInteiro.value); return false;">
+<form id="frmInteiro" action="#" onsubmit="verificarInteiro(this.txtInteiro.value); return false;">
 <div>
 <label for="txtInteiro">Valor:</label>
-<input type="text" size="10" id="txtInteiro"
-name="txtInteiro">
+<input type="text" size="10" id="txtInteiro" name="txtInteiro">
 <input type="submit" value="Validar">
 </div>
 </form>
 ...
+```
 
 # Acesso a conteúdo e redundância utilizando JavaScript
 
@@ -3620,6 +3634,7 @@ que é executada sempre que *scripts client-side* estejam desabilitados.
 
 ### Exemplo de uso da *tag* `<noscript>:
 
+```html
 ...
 <script type="text/javascript"><!--
 document.write("Texto escrito via javascript!");
@@ -3628,6 +3643,7 @@ document.write("Texto escrito via javascript!");
 <p>Texto alternativo</p>
 </noscript>
 ...
+```
 
 # Gráficos e animações utilizando JavaScript
 
@@ -3648,6 +3664,7 @@ Designer
 
 ### Exemplo de animação utilizando Javascript:
 
+```html
 ...
 <div id="ex418_caption">
 <p>Universidade Estadual de Campinas</p>
@@ -3675,8 +3692,8 @@ function get_messages( noscript_container ){
   }
   var obj = document.getElementById( noscript_container ) ;
   var p_array = obj.getElementsByTagName( "p" ) ;
-  for ( var i = 0 ; i `< p_array.length ; i++ ){
-    messages.push( p_array\[i\].innerHTML ) ;
+  for ( var i = 0 ; i < p_array.length ; i++ ){
+    messages.push( p_array[i].innerHTML ) ;
   }
   obj.innerHTML = "" ;
   obj.style.display = "block" ;
@@ -3692,32 +3709,32 @@ function play_caption(){
   }
   //Mostra o próximo caracter da mensagem
   if ( document.getElementById( "ex418_caption" ) ){
-    if ( char_counter `< messages\[ message_counter \].length ){
-      document.getElementById( "ex418_caption" ).innerHTML +=
-messages\[message_counter\].charAt( char_counter++ ) ;
-      setTimeout( \'play_caption()\', 150 ) ;
+    if ( char_counter < messages[ message_counter ].length ){
+      document.getElementById( "ex418_caption" ).innerHTML += messages[message_counter].charAt( char_counter++ ) ;
+      setTimeout( 'play_caption()', 150 ) ;
     }
     else{
       char_counter = 0 ;
       message_counter++ ;
       //Intervalo antes de iniciar uma nova mensagem
-      if ( message_counter `< messages.length ){
-        setTimeout( \'play_caption()\', 2000 ) ;
+      if ( message_counter < messages.length ){
+        setTimeout( 'play_caption()', 2000 ) ;
       }
       //Intervalo antes de iniciar a primeira mensagem
       else{
         message_counter = 0 ;
-        setTimeout( \'play_caption()\', 2000 );
+        setTimeout( 'play_caption()', 2000 );
       }
     }
   }
 }
 // Chamada às funções
-init( \'ex418_caption\' ) ;
-get_messages( \'ex418_caption\' ) ;
+init( 'ex418_caption' ) ;
+get_messages( 'ex418_caption' ) ;
 setTimeout( "play_caption()", 1000 ) ;
 //--></script>
 ...
+```
 
 Desenvolvedor
 
@@ -3742,12 +3759,14 @@ conteúdo da *tags*.
 
 ### Exemplo de alteração de código HTML utilizando Javascript:
 
+```html
 ...
 <script type="text/javascript"><!--
 var name_element = document.getElementById( "name" ) ;
-name_element.innerHTML = name_element.innerHTML + "\_" ;
+name_element.innerHTML = name_element.innerHTML + "_" ;
 //--></script>
 ...
+```
 
 # AJAX
 
@@ -3794,6 +3813,7 @@ mais simples.
 
 ### Exemplo de busca dinâmica utilizando AJAX:
 
+```html
 <script type="text/javascript"><!--
 function getSuggestions(q){
  var xmlHttp;
@@ -3808,42 +3828,29 @@ function getSuggestions(q){
  xmlHttp.onreadystatechange = function(){
   if( xmlHttp.readyState == 4 ){
    try{
-    document.getElementById("ex421_topicSearchResults").innerHTML =
-xmlHttp.responseText ;
+    document.getElementById("ex421_topicSearchResults").innerHTML = xmlHttp.responseText ;
    }
    catch( e ) { }
   }
  } ;
- xmlHttp.open(
-"GET","sites/default/files/examples/ajax-suggest.php?q=" + q , true
-) ;
+ xmlHttp.open( "GET","sites/default/files/examples/ajax-suggest.php?q=" + q , true ) ;
  xmlHttp.send( null ) ;
 }
 //--></script>
 <form action="/files/examples/ajax-suggest.php">
 <fieldset id="ex421_busca">
-
-Designer
-
-Desenvolvedor
-
-Redator
-
 <label for="ex421_input">Procure por um tópico</label>
-
-<input id="ex421_input" type="text"
-onkeyup="getSuggestions(this.value);" name="q" /></fieldset>
+<input id="ex421_input" type="text" onkeyup="getSuggestions(this.value);" name="q" /></fieldset>
 <div id="ex421_topicSearchResults">
 </div>
 </form>
-
-Bottom of Form
+```
 
 Neste exemplo, os três elementos principais são: um formulário HTML, que
 contém o `<input>` para o usuário buscar conteúdo e o `<div>` onde serão
 apresentados os resultados da busca; uma função JavaScript
 *getSuggestions*, que efetua a conexão assíncrona com o servidor a cada
-vez que um caractere é inserido no `<input>; um programa PHP
+vez que um caractere é inserido no `<input>`; um programa PHP
 (/sites/default/files/examples/ajax-suggest.php) no lado do servidor,
 que procura os títulos que contêm o texto passado pela variável "q" e
 devolve uma lista em HTML.
@@ -3851,7 +3858,7 @@ devolve uma lista em HTML.
 O trecho que usa o manipulador de evento *onreadystatechange* define o
 que deve acontecer quando o estado for igual a 4, ou seja, quando a
 resposta do servidor tiver sido concluída. Neste caso, o conteúdo
-retornado (*responseText*) é inserido diretamente no elemento `<div>
+retornado (*responseText*) é inserido diretamente no elemento `<div>`
 dos resultados.
 
 # Manipulação de HTML utilizando JavaScript
@@ -3869,12 +3876,14 @@ conteúdo da *tags*.
 
 ### Exemplo:
 
+```html
 ...
 <script type="text/javascript"><!--
 var name_element = document.getElementById( "name" ) ;
-name_element.innerHTML = name_element.innerHTML + "\_" ;
+name_element.innerHTML = name_element.innerHTML + "_" ;
 //--></script>
 ...
+```
 
 # Verificação de código JavaScript
 
@@ -3885,7 +3894,7 @@ Desenvolvedor
 Redator
 
 Para validar código JavaScript, pode-se utilizar o JSLint
-(<http://www.jslint.com/>) que é uma ferramenta *online*, em que basta
+(http://www.jslint.com/) que é uma ferramenta *online*, em que basta
 informar a informar o código diretamente, para receber uma relação de
 possíveis erros e recomendações segundo boas práticas.
 
@@ -3914,6 +3923,7 @@ código.
 
 ### Contraexemplo de documento HTML que não propicia reaproveitamento de código:
 
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -3932,12 +3942,14 @@ GMT">
 ...
 </body>
 </html>
+```
 
 O exemplo a seguir usa o comando include de *Server Side Include* para
 incluir um arquivo de cabeçalho.
 
 ### Exemplo de declaração de HTML reaproveitando código para cabeçalho:
 
+```html
 [Arquivo cabecalho.inc\]
 <meta name="author" content="João">
 <meta name="keywords" content="HTML, Acessibilidade">
@@ -3948,7 +3960,9 @@ charset=ISO-8859-1">
 <meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
 GMT">
 <meta http-equiv="cache-control" content="no-store">
+```
 
+```html
 [Arquivo index.html\]
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -3960,6 +3974,7 @@ GMT">
 ...
 </body>
 </html>
+```
 
 Designer
 
@@ -3977,21 +3992,25 @@ Redator
 
 ### Contraexemplo de seletores CSS que não propiciam reaproveitamento:
 
+```css
 ...
 p.exemplo { font-family: verdana, sans-serif; font-weight: bold;
 margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #00ff00; }
 p.contraExemplo { font-family: verdana, sans-serif; font-weight: bold;
 margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #ff0000; }
 ...
+```
 
 ### Exemplo de declaração de seletores CSS utilizando a estrutura em cascata:
 
+```css
 ...
 p { font-family: verdana, sans-serif; font-weight: bold;
 margin: 0.2em 0 0.2em 0; padding: 0.2em; }
 p.exemplo { color: #00ff00; }
 p.contraExemplo { color: #ff0000; }
 ...
+```
 
 **Em JavaScript:**
 
@@ -4003,11 +4022,11 @@ p.contraExemplo { color: #ff0000; }
 
 ### Contraexemplo de Javascript para reaproveitamento de código:
 
+```html
 ...
 <script type="text/javascript"><!--
 function isLoginFormfilled(){
- if( document.getElementById("email").value == "" \|\|
-document.getElementById("password").value == "" ){
+ if( document.getElementById("email").value == "" || document.getElementById("password").value == "" ){
   return false ;
  }
  else{
@@ -4016,6 +4035,7 @@ document.getElementById("password").value == "" ){
 }
 //--></script>
 ...
+```
 
 ### Exemplo de Javascript para reaproveitamento de código: 
 
@@ -4025,11 +4045,12 @@ Desenvolvedor
 
 Redator
 
+``html
 ...
 <script type="text/javascript"><!--
 function isFormFilled( formObject ){
- for( var i = 0 ; i `< formObject.elements.length ; i++ ){
-  if( formObject.elements\[i\].value == "" ){
+ for( var i = 0 ; i < formObject.elements.length ; i++ ){
+  if( formObject.elements[i].value == "" ){
    return false ;
   }
  }
@@ -4037,6 +4058,7 @@ function isFormFilled( formObject ){
 }
 //--></script>
 ...
+```
 
 # O que é Usabilidade?
 
@@ -6380,7 +6402,7 @@ XML
     em: 17 de setembro de 2008.
 
 10. WebAIM - Web Accessibility in Mind. Creating Accessible Flash
-    Content. Disponível em: `< `<http://www.webaim.org/techniques/flash/>
+    Content. Disponível em: <http://www.webaim.org/techniques/flash/>
     >. Acesso em: 3 de outubro de 2008.
 
 11. W3C - World Wide Web Consortium. Web Accessibility Guidelines 1.0 -
