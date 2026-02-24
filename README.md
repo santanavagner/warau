@@ -1451,7 +1451,7 @@ tamanhos pré-definidos. No entanto, quando utilizamos valores inteiros
 acompanhados dos sinais de + ou - os tamanhos são relacionados às
 configurações do navegador do usuário.
 
-Portanto sugerimos que ao utilizar a tag `<font> os tamanhos sejam
+Portanto sugerimos que ao utilizar a tag `<font>`os tamanhos sejam
 sempre especificados de forma relativa às configurações do usuário, pois
 quando um usuário configura uma fonte de tamanho maior, todo o *website*
 se adequa aos novos parâmetros.
@@ -1478,7 +1478,7 @@ elas implicam apenas no destaque visual. As *tags* `<em>` e `<strong>`
 foram projetadas para indicar ênfase e, portanto, podem ser renderizadas
 de várias formas, inclusive via leitor de telas.
 
-### Exemplo das *tags* `<em> e `<strong>:
+### Exemplo das *tags* `<em>`e `<strong>:
 
 ```html
 <p><strong>A grande produção</strong> de
@@ -1505,7 +1505,7 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<abbr> deve ser utilizada para demarcar abreviações e siglas.
+A *tag* `<abbr>`deve ser utilizada para demarcar abreviações e siglas.
 O atributo title é usado para apresentar a forma completa do termo
 reduzido.
 
@@ -1525,7 +1525,7 @@ Campinas">Unicamp</abbr></p>
 
 [CEP]{.underline}
 
-Outra utilização da tag `<abbr> é para tornar conteúdos do tipo ASCII
+Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII
 *art* acessíveis.
 
 ### Exemplo:
@@ -1548,7 +1548,7 @@ Redator
 
 O atributo *color* é utilizado para definir a cor de texto e o atributo
 *bgcolor* é utilizado para definir a cor de fundo de várias *tags* como
-<body>, `<table>, `<td>, entre outras. Não utilize como valor destes
+`<body>`, `<table>`, `<td>`, entre outras. Não utilize como valor destes
 atributos os nomes das cores (e.g., *red*, *black*, *white*, entre
 outros), pois é uma definição ultrapassada e não é utilizada nos padrões
 mais recentes.
@@ -1581,7 +1581,7 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<hr> não possui *tag* de fechamento. Ela define uma régua
+A *tag* `<hr>` não possui *tag* de fechamento. Ela define uma régua
 horizontal e é utilizada para auxiliar na distinção de blocos de
 conteúdo.
 
@@ -1632,10 +1632,10 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<img> é utilizada para adicionar imagens ao documento HTML.
+A *tag* `<img>` é utilizada para adicionar imagens ao documento HTML.
 Ela não possui *tag* de fechamento.
 
-Um dos principais atributos da *tag* `<img>, no que diz respeito à
+Um dos principais atributos da *tag* `<img>`, no que diz respeito à
 acessibilidade, é o atributo *alt*, para o texto alternativo. Seu
 conteúdo deve refletir o que está apresentado na imagem ou na ação
 associada à imagem, ou seja, ser um texto equivalente ao conteúdo da
@@ -1671,14 +1671,14 @@ Desenvolvedor
 
 Redator
 
-A *tag* `<object> é usada para incluir elementos de multimídia em uma
+A *tag* `<object>` é usada para incluir elementos de multimídia em uma
 página HTML, por exemplo, animações em Flash, vídeos, etc.
 
 Ao utilizar estes elementos multimídia deve-se oferecer conteúdo
 equivalente em texto e/ou áudio, isto é, texto alternativo. Isso pode
 ser alcançado adicionando uma ou mais das alternativas:
 
-- descrição geral na tag `<object>, conforme exemplo abaixo;
+- descrição geral na tag `<object>`, conforme exemplo abaixo;
 
 - legenda sincronizada com a animação ou vídeo;
 
@@ -1715,7 +1715,7 @@ Designer
 
 Redator
 
-As *tags* `<form> e `</form> são utilizadas para delimitar quais
+As *tags* `<form>` e `</form>` são utilizadas para delimitar quais
 campos fazem parte de um formulário. Seus principais atributos são:
 *action*, *method* e *name*.
 
@@ -1754,7 +1754,7 @@ Desenvolvedor
 
 Redator
 
-A *tag* `<input> é utilizada para definir um campo de entrada de dados
+A *tag* `<input>` é utilizada para definir um campo de entrada de dados
 em um formulário. Por meio do seu atributo *type* é possível escolher
 qual é o tipo de elemento a ser utilizado. Os principais valores para o
 atributo *type* são: *text*, *checkbox*, *radio* e *submit*.
@@ -1796,10 +1796,10 @@ Desenvolvedor
 
 Redator
 
-Sempre utilize a *tag* `<label> para associar um rótulo ao seu
+Sempre utilize a *tag* `<label>` para associar um rótulo ao seu
 respectivo campo de um formulário.
 
-A associação é feita por meio dos atributos *id* da *tag* `<input> e
+A associação é feita por meio dos atributos *id* da *tag* `<input>` e
 *for* da *tag* `<label>.
 
 Para destacar um elemento como obrigatório inclua a marcação dentro das
@@ -1829,7 +1829,7 @@ Desenvolvedor
 
 Redator
 
-A *tag* `<label> permite a criação de uma caixa de seleção de itens.
+A *tag* `<label>` permite a criação de uma caixa de seleção de itens.
 Para permitir a seleção de vários itens use o atributo *multiple*. O
 número de itens exibidos simultaneamente na caixa é definido pelo
 atributo *size*.
@@ -1849,7 +1849,7 @@ valor *selected*.
 <option value="5">Gorpo</option>
 </select>
 
-A *tag* `<optgroup> deve ser utilizada para agrupar *tags* `<option>.
+A *tag* `<optgroup>` deve ser utilizada para agrupar *tags* `<option>.
 Ela permite reunir elementos, estruturá-los e facilitar sua
 identificação.
 
@@ -1876,7 +1876,7 @@ Desenvolvedor
 
 Redator
 
-As *tags* `<textarea> e `</textarea> delimitam uma área de entrada de
+As *tags* `<textarea>` e `</textarea>` delimitam uma área de entrada de
 texto extenso. Os atributos *rows* e *cols* definem o número de linhas e
 colunas, respectivamente.
 
@@ -1896,7 +1896,7 @@ Desenvolvedor
 
 Redator
 
-A *tag* `<fieldset> deve ser utilizada para agrupar elementos de
+A *tag* `<fieldset>` deve ser utilizada para agrupar elementos de
 formulários correlacionados.
 
 ### Exemplo da *tag* `<fieldset>:
@@ -1925,7 +1925,7 @@ Desenvolvedor
 
 Redator
 
-A *tag* `<legend> é utilizada para atribuir um rótulo a um
+A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 <fieldset>.
 
 ### Exemplo da *tag* `<legend>:
@@ -1945,7 +1945,7 @@ A *tag* `<legend> é utilizada para atribuir um rótulo a um
 ![](media/image6.png){width="2.799547244094488in"
 height="1.1837554680664917in"}
 
-# Tabelas - As tags HTML `<table>, `<td>, `<tr>, `<th> e `<caption>
+# Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>
 
 Designer
 
@@ -1961,15 +1961,15 @@ se trata sem terem que ler a tabela célula a célula.
 Evite utilizar tabelas para dados não tabulares, por exemplo, somente
 para posicionar elementos. Mas, se utilizar para esta finalidade, não
 coloque nenhuma informação sobre o conteúdo nem estrutura da tabela
-(e.g., *summary*, `<caption>, `<th>, etc.). Faça também com que as
+(e.g., *summary*, `<caption>`, `<th>`, etc.). Faça também com que as
 tabelas sejam linearizáveis, ou seja, ao ignorar toda a informação de
 linhas e colunas e renderizar todo o conteúdo como se fosse uma série de
 parágrafos o conteúdo deve ser facilmente entendido.
 
-A *tag* `<td> é utilizada para demarcar o conteúdo de uma célula de
+A *tag* `<td>` é utilizada para demarcar o conteúdo de uma célula de
 tabela.
 
-A tag `<tr> é utilizada para demarcar o conteúdo de uma linha de
+A tag `<tr>` é utilizada para demarcar o conteúdo de uma linha de
 tabela.
 
 ### Exemplo da *tag* `<table>:
@@ -1992,10 +1992,10 @@ turismo nos últimos 12 meses, mês a mês.">
   : Esta tabela mostra a evolução da cotação do dólar turismo nos
   últimos 12 meses, mês a mês.
 
-A *tag* `<th> é utilizada para demarcar o conteúdo do cabeçalho de uma
+A *tag* `<th>` é utilizada para demarcar o conteúdo do cabeçalho de uma
 coluna.
 
-O conteúdo do atributo *id* da *tag* `<th> é utilizado pelas células
+O conteúdo do atributo *id* da *tag* `<th>` é utilizado pelas células
 das linhas seguintes para referenciar seu cabeçalho. Com isto quando um
 leitor de telas processa cada célula ele pode repetir o conteúdo da
 célula referenciada pelo *id* e assim contextualizar a informação lida.
@@ -2027,7 +2027,7 @@ turismo nos últimos 12 meses, mês a mês.">
   últimos 12 meses, mês a mês.
 
 Complementarmente, o atributo *abbr* pode ser utilizado nos casos em que
-o conteúdo da *tag* `<th> for extenso, o que tornaria o processamento
+o conteúdo da *tag* `<th>` for extenso, o que tornaria o processamento
 de uma tabela por um leitor de telas muito cansativo para o usuário.
 
 Designer
@@ -2067,7 +2067,7 @@ dólar pelo Banco Central no mês de julho.</th>
   : Esta tabela mostra a evolução da cotação do dólar turismo nos
   últimos 12 meses, mês a mês.
 
-As tags `<caption> e `</caption> são utilizadas para definir uma
+As tags `<caption>` e `</caption>` são utilizadas para definir uma
 legenda de uma tabela.
 
 ### Exemplo da *tag* `<caption>:
@@ -2288,7 +2288,7 @@ o maior número tem maior prioridade):
 
 2.  *Style sheet* externo;
 
-3.  *Style sheet* interno (entre as *tags* `<head> e `</head>);
+3.  *Style sheet* interno (entre as *tags* `<head>` e `</head>);
 
 4.  *Inline style* (no atributo *style* de uma *tags*).
 
@@ -2396,10 +2396,10 @@ Desenvolvedor
 Utilize sempre unidades de medida relativas para que a apresentação da
 página possa se adequar à saída, da melhor forma possível. As unidades
 de medida que sugerimos são porcentagens e *em*. Note que a unidade de
-medida do CSS e a *tag* `<em> do HTML são duas coisas diferentes. No
+medida do CSS e a *tag* `<em>` do HTML são duas coisas diferentes. No
 CSS a unidade *em* é utilizada para referenciar a letra *M* do tamanho
 da fonte que estiver configurada no dispositivo do usuário. No HTML, a
-*tag* `<em> é utilizada para dar ênfase a conteúdos textuais.
+*tag* `<em>` é utilizada para dar ênfase a conteúdos textuais.
 
 O principal objetivo de utilizar unidades de medida relativas é fazer
 com que a formatação possa se adequar às configurações e ao dispositivo
@@ -2566,8 +2566,8 @@ tipos de formatação que sem sua utilização seriam possíveis apenas com
 imagens.
 
 Além de possibilitar alterações na cor, tamanho e estilo, é possível
-editar cada um dos quatro lados dos elementos de bloco (e.g., `<table>,
-<div>, `<p>, entre outros).
+editar cada um dos quatro lados dos elementos de bloco (e.g., `<table>`,
+<div>, `<p>`, entre outros).
 
 ### Exemplo de definição de bordas usando CSS:
 
@@ -2712,7 +2712,7 @@ em.mensagem { letter-spacing: 150%; text-transform: uppercase; }
 
 <em class="mensagem">Atenção</em>
 
-Por fim, em vez de utilizar a *tag* `<center> para controlar o
+Por fim, em vez de utilizar a *tag* `<center>` para controlar o
 alinhamento de texto, use a respectiva propriedade de CSS da seguinte
 forma: text-align: center.
 
@@ -3531,7 +3531,7 @@ animações. Para ilustrar essa funcionalidade apresentamos o código de um
 visualização das mensagens de forma estática quando o JavaScript não
 está disponível, sem fazer uso do elemento `<noscript>. O intuito é
 mostrar que, apesar de ser uma boa opção para garantir a redundância de
-funcionalidades, o elemento `<noscript> não é o único recurso
+funcionalidades, o elemento `<noscript>` não é o único recurso
 disponível.
 
 Desenvolvedor
@@ -3734,7 +3734,7 @@ onkeyup="getSuggestions(this.value);" name="q" /></fieldset>
 Bottom of Form
 
 Neste exemplo, os três elementos principais são: um formulário HTML, que
-contém o `<input> para o usuário buscar conteúdo e o `<div> onde serão
+contém o `<input>` para o usuário buscar conteúdo e o `<div>` onde serão
 apresentados os resultados da busca; uma função JavaScript
 *getSuggestions*, que efetua a conexão assíncrona com o servidor a cada
 vez que um caractere é inserido no `<input>; um programa PHP
@@ -4106,7 +4106,7 @@ da lista de Nielsen (Nielsen, 2007):
     maneira mais importante dos usuários descobrirem *websites*. Também
     é uma forma dos usuários encontrarem o que procuram dentro de um
     *website*. O título das páginas *Web* (i.e., o conteúdo dentro das
-    tags `<title> e `</title>) é a principal ferramenta para atrair
+    tags `<title>` e `</title>) é a principal ferramenta para atrair
     novos visitantes a partir de resultados em ferramentas de busca.
     Este conteúdo é comumente utilizado para nomear *bookmarks*. Evite
     títulos demasiadamente longos e que utilizem informação pouco
