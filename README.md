@@ -65,7 +65,6 @@
     - Exemplo das *tags* `<em>` e `<strong>`: [43](#exemplo-das-tags-em-e-strong)
 - Abreviações e siglas - As tags HTML `<abbr>` e `<acronym>` [44](#abreviações-e-siglas---a-tags-html-abbr)
     - Exemplo das *tags* `<abbr>` e `<acronym>`: [44](#exemplos-da-tag-abbr)
-    - Exemplo: [44](#exemplo)
 - Cores - Os atributos HTML color e bgcolor [45](#cores---os-atributos-html-color-e-bgcolor)
     - Exemplo dos atributos color e bgcolor: [45](#exemplo-dos-atributos-color-e-bgcolor)
 - Réguas horizontais - A tag HTML `<hr>` [46](#réguas-horizontais---a-tag-html-hr)
@@ -136,8 +135,7 @@
 - Efeitos em texto utilizando CSS [77](#efeitos-em-texto-utilizando-css)
 - Contraexemplo de uso de letras maiúsculas no HTML: [77](#contraexemplo-de-uso-de-letras-maiúsculas-no-html)
     - Exemplo de transformação de texto para letras maiúsculas usando CSS: [77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css)
-    - Exemplo de transformação de texto para letras maiúsculas usando CSS no
-- HTML: [77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css-no-html)
+    - Exemplo de transformação de texto para letras maiúsculas usando CSS no HTML: [77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css-no-html)
 - Formatação e posicionamento de texto utilizando CSS [78](#formatação-e-posicionamento-de-texto-utilizando-css)
 - Contraexemplo de ênfase em texto usando espaços e letras maiúsculas: [78](#contraexemplo-de-ênfase-em-texto-usando-espaços-e-letras-maiúsculas)
     - Exemplo de ênfase em texto usando CSS: [78](#exemplo-de-ênfase-em-texto-usando-css)
@@ -166,18 +164,15 @@
 - Cuidados com versões da linguagem JavaScript [88](#cuidados-com-versões-da-linguagem-javascript)
 - Detecção de navegador, objetos e métodos utilizando JavaScript [89](#detecção-de-navegador-objetos-e-métodos-utilizando-javascript)
 - Contraexemplo de código Javascript dependente de navegador: [89](#contraexemplo-de-código-javascript-dependente-de-navegador)
-    - Exemplo de teste de compatibilidade de objeto Javascript sem dependência
-- de navegador: [89](#exemplo-de-teste-de-compatibilidade-de-objeto-javascript-sem-dependência-de-navegador)
+    - Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador: [89](#exemplo-de-teste-de-compatibilidade-de-objeto-javascript-sem-dependência-de-navegador)
 - Contraexemplo de detecção de método Javascript com uso de parênteses: [89](#contraexemplo-de-detecção-de-método-javascript-com-uso-de-parênteses)
     - Exemplo de detecção de método Javascript: [89](#exemplo-de-detecção-de-método-javascript)
 - Conversão de tipo de dados em JavaScript [91](#conversão-de-tipo-de-dados-em-javascript)
 - Contraexemplo de comparação de variáveis Javascript de tipos diferentes: [91](#contraexemplo-de-comparação-de-variáveis-javascript-de-tipos-diferentes)
     - Exemplo de conversão de tipo de variável Javascript antes de comparação: [91](#exemplo-de-conversão-de-tipo-de-variável-javascript-antes-de-comparação)
-    - Exemplo de retorno de função com tipo de dados compatível com a lógica
-- da função: [91](#exemplo-de-retorno-de-função-com-tipo-de-dados-compatível-com-a-lógica-da-função)
+    - Exemplo de retorno de função com tipo de dados compatível com a lógica da função: [91](#exemplo-de-retorno-de-função-com-tipo-de-dados-compatível-com-a-lógica-da-função)
 - Manipuladores de evento em HTML [93](#manipuladores-de-evento-em-html)
-    - Exemplo de manipuladores Javascript de eventos para diferentes
-- dispositivos: [93](#exemplo-de-manipuladores-javascript-de-eventos-para-diferentes-dispositivos)
+    - Exemplo de manipuladores Javascript de eventos para diferentes dispositivos: [93](#exemplo-de-manipuladores-javascript-de-eventos-para-diferentes-dispositivos)
 - Desvios e laços condicionais em JavaScript [94](#desvios-e-laços-condicionais-em-javascript)
 - Contraexemplo de não uso de chaves para blocos condicionais e laços em
 - Javascript: [94](#contraexemplo-de-não-uso-de-chaves-para-blocos-condicionais-e-laços-em-javascript)
@@ -213,12 +208,10 @@
     - Exemplo: [109](#exemplo-1)
 - Verificação de código JavaScript [110](#verificação-de-código-javascript)
 - Reaproveitamento de Código [111](#reaproveitamento-de-código)
-- Contraexemplo de documento HTML que não propicia reaproveitamento de
-- código: [111](#contraexemplo-de-documento-html-que-não-propicia-reaproveitamento-de-código)
+- Contraexemplo de documento HTML que não propicia reaproveitamento de código: [111](#contraexemplo-de-documento-html-que-não-propicia-reaproveitamento-de-código)
     - Exemplo de declaração de HTML reaproveitando código para cabeçalho: [111](#exemplo-de-declaração-de-html-reaproveitando-código-para-cabeçalho)
 - Contraexemplo de seletores CSS que não propiciam reaproveitamento: [112](#contraexemplo-de-seletores-css-que-não-propiciam-reaproveitamento)
-    - Exemplo de declaração de seletores CSS utilizando a estrutura em
-- cascata: [112](#exemplo-de-declaração-de-seletores-css-utilizando-a-estrutura-em-cascata)
+    - Exemplo de declaração de seletores CSS utilizando a estrutura em cascata: [112](#exemplo-de-declaração-de-seletores-css-utilizando-a-estrutura-em-cascata)
 - Contraexemplo de Javascript para reaproveitamento de código: [113](#contraexemplo-de-javascript-para-reaproveitamento-de-código)
     - Exemplo de Javascript para reaproveitamento de código: [113](#exemplo-de-javascript-para-reaproveitamento-de-código)
 - O que é Usabilidade? [114](#o-que-é-usabilidade)
@@ -238,11 +231,9 @@
 - Recomendações de Acessibilidade para: Breadcrumbs [136](#recomendações-de-acessibilidade-para-breadcrumbs)
     - Exemplo de *breadcrumb*: [136](#exemplo-de-breadcrumb)
 - Recomendações de Acessibilidade para: Teclas de Atalho [138](#recomendações-de-acessibilidade-para-teclas-de-atalho)
-    - Exemplo de declaração de teclas de atalho utilizando o atributo
-- accesskey: [138](#exemplo-de-declaração-de-teclas-de-atalho-utilizando-o-atributo-accesskey)
+    - Exemplo de declaração de teclas de atalho utilizando o atributo accesskey: [138](#exemplo-de-declaração-de-teclas-de-atalho-utilizando-o-atributo-accesskey)
     - Exemplo de CSS para indicação visual de teclas de atalho: [139](#exemplo-de-css-para-indicação-visual-de-teclas-de-atalho)
-    - Exemplo de uso de classe CSS para indiciação visual de teclas de atalho
-- no HTML: [139](#exemplo-de-uso-de-classe-css-para-indiciação-visual-de-teclas-de-atalho-no-html)
+    - Exemplo de uso de classe CSS para indiciação visual de teclas de atalho no HTML: [139](#exemplo-de-uso-de-classe-css-para-indiciação-visual-de-teclas-de-atalho-no-html)
 - Recomendações de Acessibilidade para: Legibilidade [140](#recomendações-de-acessibilidade-para-legibilidade)
 - Escrita de textos para a Web [141](#escrita-de-textos-para-a-web)
 - Recomendações de Acessibilidade para: Contexto [143](#recomendações-de-acessibilidade-para-contexto)
@@ -426,8 +417,7 @@ Redator
 
 Desenvolvedor
 
-[**[Vagner Figueredo de
-Santana]{.underline}**](http://lattes.cnpq.br/0796625901609802)[^1]
+[**Vagner Figueredo de Santana**](http://lattes.cnpq.br/0796625901609802)
 
 Pesquisador sênior e atua no Centro de Estudos sobre Tecnologias Web
 (Ceweb.br), no NIC.br, onde estuda sobre como tecnologias emergentes
@@ -453,8 +443,7 @@ Dados e IA Responsável, mais especificamente sobre os impactos de
 tecnologias da informação, desde sua criação até seu uso em contextos de
 uso reais.
 
-[**Leonelo Dell Anhol
-Almeida**](http://lattes.cnpq.br/4597216569899545)[^2]
+[**Leonelo Dell Anhol Almeida**](http://lattes.cnpq.br/4597216569899545)
 
 Possui graduação em Bacharelado em Informática pela Universidade
 Estadual de Ponta Grossa (2003), mestrado em Informática pela
@@ -469,8 +458,7 @@ em Interação Humano-Computador, atuando principalmente nos seguintes
 temas: acessibilidade, Design de Interação, estudos em Ciência,
 Tecnologia e Sociedade e sistemas colaborativos.
 
-[**Maria Cecília Calani
-Baranauskas**](http://lattes.cnpq.br/1750385790843118)
+[**Maria Cecília Calani Baranauskas**](http://lattes.cnpq.br/1750385790843118)
 
 Possui graduação em Ciência da Computação - Bacharelado pela
 Universidade Estadual de Campinas (1976) e em Matemática - Licenciatura
@@ -1410,15 +1398,14 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 ### Exemplo da *tag* `<sup>`:
 
 ```html
-<p>2<sup>2</sup> `<br>2<sup>3<sup>4</sup></sup></p>
+<p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
 ```
 
 #### 
 
 #### Código renderizado
 
-2^2^
-$$2^{3^{4}}$$
+<p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
 
 # Textos subscritos - A tag HTML `<sub>`
 
@@ -1442,7 +1429,7 @@ de um elemento químico.
 
 #### Código renderizado
 
-Óxido de ouro - Au~2~O~3~
+<p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
 
 # Fontes - A tag HTML `<font>
 
@@ -1452,7 +1439,7 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<font> é pouco utilizada atualmente e não pertence ao conjunto
+A *tag* `<font>` é pouco utilizada atualmente e não pertence ao conjunto
 de *tags* do HTML 5, portanto seu uso deve ser evitado. Recomendamos a
 configuração de fontes utilizando CSS. No entanto, por ser uma *tag*
 presente em muitos *websites* apresentamos alguns pontos relativos à
@@ -1469,11 +1456,13 @@ sempre especificados de forma relativa às configurações do usuário, pois
 quando um usuário configura uma fonte de tamanho maior, todo o *website*
 se adequa aos novos parâmetros.
 
-### Exemplo da *tag* `<font>:
+### Exemplo da *tag* `<font>`:
 
+```html
 <font size="+1">...</font>
+```
 
-# Ênfase no texto - As tags HTML `<em> e `<strong>
+# Ênfase no texto - As tags HTML `<em>` e `<strong>`
 
 Designer
 
@@ -1481,30 +1470,34 @@ Redator
 
 Desenvolvedor
 
-As *tags* `<em> e `<strong> são utilizadas para dar ênfase e
+As *tags* `<em>` e `<strong>` são utilizadas para dar ênfase e
 estruturar o conteúdo de um documento.
 
-Evite a utilização das *tags* `<b> (negrito) e `<i> (itálico), pois
-elas implicam apenas no destaque visual. As *tags* `<em> e `<strong>
+Evite a utilização das *tags* `<b>` (negrito) e `<i>` (itálico), pois
+elas implicam apenas no destaque visual. As *tags* `<em>` e `<strong>`
 foram projetadas para indicar ênfase e, portanto, podem ser renderizadas
 de várias formas, inclusive via leitor de telas.
 
 ### Exemplo das *tags* `<em> e `<strong>:
 
+```html
 <p><strong>A grande produção</strong> de
 <em>adrenalina</em>.</p>
 ....
-<p><strong>Não</strong> use `<em>clique aqui</em>.</p>
+<p><strong>Não</strong> use <em>clique aqui</em>.</p>
+```
 
 #### Código renderizado
 
-**A grande produção** de *adrenalina*.
 
-...
+<p><strong>A grande produção</strong> de
+<em>adrenalina</em>.</p>
+....
+<p><strong>Não</strong> use <em>clique aqui</em>.</p>
 
 **Não** use *clique aqui*.
 
-# Abreviações e siglas - A tags HTML `<abbr>
+# Abreviações e siglas - A tags HTML `<abbr>`
 
 Designer
 
@@ -1516,11 +1509,13 @@ A *tag* `<abbr> deve ser utilizada para demarcar abreviações e siglas.
 O atributo title é usado para apresentar a forma completa do termo
 reduzido.
 
-### Exemplos da *tag* `<abbr>:
+### Exemplos da *tag* `<abbr>`:
 
+```html
 <p><abbr title="Universidade Estadual de
 Campinas">Unicamp</abbr></p>
 <p><abbr title="Código de Endereçamento Postal">CEP</abbr></p>
+```
 
 #### 
 
@@ -1535,11 +1530,13 @@ Outra utilização da tag `<abbr> é para tornar conteúdos do tipo ASCII
 
 ### Exemplo:
 
+```html
 <abbr title="smiley">:-)</abbr>
+```
 
 #### Código renderizado
 
-:-)
+<abbr title="smiley">:-)</abbr>
 
 # Cores - Os atributos HTML color e bgcolor
 
