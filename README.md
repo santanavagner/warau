@@ -2021,8 +2021,8 @@ turismo nos últimos 12 meses, mês a mês.">
 <th id="ex31a_col_jul">Julho</th>
 </tr>
 <tr>
-<td headers="ex31a_col_jun">R\$ 3,97</td>
-<td headers="ex31a_col_jul">R\$ 4,02</td>
+<td headers="ex31a_col_jun">R$ 3,97</td>
+<td headers="ex31a_col_jul">R$ 4,02</td>
 </tr>
 </table>
 
@@ -2035,8 +2035,8 @@ turismo nos últimos 12 meses, mês a mês.">
 <th id="ex31a_col_jul">Julho</th>
 </tr>
 <tr>
-<td headers="ex31a_col_jun">R\$ 3,97</td>
-<td headers="ex31a_col_jul">R\$ 4,02</td>
+<td headers="ex31a_col_jun">R$ 3,97</td>
+<td headers="ex31a_col_jul">R$ 4,02</td>
 </tr>
 </table>
 
@@ -2058,8 +2058,8 @@ Redator
 <th id="ex31_col_totaljul" abbr="Média Julho">Média da cotação do dólar pelo Banco Central no mês de julho.</th>
 </tr>
 <tr>
-<td headers="ex31_col_totaljun">R\$ 3,97</td>
-<td headers="ex31_col_totaljul">R\$ 4,02</td>
+<td headers="ex31_col_totaljun">R$ 3,97</td>
+<td headers="ex31_col_totaljul">R$ 4,02</td>
 </tr>
 </table>
 
@@ -2073,8 +2073,8 @@ Redator
 <th id="ex31_col_totaljul" abbr="Média Julho">Média da cotação do dólar pelo Banco Central no mês de julho.</th>
 </tr>
 <tr>
-<td headers="ex31_col_totaljun">R\$ 3,97</td>
-<td headers="ex31_col_totaljul">R\$ 4,02</td>
+<td headers="ex31_col_totaljun">R$ 3,97</td>
+<td headers="ex31_col_totaljul">R$ 4,02</td>
 </tr>
 </table>
 
@@ -2090,8 +2090,8 @@ legenda de uma tabela.
 <th id="ex31b_col_jul">Julho</th>
 </tr>
 <tr>
-<td headers="ex31b_col_jun">R\$ 3,97</td>
-<td headers="ex31b_col_jul">R\$ 4,02</td>
+<td headers="ex31b_col_jun">R$ 3,97</td>
+<td headers="ex31b_col_jul">R$ 4,02</td>
 </tr>
 </table>
 
@@ -2106,8 +2106,8 @@ legenda de uma tabela.
 <th id="ex31b_col_jul">Julho</th>
 </tr>
 <tr>
-<td headers="ex31b_col_jun">R\$ 3,97</td>
-<td headers="ex31b_col_jul">R\$ 4,02</td>
+<td headers="ex31b_col_jun">R$ 3,97</td>
+<td headers="ex31b_col_jul">R$ 4,02</td>
 </tr>
 </table>
 
