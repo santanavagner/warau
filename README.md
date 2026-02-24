@@ -2487,8 +2487,8 @@ Desenvolvedor
 
 Redator
 
-Sugerimos a utilização de listas ordenadas (*tag* `<ol>) em vez das
-listas não ordenadas (*tag* `<ul>). No entanto, ao utilizar listas
+Sugerimos a utilização de listas ordenadas (*tag* `<ol>`) em vez das
+listas não ordenadas (*tag* `<ul>`). No entanto, ao utilizar listas
 numeradas aninhadas surge um problema de contextualização, pois o número
 de cada item representa apenas sua posição em relação aos outros que
 estão no mesmo nível. Para uma pessoa que somente ouve o conteúdo de uma
@@ -2668,8 +2668,10 @@ teríamos o seguinte CSS:
 
 ### Exemplo de posicionamento usando CSS:
 
+```css
 table { margin-top: 0.5em; margin-bottom: 0.5em; }
 table tr td { padding: 0.1em; }
+```
 
 # Fontes utilizando CSS
 
@@ -2684,7 +2686,9 @@ na grande maioria dos navegadores.
 
 ### Exemplo de definição de fontes usando CSS:
 
+```css
 body { font-family: verdana, sans-serif; }
+```
 
 A utilização do atalho para a manipulação do estilo da fonte (font: bold
 12px arial;) deve ser usada com cautela, pois, assim como outras
@@ -2708,19 +2712,25 @@ feita a separação entre os dados e sua apresentação.
 
 ### Contraexemplo de uso de letras maiúsculas no HTML:
 
+```html
 <strong>DESTAQUES DO EVENTO</strong>
+```
 
 **No CSS:**
 
 ### Exemplo de transformação de texto para letras maiúsculas usando CSS:
 
+```css
 strong.destaque { text-transform: uppercase; }
+```
 
 **No HTML:**
 
 ### Exemplo de transformação de texto para letras maiúsculas usando CSS no HTML:
 
+```html
 <strong class="destaque">Destaques do evento</strong>
+```
 
 Por fim, imagine um *website* milhares ou milhões de páginas que
 utilizam algumas informações em letras maiúsculas. Agora como seria a
@@ -2750,13 +2760,17 @@ A T E N Ç Ã O
 
 ### Exemplo de ênfase em texto usando CSS:
 
+```css
 em.mensagem { letter-spacing: 150%; text-transform: uppercase; }
+```
 
 **No HTML:**
 
 ### Exemplo de ênfase em texto usando classe CSS no HTML:
 
+```html
 <em class="mensagem">Atenção</em>
+```
 
 Por fim, em vez de utilizar a *tag* `<center>` para controlar o
 alinhamento de texto, use a respectiva propriedade de CSS da seguinte
@@ -2778,30 +2792,33 @@ assistivas que se baseiam no conteúdo textual.
 
 ### Contraexemplo de uso de imagens para representar texto:
 
+```html
 <p>
 <a href="pagina_2.html">
 <img src="proxima_pagina.png" alt="Próxima página">
 </a>
 </p>
+```
 
 **No CSS:**
 
 ### Exemplo de texto com aparência definida no CSS:
 
+```css
 a.paginacao {
-
-> font-family: verdana, sans-serif;
-> font-weight: bold;
-> letter-spacing: 150%;
-
+    font-family: verdana, sans-serif;
+    font-weight: bold;
+    letter-spacing: 150%;
 }
+```
 
 **No HTML:**
 
 ### Exemplo de uso de classe CSS para alterar a aparência do texto no HTML:
 
-<p><a href="pagina_2.html" class="paginacao">Próxima
-página</a></p>
+```html
+<p><a href="pagina_2.html" class="paginacao">Próxima página</a></p>
+```
 
 # Atributos aurais com CSS
 
@@ -2824,7 +2841,9 @@ Aural do W3 Schools.
 
 ### Exemplo de atributos aurais no CSS:
 
+```css
 h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
+```
 
 # Cores com CSS
 
@@ -2848,8 +2867,10 @@ Analyser.
 
 ### Exemplo de definição de cor de fundo e de texto usando CSS:
 
+```css
 p.destaque { color: #000000; background-color: #ffffff; }
 p.destaque p.titulo { color: #663399; background-color: transparent; }
+```
 
 A redundância é um dos pontos-chaves no desenvolvimento de páginas
 acessíveis. Note que o termo redundância é usado no sentido de que a
@@ -2868,7 +2889,7 @@ Desenvolvedor
 Redator
 
 Para validar folhas de estilo CSS, o W3C disponibiliza o CSS Validation
-Service (<http://jigsaw.w3.org/css-validator/>) que é uma ferramenta
+Service (http://jigsaw.w3.org/css-validator/) que é uma ferramenta
 *online*, em que basta informar a URL, fazer *upload* do arquivo ou
 informar o código diretamente, para receber uma relação de possíveis
 erros, segundo a versão do CSS que esteja sendo utilizada na página.
@@ -2920,16 +2941,18 @@ utilizada seja a seguinte:
 
 ### Exemplo de inclusão de JavaScript internamente no HTML:
 
-<script type="text/javascript"><!\--
+```html
+<script type="text/javascript"><!--
 código JavaScript
-//\--></script>
+//--></script>
+```
 
 Priorize a declaração de códigos JavaScript no início dos documentos
 HTML, dentro da *tag* `<head>. Com isso, você melhora a legibilidade do
 código e evita erros de escopo de declaração de variáveis e ordem de
 métodos.
 
-Note que os comandos `<!\-- e //\--> localizados após as tags *script*
+Note que os comandos `<!-- e //--> localizados após as tags *script*
 de abertura e fechamento, respectivamente, são usados para que código
 JavaScript não seja mostrado por navegadores que não suportam *scripts*.
 Esta solução está caindo em desuso com a evolução dos navegadores, mesmo
@@ -2939,7 +2962,9 @@ A inserção de *scripts* externos pode ser feita da seguinte forma:
 
 ### Exemplo de inclusão de documento Javascript no HTML:
 
+```html
 <script type="text/javascript" src="codigo.js"> `</script>
+```
 
 Note que arquivos externos não precisam iniciar com os comandos
 utilizados nos *scripts* internos, pois o arquivo externo só será
@@ -2958,13 +2983,16 @@ Designer
 
 ### Exemplo de declaração de variáveis em Javascript:
 
+```javascript
 var x = new Number( 1 );
+```
 
 Outro ponto a ser lembrado é que as variáveis devem ser utilizadas
 dentro do escopo em que foram criadas.
 
 ### Contraexemplo de uso de variáveis fora de seu escopo:
 
+```javascript
 function Valida(pa,pb) {
 ...
 if (pa) {
@@ -2976,9 +3004,11 @@ soma = 1;
 }
 ...
 };
+```
 
 ### Exemplo de uso de variáveis com o escopo correto:
 
+```javascript
 function Valida(pa,pb) {
 var soma = new Number( 0 );
 ...
@@ -2990,6 +3020,7 @@ soma = 1;
 }
 ...
 };
+```
 
 # Ordem da declaração de variáveis e métodos em JavaScript
 
