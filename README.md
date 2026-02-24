@@ -2567,7 +2567,7 @@ Desenvolvedor
 
 Redator
 
-No HTML as réguas horizontais (<hr>) são indicadas para separar e
+No HTML as réguas horizontais (`<hr>`) são indicadas para separar e
 delimitar blocos de conteúdo. Com a utilização de CSS elas se
 transformam em um elemento muito versátil para a separação de conteúdo.
 Propriedades de CSS como borda, estilos de borda, cor, margem e imagem
