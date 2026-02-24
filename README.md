@@ -2963,7 +2963,7 @@ A inserção de *scripts* externos pode ser feita da seguinte forma:
 ### Exemplo de inclusão de documento Javascript no HTML:
 
 ```html
-<script type="text/javascript" src="codigo.js"> `</script>
+<script type="text/javascript" src="codigo.js"></script>
 ```
 
 Note que arquivos externos não precisam iniciar com os comandos
@@ -2993,17 +2993,17 @@ dentro do escopo em que foram criadas.
 ### Contraexemplo de uso de variáveis fora de seu escopo:
 
 ```javascript
-function Valida(pa,pb) {
-...
-if (pa) {
-...
-var soma = new Number( 0 );
-soma = pb;
-} else {
-soma = 1;
-}
-...
-};
+    function Valida(pa,pb) {
+        ...
+        if (pa) {
+            ...
+            var soma = new Number( 0 );
+            soma = pb;
+        } else {
+            soma = 1;
+        }
+        ...
+    };
 ```
 
 ### Exemplo de uso de variáveis com o escopo correto:
