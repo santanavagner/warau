@@ -9,7 +9,8 @@
 | Texto | Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol; Baranauskas, Maria Cecília Calani. Leanpub. https://leanpub.com/warau |
 | Bibtex | \@book{Santana2018, title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade}, author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cec{\\\'\\i}lia Calani}, year={2018}, publisher = {Leanpub}, isbn = {978-85-907039-1-4} } |
 
-  Data da revisão: 13/02/2026
+  **Data da revisão:** 13/02/2026
+  
   **ISBN:** 978-85-907039-1-4
 
 ----
@@ -42,7 +43,7 @@ Estrutura de documentos HTML [23](#estrutura-de-documentos-html)
 Exemplo de *tags* básicas do HTML:
 [23](#exemplo-de-tags-básicas-do-html)
 
-Exemplo de uso das *tags* `<head>' e `<body>':
+Exemplo de uso das *tags* `<head>` e `<body>`:
 [23](#exemplo-de-uso-das-tags-head-e-body)
 
 Contraexemplo de título de página:
