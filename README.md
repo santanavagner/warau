@@ -2254,7 +2254,7 @@ conteúdo como sendo texto.
 ...
 <head>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-<style type="text/css"><!\--
+<style type="text/css"><!--
 hr {color: #000000;}
 p {margin-left: 20em;}
 body {background-image: url("images/back40.gif");}
@@ -3054,17 +3054,17 @@ Designer
 
 ### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var x = new Number( 1 )
 x = 2
-//\--></script>
+//--></script>
 
 ### Exemplo de declaração em Javascript usando ponto-e-vírgula:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var x = new Number( 1 );
 x = 2;
-//\--></script>
+//--></script>
 
 # Cuidados com versões da linguagem JavaScript
 
@@ -3100,12 +3100,12 @@ Designer
 
 ### Contraexemplo de código Javascript dependente de navegador:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var browserName = navigator.appName ;
 if ( browserName == "Firefox" ){
 ...
 }
-//\--></script>
+//--></script>
 ...
 
 Em vez disso, para garantir que o código será executado corretamente,
@@ -3113,14 +3113,14 @@ sugerimos utilizar a detecção de objetos e métodos dessa forma:
 
 ### Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 if ( document.getElementById ){
   // O objeto getElementById pode ser utilizado
 }
 else{
   // O objeto não pode ser utilizado
 }
-//\--></script>
+//--></script>
 
 Além da detecção de objetos sugerimos a utilização da detecção de
 métodos. Note que para detecção de métodos não se deve utilizar
@@ -3129,22 +3129,22 @@ verificação de sua existência.
 
 ### Contraexemplo de detecção de método Javascript com uso de parênteses:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 // Verifica se é possível colocar o foco na janela,
 // assumindo que o método pode ser utilizado
 if ( window.focus() ){
 ...
 }
-//\--></script>
+//--></script>
 
 ### Exemplo de detecção de método Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 // Verifica se existe suporte ao método focus
 if ( window.focus ){
 ...
 }
-//\--></script>
+//--></script>
 
 Desenvolvedor
 
@@ -3167,25 +3167,25 @@ Designer
 
 ### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var x = new String( "1" ) ;
 ...
 y = new Number ( 1 ) ;
 if ( x == y ){
 ...
 }
-//\--></script>
+//--></script>
 
 ### Exemplo de conversão de tipo de variável Javascript antes de comparação:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var x = new String( "1" ) ;
 ...
 y = new Number ( 1 ) ;
 if ( new Number ( x ) == y ){
 ...
 }
-//\--></script>
+//--></script>
 
 As implementações da versão 1.2 do Javascript não convertem os tipos
 antes de uma comparação, já as implementações da versão 1.3 do
@@ -3233,7 +3233,7 @@ mesma funcionalidade a partir do *onkeypress*, e vice-versa.
 
 ### Exemplo de manipuladores Javascript de eventos para diferentes dispositivos:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 function selecionou(porigem) {
 
 if (porigem == "M") {
@@ -3246,7 +3246,7 @@ if (porigem == "M") {
 > };
 
 };
-//\--></script>
+//--></script>
 ...
 <a title="Clique para testar a redundância de manipuladores"
 href="#" onclick="selecionou(\'M\')"
@@ -3269,18 +3269,18 @@ Designer
 
 ### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 if ( \... )
   // apenas uma expressão
-//\--></script>
+//--></script>
 
 ### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 if ( \... ){
   // uma ou mais expressões;
 }
-//\--></script>
+//--></script>
 
 # Escrita de HTML via JavaScript
 
@@ -3297,24 +3297,24 @@ Designer
 
 ### Contraexemplo de impressão em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( "<table>" ) ;
 document.write( "<tr><td>" ) ;
 document.write( "teste" ) ;
 document.write( "<\\/td><\\/tr>" ) ;
 document.write( "<\\/table>" ) ;
-//\--></script>
+//--></script>
 
 ### Exemplo de impressão em Javascript usando concatenação:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var html_code = "<table>"
 html_code += "<tr><td>" ;
 html_code += "teste" ;
 html_code += "<\\/td><\\/tr>" ;
 html_code += "<\\/table>" ;
 document.write( html_code ) ;
-//\--></script>
+//--></script>
 
 # Aspas simples e duplas em JavaScript
 
@@ -3330,15 +3330,15 @@ Designer
 
 ### Contraexemplo de uso de aspas em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( \'Conteúdo de texto. "Teste", teste.\' ) ;
-//\--></script>
+//--></script>
 
 ### Exemplo de uso de aspas em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( "Conteúdo de texto. \\"Teste\\", teste." ) ;
-//\--></script>
+//--></script>
 
 Aspa simples ou apóstrofe (\') deve ser utilizada somente quando o
 código JavaScript estiver dentro de um atributo de uma tag HTML.
@@ -3362,15 +3362,15 @@ Designer
 
 ### Contraexemplo de impressão de ETAGO em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( "<p>Teste</p>" ) ;
-//\--></script>
+//--></script>
 
 ### Exemplo de impressão de ETAGO em Javascript:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( "<p>Teste<\\/p>" ) ;
-//\--></script>
+//--></script>
 
 # Escrevendo a palavra reservada script
 
@@ -3387,21 +3387,21 @@ Designer
 ### Contraexemplo de impressão da palavra script:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( "<script language=\\"javascript\\"
 type=\\"text/javascript\\"
 src=\\"codigo.js\\"><\\/script> " ) ;
-//\--></script>
+//--></script>
 ...
 
 ### Exemplo de impressão da palavra script:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write( "<scr" + "ipt language=\\"javascript\\"
 type=\\"text/javascript\\" src=\\"codigo.js\\"><\\/scr" + "ipt>
 " ) ;
-//\--></script>
+//--></script>
 ...
 
 # Manipulação de CSS utilizando JavaScript
@@ -3423,11 +3423,11 @@ propriedades do objeto *style* dos elementos ou alterar o atributo
 ### Exemplo de manipulação de CSS utilizando Javascript:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var name_element = document.getElementById( "name" ) ;
 name_element.style.backgroundColor = "#00ff99" ;
 name_element.style.borderColor = "#000000" ;
-//\--></script>
+//--></script>
 ...
 
 # Navegação utilizando JavaScript
@@ -3479,7 +3479,7 @@ false;">Pós-graduação</a>
 </ol>
 </li>
 </ol>
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 function open_close( id_array ){
   if ( !document.getElementById ){
     return ;
@@ -3500,7 +3500,7 @@ function open_close( id_array ){
 }
 open_close( new Array( "ex415_graduacao_menu",
 "ex415_pos_graduacao_menu" ) ) ;
-//\--></script>
+//--></script>
 ...
 
 Desenvolvedor
@@ -3550,7 +3550,7 @@ números.
 ### Exemplo de validação de formulários usando Javascript:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var expressao = /\^\\d+\$/;
 function verificarInteiro( val ){
   if( expressao.test( val ) ){
@@ -3562,7 +3562,7 @@ function verificarInteiro( val ){
     }
   }
 }
-//\--></script>
+//--></script>
 <form id="frmInteiro" action="#"
 onsubmit="verificarInteiro(this.txtInteiro.value); return false;">
 <div>
@@ -3592,9 +3592,9 @@ que é executada sempre que *scripts client-side* estejam desabilitados.
 ### Exemplo de uso da *tag* `<noscript>:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 document.write("Texto escrito via javascript!");
-//\--></script>
+//--></script>
 <noscript>
 <p>Texto alternativo</p>
 </noscript>
@@ -3626,7 +3626,7 @@ Designer
 Usabilidade</p>
 <p>Experimente desabilitar o JavaScript do seu navegador</p>
 </div>
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var message_counter = 0 ;
 var char_counter = 0 ;
 var messages = new Array() ;
@@ -3687,7 +3687,7 @@ messages\[message_counter\].charAt( char_counter++ ) ;
 init( \'ex418_caption\' ) ;
 get_messages( \'ex418_caption\' ) ;
 setTimeout( "play_caption()", 1000 ) ;
-//\--></script>
+//--></script>
 ...
 
 Desenvolvedor
@@ -3714,10 +3714,10 @@ conteúdo da *tags*.
 ### Exemplo de alteração de código HTML utilizando Javascript:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var name_element = document.getElementById( "name" ) ;
 name_element.innerHTML = name_element.innerHTML + "\_" ;
-//\--></script>
+//--></script>
 ...
 
 # AJAX
@@ -3765,7 +3765,7 @@ mais simples.
 
 ### Exemplo de busca dinâmica utilizando AJAX:
 
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 function getSuggestions(q){
  var xmlHttp;
  try { xmlHttp=new XMLHttpRequest(); } catch (e) {
@@ -3790,7 +3790,7 @@ xmlHttp.responseText ;
 ) ;
  xmlHttp.send( null ) ;
 }
-//\--></script>
+//--></script>
 <form action="/files/examples/ajax-suggest.php">
 <fieldset id="ex421_busca">
 
@@ -3841,10 +3841,10 @@ conteúdo da *tags*.
 ### Exemplo:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 var name_element = document.getElementById( "name" ) ;
 name_element.innerHTML = name_element.innerHTML + "\_" ;
-//\--></script>
+//--></script>
 ...
 
 # Verificação de código JavaScript
@@ -3924,7 +3924,7 @@ GMT">
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<!\--#include virtual="/cabecalho.inc" \-->
+<!--#include virtual="/cabecalho.inc" -->
 <title>Página inicial</title>
 </head>
 <body>
@@ -3975,7 +3975,7 @@ p.contraExemplo { color: #ff0000; }
 ### Contraexemplo de Javascript para reaproveitamento de código:
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 function isLoginFormfilled(){
  if( document.getElementById("email").value == "" \|\|
 document.getElementById("password").value == "" ){
@@ -3985,7 +3985,7 @@ document.getElementById("password").value == "" ){
   return true;
  }
 }
-//\--></script>
+//--></script>
 ...
 
 ### Exemplo de Javascript para reaproveitamento de código: 
@@ -3997,7 +3997,7 @@ Desenvolvedor
 Redator
 
 ...
-<script type="text/javascript"><!\--
+<script type="text/javascript"><!--
 function isFormFilled( formObject ){
  for( var i = 0 ; i `< formObject.elements.length ; i++ ){
   if( formObject.elements\[i\].value == "" ){
@@ -4006,7 +4006,7 @@ function isFormFilled( formObject ){
  }
  return true ;
 }
-//\--></script>
+//--></script>
 ...
 
 # O que é Usabilidade?
