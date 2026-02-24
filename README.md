@@ -4928,14 +4928,15 @@ visível no início da região que pode ser "pulada".
 
 ### Exemplo de *skip link*:
 
+```html
 ...
 <body>
 <a href="#conteudo">Ir para o conteúdo</a>
 ...
-<h1><a name="conteudo" id="conteudo">Título
-principal</a></h1>
+<h1><a name="conteudo" id="conteudo">Título principal</a></h1>
 <p>Texto do conteúdo</p>
 ...
+```
 
 Para evitar que o *skip link* afete a estética da página, muitos
 *designers* criam *skip links* invisíveis (isso pode ser feito
@@ -4993,13 +4994,11 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 
 ### Exemplo de *breadcrumb*:
 
+```html
 ...
-<a href="/acessibilidade/">Acessibilidade</a> >
-<a href="/acessibilidade/web/">Acessibilidade na Web</a> >
-
-<a href="/acessibilidade/web/navegação/">Navegação</a> >
-Breadcrumbs
+<a href="/acessibilidade/">Acessibilidade</a> > <a href="/acessibilidade/web/">Acessibilidade na Web</a> > <a href="/acessibilidade/web/navegação/">Navegação</a> > Breadcrumbs
 ...
+```
 
 #### 
 
@@ -5592,10 +5591,12 @@ Redator
 
 **(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais, Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de Computação - UNICAMP)**
 
-**Avaliador:** ___
-**Descrição da URL:** ___
-**URL:** ___
-**Data:** ___ 
+| Campo | Dado da avaliação |
+| --- | --- |
+| Avaliador: | __________________________________________________ | 
+| Descrição da URL: | __________________________________________________ | 
+| URL: | __________________________________________________ | 
+| Data: | __________________________________________________ | 
 
 **Níveis de Severidade:**
 - 0: não concordo que seja um problema de usabilidade
@@ -5604,126 +5605,38 @@ Redator
 - 3: problema grave - alta prioridade na correção
 - 4: problema catastrófico - correção obrigatória para entrega do produto
 
-+----------------------------------------------------------------------------------------+
-| Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação        |
-| Manual: Uso de Navegadores Gráficos e Textuais                                         |
-+:================================:+:========================:+:========================:+
-| Heurística                       | **Problemas e exemplos** | **Severidade**           |
-+----------------------------------+--------------------------+--------------------------+
-| a\) Ao utilizar um navegador gráfico (e.g., Safari, Firefox)                           |
-+----------------------------------+--------------------------+--------------------------+
-| 1\. Desabilitar imagens -        |                          |                          |
-| Verificar se são                 |                          |                          |
-| disponibilizados textos          |                          |                          |
-| alternativos apropriados (mais   |                          |                          |
-| informações em Textos            |                          |                          |
-| alternativos)                    |                          |                          |
-|                                  |                          |                          |
-| - No Chrome: usar o complemento  |                          |                          |
-|   *web developer* ou ir em       |                          |                          |
-|   Opções > Configurações        |                          |                          |
-|   avançadas > Configurações de  |                          |                          |
-|   conteúdo > Imagens > Não     |                          |                          |
-|   mostrar nenhuma imagem.        |                          |                          |
-|                                  |                          |                          |
-| - No Firefox: usar o complemento |                          |                          |
-|   *web developer* ou ir em       |                          |                          |
-|   Opções > Conteúdo > Carregar |                          |                          |
-|   imagens automaticamente.       |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 2\. Desabilitar som - Verificar  |                          |                          |
-| se o conteúdo sonoro continua    |                          |                          |
-| disponível por meio de           |                          |                          |
-| equivalentes textuais            |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 3\. Variar o tamanho da fonte    |                          |                          |
-| (usando controles do             |                          |                          |
-| navegador) - Verificar se o      |                          |                          |
-| tamanho da fonte varia na tela   |                          |                          |
-| de forma adequada e se a página  |                          |                          |
-| continua usável com grandes      |                          |                          |
-| tamanhos de fonte                |                          |                          |
-|                                  |                          |                          |
-| - Tecla Control (CTRL) e usar a  |                          |                          |
-|   rolagem do mouse ou do         |                          |                          |
-|   *touchpad* ou;                 |                          |                          |
-|                                  |                          |                          |
-| - Tecla Control (CTRL) e         |                          |                          |
-|   pressionar as teclas "+" ou  |                          |                          |
-|   "-", para aumentar ou        |                          |                          |
-|   reduzir o tamanho da fonte;    |                          |                          |
-|                                  |                          |                          |
-| - Tecla Control (CTRL) combinada |                          |                          |
-|   com a tecla 0 (zero) volta ao  |                          |                          |
-|   tamanho original da fonte.     |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 4\. Variar resoluções de tela    |                          |                          |
-|                                  |                          |                          |
-| - Usando o complemento *web      |                          |                          |
-|   developer* no Firefox ou no    |                          |                          |
-|   Chrome: ir em redimensionar > |                          |                          |
-|   escolher uma das resoluções    |                          |                          |
-|   disponíveis ou definir uma     |                          |                          |
-|   outra;                         |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 5\. Redimensionar a janela da    |                          |                          |
-| aplicação para tamanhos menores  |                          |                          |
-| que o máximo - Verificar se a    |                          |                          |
-| rolagem horizontal não é exigida |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 6\. Verificar se o contraste é   |                          |                          |
-| adequado                         |                          |                          |
-|                                  |                          |                          |
-| - Imprimir a página em escala de |                          |                          |
-|   cinza (ou em preto e branco)   |                          |                          |
-|                                  |                          |                          |
-| - Se você preferir uma abordagem |                          |                          |
-|   mais ecológica e prática, uma  |                          |                          |
-|   sugestão é o Colorblind Filter |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 7\. Acessar links e formulários  |                          |                          |
-| da página por meio da tecla TAB, |                          |                          |
-| sem auxílio do mouse - Verificar |                          |                          |
-| se todos os links são acessíveis |                          |                          |
-| e estão bem descritos, bem como  |                          |                          |
-| se os controles dos formulários  |                          |                          |
-| são acessíveis. Mais             |                          |                          |
-| informações:                     |                          |                          |
-|                                  |                          |                          |
-| - Bloqueio da navegação por      |                          |                          |
-|   teclado;                       |                          |                          |
-|                                  |                          |                          |
-| - Técnicas para encontrar        |                          |                          |
-|   conteúdo em um website.        |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| b\) Ao utilizar um navegador textual (e.g., Lynx)                                      |
-+----------------------------------+--------------------------+--------------------------+
-| 1\. Verificar se as informações  |                          |                          |
-| disponibilizadas são             |                          |                          |
-| equivalentes àquelas oferecidas  |                          |                          |
-| pelo navegador gráfico           |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
-| 2\. Verificar se a informação    |                          |                          |
-| apresentada faz sentido se       |                          |                          |
-| apresentada de forma linear      |                          |                          |
-+----------------------------------+--------------------------+--------------------------+
+## Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação Manual: Uso de Navegadores Gráficos e Textuais                     
 
-Designer
+| Heurística                                                                                                                                                                                                                              | **Problemas e exemplos** | **Severidade** |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------------- |
+| **a) Ao utilizar um navegador gráfico (e.g., Safari, Firefox)**                                                                                                                                                                         |                          |                |
+| **1. Desabilitar imagens — Verificar se são disponibilizados textos alternativos apropriados (mais informações em Textos alternativos)**                                                                                                |                          |                |
+| - No Chrome: usar o complemento *web developer* ou ir em Opções > Configurações avançadas > Configurações de conteúdo > Imagens > Não mostrar nenhuma imagem.                                                                           |                          |                |
+| - No Firefox: usar o complemento *web developer* ou ir em Opções > Conteúdo > Carregar imagens automaticamente.                                                                                                                         |                          |                |
+| **2. Desabilitar som — Verificar se o conteúdo sonoro continua disponível por meio de equivalentes textuais**                                                                                                                           |                          |                |
+| **3. Variar o tamanho da fonte (usando controles do navegador) — Verificar se o tamanho da fonte varia na tela de forma adequada e se a página continua usável com grandes tamanhos de fonte**                                          |                          |                |
+| - Tecla Control (CTRL) e usar a rolagem do mouse ou do *touchpad* ou;                                                                                                                                                                   |                          |                |
+| - Tecla Control (CTRL) e pressionar as teclas "+" ou "-", para aumentar ou reduzir o tamanho da fonte;                                                                                                                                  |                          |                |
+| - Tecla Control (CTRL) combinada com a tecla 0 (zero) volta ao tamanho original da fonte.                                                                                                                                               |                          |                |
+| **4. Variar resoluções de tela**                                                                                                                                                                                                        |                          |                |
+| - Usando o complemento *web developer* no Firefox ou no Chrome: ir em redimensionar > escolher uma das resoluções disponíveis ou definir outra;                                                                                         |                          |                |
+| **5. Redimensionar a janela da aplicação para tamanhos menores que o máximo — Verificar se a rolagem horizontal não é exigida**                                                                                                         |                          |                |
+| **6. Verificar se o contraste é adequado**                                                                                                                                                                                              |                          |                |
+| - Imprimir a página em escala de cinza (ou em preto e branco)                                                                                                                                                                           |                          |                |
+| - Se você preferir uma abordagem mais ecológica e prática, uma sugestão é o Colorblind Filter                                                                                                                                           |                          |                |
+| **7. Acessar links e formulários da página por meio da tecla TAB, sem auxílio do mouse — Verificar se todos os links são acessíveis e estão bem descritos, bem como se os controles dos formulários são acessíveis. Mais informações:** |                          |                |
+| - Bloqueio da navegação por teclado;                                                                                                                                                                                                    |                          |                |
+| - Técnicas para encontrar conteúdo em um website.                                                                                                                                                                                       |                          |                |
+| **b) Ao utilizar um navegador textual (e.g., Lynx)**                                                                                                                                                                                    |                          |                |
+| **1. Verificar se as informações disponibilizadas são equivalentes àquelas oferecidas pelo navegador gráfico**                                                                                                                          |                          |                |
+| **2. Verificar se a informação apresentada faz sentido se apresentada de forma linear**                                                                                                                                                 |                          |                |
 
-Desenvolvedor
 
-Redator
+## Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de avaliação de  acessibilidade)  
 
-+----------------------------------------------------------------------------------+
-| Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação  |
-| semiautomática (utilizar uma das ferramentas semiautomáticas de avaliação de     |
-| acessibilidade)                                                                  |
-+:============================:+:=======================:+:=======================:+
-| Heurística/Diretriz          | **Problemas e           | **Severidade**          |
-|                              | exemplos**              |                         |
-+------------------------------+-------------------------+-------------------------+
-| Comentários dos resultados   |                         |                         |
-+------------------------------+-------------------------+-------------------------+
+| Heurística | **Problemas e exemplos** | **Severidade** |
+| --- | --- | --- |
+| Comentários dos resultados   |   |   |
 
 # Avaliação de acessibilidade utilizando ferramentas semiautomáticas
 
