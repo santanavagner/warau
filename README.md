@@ -71,7 +71,7 @@ Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 
 Exemplo das *tags* `<dt>` e `<dd>`: [29](#exemplo-das-tags-dt-e-dd)
 
-Subtópicos - As tags HTML `<h1> a `<h6>
+Subtópicos - As tags HTML `<h1> a `<h6>`
 [31](#subtópicos---as-tags-html-h1-a-h6)
 
 Exemplo de aninhamento de *tags* para subtópicos:
@@ -1107,7 +1107,7 @@ integração de tecnologias. São eles:
     linguagens de marcação (e.g., títulos, parágrafos, tabelas,
     abreviações).
 
-    - Subtópicos - As tags HTML `<h1> a `<h6>;
+    - Subtópicos - As tags HTML `<h1> a `<h6>`;
 
     - Idiomas - O atributo HTML lang;
 
