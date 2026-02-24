@@ -5634,30 +5634,19 @@ Desenvolvedor
 
 Redator
 
-**(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais,
-Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de
-Computação - UNICAMP)**
+**(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais, Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de Computação - UNICAMP)**
 
-**Avaliador:
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Descrição da URL:**
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-URL:
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Data: \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_**
+**Avaliador:** ___
+**Descrição da URL:** ___
+**URL:** ___
+**Data:** ___ 
 
 **Níveis de Severidade:**
-
-- 0 - não concordo que seja um problema de usabilidade
-
-- 1 - problema cosmético - corrigir se houver tempo extra
-
-- 2 - problema pequeno - baixa prioridade na correção
-
-- 3 - problema grave - alta prioridade na correção
-
-- 4 - problema catastrófico - correção obrigatória para entrega do
-  produto
+- 0: não concordo que seja um problema de usabilidade
+- 1: problema cosmético - corrigir se houver tempo extra
+- 2: problema pequeno - baixa prioridade na correção
+- 3: problema grave - alta prioridade na correção
+- 4: problema catastrófico - correção obrigatória para entrega do produto
 
 +----------------------------------------------------------------------------------------+
 | Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação        |
