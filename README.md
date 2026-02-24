@@ -4419,13 +4419,27 @@ geográficas, controle aéreo, *websites*). Neste tópico serão
 apresentadas as principais recomendações de usabilidade elaboradas
 especificamente para *websites*, adaptado de (Rutter, 2004).
 
-| Tabela de heurísticas na Web - Visibilidade do status do sistema                   |
-| --- |
-| Heurística Genérica - 1. Visibilidade do status do sistema                         |
-| --- |
-| Heurística para Web     | **Ideal**                      | **Incompleto**          |
-| --- | --- | --- |
-| Tempo de carga | As páginas normalmente carregam rapidamente (menos de 10 segundos) em uma conexão de 54kbps, devido a gráficos pequenos, boa compreensão de sons e gráficos e divisão apropriada do conteúdo. | Páginas normalmente demoram mais que 15 segundos para carregar devido a grandes gráficos, sons, etc. |
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Visibilidade do status do sistema</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 1. Visibilidade do status do sistema</td>
+</tr>
+<tr>
+ <td>Heurística para Web</td>
+ <td>**Ideal**</td>
+ <td>**Incompleto**</td>
+</tr>
+<tr>
+ <td>Tempo de carga</td>
+ <td>As páginas normalmente carregam rapidamente (menos de 10 segundos) em uma conexão de 54kbps, devido a gráficos pequenos, boa compreensão de sons e gráficos e divisão apropriada do conteúdo.</td>
+ <td>Páginas normalmente demoram mais que 15 segundos para carregar devido a grandes gráficos, sons, etc.</td>
+</tr>
+</table>
+
+
+
 
 
 +------------------------------------------------------------------------------------+
