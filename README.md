@@ -2993,32 +2993,32 @@ dentro do escopo em que foram criadas.
 ### Contraexemplo de uso de variáveis fora de seu escopo:
 
 ```javascript
-    function Valida(pa,pb) {
+function Valida(pa,pb) {
+    ...
+    if (pa) {
         ...
-        if (pa) {
-            ...
-            var soma = new Number( 0 );
-            soma = pb;
-        } else {
-            soma = 1;
-        }
-        ...
-    };
+        var soma = new Number( 0 );
+        soma = pb;
+    } else {
+        soma = 1;
+    }
+    ...
+};
 ```
 
 ### Exemplo de uso de variáveis com o escopo correto:
 
 ```javascript
 function Valida(pa,pb) {
-var soma = new Number( 0 );
-...
-if (pa) {
-...
-soma = pb;
-} else {
-soma = 1;
-}
-...
+    var soma = new Number( 0 );
+    ...
+    if (pa) {
+        ...
+        soma = pb;
+    } else {
+        soma = 1;
+    }
+    ...
 };
 ```
 
@@ -3054,17 +3054,21 @@ Designer
 
 ### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
 
+```html
 <script type="text/javascript"><!--
 var x = new Number( 1 )
 x = 2
 //--></script>
+```
 
 ### Exemplo de declaração em Javascript usando ponto-e-vírgula:
 
+```html
 <script type="text/javascript"><!--
 var x = new Number( 1 );
 x = 2;
 //--></script>
+```
 
 # Cuidados com versões da linguagem JavaScript
 
@@ -3100,19 +3104,22 @@ Designer
 
 ### Contraexemplo de código Javascript dependente de navegador:
 
+```html
 <script type="text/javascript"><!--
 var browserName = navigator.appName ;
 if ( browserName == "Firefox" ){
-...
+    ...
 }
 //--></script>
 ...
+```
 
 Em vez disso, para garantir que o código será executado corretamente,
 sugerimos utilizar a detecção de objetos e métodos dessa forma:
 
 ### Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador:
 
+```html
 <script type="text/javascript"><!--
 if ( document.getElementById ){
   // O objeto getElementById pode ser utilizado
@@ -3121,6 +3128,7 @@ else{
   // O objeto não pode ser utilizado
 }
 //--></script>
+```
 
 Além da detecção de objetos sugerimos a utilização da detecção de
 métodos. Note que para detecção de métodos não se deve utilizar
@@ -3129,22 +3137,26 @@ verificação de sua existência.
 
 ### Contraexemplo de detecção de método Javascript com uso de parênteses:
 
+```html
 <script type="text/javascript"><!--
 // Verifica se é possível colocar o foco na janela,
 // assumindo que o método pode ser utilizado
 if ( window.focus() ){
-...
+    ...
 }
 //--></script>
+```
 
 ### Exemplo de detecção de método Javascript:
 
+```html
 <script type="text/javascript"><!--
 // Verifica se existe suporte ao método focus
 if ( window.focus ){
-...
+    ...
 }
 //--></script>
+```
 
 Desenvolvedor
 
@@ -3167,25 +3179,29 @@ Designer
 
 ### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
 
+```html
 <script type="text/javascript"><!--
 var x = new String( "1" ) ;
 ...
 y = new Number ( 1 ) ;
 if ( x == y ){
-...
+    ...
 }
 //--></script>
+```
 
 ### Exemplo de conversão de tipo de variável Javascript antes de comparação:
 
+```html
 <script type="text/javascript"><!--
 var x = new String( "1" ) ;
 ...
 y = new Number ( 1 ) ;
 if ( new Number ( x ) == y ){
-...
+    ...
 }
 //--></script>
+```
 
 As implementações da versão 1.2 do Javascript não convertem os tipos
 antes de uma comparação, já as implementações da versão 1.3 do
@@ -3202,12 +3218,14 @@ legível e mais estruturado.
 
 ### Exemplo de retorno de função com tipo de dados compatível com a lógica da função:
 
+```javascript
 function getLinha(pval){
-var linha=new String();
-linha = pval;
-...
-return new Number( linha ) ;
+    var linha=new String();
+    linha = pval;
+    ...
+    return new Number( linha ) ;
 }
+```
 
 Desenvolvedor
 
@@ -3233,26 +3251,20 @@ mesma funcionalidade a partir do *onkeypress*, e vice-versa.
 
 ### Exemplo de manipuladores Javascript de eventos para diferentes dispositivos:
 
+```html
 <script type="text/javascript"><!--
 function selecionou(porigem) {
-
-if (porigem == "M") {
-
-> alert("Selecionou o link pelo mouse.");
-> } else if (porigem == "T") {
->
-> alert("Selecionou o link pelo teclado.");
->
-> };
-
+    if (porigem == "M") {
+        alert("Selecionou o link pelo mouse.");
+    } else if (porigem == "T") {
+        alert("Selecionou o link pelo teclado.");
+    };
 };
 //--></script>
 ...
-<a title="Clique para testar a redundância de manipuladores"
-href="#" onclick="selecionou(\'M\')"
-onkeypress="selecionou(\'T\');">Clique para testar a redundância de
-manipuladores</a>
+<a title="Clique para testar a redundância de manipuladores" href="#" onclick="selecionou('M')" onkeypress="selecionou('T');">Clique para testar a redundância de manipuladores</a>
 ...
+```
 
 # Desvios e laços condicionais em JavaScript
 
@@ -3269,10 +3281,12 @@ Designer
 
 ### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
 
+```html
 <script type="text/javascript"><!--
-if ( \... )
+if ( ... )
   // apenas uma expressão
 //--></script>
+```
 
 ### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
 
