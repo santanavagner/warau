@@ -417,7 +417,7 @@ Redator
 
 Desenvolvedor
 
-[**Vagner Figueredo de Santana**](http://lattes.cnpq.br/0796625901609802)
+[**Vagner Figueredo de Santana**](http://lattes.cnpq.br/0796625901609802)[^1]
 
 Pesquisador sênior e atua no Centro de Estudos sobre Tecnologias Web
 (Ceweb.br), no NIC.br, onde estuda sobre como tecnologias emergentes
@@ -443,7 +443,7 @@ Dados e IA Responsável, mais especificamente sobre os impactos de
 tecnologias da informação, desde sua criação até seu uso em contextos de
 uso reais.
 
-[**Leonelo Dell Anhol Almeida**](http://lattes.cnpq.br/4597216569899545)
+[**Leonelo Dell Anhol Almeida**](http://lattes.cnpq.br/4597216569899545)[^2]
 
 Possui graduação em Bacharelado em Informática pela Universidade
 Estadual de Ponta Grossa (2003), mestrado em Informática pela
@@ -5037,12 +5037,14 @@ utilizada pelo seu navegador (e.g., ALT).
 
 ### Exemplo de declaração de teclas de atalho utilizando o atributo accesskey:
 
+```html
 ...
 <a href="#conteudo" accesskey="c">Ir para o conteúdo</a>
 ...
 <label for="ex808a_busca" accesskey="b">Buscar</label>
 <input type="text" name="busca" id="ex808a_busca" value="">
 ...
+```
 
 Apesar de ser um recurso interessante no que diz respeito à
 acessibilidade, uma vez que é uma solução para pessoas que utilizam
@@ -5059,34 +5061,29 @@ problema apresentada por Robertson (2003) faz uso de indicações
 sublinhadas nos elementos que contam com teclas de atalho, forma
 semelhante à utilizada em alguns sistemas operacionais.
 
-**\**
-
 **No CSS:**
 
 ### Exemplo de CSS para indicação visual de teclas de atalho:
 
+```css
 ...
 span.shortcut { text-decoration: underline; font-weight: bold; }
 ...
+```
 
 **No HTML:**
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 ### Exemplo de uso de classe CSS para indiciação visual de teclas de atalho no HTML:
 
+```html
 ...
-<a href="#conteudo" accesskey="c">Ir para o `<span
-class="shortcut">c</span>onteúdo</a>
+<a href="#conteudo" accesskey="c">Ir para o `<span class="shortcut">c</span>onteúdo</a>
 ...
 <label for="ex808b_busca" accesskey="b">
 <span class="shortcut">B</span>usca:</label>
 <input type="text" name="busca" id="ex808b_busca" value="">
 ...
+```
 
 # Recomendações de Acessibilidade para: Legibilidade
 
@@ -5297,8 +5294,21 @@ cores também esteja disponível sem cores.
 
 ### Contraexemplo de informação fornecida somente por cores:
 
-<table width="50%" cellpadding="5" cellspacing="0" border="1"
-style="font-weight: bold;">
+```html
+<table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
+<tr style="background-color: #cccccc;">
+<td>Com cores</td>
+<td>Sem cores</td>
+</tr>
+<tr><td style="color: #0000ff">10</td><td>10</td></tr>
+<tr><td style="color: #ff0000">5</td><td>5</td></tr>
+<tr><td style="color: #0000ff">50</td><td>50</td></tr>
+</table>
+```
+
+#### Código renderizado
+
+<table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
 <tr style="background-color: #cccccc;">
 <td>Com cores</td>
 <td>Sem cores</td>
@@ -5308,24 +5318,10 @@ style="font-weight: bold;">
 <tr><td style="color: #0000ff">50</td><td>50</td></tr>
 </table>
 
-#### Código renderizado
-
-  -----------------------------------------------------------------------
-  **Com cores**                       **Sem cores**
-  ----------------------------------- -----------------------------------
-  **10**                              **10**
-
-  **5**                               **5**
-
-  **50**                              **50**
-  -----------------------------------------------------------------------
-
-### 
-
 ### Exemplo de informação fornecida por cores e texto:
 
-<table width="50%" cellpadding="5" cellspacing="0" border="1"
-style="font-weight: bold;">
+```html
+<table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
 <tr style="background-color: #cccccc;">
 <td>Com cores</td>
 <td>Sem cores</td>
@@ -5334,20 +5330,17 @@ style="font-weight: bold;">
 <tr><td style="color: #ff0000">-5</td><td>-5</td></tr>
 <tr><td style="color: #0000ff">50</td><td>50</td></tr>
 </table>
+```
 
-#### 
-
-#### Código renderizado
-
-  -----------------------------------------------------------------------
-  **Com cores**                       **Sem cores**
-  ----------------------------------- -----------------------------------
-  **10**                              **10**
-
-  **-5**                              **-5**
-
-  **50**                              **50**
-  -----------------------------------------------------------------------
+<table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
+<tr style="background-color: #cccccc;">
+<td>Com cores</td>
+<td>Sem cores</td>
+</tr>
+<tr><td style="color: #0000ff">10</td><td>10</td></tr>
+<tr><td style="color: #ff0000">-5</td><td>-5</td></tr>
+<tr><td style="color: #0000ff">50</td><td>50</td></tr>
+</table>
 
 Para auxiliar a escolha de uma combinação de cores que não crie
 barreiras para pessoas com deficiência existem várias ferramentas de
@@ -5605,7 +5598,9 @@ Redator
 - 3: problema grave - alta prioridade na correção
 - 4: problema catastrófico - correção obrigatória para entrega do produto
 
-## Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação Manual: Uso de Navegadores Gráficos e Textuais                     
+## Formulário de Avaliação Simplificada de Acessibilidade de Interface
+
+Avaliação Manual: Uso de Navegadores Gráficos e Textuais                     
 
 | Heurística                                                                                                                                                                                                                              | **Problemas e exemplos** | **Severidade** |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------------- |
@@ -5632,7 +5627,9 @@ Redator
 | **2. Verificar se a informação apresentada faz sentido se apresentada de forma linear**                                                                                                                                                 |                          |                |
 
 
-## Formulário de Avaliação Simplificada de Acessibilidade de Interface - Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de avaliação de  acessibilidade)  
+## Formulário de Avaliação Simplificada de Acessibilidade de Interface
+
+Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de avaliação de  acessibilidade)  
 
 | Heurística | **Problemas e exemplos** | **Severidade** |
 | --- | --- | --- |
