@@ -4419,23 +4419,14 @@ geográficas, controle aéreo, *websites*). Neste tópico serão
 apresentadas as principais recomendações de usabilidade elaboradas
 especificamente para *websites*, adaptado de (Rutter, 2004).
 
-+------------------------------------------------------------------------------------+
 | Tabela de heurísticas na Web - Visibilidade do status do sistema                   |
-+=========================+================================+=========================+
+| --- |
 | Heurística Genérica - 1. Visibilidade do status do sistema                         |
-+-------------------------+--------------------------------+-------------------------+
+| --- |
 | Heurística para Web     | **Ideal**                      | **Incompleto**          |
-+-------------------------+--------------------------------+-------------------------+
-| Tempo de carga          | As páginas normalmente         | Páginas normalmente     |
-|                         | carregam rapidamente (menos de | demoram mais que 15     |
-|                         | 10 segundos) em uma conexão de | segundos para carregar  |
-|                         | 54kbps, devido a gráficos      | devido a grandes        |
-|                         | pequenos, boa compreensão de   | gráficos, sons, etc.    |
-|                         | sons e gráficos e divisão      |                         |
-|                         | apropriada do conteúdo.        |                         |
-+-------------------------+--------------------------------+-------------------------+
-|                         |                                |                         |
-+-------------------------+--------------------------------+-------------------------+
+| --- | --- | --- |
+| Tempo de carga | As páginas normalmente carregam rapidamente (menos de 10 segundos) em uma conexão de 54kbps, devido a gráficos pequenos, boa compreensão de sons e gráficos e divisão apropriada do conteúdo. | Páginas normalmente demoram mais que 15 segundos para carregar devido a grandes gráficos, sons, etc. |
+
 
 +------------------------------------------------------------------------------------+
 | Tabela de heurísticas na Web - Compatibilidade do sistema com o mundo real         |
@@ -4616,8 +4607,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 |                         | consistente e melhora a         |                         |
 |                         | legibilidade.                   |                         |
 +-------------------------+---------------------------------+-------------------------+
-
-**\**
 
 +--------------------------------------------------------------------------------------+
 | Tabela de heurísticas na Web - Ajudar os usuários a reconhecer, diagnosticar e       |
