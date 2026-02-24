@@ -9,7 +9,7 @@
 | Formato | Citação | 
 | :--- | :--- | 
 | Texto | Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol; Baranauskas, Maria Cecília Calani. Leanpub. https://leanpub.com/warau |
-| Bibtex | \@book{Santana2018, title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade},<br>author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cec{\\\'\\i}lia Calani},<br>year={2018},<br>publisher = {Leanpub},<br>isbn = {978-85-907039-1-4}<br>} |
+| Bibtex | \@book{Santana2018,<br>title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade},<br>author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cec{\\\'\\i}lia Calani},<br>year={2018},<br>publisher = {Leanpub},<br>isbn = {978-85-907039-1-4}<br>} |
 
   **Data da revisão:** 13/02/2026
   
@@ -1168,21 +1168,23 @@ Redator
 
 Desenvolvedor
 
-Utilize as *tags* `<h1>, `<h2>, `<h3>, `<h4>, `<h5> e `<h6> para
+Utilize as *tags* `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>` para
 estruturar uma página por meio do particionamento do conteúdo em
-subtópicos. O `<h1> deve ser utilizado para os tópicos mais gerais e a
+subtópicos. O `<h1>` deve ser utilizado para os tópicos mais gerais e a
 partir de cada subtópico deve-se utilizar o número seguinte, por
-exemplo, `<h2>, depois `<h3>, e assim sucessivamente até o `<h6>.
+exemplo, `<h2>`, depois `<h3>`, e assim sucessivamente até o `<h6>`.
 
 É importante que os elementos sejam aninhados corretamente de acordo com
 sua estrutura.
 
 ### Exemplo de aninhamento de *tags* para subtópicos:
 
+```html
 <h1>Título</h1>
 <h2>Subtítulo</h2>
 <h3>Intertítulo</h3>
 <h3>Intertítulo</h3>
+```
 
 Note que estas *tags* não devem ser utilizadas com o intuito formatar
 algum conteúdo textual, elas devem indicar uma hierarquia no documento.
@@ -1352,10 +1354,8 @@ parágrafos **não** dever ser justificado.
 
 #### Código renderizado
 
-Parágrafo 1. Linha 1
-Parágrafo 1. Linha 2
-
-Parágrafo 2.
+<p>Parágrafo 1. Linha 1<br>Parágrafo 1. Linha 2</p>
+<p>Parágrafo 2.</p>
 
 # Idiomas - O atributo HTML lang
 
@@ -1431,7 +1431,7 @@ de um elemento químico.
 
 <p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
 
-# Fontes - A tag HTML `<font>
+# Fontes - A tag HTML `<font>`
 
 Designer
 
@@ -1478,7 +1478,7 @@ elas implicam apenas no destaque visual. As *tags* `<em>` e `<strong>`
 foram projetadas para indicar ênfase e, portanto, podem ser renderizadas
 de várias formas, inclusive via leitor de telas.
 
-### Exemplo das *tags* `<em>`e `<strong>:
+### Exemplo das *tags* `<em>`e `<strong>`:
 
 ```html
 <p><strong>A grande produção</strong> de
@@ -1490,8 +1490,7 @@ de várias formas, inclusive via leitor de telas.
 #### Código renderizado
 
 
-<p><strong>A grande produção</strong> de
-<em>adrenalina</em>.</p>
+<p><strong>A grande produção</strong> de <em>adrenalina</em>.</p>
 ....
 <p><strong>Não</strong> use <em>clique aqui</em>.</p>
 
@@ -1512,8 +1511,7 @@ reduzido.
 ### Exemplos da *tag* `<abbr>`:
 
 ```html
-<p><abbr title="Universidade Estadual de
-Campinas">Unicamp</abbr></p>
+<p><abbr title="Universidade Estadual de Campinas">Unicamp</abbr></p>
 <p><abbr title="Código de Endereçamento Postal">CEP</abbr></p>
 ```
 
@@ -1521,12 +1519,10 @@ Campinas">Unicamp</abbr></p>
 
 #### Código renderizado
 
-[Unicamp]{.underline}
+<p><abbr title="Universidade Estadual de Campinas">Unicamp</abbr></p>
+<p><abbr title="Código de Endereçamento Postal">CEP</abbr></p>
 
-[CEP]{.underline}
-
-Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII
-*art* acessíveis.
+Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art* acessíveis.
 
 ### Exemplo:
 
@@ -1561,17 +1557,14 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 
 ### Exemplo dos atributos color e bgcolor:
 
+```html
 <table bgcolor="#0000bb">
-
 <tr>
-
 <td>coluna 1</td>
-
 <td><font color="#00ff00">coluna 2</font></td>
-
 </tr>
-
 </table>
+```
 
 # Réguas horizontais - A tag HTML `<hr>
 
@@ -1585,17 +1578,19 @@ A *tag* `<hr>` não possui *tag* de fechamento. Ela define uma régua
 horizontal e é utilizada para auxiliar na distinção de blocos de
 conteúdo.
 
-### Exemplo da *tag* `<hr>:
+### Exemplo da *tag* `<hr>`:
+
+```html
+<p>Texto do primeiro bloco.</p>
+<hr>
+<p>Texto do segundo bloco.</p>
+```
+
+#### Código renderizado
 
 <p>Texto do primeiro bloco.</p>
 <hr>
 <p>Texto do segundo bloco.</p>
-
-#### Código renderizado
-
-Texto do primeiro bloco.
-
-Texto do segundo bloco.
 
 # Textos alternativos
 
@@ -1624,7 +1619,7 @@ Se o elemento for somente para decoração ou estiver invisível na
 página - por exemplo: bordas e fundos de tela -, então não deve ser
 criado texto alternativo.
 
-# Imagens - A tag HTML `<img>
+# Imagens - A tag HTML `<img>`
 
 Designer
 
@@ -1641,11 +1636,13 @@ conteúdo deve refletir o que está apresentado na imagem ou na ação
 associada à imagem, ou seja, ser um texto equivalente ao conteúdo da
 imagem.
 
-### Exemplo da *tag* `<img>:
+### Exemplo da *tag* `<img>`:
 
+```html
 <img src="livros.gif" width="15" height="10" alt="Livros">
-<a href="servicos.html"><img src="icone.gif" width="15"
-height="10" border="0" alt="Acessar serviços"></a>
+
+<a href="servicos.html"><img src="icone.gif" width="15" height="10" border="0" alt="Acessar serviços"></a>
+```
 
 O conteúdo do atributo *alt* é utilizado em vários cenários. Entre eles:
 quando as imagens estão desabilitadas, quando o usuário utiliza leitor
@@ -1663,7 +1660,7 @@ CSS.
 Por fim, não utilize imagens animadas a não ser que o usuário tenha uma
 forma de interromper o movimento.
 
-# Elementos multimídia - A tag HTML `<object>
+# Elementos multimídia - A tag HTML `<object>`
 
 Designer
 
@@ -1699,7 +1696,7 @@ hemorragias, olhos injetados, vertigens e desmaios. No dia seguinte,
 mais de 12.000 estudantes faltaram às aulas (somente em Tóquio), a
 maioria decorrente de problemas relacionados ao desenho.
 
-### Exemplo da *tag* `<object>:
+### Exemplo da *tag* `<object>`:
 
 <object id="ex22_slides" data="apresentacao.swf">
 Apresentação de slides sobre utilização de HTML válido utilizando
@@ -1707,7 +1704,7 @@ aspectos de usabilidade.
 ...
 </object>
 
-# Formulários - A tag HTML `<form>
+# Formulários - A tag HTML `<form>`
 
 Desenvolvedor
 
@@ -1734,7 +1731,9 @@ de um formulário via *get*.
 
 ### Exemplo de URL destino de um formulário via *get*:
 
+```html
 https://www.exemplo.com.br/cadastro.php?nome=Carlos&Idade=33
+```
 
 No *post* os dados são enviados juntamente com a requisição e o limite é
 configurável no servidor *Web*.
@@ -1774,19 +1773,19 @@ atributo *checked* com valor *checked*.
 
 ### Exemplo da *tag* `<input>:
 
+```html
 <label for="ex24_idade">Idade:</label>
-
-<input type="text" id="ex24_idade" name="campo_idade"
-value="18"/>
-<input type="submit" id="ex24_enviar" name="botao_enviar"
-value="Enviar"/>
+<input type="text" id="ex24_idade" name="campo_idade" value="18"/>
+<input type="submit" id="ex24_enviar" name="botao_enviar" value="Enviar"/>
+```
 
 #### 
 
 #### Código renderizado
 
-![](media/image3.png){width="2.3386832895888015in"
-height="0.4208070866141732in"}
+<label for="ex24_idade">Idade:</label>
+<input type="text" id="ex24_idade" name="campo_idade" value="18"/>
+<input type="submit" id="ex24_enviar" name="botao_enviar" value="Enviar"/>
 
 # Rótulos - A tag HTML `<label>
 
@@ -1800,10 +1799,10 @@ Sempre utilize a *tag* `<label>` para associar um rótulo ao seu
 respectivo campo de um formulário.
 
 A associação é feita por meio dos atributos *id* da *tag* `<input>` e
-*for* da *tag* `<label>.
+*for* da *tag* `<label>`.
 
 Para destacar um elemento como obrigatório inclua a marcação dentro das
-*tags* `<label>.
+*tags* `<label>`.
 
 Note que quando usa um rótulo, ele se torna um elemento clicável. E
 quando clicado, o foco é aplicado no campo de formulário a que fez
@@ -1811,15 +1810,18 @@ referência.
 
 ### Exemplo da *tag* `<label>:
 
+```html
 <label for="ex25_nome">* Nome:</label>
 <input type="text" name="nome" id="ex25_nome" value="João"/>
+```
 
 #### 
 
 #### Código renderizado
 
-­­­­­­­­­­­![](media/image4.png){width="3.054805336832896in"
-height="0.5208748906386702in"}
+<label for="ex25_nome">* Nome:</label>
+<input type="text" name="nome" id="ex25_nome" value="João"/>
+­­­­­­­­­­­
 
 # Caixas de seleção - A tag HTML `<select>
 
@@ -1840,6 +1842,7 @@ valor *selected*.
 
 ### Exemplo da *tag* `<select>:
 
+```html
 <label for="ex26_personagens">Personagens</label>
 <select multiple="multiple" size="3" id="ex26_personagens">
 <option value="1">He-man</option>
@@ -1848,6 +1851,7 @@ valor *selected*.
 <option value="4">Feiticeira</option>
 <option value="5">Gorpo</option>
 </select>
+```
 
 A *tag* `<optgroup>` deve ser utilizada para agrupar *tags* `<option>.
 Ela permite reunir elementos, estruturá-los e facilitar sua
@@ -1855,6 +1859,7 @@ identificação.
 
 ### Exemplo da *tag* `<optgroup>:
 
+```html
 <label for="ex26_herois">Heróis/heroínas</label>
 <select multiple="multiple" size="3" id="ex26_herois">
 <optgroup label="Heróis">
@@ -1867,6 +1872,7 @@ identificação.
 <option value="4">Feiticeira</option>
 </optgroup>
 </select>
+```
 
 # Campos de texto - A tag HTML `<textarea>
 
@@ -1882,11 +1888,13 @@ colunas, respectivamente.
 
 ### Exemplo da *tag* `<textarea>:
 
+```html
 <label for="ex27_texto">Texto</label>
 <textarea rows="5" cols="15" id="ex27_texto">
 A tag textarea permite a criação de campos de entrada de texto de várias
 linhas.
 </textarea>
+```
 
 # Agrupamento de elementos de formulário - A tag HTML `<fieldset>
 
@@ -1901,21 +1909,25 @@ formulários correlacionados.
 
 ### Exemplo da *tag* `<fieldset>:
 
+```html
 <fieldset>
 <label for="ex28_nome">Nome:</label>
-
 <input type="text" name="nome" id="ex28_nome" value="João" />
 <label for="ex28_idade">Idade:</label>
-
 <input type="text" name="idade" id="ex28_idade" value="18" />
 </fieldset>
+```
 
 #### 
 
 #### Código renderizado
 
-![](media/image5.png){width="2.604093394575678in"
-height="1.0442355643044618in"}
+<fieldset>
+<label for="ex28_nome">Nome:</label>
+<input type="text" name="nome" id="ex28_nome" value="João" />
+<label for="ex28_idade">Idade:</label>
+<input type="text" name="idade" id="ex28_idade" value="18" />
+</fieldset>
 
 # Rótulos para fieldsets - A tag HTML `<legend>
 
@@ -1926,26 +1938,31 @@ Desenvolvedor
 Redator
 
 A *tag* `<legend>` é utilizada para atribuir um rótulo a um
-<fieldset>.
+`<fieldset>`.
 
-### Exemplo da *tag* `<legend>:
+### Exemplo da *tag* `<legend>`:
+
+```html
+<fieldset>
+<legend>Dados pessoais</legend>
+<label for="ex29_nome">Nome:</label>
+<input type="text" name="nome" id="ex29_nome" value="" />
+<label for="ex29_idade">Idade:</label>
+<input type="text" name="idade" id="ex29_idade" value="" />
+</fieldset>
+```
+
+#### Código renderizado
 
 <fieldset>
 <legend>Dados pessoais</legend>
 <label for="ex29_nome">Nome:</label>
-
 <input type="text" name="nome" id="ex29_nome" value="" />
 <label for="ex29_idade">Idade:</label>
-
 <input type="text" name="idade" id="ex29_idade" value="" />
 </fieldset>
 
-#### Código renderizado
-
-![](media/image6.png){width="2.799547244094488in"
-height="1.1837554680664917in"}
-
-# Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>
+# Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
 
 Designer
 
@@ -1974,23 +1991,21 @@ tabela.
 
 ### Exemplo da *tag* `<table>:
 
-<table summary="Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 12 meses, mês a mês.">
+```html
+<table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
 <tr>
-<td>R\$ 3,97</td><td>R\$ 4,02</td>
+<td>R$ 3,97</td><td>R$ 4,02</td>
 </tr>
 </table>
+```
 
 #### Código renderizado
 
-  -----------------------------------------------------------------------
-  R\$ 3,97                            R\$ 4,02
-  ----------------------------------- -----------------------------------
-
-  -----------------------------------------------------------------------
-
-  : Esta tabela mostra a evolução da cotação do dólar turismo nos
-  últimos 12 meses, mês a mês.
+<table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
+<tr>
+<td>R$ 3,97</td><td>R$ 4,02</td>
+</tr>
+</table>
 
 A *tag* `<th>` é utilizada para demarcar o conteúdo do cabeçalho de uma
 coluna.
