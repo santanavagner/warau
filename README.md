@@ -4427,9 +4427,9 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  <td colspan="3">Heurística Genérica - 1. Visibilidade do status do sistema</td>
 </tr>
 <tr>
- <td>Heurística para Web</td>
- <td>**Ideal**</td>
- <td>**Incompleto**</td>
+ <th>Heurística para Web</th>
+ <th><strong>Ideal</strong></th>
+ <th><strong>Incompleto</strong></th>
 </tr>
 <tr>
  <td>Tempo de carga</td>
@@ -4439,51 +4439,45 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </table>
 
 
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Compatibilidade do sistema com o mundo real </td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 2. Compatibilidade do sistema com o mundo real</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th><strong>Ideal</strong></th>
+ <th><strong>Incompleto</strong></th>
+</tr>
+<tr>
+ <td>Conteúdo </td>
+ <td>O website tem propósito e tema bem definido que é mantido por todo o website.</td>
+ <td>O website não possui propósito e tema bem definido.</td>
+</tr>
+<tr>
+ <td>Precisão do Conteúdo</td>
+ <td>Toda a informação fornecida pelo designer no website é precisa e todos os requisitos da tarefa foram alcançados.</td>
+ <td>Há várias imprecisões no conteúdo fornecido pelo designer ou vários dos requisitos não foram alcançados.</td>
+</tr>
+ <tr>
+  <td>Sons</td>
+  <td>Música, clips de áudio e sons são conscientemente editados e usados somente se eles auxiliam o leitor na compreensão do conteúdo ou tornam o website mais acessível para pessoas com deficiência visual.</td>
+  <td>Música, clips de áudio e sons são usados randomicamente ou atrapalham o website.</td>
+ </tr>
+ <tr>
+  <td>Imagens</td>
+  <td>Todas as imagens, especialmente as usadas para navegação, tem uma tag ALT que descreve a imagem e seu link. Então as pessoas com deficiência visual podem utilizar bem o website.</td>
+  <td>As necessidades de pessoas com deficiência visual são ignoradas.</td>
+ </tr>
+ <tr>
+  <td>Conhecimento do público-alvo</td>
+  <td>O designer conhece o público-alvo do website e desenvolve o material visando a atender da melhor forma às necessidades desse público.</td>
+  <td>O designer não leva em consideração o público-alvo do website.</td>
+ </tr>
+</table>
 
-
-
-+------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Compatibilidade do sistema com o mundo real         |
-+=========================+================================+=========================+
-| Heurística Genérica - 2. Compatibilidade do sistema com o mundo real               |
-+-------------------------+--------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                      | **Incompleto**          |
-+-------------------------+--------------------------------+-------------------------+
-| Conteúdo                | O *website* tem propósito e    | O *website* não possui  |
-|                         | tema bem definido que é        | propósito e tema bem    |
-|                         | mantido por todo o website.    | definido.               |
-+-------------------------+--------------------------------+-------------------------+
-| Precisão do Conteúdo    | Toda a informação fornecida    | Há várias imprecisões   |
-|                         | pelo designer no *website* é   | no conteúdo fornecido   |
-|                         | precisa e todos os requisitos  | pelo designer ou vários |
-|                         | da tarefa foram alcançados.    | dos requisitos não      |
-|                         |                                | foram alcançados.       |
-+-------------------------+--------------------------------+-------------------------+
-| Sons                    | Música, clips de áudio e sons  | Música, clips de áudio  |
-|                         | são conscientemente editados e | e sons são usados       |
-|                         | usados somente se eles         | randomicamente ou       |
-|                         | auxiliam o leitor na           | atrapalham o *website*. |
-|                         | compreensão do conteúdo ou     |                         |
-|                         | tornam o *website* mais        |                         |
-|                         | acessível para pessoas com     |                         |
-|                         | deficiência visual.            |                         |
-+-------------------------+--------------------------------+-------------------------+
-| Imagens                 | Todas as imagens,              | As necessidades de      |
-|                         | especialmente as usadas para   | pessoas com deficiência |
-|                         | navegação, tem uma tag ALT que | visual são ignoradas.   |
-|                         | descreve a imagem e seu link.  |                         |
-|                         | Então as pessoas com           |                         |
-|                         | deficiência visual podem       |                         |
-|                         | utilizar bem o *website*.      |                         |
-+-------------------------+--------------------------------+-------------------------+
-| Conhecimento do         | O designer conhece o           | O designer não leva em  |
-| público-alvo            | público-alvo do *website* e    | consideração o          |
-|                         | desenvolve o material visando  | público-alvo do         |
-|                         | a atender da melhor forma às   | *website*.              |
-|                         | necessidades desse público.    |                         |
-+-------------------------+--------------------------------+-------------------------+
-|                         |                                |                         |
-+-------------------------+--------------------------------+-------------------------+
 
 +-------------------------------------------------------------------------------------+
 | Tabela de heurísticas na Web - Controle do usuário e liberdade                      |
