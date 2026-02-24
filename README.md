@@ -3290,11 +3290,13 @@ if ( ... )
 
 ### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
 
+```html
 <script type="text/javascript"><!--
-if ( \... ){
+if ( ... ){
   // uma ou mais expressões;
 }
 //--></script>
+```
 
 # Escrita de HTML via JavaScript
 
@@ -3311,30 +3313,34 @@ Designer
 
 ### Contraexemplo de impressão em Javascript:
 
+```html
 <script type="text/javascript"><!--
 document.write( "<table>" ) ;
 document.write( "<tr><td>" ) ;
 document.write( "teste" ) ;
-document.write( "<\\/td><\\/tr>" ) ;
-document.write( "<\\/table>" ) ;
+document.write( "</td></tr>" ) ;
+document.write( "</table>" ) ;
 //--></script>
+```
 
 ### Exemplo de impressão em Javascript usando concatenação:
 
+```html
 <script type="text/javascript"><!--
 var html_code = "<table>"
 html_code += "<tr><td>" ;
 html_code += "teste" ;
-html_code += "<\\/td><\\/tr>" ;
-html_code += "<\\/table>" ;
+html_code += "</td></tr>" ;
+html_code += "</table>" ;
 document.write( html_code ) ;
 //--></script>
+```
 
 # Aspas simples e duplas em JavaScript
 
 Conteúdo de texto deve estar sempre entre aspas duplas (") e todas
 ocorrências delas no conteúdo devem ser escapadas com a barra invertida
-(\\).
+(\).
 
 Desenvolvedor
 
@@ -3344,23 +3350,28 @@ Designer
 
 ### Contraexemplo de uso de aspas em Javascript:
 
+```html
 <script type="text/javascript"><!--
-document.write( \'Conteúdo de texto. "Teste", teste.\' ) ;
+document.write( 'Conteúdo de texto. "Teste", teste.' ) ;
 //--></script>
+```
 
 ### Exemplo de uso de aspas em Javascript:
 
+```html
 <script type="text/javascript"><!--
-document.write( "Conteúdo de texto. \\"Teste\\", teste." ) ;
+document.write( "Conteúdo de texto. \"Teste\", teste." ) ;
 //--></script>
+```
 
-Aspa simples ou apóstrofe (\') deve ser utilizada somente quando o
+Aspa simples ou apóstrofe (') deve ser utilizada somente quando o
 código JavaScript estiver dentro de um atributo de uma tag HTML.
 
 ### Exemplo de uso de aspas simples em Javascript:
 
-...<a href="./" onClick="alert( function( \'conteúdo string\' ) )
-;">...
+```html
+...<a href="./" onClick="alert( function( 'conteúdo string' ) );">...
+```
 
 # ETAGO em JavaScript
 
@@ -3376,15 +3387,19 @@ Designer
 
 ### Contraexemplo de impressão de ETAGO em Javascript:
 
+```html
 <script type="text/javascript"><!--
 document.write( "<p>Teste</p>" ) ;
 //--></script>
+```
 
 ### Exemplo de impressão de ETAGO em Javascript:
 
+```html
 <script type="text/javascript"><!--
-document.write( "<p>Teste<\\/p>" ) ;
+document.write( "<p>Teste<\/p>" ) ;
 //--></script>
+```
 
 # Escrevendo a palavra reservada script
 
@@ -3400,23 +3415,23 @@ Designer
 
 ### Contraexemplo de impressão da palavra script:
 
+```html
 ...
 <script type="text/javascript"><!--
-document.write( "<script language=\\"javascript\\"
-type=\\"text/javascript\\"
-src=\\"codigo.js\\"><\\/script> " ) ;
+document.write( "<script language=\"javascript\" type=\"text/javascript\" src=\"codigo.js\"><\/script>" ) ;
 //--></script>
 ...
+```
 
 ### Exemplo de impressão da palavra script:
 
+```html
 ...
 <script type="text/javascript"><!--
-document.write( "<scr" + "ipt language=\\"javascript\\"
-type=\\"text/javascript\\" src=\\"codigo.js\\"><\\/scr" + "ipt>
-" ) ;
+document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" src=\"codigo.js\"><\/scr" + "ipt>" ) ;
 //--></script>
 ...
+```
 
 # Manipulação de CSS utilizando JavaScript
 
