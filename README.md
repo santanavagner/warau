@@ -4,6 +4,8 @@
 
 **Prefácio por:** Profa. Maria Teresa Eglér Mantoan
 
+----
+
 | Formato | Citação | 
 | :--- | :--- | 
 | Texto | Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol; Baranauskas, Maria Cecília Calani. Leanpub. https://leanpub.com/warau |
@@ -15,644 +17,251 @@
 
 ----
 
-Prefácio [9](#_Toc38545860)
-
-Introdução [11](#introdução)
-
-Sobre os Autores [13](#sobre-os-autores)
-
-O que é Acessibilidade? [15](#o-que-é-acessibilidade)
-
-Design Universal e Design Acessível
-[17](#design-universal-e-design-acessível)
-
-Tecnologias Assistivas [18](#tecnologias-assistivas)
-
-Princípios para o desenvolvimento Web acessível
-[19](#princípios-para-o-desenvolvimento-web-acessível)
-
-Padronização de códigos HTML [21](#padronização-de-códigos-html)
-
-Exemplo de atributo HTML com aspas simples:
-[21](#exemplo-de-atributo-html-com-aspas-simples)
-
-Exemplo de comentário em HTML: [21](#exemplo-de-comentário-em-html)
-
-Estrutura de documentos HTML [23](#estrutura-de-documentos-html)
-
-Exemplo de *tags* básicas do HTML:
-[23](#exemplo-de-tags-básicas-do-html)
-
-Exemplo de uso das *tags* `<head>` e `<body>`:
-[23](#exemplo-de-uso-das-tags-head-e-body)
-
-Contraexemplo de título de página:
-[23](#contraexemplo-de-título-de-página)
-
-Exemplo de *tags* `<meta>`: [24](#exemplo-de-tags-meta)
-
-Contraexemplo sobre atualização automática de páginas:
-[24](#contraexemplo-sobre-atualização-automática-de-páginas)
-
-Exemplo de relação entre documentos na *tag* `<link>`:
-[24](#exemplo-de-relação-entre-documentos-na-tag-link)
-
-Exemplo da *tag* `<body>`: [25](#exemplo-da-tag-body)
-
-Âncoras e hiperlinks - A tag HTML `<a>`
-[26](#âncoras-e-hiperlinks---a-tag-html-a)
-
-Exemplo de *skip link*: [26](#exemplo-de-skip-link)
-
-Mapeamentos - A tag HTML `<map>` [28](#mapeamentos---a-tag-html-map)
-
-Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
-[29](#listas---as-tags-html-ol-ul-e-dl)
-
-Exemplo das *tags* `<dt>` e `<dd>`: [29](#exemplo-das-tags-dt-e-dd)
-
-Subtópicos - As tags HTML `<h1> a `<h6>`
-[31](#subtópicos---as-tags-html-h1-a-h6)
-
-Exemplo de aninhamento de *tags* para subtópicos:
-[31](#exemplo-de-aninhamento-de-tags-para-subtópicos)
-
-Tabulação - O atributo HTML tabindex
-[32](#tabulação---o-atributo-html-tabindex)
-
-Frames - A tag HTML `<frame>` [33](#frames---a-tag-html-frame)
-
-Elementos de bloco e elementos de linha
-[34](#elementos-de-bloco-e-elementos-de-linha)
-
-Agrupamento de elementos de bloco - A tag HTML `<div>`
-[35](#agrupamento-de-elementos-de-bloco---a-tag-html-div)
-
-Exemplo da *tag* `<div>`: [35](#exemplo-da-tag-div)
-
-Agrupamento de texto - A tag HTML `<span>`
-[36](#agrupamento-de-texto---a-tag-html-span)
-
-Exemplo da *tag* `<span>`: [36](#exemplo-da-tag-span)
-
-Quebras de linha - A tag HTML `<br>`
-[37](#quebras-de-linha---a-tag-html-br)
-
-Exemplo da *tag* `<br>`: [37](#exemplo-da-tag-br)
-
-Parágrafos - A tag HTML `<p>` [38](#parágrafos---a-tag-html-p)
-
-Exemplo da *tag* `<p>`: [38](#exemplo-da-tag-p)
-
-Idiomas - O atributo HTML lang [39](#idiomas---o-atributo-html-lang)
-
-Exemplo do atributo *lang*: [39](#exemplo-do-atributo-lang)
-
-Textos sobrescritos - A tag HTML `<sup>`
-[40](#textos-sobrescritos---a-tag-html-sup)
-
-Exemplo da *tag* `<sup>`: [40](#exemplo-da-tag-sup)
-
-Textos subscritos - A tag HTML `<sub>`
-[41](#textos-subscritos---a-tag-html-sub)
-
-Exemplo da *tag* `<sub>`: [41](#exemplo-da-tag-sub)
-
-Fontes - A tag HTML `<font>` [42](#fontes---a-tag-html-font)
-
-Exemplo da *tag* `<font>`: [42](#exemplo-da-tag-font)
-
-Ênfase no texto - As tags HTML `<em>` e `<strong>`
-[43](#ênfase-no-texto---as-tags-html-em-e-strong)
-
-Exemplo das *tags* `<em>` e `<strong>`:
-[43](#exemplo-das-tags-em-e-strong)
-
-Abreviações e siglas - As tags HTML `<abbr>` e `<acronym>`
-[44](#abreviações-e-siglas---a-tags-html-abbr)
-
-Exemplo das *tags* `<abbr>` e `<acronym>`: [44](#exemplos-da-tag-abbr)
-
-Exemplo: [44](#exemplo)
-
-Cores - Os atributos HTML color e bgcolor
-[45](#cores---os-atributos-html-color-e-bgcolor)
-
-Exemplo dos atributos color e bgcolor:
-[45](#exemplo-dos-atributos-color-e-bgcolor)
-
-Réguas horizontais - A tag HTML `<hr>`
-[46](#réguas-horizontais---a-tag-html-hr)
-
-Exemplo da *tag* `<hr>`: [46](#exemplo-da-tag-hr)
-
-Textos alternativos [47](#textos-alternativos)
-
-Imagens - A tag HTML `<img>` [48](#imagens---a-tag-html-img)
-
-Exemplo da *tag* `<img>`: [48](#exemplo-da-tag-img)
-
-Elementos multimídia - A tag HTML `<object>`
-[49](#elementos-multimídia---a-tag-html-object)
-
-Exemplo da *tag* `<object>`: [49](#exemplo-da-tag-object)
-
-Formulários - A tag HTML `<form>` [50](#formulários---a-tag-html-form)
-
-Exemplo de URL destino de um formulário via *get*:
-[50](#exemplo-de-url-destino-de-um-formulário-via-get)
-
-Campos de entrada de dados - A tag HTML `<input>`
-[51](#campos-de-entrada-de-dados---a-tag-html-input)
-
-Exemplo da *tag* `<input>`: [51](#exemplo-da-tag-input)
-
-Rótulos - A tag HTML `<label>` [52](#rótulos---a-tag-html-label)
-
-Exemplo da *tag* `<label>`: [52](#exemplo-da-tag-label)
-
-Caixas de seleção - A tag HTML `<select>`
-[53](#caixas-de-seleção---a-tag-html-select)
-
-Exemplo da *tag* `<select>`: [53](#exemplo-da-tag-select)
-
-Exemplo da *tag* `<optgroup>`: [53](#exemplo-da-tag-optgroup)
-
-Campos de texto - A tag HTML `<textarea>`
-[54](#campos-de-texto---a-tag-html-textarea)
-
-Exemplo da *tag* `<textarea>`: [54](#exemplo-da-tag-textarea)
-
-Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
-[55](#agrupamento-de-elementos-de-formulário---a-tag-html-fieldset)
-
-Exemplo da *tag* `<fieldset>`: [55](#exemplo-da-tag-fieldset)
-
-Rótulos para fieldsets - A tag HTML `<legend>`
-[56](#rótulos-para-fieldsets---a-tag-html-legend)
-
-Exemplo da *tag* `<legend>`: [56](#exemplo-da-tag-legend)
-
-Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
-[57](#tabelas---as-tags-html-table-td-tr-th-e-caption)
-
-Exemplo da *tag* `<table>`: [57](#exemplo-da-tag-table)
-
-Exemplo da *tag* `<th>`: [57](#exemplo-da-tag-th)
-
-Exemplo do atributo *abbr* na *tag* `<th>`:
-[58](#exemplo-do-atributo-abbr-na-tag-th)
-
-Exemplo da *tag* `<caption>`: [58](#exemplo-da-tag-caption)
-
-Validação de código HTML [60](#validação-de-código-html)
-
-Sintaxe CSS [61](#sintaxe-css)
-
-Exemplo de declaração atributo-valor CSS:
-[61](#exemplo-de-declaração-atributo-valor-css)
-
-Exemplo de agrupamento de seletores CSS:
-[61](#exemplo-de-agrupamento-de-seletores-css)
-
-Exemplo de seletor *class* em CSS:
-[61](#exemplo-de-seletor-class-em-css)
-
-Exemplo de uso do seletor *class* CSS no HTML:
-[61](#exemplo-de-uso-do-seletor-class-css-no-html)
-
-Exemplo de uso combinado de classes CSS:
-[61](#exemplo-de-uso-combinado-de-classes-css)
-
-Exemplo de omissão do elemento HTML na classe CSS:
-[62](#exemplo-de-omissão-do-elemento-html-na-classe-css)
-
-Exemplo de uso de classe CSS com omissão do elemento HTML:
-[62](#exemplo-de-uso-de-classe-css-com-omissão-do-elemento-html)
-
-Inclusão de código CSS [63](#inclusão-de-código-css)
-
-Exemplo de declaração interna do CSS:
-[63](#exemplo-de-declaração-interna-do-css)
-
-Exemplo de declaração externo do CSS:
-[63](#exemplo-de-declaração-externo-do-css)
-
-Exemplo de declaração *inline* do CSS:
-[63](#exemplo-de-declaração-inline-do-css)
-
-Estrutura de documentos CSS [65](#estrutura-de-documentos-css)
-
-Exemplo de cálculo de pesos de seletores CSS:
-[65](#exemplo-de-cálculo-de-pesos-de-seletores-css)
-
-Padronização de código CSS [66](#padronização-de-código-css)
-
-Exemplo de declaração padronizada em CSS:
-[66](#exemplo-de-declaração-padronizada-em-css)
-
-Contraexemplo de declaração *inline* em CSS:
-[66](#contraexemplo-de-declaração-inline-em-css)
-
-Exemplo de declaração *inline* em CSS:
-[66](#exemplo-de-declaração-inline-em-css)
-
-Contraexemplo de declaração CSS baseada na aparência:
-[66](#contraexemplo-de-declaração-css-baseada-na-aparência)
-
-Contraexemplo de declaração CSS baseada no conteúdo:
-[66](#contraexemplo-de-declaração-css-baseada-no-conteúdo)
-
-Exemplo de declaração CSS baseada na função do dado:
-[66](#exemplo-de-declaração-css-baseada-na-função-do-dado)
-
-Prioridade para estilos do usuário
-[68](#prioridade-para-estilos-do-usuário)
-
-Unidades de medida relativas - Unidades em CSS: Porcentagem e em
-[69](#unidades-de-medida-relativas---unidades-em-css-porcentagem-e-em)
-
-Conteúdos gerados pelo CSS: os pseudo-elementos before e after
-[70](#conteúdos-gerados-pelo-css-os-pseudo-elementos-before-e-after)
-
-Listas ordenadas utilizando CSS [71](#listas-ordenadas-utilizando-css)
-
-Exemplo de CSS para listas ordenadas com subníveis:
-[71](#exemplo-de-css-para-listas-ordenadas-com-subníveis)
-
-Exemplo de marcações de fim de listas ordenadas usando CSS:
-[71](#exemplo-de-marcações-de-fim-de-listas-ordenadas-usando-css)
-
-Exemplo de marcações de fim de listas ordenadas usando CSS no HTML:
-[71](#exemplo-de-marcações-de-fim-de-listas-ordenadas-usando-css-no-html)
-
-Réguas - Alterando a aparência com CSS
-[73](#réguas---alterando-a-aparência-com-css)
-
-Exemplo de alteração da aparência de réguas usando CSS:
-[73](#exemplo-de-alteração-da-aparência-de-réguas-usando-css)
-
-Exemplo de alteração da aparência de réguas usando CSS no HTML:
-[73](#exemplo-de-alteração-da-aparência-de-réguas-usando-css-no-html)
-
-Bordas utilizando CSS [74](#bordas-utilizando-css)
-
-Exemplo de definição de bordas usando CSS:
-[74](#exemplo-de-definição-de-bordas-usando-css)
-
-Posicionamento utilizando CSS [75](#posicionamento-utilizando-css)
-
-Exemplo de posicionamento usando CSS:
-[75](#exemplo-de-posicionamento-usando-css)
-
-Fontes utilizando CSS [76](#fontes-utilizando-css)
-
-Exemplo de definição de fontes usando CSS:
-[76](#exemplo-de-definição-de-fontes-usando-css)
-
-Efeitos em texto utilizando CSS [77](#efeitos-em-texto-utilizando-css)
-
-Contraexemplo de uso de letras maiúsculas no HTML:
-[77](#contraexemplo-de-uso-de-letras-maiúsculas-no-html)
-
-Exemplo de transformação de texto para letras maiúsculas usando CSS:
-[77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css)
-
-Exemplo de transformação de texto para letras maiúsculas usando CSS no
-HTML:
-[77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css-no-html)
-
-Formatação e posicionamento de texto utilizando CSS
-[78](#formatação-e-posicionamento-de-texto-utilizando-css)
-
-Contraexemplo de ênfase em texto usando espaços e letras maiúsculas:
-[78](#contraexemplo-de-ênfase-em-texto-usando-espaços-e-letras-maiúsculas)
-
-Exemplo de ênfase em texto usando CSS:
-[78](#exemplo-de-ênfase-em-texto-usando-css)
-
-Exemplo de ênfase em texto usando classe CSS no HTML:
-[78](#exemplo-de-ênfase-em-texto-usando-classe-css-no-html)
-
-Utilizando texto em vez de imagem
-[79](#utilizando-texto-em-vez-de-imagem)
-
-Contraexemplo de uso de imagens para representar texto:
-[79](#contraexemplo-de-uso-de-imagens-para-representar-texto)
-
-Exemplo de texto com aparência definida no CSS:
-[79](#exemplo-de-texto-com-aparência-definida-no-css)
-
-Exemplo de uso de classe CSS para alterar a aparência do texto no HTML:
-[79](#exemplo-de-uso-de-classe-css-para-alterar-a-aparência-do-texto-no-html)
-
-Atributos aurais com CSS [80](#atributos-aurais-com-css)
-
-Exemplo de atributos aurais no CSS:
-[80](#exemplo-de-atributos-aurais-no-css)
-
-Cores com CSS [81](#cores-com-css)
-
-Exemplo de definição de cor de fundo e de texto usando CSS:
-[81](#exemplo-de-definição-de-cor-de-fundo-e-de-texto-usando-css)
-
-Validação de folhas de estilo CSS
-[82](#validação-de-folhas-de-estilo-css)
-
-Recomendações para uso do JavaScript
-[83](#recomendações-para-uso-do-javascript)
-
-Inclusão de código JavaScript [84](#inclusão-de-código-javascript)
-
-Exemplo de inclusão de JavaScript internamente no HTML:
-[84](#exemplo-de-inclusão-de-javascript-internamente-no-html)
-
-Exemplo de inclusão de documento Javascript no HTML:
-[84](#exemplo-de-inclusão-de-documento-javascript-no-html)
-
-Declaração de variáveis em JavaScript
-[85](#declaração-de-variáveis-em-javascript)
-
-Exemplo de declaração de variáveis em Javascript:
-[85](#exemplo-de-declaração-de-variáveis-em-javascript)
-
-Contraexemplo de uso de variáveis fora de seu escopo:
-[85](#contraexemplo-de-uso-de-variáveis-fora-de-seu-escopo)
-
-Exemplo de uso de variáveis com o escopo correto:
-[85](#exemplo-de-uso-de-variáveis-com-o-escopo-correto)
-
-Ordem da declaração de variáveis e métodos em JavaScript
-[86](#ordem-da-declaração-de-variáveis-e-métodos-em-javascript)
-
-Quebras de linha no código JavaScript
-[87](#quebras-de-linha-no-código-javascript)
-
-Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
-[87](#contraexemplo-de-declaração-em-javascript-sem-ponto-e-vírgula)
-
-Exemplo de declaração em Javascript usando ponto-e-vírgula:
-[87](#exemplo-de-declaração-em-javascript-usando-ponto-e-vírgula)
-
-Cuidados com versões da linguagem JavaScript
-[88](#cuidados-com-versões-da-linguagem-javascript)
-
-Detecção de navegador, objetos e métodos utilizando JavaScript
-[89](#detecção-de-navegador-objetos-e-métodos-utilizando-javascript)
-
-Contraexemplo de código Javascript dependente de navegador:
-[89](#contraexemplo-de-código-javascript-dependente-de-navegador)
-
-Exemplo de teste de compatibilidade de objeto Javascript sem dependência
-de navegador:
-[89](#exemplo-de-teste-de-compatibilidade-de-objeto-javascript-sem-dependência-de-navegador)
-
-Contraexemplo de detecção de método Javascript com uso de parênteses:
-[89](#contraexemplo-de-detecção-de-método-javascript-com-uso-de-parênteses)
-
-Exemplo de detecção de método Javascript:
-[89](#exemplo-de-detecção-de-método-javascript)
-
-Conversão de tipo de dados em JavaScript
-[91](#conversão-de-tipo-de-dados-em-javascript)
-
-Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
-[91](#contraexemplo-de-comparação-de-variáveis-javascript-de-tipos-diferentes)
-
-Exemplo de conversão de tipo de variável Javascript antes de comparação:
-[91](#exemplo-de-conversão-de-tipo-de-variável-javascript-antes-de-comparação)
-
-Exemplo de retorno de função com tipo de dados compatível com a lógica
-da função:
-[91](#exemplo-de-retorno-de-função-com-tipo-de-dados-compatível-com-a-lógica-da-função)
-
-Manipuladores de evento em HTML [93](#manipuladores-de-evento-em-html)
-
-Exemplo de manipuladores Javascript de eventos para diferentes
-dispositivos:
-[93](#exemplo-de-manipuladores-javascript-de-eventos-para-diferentes-dispositivos)
-
-Desvios e laços condicionais em JavaScript
-[94](#desvios-e-laços-condicionais-em-javascript)
-
-Contraexemplo de não uso de chaves para blocos condicionais e laços em
-Javascript:
-[94](#contraexemplo-de-não-uso-de-chaves-para-blocos-condicionais-e-laços-em-javascript)
-
-Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
-[94](#exemplo-de-uso-de-chaves-para-blocos-condicionais-e-laços-em-javascript)
-
-Escrita de HTML via JavaScript [95](#escrita-de-html-via-javascript)
-
-Contraexemplo de impressão em Javascript:
-[95](#contraexemplo-de-impressão-em-javascript)
-
-Exemplo de impressão em Javascript usando concatenação:
-[95](#exemplo-de-impressão-em-javascript-usando-concatenação)
-
-Aspas simples e duplas em JavaScript
-[96](#aspas-simples-e-duplas-em-javascript)
-
-Contraexemplo de uso de aspas em Javascript:
-[96](#contraexemplo-de-uso-de-aspas-em-javascript)
-
-Exemplo de uso de aspas em Javascript:
-[96](#exemplo-de-uso-de-aspas-em-javascript)
-
-Exemplo de uso de aspas simples em Javascript:
-[96](#exemplo-de-uso-de-aspas-simples-em-javascript)
-
-ETAGO em JavaScript [97](#etago-em-javascript)
-
-Contraexemplo de impressão de ETAGO em Javascript:
-[97](#contraexemplo-de-impressão-de-etago-em-javascript)
-
-Exemplo de impressão de ETAGO em Javascript:
-[97](#exemplo-de-impressão-de-etago-em-javascript)
-
-Escrevendo a palavra reservada script
-[98](#escrevendo-a-palavra-reservada-script)
-
-Contraexemplo de impressão da palavra script:
-[98](#contraexemplo-de-impressão-da-palavra-script)
-
-Exemplo de impressão da palavra script:
-[98](#exemplo-de-impressão-da-palavra-script)
-
-Manipulação de CSS utilizando JavaScript
-[99](#manipulação-de-css-utilizando-javascript)
-
-Exemplo de manipulação de CSS utilizando Javascript:
-[99](#exemplo-de-manipulação-de-css-utilizando-javascript)
-
-Navegação utilizando JavaScript [100](#navegação-utilizando-javascript)
-
-Exemplo de melhoria de navegação usando Javascript:
-[100](#exemplo-de-melhoria-de-navegação-usando-javascript)
-
-Validação de formulários utilizando JavaScript
-[102](#validação-de-formulários-utilizando-javascript)
-
-Exemplo de validação de formulários usando Javascript:
-[102](#exemplo-de-validação-de-formulários-usando-javascript)
-
-Acesso a conteúdo e redundância utilizando JavaScript
-[103](#acesso-a-conteúdo-e-redundância-utilizando-javascript)
-
-Exemplo de uso da *tag* `<noscript>`:
-[103](#exemplo-de-uso-da-tag-noscript)
-
-Gráficos e animações utilizando JavaScript
-[104](#gráficos-e-animações-utilizando-javascript)
-
-Exemplo de animação utilizando Javascript:
-[104](#exemplo-de-animação-utilizando-javascript)
-
-Manipulação de HTML utilizando JavaScript
-[106](#manipulação-de-html-utilizando-javascript)
-
-Exemplo de alteração de código HTML utilizando Javascript:
-[106](#exemplo-de-alteração-de-código-html-utilizando-javascript)
-
-AJAX [107](#ajax)
-
-Exemplo de busca dinâmica utilizando AJAX:
-[107](#exemplo-de-busca-dinâmica-utilizando-ajax)
-
-Manipulação de HTML utilizando JavaScript
-[109](#manipulação-de-html-utilizando-javascript-1)
-
-Exemplo: [109](#exemplo-1)
-
-Verificação de código JavaScript
-[110](#verificação-de-código-javascript)
-
-Reaproveitamento de Código [111](#reaproveitamento-de-código)
-
-Contraexemplo de documento HTML que não propicia reaproveitamento de
-código:
-[111](#contraexemplo-de-documento-html-que-não-propicia-reaproveitamento-de-código)
-
-Exemplo de declaração de HTML reaproveitando código para cabeçalho:
-[111](#exemplo-de-declaração-de-html-reaproveitando-código-para-cabeçalho)
-
-Contraexemplo de seletores CSS que não propiciam reaproveitamento:
-[112](#contraexemplo-de-seletores-css-que-não-propiciam-reaproveitamento)
-
-Exemplo de declaração de seletores CSS utilizando a estrutura em
-cascata:
-[112](#exemplo-de-declaração-de-seletores-css-utilizando-a-estrutura-em-cascata)
-
-Contraexemplo de Javascript para reaproveitamento de código:
-[113](#contraexemplo-de-javascript-para-reaproveitamento-de-código)
-
-Exemplo de Javascript para reaproveitamento de código:
-[113](#exemplo-de-javascript-para-reaproveitamento-de-código)
-
-O que é Usabilidade? [114](#o-que-é-usabilidade)
-
-Integração Usabilidade - Acessibilidade
-[116](#integração-usabilidade---acessibilidade)
-
-Os 10 maiores erros em webdesign
-[117](#os-10-maiores-erros-em-webdesign)
-
-Inspeção Heurística de Usabilidade
-[120](#inspeção-heurística-de-usabilidade)
-
-Heurística genéricas [121](#heurística-genéricas)
-
-Usabilidade na Web [123](#usabilidade-na-web)
-
-Formulário de Inspeção Heurística na Web
-[127](#formulário-de-inspeção-heurística-na-web)
-
-Acessibilidade no W3C [129](#acessibilidade-no-w3c)
-
-Modelo de Acessibilidade Brasileiro - e-MAG
-[131](#modelo-de-acessibilidade-brasileiro---e-mag)
-
-Recomendações de Acessibilidade para: Utilização de novas tecnologias
-[132](#recomendações-de-acessibilidade-para-utilização-de-novas-tecnologias)
-
-Recomendações de Acessibilidade para: Portabilidade
-[133](#recomendações-de-acessibilidade-para-portabilidade)
-
-Bloqueio da navegação por teclado
-[134](#bloqueio-da-navegação-por-teclado)
-
-Recomendações de Acessibilidade para: Skip Links
-[135](#recomendações-de-acessibilidade-para-skip-links)
-
-Exemplo de *skip link*: [135](#exemplo-de-skip-link-1)
-
-Recomendações de Acessibilidade para: Breadcrumbs
-[136](#recomendações-de-acessibilidade-para-breadcrumbs)
-
-Exemplo de *breadcrumb*: [136](#exemplo-de-breadcrumb)
-
-Recomendações de Acessibilidade para: Teclas de Atalho
-[138](#recomendações-de-acessibilidade-para-teclas-de-atalho)
-
-Exemplo de declaração de teclas de atalho utilizando o atributo
-accesskey:
-[138](#exemplo-de-declaração-de-teclas-de-atalho-utilizando-o-atributo-accesskey)
-
-Exemplo de CSS para indicação visual de teclas de atalho:
-[139](#exemplo-de-css-para-indicação-visual-de-teclas-de-atalho)
-
-Exemplo de uso de classe CSS para indiciação visual de teclas de atalho
-no HTML:
-[139](#exemplo-de-uso-de-classe-css-para-indiciação-visual-de-teclas-de-atalho-no-html)
-
-Recomendações de Acessibilidade para: Legibilidade
-[140](#recomendações-de-acessibilidade-para-legibilidade)
-
-Escrita de textos para a Web [141](#escrita-de-textos-para-a-web)
-
-Recomendações de Acessibilidade para: Contexto
-[143](#recomendações-de-acessibilidade-para-contexto)
-
-Recomendações de Acessibilidade para: Agrupamento Espacial
-[144](#recomendações-de-acessibilidade-para-agrupamento-espacial)
-
-Recomendações de Acessibilidade para: Ícones
-[145](#recomendações-de-acessibilidade-para-ícones)
-
-Recomendações de Acessibilidade para: Redundância
-[146](#recomendações-de-acessibilidade-para-redundância)
-
-Contraexemplo de informação fornecida somente por cores:
-[146](#contraexemplo-de-informação-fornecida-somente-por-cores)
-
-Exemplo de informação fornecida por cores e texto:
-[146](#exemplo-de-informação-fornecida-por-cores-e-texto)
-
-Recomendações de Acessibilidade para: Recursos de Áudio
-[148](#recomendações-de-acessibilidade-para-recursos-de-áudio)
-
-Recomendações de Acessibilidade para: Controle do Usuário
-[149](#recomendações-de-acessibilidade-para-controle-do-usuário)
-
-Técnicas para encontrar conteúdo em um website
-[150](#técnicas-para-encontrar-conteúdo-em-um-website)
-
-Avaliação Simplificada de Acessibilidade
-[151](#avaliação-simplificada-de-acessibilidade)
-
-Formulário para Avaliação Simplificada de Acessibilidade
-[153](#formulário-para-avaliação-simplificada-de-acessibilidade)
-
-Avaliação de acessibilidade utilizando ferramentas semiautomáticas
-[157](#avaliação-de-acessibilidade-utilizando-ferramentas-semiautomáticas)
-
-Referências [158](#referências)
-
-Glossário [161](#glossário)
-
-Referências do Glossário [168](#referências-do-glossário)
-
-[]{#_Toc38545860 .anchor}
+- Prefácio [9](#_Toc38545860)
+- Introdução [11](#introdução)
+- Sobre os Autores [13](#sobre-os-autores)
+- O que é Acessibilidade? [15](#o-que-é-acessibilidade)
+- Design Universal e Design Acessível [17](#design-universal-e-design-acessível)
+- Tecnologias Assistivas [18](#tecnologias-assistivas)
+- Princípios para o desenvolvimento Web acessível [19](#princípios-para-o-desenvolvimento-web-acessível)
+- Padronização de códigos HTML [21](#padronização-de-códigos-html)
+    - Exemplo de atributo HTML com aspas simples: [21](#exemplo-de-atributo-html-com-aspas-simples)
+    - Exemplo de comentário em HTML: [21](#exemplo-de-comentário-em-html)
+- Estrutura de documentos HTML [23](#estrutura-de-documentos-html)
+    - Exemplo de *tags* básicas do HTML: [23](#exemplo-de-tags-básicas-do-html)
+    - Exemplo de uso das *tags* `<head>` e `<body>`: [23](#exemplo-de-uso-das-tags-head-e-body)
+- Contraexemplo de título de página: [23](#contraexemplo-de-título-de-página)
+    - Exemplo de *tags* `<meta>`: [24](#exemplo-de-tags-meta)
+- Contraexemplo sobre atualização automática de páginas: [24](#contraexemplo-sobre-atualização-automática-de-páginas)
+    - Exemplo de relação entre documentos na *tag* `<link>`: [24](#exemplo-de-relação-entre-documentos-na-tag-link)
+    - Exemplo da *tag* `<body>`: [25](#exemplo-da-tag-body)
+- Âncoras e hiperlinks - A tag HTML `<a>` [26](#âncoras-e-hiperlinks---a-tag-html-a)
+    - Exemplo de *skip link*: [26](#exemplo-de-skip-link)
+- Mapeamentos - A tag HTML `<map>` [28](#mapeamentos---a-tag-html-map)
+- Listas - As tags HTML `<ol>`, `<ul>` e `<dl>` [29](#listas---as-tags-html-ol-ul-e-dl)
+    - Exemplo das *tags* `<dt>` e `<dd>`: [29](#exemplo-das-tags-dt-e-dd)
+- Subtópicos - As tags HTML `<h1>` a `<h6>` [31](#subtópicos---as-tags-html-h1-a-h6)
+    - Exemplo de aninhamento de *tags* para subtópicos: [31](#exemplo-de-aninhamento-de-tags-para-subtópicos)
+- Tabulação - O atributo HTML tabindex [32](#tabulação---o-atributo-html-tabindex)
+- Frames - A tag HTML `<frame>` [33](#frames---a-tag-html-frame)
+- Elementos de bloco e elementos de linha [34](#elementos-de-bloco-e-elementos-de-linha)
+- Agrupamento de elementos de bloco - A tag HTML `<div>` [35](#agrupamento-de-elementos-de-bloco---a-tag-html-div)
+    - Exemplo da *tag* `<div>`: [35](#exemplo-da-tag-div)
+- Agrupamento de texto - A tag HTML `<span>` [36](#agrupamento-de-texto---a-tag-html-span)
+    - Exemplo da *tag* `<span>`: [36](#exemplo-da-tag-span)
+- Quebras de linha - A tag HTML `<br>` [37](#quebras-de-linha---a-tag-html-br)
+    - Exemplo da *tag* `<br>`: [37](#exemplo-da-tag-br)
+- Parágrafos - A tag HTML `<p>` [38](#parágrafos---a-tag-html-p)
+    - Exemplo da *tag* `<p>`: [38](#exemplo-da-tag-p)
+- Idiomas - O atributo HTML lang [39](#idiomas---o-atributo-html-lang)
+    - Exemplo do atributo *lang*: [39](#exemplo-do-atributo-lang)
+- Textos sobrescritos - A tag HTML `<sup>` [40](#textos-sobrescritos---a-tag-html-sup)
+    - Exemplo da *tag* `<sup>`: [40](#exemplo-da-tag-sup)
+- Textos subscritos - A tag HTML `<sub>` [41](#textos-subscritos---a-tag-html-sub)
+    - Exemplo da *tag* `<sub>`: [41](#exemplo-da-tag-sub)
+- Fontes - A tag HTML `<font>` [42](#fontes---a-tag-html-font)
+    - Exemplo da *tag* `<font>`: [42](#exemplo-da-tag-font)
+- Ênfase no texto - As tags HTML `<em>` e `<strong>` [43](#ênfase-no-texto---as-tags-html-em-e-strong)
+    - Exemplo das *tags* `<em>` e `<strong>`: [43](#exemplo-das-tags-em-e-strong)
+- Abreviações e siglas - As tags HTML `<abbr>` e `<acronym>` [44](#abreviações-e-siglas---a-tags-html-abbr)
+    - Exemplo das *tags* `<abbr>` e `<acronym>`: [44](#exemplos-da-tag-abbr)
+    - Exemplo: [44](#exemplo)
+- Cores - Os atributos HTML color e bgcolor [45](#cores---os-atributos-html-color-e-bgcolor)
+    - Exemplo dos atributos color e bgcolor: [45](#exemplo-dos-atributos-color-e-bgcolor)
+- Réguas horizontais - A tag HTML `<hr>` [46](#réguas-horizontais---a-tag-html-hr)
+    - Exemplo da *tag* `<hr>`: [46](#exemplo-da-tag-hr)
+- Textos alternativos [47](#textos-alternativos)
+- Imagens - A tag HTML `<img>` [48](#imagens---a-tag-html-img)
+    - Exemplo da *tag* `<img>`: [48](#exemplo-da-tag-img)
+- Elementos multimídia - A tag HTML `<object>` [49](#elementos-multimídia---a-tag-html-object)
+    - Exemplo da *tag* `<object>`: [49](#exemplo-da-tag-object)
+- Formulários - A tag HTML `<form>` [50](#formulários---a-tag-html-form)
+    - Exemplo de URL destino de um formulário via *get*: [50](#exemplo-de-url-destino-de-um-formulário-via-get)
+- Campos de entrada de dados - A tag HTML `<input>` [51](#campos-de-entrada-de-dados---a-tag-html-input)
+    - Exemplo da *tag* `<input>`: [51](#exemplo-da-tag-input)
+- Rótulos - A tag HTML `<label>` [52](#rótulos---a-tag-html-label)
+    - Exemplo da *tag* `<label>`: [52](#exemplo-da-tag-label)
+- Caixas de seleção - A tag HTML `<select>` [53](#caixas-de-seleção---a-tag-html-select)
+    - Exemplo da *tag* `<select>`: [53](#exemplo-da-tag-select)
+    - Exemplo da *tag* `<optgroup>`: [53](#exemplo-da-tag-optgroup)
+- Campos de texto - A tag HTML `<textarea>` [54](#campos-de-texto---a-tag-html-textarea)
+    - Exemplo da *tag* `<textarea>`: [54](#exemplo-da-tag-textarea)
+- Agrupamento de elementos de formulário - A tag HTML `<fieldset>` [55](#agrupamento-de-elementos-de-formulário---a-tag-html-fieldset)
+    - Exemplo da *tag* `<fieldset>`: [55](#exemplo-da-tag-fieldset)
+- Rótulos para fieldsets - A tag HTML `<legend>` [56](#rótulos-para-fieldsets---a-tag-html-legend)
+    - Exemplo da *tag* `<legend>`: [56](#exemplo-da-tag-legend)
+- Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>` [57](#tabelas---as-tags-html-table-td-tr-th-e-caption)
+    - Exemplo da *tag* `<table>`: [57](#exemplo-da-tag-table)
+    - Exemplo da *tag* `<th>`: [57](#exemplo-da-tag-th)
+    - Exemplo do atributo *abbr* na *tag* `<th>`: [58](#exemplo-do-atributo-abbr-na-tag-th)
+    - Exemplo da *tag* `<caption>`: [58](#exemplo-da-tag-caption)
+- Validação de código HTML [60](#validação-de-código-html)
+- Sintaxe CSS [61](#sintaxe-css)
+    - Exemplo de declaração atributo-valor CSS: [61](#exemplo-de-declaração-atributo-valor-css)
+    - Exemplo de agrupamento de seletores CSS: [61](#exemplo-de-agrupamento-de-seletores-css)
+    - Exemplo de seletor *class* em CSS: [61](#exemplo-de-seletor-class-em-css)
+    - Exemplo de uso do seletor *class* CSS no HTML: [61](#exemplo-de-uso-do-seletor-class-css-no-html)
+    - Exemplo de uso combinado de classes CSS: [61](#exemplo-de-uso-combinado-de-classes-css)
+    - Exemplo de omissão do elemento HTML na classe CSS: [62](#exemplo-de-omissão-do-elemento-html-na-classe-css)
+    - Exemplo de uso de classe CSS com omissão do elemento HTML: [62](#exemplo-de-uso-de-classe-css-com-omissão-do-elemento-html)
+- Inclusão de código CSS [63](#inclusão-de-código-css)
+    - Exemplo de declaração interna do CSS: [63](#exemplo-de-declaração-interna-do-css)
+    - Exemplo de declaração externo do CSS: [63](#exemplo-de-declaração-externo-do-css)
+    - Exemplo de declaração *inline* do CSS: [63](#exemplo-de-declaração-inline-do-css)
+- Estrutura de documentos CSS [65](#estrutura-de-documentos-css)
+    - Exemplo de cálculo de pesos de seletores CSS: [65](#exemplo-de-cálculo-de-pesos-de-seletores-css)
+- Padronização de código CSS [66](#padronização-de-código-css)
+    - Exemplo de declaração padronizada em CSS: [66](#exemplo-de-declaração-padronizada-em-css)
+- Contraexemplo de declaração *inline* em CSS: [66](#contraexemplo-de-declaração-inline-em-css)
+    - Exemplo de declaração *inline* em CSS: [66](#exemplo-de-declaração-inline-em-css)
+- Contraexemplo de declaração CSS baseada na aparência: [66](#contraexemplo-de-declaração-css-baseada-na-aparência)
+- Contraexemplo de declaração CSS baseada no conteúdo: [66](#contraexemplo-de-declaração-css-baseada-no-conteúdo)
+    - Exemplo de declaração CSS baseada na função do dado: [66](#exemplo-de-declaração-css-baseada-na-função-do-dado)
+- Prioridade para estilos do usuário [68](#prioridade-para-estilos-do-usuário)
+- Unidades de medida relativas - Unidades em CSS: Porcentagem e em [69](#unidades-de-medida-relativas---unidades-em-css-porcentagem-e-em)
+- Conteúdos gerados pelo CSS: os pseudo-elementos before e after [70](#conteúdos-gerados-pelo-css-os-pseudo-elementos-before-e-after)
+- Listas ordenadas utilizando CSS [71](#listas-ordenadas-utilizando-css)
+    - Exemplo de CSS para listas ordenadas com subníveis: [71](#exemplo-de-css-para-listas-ordenadas-com-subníveis)
+    - Exemplo de marcações de fim de listas ordenadas usando CSS: [71](#exemplo-de-marcações-de-fim-de-listas-ordenadas-usando-css)
+    - Exemplo de marcações de fim de listas ordenadas usando CSS no HTML: [71](#exemplo-de-marcações-de-fim-de-listas-ordenadas-usando-css-no-html)
+- Réguas - Alterando a aparência com CSS [73](#réguas---alterando-a-aparência-com-css)
+    - Exemplo de alteração da aparência de réguas usando CSS: [73](#exemplo-de-alteração-da-aparência-de-réguas-usando-css)
+    - Exemplo de alteração da aparência de réguas usando CSS no HTML: [73](#exemplo-de-alteração-da-aparência-de-réguas-usando-css-no-html)
+- Bordas utilizando CSS [74](#bordas-utilizando-css)
+    - Exemplo de definição de bordas usando CSS: [74](#exemplo-de-definição-de-bordas-usando-css)
+- Posicionamento utilizando CSS [75](#posicionamento-utilizando-css)
+    - Exemplo de posicionamento usando CSS: [75](#exemplo-de-posicionamento-usando-css)
+- Fontes utilizando CSS [76](#fontes-utilizando-css)
+    - Exemplo de definição de fontes usando CSS: [76](#exemplo-de-definição-de-fontes-usando-css)
+- Efeitos em texto utilizando CSS [77](#efeitos-em-texto-utilizando-css)
+- Contraexemplo de uso de letras maiúsculas no HTML: [77](#contraexemplo-de-uso-de-letras-maiúsculas-no-html)
+    - Exemplo de transformação de texto para letras maiúsculas usando CSS: [77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css)
+    - Exemplo de transformação de texto para letras maiúsculas usando CSS no
+- HTML: [77](#exemplo-de-transformação-de-texto-para-letras-maiúsculas-usando-css-no-html)
+- Formatação e posicionamento de texto utilizando CSS [78](#formatação-e-posicionamento-de-texto-utilizando-css)
+- Contraexemplo de ênfase em texto usando espaços e letras maiúsculas: [78](#contraexemplo-de-ênfase-em-texto-usando-espaços-e-letras-maiúsculas)
+    - Exemplo de ênfase em texto usando CSS: [78](#exemplo-de-ênfase-em-texto-usando-css)
+    - Exemplo de ênfase em texto usando classe CSS no HTML: [78](#exemplo-de-ênfase-em-texto-usando-classe-css-no-html)
+- Utilizando texto em vez de imagem [79](#utilizando-texto-em-vez-de-imagem)
+- Contraexemplo de uso de imagens para representar texto: [79](#contraexemplo-de-uso-de-imagens-para-representar-texto)
+    - Exemplo de texto com aparência definida no CSS: [79](#exemplo-de-texto-com-aparência-definida-no-css)
+    - Exemplo de uso de classe CSS para alterar a aparência do texto no HTML: [79](#exemplo-de-uso-de-classe-css-para-alterar-a-aparência-do-texto-no-html)
+- Atributos aurais com CSS [80](#atributos-aurais-com-css)
+    - Exemplo de atributos aurais no CSS: [80](#exemplo-de-atributos-aurais-no-css)
+- Cores com CSS [81](#cores-com-css)
+    - Exemplo de definição de cor de fundo e de texto usando CSS: [81](#exemplo-de-definição-de-cor-de-fundo-e-de-texto-usando-css)
+- Validação de folhas de estilo CSS [82](#validação-de-folhas-de-estilo-css)
+- Recomendações para uso do JavaScript [83](#recomendações-para-uso-do-javascript)
+- Inclusão de código JavaScript [84](#inclusão-de-código-javascript)
+    - Exemplo de inclusão de JavaScript internamente no HTML: [84](#exemplo-de-inclusão-de-javascript-internamente-no-html)
+    - Exemplo de inclusão de documento Javascript no HTML: [84](#exemplo-de-inclusão-de-documento-javascript-no-html)
+- Declaração de variáveis em JavaScript [85](#declaração-de-variáveis-em-javascript)
+    - Exemplo de declaração de variáveis em Javascript: [85](#exemplo-de-declaração-de-variáveis-em-javascript)
+- Contraexemplo de uso de variáveis fora de seu escopo: [85](#contraexemplo-de-uso-de-variáveis-fora-de-seu-escopo)
+    - Exemplo de uso de variáveis com o escopo correto: [85](#exemplo-de-uso-de-variáveis-com-o-escopo-correto)
+- Ordem da declaração de variáveis e métodos em JavaScript [86](#ordem-da-declaração-de-variáveis-e-métodos-em-javascript)
+- Quebras de linha no código JavaScript [87](#quebras-de-linha-no-código-javascript)
+- Contraexemplo de declaração em Javascript sem ponto-e-vírgula: [87](#contraexemplo-de-declaração-em-javascript-sem-ponto-e-vírgula)
+    - Exemplo de declaração em Javascript usando ponto-e-vírgula: [87](#exemplo-de-declaração-em-javascript-usando-ponto-e-vírgula)
+- Cuidados com versões da linguagem JavaScript [88](#cuidados-com-versões-da-linguagem-javascript)
+- Detecção de navegador, objetos e métodos utilizando JavaScript [89](#detecção-de-navegador-objetos-e-métodos-utilizando-javascript)
+- Contraexemplo de código Javascript dependente de navegador: [89](#contraexemplo-de-código-javascript-dependente-de-navegador)
+    - Exemplo de teste de compatibilidade de objeto Javascript sem dependência
+- de navegador: [89](#exemplo-de-teste-de-compatibilidade-de-objeto-javascript-sem-dependência-de-navegador)
+- Contraexemplo de detecção de método Javascript com uso de parênteses: [89](#contraexemplo-de-detecção-de-método-javascript-com-uso-de-parênteses)
+    - Exemplo de detecção de método Javascript: [89](#exemplo-de-detecção-de-método-javascript)
+- Conversão de tipo de dados em JavaScript [91](#conversão-de-tipo-de-dados-em-javascript)
+- Contraexemplo de comparação de variáveis Javascript de tipos diferentes: [91](#contraexemplo-de-comparação-de-variáveis-javascript-de-tipos-diferentes)
+    - Exemplo de conversão de tipo de variável Javascript antes de comparação: [91](#exemplo-de-conversão-de-tipo-de-variável-javascript-antes-de-comparação)
+    - Exemplo de retorno de função com tipo de dados compatível com a lógica
+- da função: [91](#exemplo-de-retorno-de-função-com-tipo-de-dados-compatível-com-a-lógica-da-função)
+- Manipuladores de evento em HTML [93](#manipuladores-de-evento-em-html)
+    - Exemplo de manipuladores Javascript de eventos para diferentes
+- dispositivos: [93](#exemplo-de-manipuladores-javascript-de-eventos-para-diferentes-dispositivos)
+- Desvios e laços condicionais em JavaScript [94](#desvios-e-laços-condicionais-em-javascript)
+- Contraexemplo de não uso de chaves para blocos condicionais e laços em
+- Javascript: [94](#contraexemplo-de-não-uso-de-chaves-para-blocos-condicionais-e-laços-em-javascript)
+    - Exemplo de uso de chaves para blocos condicionais e laços em Javascript: [94](#exemplo-de-uso-de-chaves-para-blocos-condicionais-e-laços-em-javascript)
+- Escrita de HTML via JavaScript [95](#escrita-de-html-via-javascript)
+- Contraexemplo de impressão em Javascript: [95](#contraexemplo-de-impressão-em-javascript)
+    - Exemplo de impressão em Javascript usando concatenação: [95](#exemplo-de-impressão-em-javascript-usando-concatenação)
+- Aspas simples e duplas em JavaScript [96](#aspas-simples-e-duplas-em-javascript)
+- Contraexemplo de uso de aspas em Javascript: [96](#contraexemplo-de-uso-de-aspas-em-javascript)
+    - Exemplo de uso de aspas em Javascript: [96](#exemplo-de-uso-de-aspas-em-javascript)
+    - Exemplo de uso de aspas simples em Javascript: [96](#exemplo-de-uso-de-aspas-simples-em-javascript)
+- ETAGO em JavaScript [97](#etago-em-javascript)
+- Contraexemplo de impressão de ETAGO em Javascript: [97](#contraexemplo-de-impressão-de-etago-em-javascript)
+    - Exemplo de impressão de ETAGO em Javascript: [97](#exemplo-de-impressão-de-etago-em-javascript)
+- Escrevendo a palavra reservada script [98](#escrevendo-a-palavra-reservada-script)
+- Contraexemplo de impressão da palavra script: [98](#contraexemplo-de-impressão-da-palavra-script)
+    - Exemplo de impressão da palavra script: [98](#exemplo-de-impressão-da-palavra-script)
+- Manipulação de CSS utilizando JavaScript [99](#manipulação-de-css-utilizando-javascript)
+    - Exemplo de manipulação de CSS utilizando Javascript: [99](#exemplo-de-manipulação-de-css-utilizando-javascript)
+- Navegação utilizando JavaScript [100](#navegação-utilizando-javascript)
+    - Exemplo de melhoria de navegação usando Javascript: [100](#exemplo-de-melhoria-de-navegação-usando-javascript)
+- Validação de formulários utilizando JavaScript [102](#validação-de-formulários-utilizando-javascript)
+    - Exemplo de validação de formulários usando Javascript: [102](#exemplo-de-validação-de-formulários-usando-javascript)
+- Acesso a conteúdo e redundância utilizando JavaScript [103](#acesso-a-conteúdo-e-redundância-utilizando-javascript)
+    - Exemplo de uso da *tag* `<noscript>`: [103](#exemplo-de-uso-da-tag-noscript)
+- Gráficos e animações utilizando JavaScript [104](#gráficos-e-animações-utilizando-javascript)
+    - Exemplo de animação utilizando Javascript: [104](#exemplo-de-animação-utilizando-javascript)
+- Manipulação de HTML utilizando JavaScript [106](#manipulação-de-html-utilizando-javascript)
+    - Exemplo de alteração de código HTML utilizando Javascript: [106](#exemplo-de-alteração-de-código-html-utilizando-javascript)
+- AJAX [107](#ajax)
+    - Exemplo de busca dinâmica utilizando AJAX: [107](#exemplo-de-busca-dinâmica-utilizando-ajax)
+- Manipulação de HTML utilizando JavaScript [109](#manipulação-de-html-utilizando-javascript-1)
+    - Exemplo: [109](#exemplo-1)
+- Verificação de código JavaScript [110](#verificação-de-código-javascript)
+- Reaproveitamento de Código [111](#reaproveitamento-de-código)
+- Contraexemplo de documento HTML que não propicia reaproveitamento de
+- código: [111](#contraexemplo-de-documento-html-que-não-propicia-reaproveitamento-de-código)
+    - Exemplo de declaração de HTML reaproveitando código para cabeçalho: [111](#exemplo-de-declaração-de-html-reaproveitando-código-para-cabeçalho)
+- Contraexemplo de seletores CSS que não propiciam reaproveitamento: [112](#contraexemplo-de-seletores-css-que-não-propiciam-reaproveitamento)
+    - Exemplo de declaração de seletores CSS utilizando a estrutura em
+- cascata: [112](#exemplo-de-declaração-de-seletores-css-utilizando-a-estrutura-em-cascata)
+- Contraexemplo de Javascript para reaproveitamento de código: [113](#contraexemplo-de-javascript-para-reaproveitamento-de-código)
+    - Exemplo de Javascript para reaproveitamento de código: [113](#exemplo-de-javascript-para-reaproveitamento-de-código)
+- O que é Usabilidade? [114](#o-que-é-usabilidade)
+- Integração Usabilidade - Acessibilidade [116](#integração-usabilidade---acessibilidade)
+- Os 10 maiores erros em webdesign [117](#os-10-maiores-erros-em-webdesign)
+- Inspeção Heurística de Usabilidade [120](#inspeção-heurística-de-usabilidade)
+- Heurística genéricas [121](#heurística-genéricas)
+- Usabilidade na Web [123](#usabilidade-na-web)
+- Formulário de Inspeção Heurística na Web [127](#formulário-de-inspeção-heurística-na-web)
+- Acessibilidade no W3C [129](#acessibilidade-no-w3c)
+- Modelo de Acessibilidade Brasileiro - e-MAG [131](#modelo-de-acessibilidade-brasileiro---e-mag)
+- Recomendações de Acessibilidade para: Utilização de novas tecnologias [132](#recomendações-de-acessibilidade-para-utilização-de-novas-tecnologias)
+- Recomendações de Acessibilidade para: Portabilidade [133](#recomendações-de-acessibilidade-para-portabilidade)
+- Bloqueio da navegação por teclado [134](#bloqueio-da-navegação-por-teclado)
+- Recomendações de Acessibilidade para: Skip Links [135](#recomendações-de-acessibilidade-para-skip-links)
+    - Exemplo de *skip link*: [135](#exemplo-de-skip-link-1)
+- Recomendações de Acessibilidade para: Breadcrumbs [136](#recomendações-de-acessibilidade-para-breadcrumbs)
+    - Exemplo de *breadcrumb*: [136](#exemplo-de-breadcrumb)
+- Recomendações de Acessibilidade para: Teclas de Atalho [138](#recomendações-de-acessibilidade-para-teclas-de-atalho)
+    - Exemplo de declaração de teclas de atalho utilizando o atributo
+- accesskey: [138](#exemplo-de-declaração-de-teclas-de-atalho-utilizando-o-atributo-accesskey)
+    - Exemplo de CSS para indicação visual de teclas de atalho: [139](#exemplo-de-css-para-indicação-visual-de-teclas-de-atalho)
+    - Exemplo de uso de classe CSS para indiciação visual de teclas de atalho
+- no HTML: [139](#exemplo-de-uso-de-classe-css-para-indiciação-visual-de-teclas-de-atalho-no-html)
+- Recomendações de Acessibilidade para: Legibilidade [140](#recomendações-de-acessibilidade-para-legibilidade)
+- Escrita de textos para a Web [141](#escrita-de-textos-para-a-web)
+- Recomendações de Acessibilidade para: Contexto [143](#recomendações-de-acessibilidade-para-contexto)
+- Recomendações de Acessibilidade para: Agrupamento Espacial [144](#recomendações-de-acessibilidade-para-agrupamento-espacial)
+- Recomendações de Acessibilidade para: Ícones [145](#recomendações-de-acessibilidade-para-ícones)
+- Recomendações de Acessibilidade para: Redundância [146](#recomendações-de-acessibilidade-para-redundância)
+- Contraexemplo de informação fornecida somente por cores: [146](#contraexemplo-de-informação-fornecida-somente-por-cores)
+    - Exemplo de informação fornecida por cores e texto: [146](#exemplo-de-informação-fornecida-por-cores-e-texto)
+- Recomendações de Acessibilidade para: Recursos de Áudio [148](#recomendações-de-acessibilidade-para-recursos-de-áudio)
+- Recomendações de Acessibilidade para: Controle do Usuário [149](#recomendações-de-acessibilidade-para-controle-do-usuário)
+- Técnicas para encontrar conteúdo em um website [150](#técnicas-para-encontrar-conteúdo-em-um-website)
+- Avaliação Simplificada de Acessibilidade [151](#avaliação-simplificada-de-acessibilidade)
+- Formulário para Avaliação Simplificada de Acessibilidade [153](#formulário-para-avaliação-simplificada-de-acessibilidade)
+- Avaliação de acessibilidade utilizando ferramentas semiautomáticas [157](#avaliação-de-acessibilidade-utilizando-ferramentas-semiautomáticas)
+- Referências [158](#referências)
+- Glossário [161](#glossário)
+- Referências do Glossário [168](#referências-do-glossário)
+
+----
 
 # Prefácio
 
