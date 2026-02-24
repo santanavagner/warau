@@ -704,7 +704,7 @@ integração de tecnologias. São eles:
     linguagens de marcação (e.g., títulos, parágrafos, tabelas,
     abreviações).
 
-    - Subtópicos - As tags HTML `<h1> a `<h6>`;
+    - Subtópicos - As tags HTML `<h1>` a `<h6>`;
 
     - Idiomas - O atributo HTML lang;
 
@@ -1160,7 +1160,7 @@ Desenvolvedor
 
  
 
-# Subtópicos - As tags HTML `<h1> a `<h6>
+# Subtópicos - As tags HTML `<h1>` a `<h6>`
 
 Designer
 
