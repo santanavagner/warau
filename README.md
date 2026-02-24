@@ -593,8 +593,7 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e
-WAI |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Avaliação e definição de conceitos |
 
 # Tecnologias Assistivas
@@ -1300,12 +1299,12 @@ Linha 1<br>Linha 2<br>Linha 3
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Parágrafos - A tag HTML `<p>`
 
@@ -1333,12 +1332,12 @@ parágrafos **não** dever ser justificado.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Idiomas - O atributo HTML lang
 
@@ -1363,12 +1362,12 @@ linguagem.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Textos sobrescritos - A tag HTML `<sup>`
 
@@ -1389,12 +1388,12 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Textos subscritos - A tag HTML `<sub>`
 
@@ -1416,12 +1415,12 @@ de um elemento químico.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Fontes - A tag HTML `<font>`
 
@@ -1450,12 +1449,12 @@ se adequa aos novos parâmetros.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Codificação |
 
 # Ênfase no texto - As tags HTML `<em>` e `<strong>`
 
@@ -1484,12 +1483,12 @@ de várias formas, inclusive via leitor de telas.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Abreviações e siglas - A tags HTML `<abbr>`
 
@@ -1525,12 +1524,12 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
-| Relevância para desenvolvedores | Alta |
+| Relevância para desenvolvedores | Média |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Cores - Os atributos HTML color e bgcolor
 
@@ -1560,12 +1559,12 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Réguas horizontais - A tag HTML `<hr>`
 
@@ -1589,12 +1588,12 @@ conteúdo.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
-| Relevância para desenvolvedores | Alta |
+| Relevância para desenvolvedores | Baixa |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Textos alternativos
 
@@ -1619,12 +1618,12 @@ criado texto alternativo.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML e Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Notepad++, Bluefish e WAI |
+| Resultados esperados | Legibilidade |
 
 # Imagens - A tag HTML `<img>`
 
@@ -1663,12 +1662,12 @@ forma de interromper o movimento.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | HTML 5 Specification, Notepad++, Bluefish e Lynx |
+| Resultados esperados | Legibilidade e Imagens e animações |
 
 # Elementos multimídia - A tag HTML `<object>`
 
@@ -1710,12 +1709,12 @@ aspectos de usabilidade.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Imagens e animações |
 
 # Formulários - A tag HTML `<form>`
 
@@ -1754,12 +1753,12 @@ possa ser referenciado dentro da página.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Estruturação de documentos e Formulários |
 
 # Campos de entrada de dados - A tag HTML `<input>`
 
@@ -1789,8 +1788,6 @@ atributo *checked* com valor *checked*.
 <input type="submit" id="ex24_enviar" name="botao_enviar" value="Enviar"/>
 ```
 
-#### 
-
 #### Código renderizado
 
 <label for="ex24_idade">Idade:</label>
@@ -1799,12 +1796,12 @@ atributo *checked* com valor *checked*.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Formulários |
 
 # Rótulos - A tag HTML `<label>`
 
@@ -1828,22 +1825,19 @@ referência.
 <input type="text" name="nome" id="ex25_nome" value="João"/>
 ```
 
-#### 
-
 #### Código renderizado
 
 <label for="ex25_nome">* Nome:</label>
 <input type="text" name="nome" id="ex25_nome" value="João"/>
 ­­­­­­­­­­­
-
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Formulários |
 
 # Caixas de seleção - A tag HTML `<select>`
 
@@ -1892,12 +1886,12 @@ identificação.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Formulários |
 
 # Campos de texto - A tag HTML `<textarea>`
 
@@ -1917,12 +1911,12 @@ linhas.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Formulários |
 
 # Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
 
@@ -1940,8 +1934,6 @@ formulários correlacionados.
 </fieldset>
 ```
 
-#### 
-
 #### Código renderizado
 
 <fieldset>
@@ -1953,12 +1945,12 @@ formulários correlacionados.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Formulários |
 
 # Rótulos para fieldsets - A tag HTML `<legend>`
 
@@ -1989,12 +1981,12 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Formulários |
 
 # Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
 
@@ -2088,8 +2080,6 @@ de uma tabela por um leitor de telas muito cansativo para o usuário.
 </tr>
 </table>
 
-#### 
-
 #### Código renderizado
 
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
@@ -2120,8 +2110,6 @@ legenda de uma tabela.
 </tr>
 </table>
 
-#### 
-
 #### Código renderizado
 
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 2 meses.">
@@ -2138,12 +2126,12 @@ legenda de uma tabela.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Tabelas |
 
 # Validação de código HTML
 
@@ -2155,12 +2143,12 @@ versão do HTML que esteja sendo utilizada na página.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | W3C Markup Validation Service |
+| Resultados esperados | Avaliação |
 
 # Sintaxe CSS
 
