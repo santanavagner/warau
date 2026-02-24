@@ -49,27 +49,27 @@ Exemplo de uso das *tags* `<head>` e `<body>`:
 Contraexemplo de título de página:
 [23](#contraexemplo-de-título-de-página)
 
-Exemplo de *tags* `<meta>': [24](#exemplo-de-tags-meta)
+Exemplo de *tags* `<meta>`: [24](#exemplo-de-tags-meta)
 
 Contraexemplo sobre atualização automática de páginas:
 [24](#contraexemplo-sobre-atualização-automática-de-páginas)
 
-Exemplo de relação entre documentos na *tag* `<link>':
+Exemplo de relação entre documentos na *tag* `<link>`:
 [24](#exemplo-de-relação-entre-documentos-na-tag-link)
 
-Exemplo da *tag* `<body>': [25](#exemplo-da-tag-body)
+Exemplo da *tag* `<body>`: [25](#exemplo-da-tag-body)
 
-Âncoras e hiperlinks - A tag HTML `<a>'
+Âncoras e hiperlinks - A tag HTML `<a>`
 [26](#âncoras-e-hiperlinks---a-tag-html-a)
 
 Exemplo de *skip link*: [26](#exemplo-de-skip-link)
 
-Mapeamentos - A tag HTML `<map>' [28](#mapeamentos---a-tag-html-map)
+Mapeamentos - A tag HTML `<map>` [28](#mapeamentos---a-tag-html-map)
 
-Listas - As tags HTML `<ol>', `<ul>' e `<dl>'
+Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 [29](#listas---as-tags-html-ol-ul-e-dl)
 
-Exemplo das *tags* `<dt>' e `<dd>': [29](#exemplo-das-tags-dt-e-dd)
+Exemplo das *tags* `<dt>` e `<dd>`: [29](#exemplo-das-tags-dt-e-dd)
 
 Subtópicos - As tags HTML `<h1> a `<h6>
 [31](#subtópicos---as-tags-html-h1-a-h6)
@@ -80,58 +80,58 @@ Exemplo de aninhamento de *tags* para subtópicos:
 Tabulação - O atributo HTML tabindex
 [32](#tabulação---o-atributo-html-tabindex)
 
-Frames - A tag HTML `<frame>' [33](#frames---a-tag-html-frame)
+Frames - A tag HTML `<frame>` [33](#frames---a-tag-html-frame)
 
 Elementos de bloco e elementos de linha
 [34](#elementos-de-bloco-e-elementos-de-linha)
 
-Agrupamento de elementos de bloco - A tag HTML `<div>'
+Agrupamento de elementos de bloco - A tag HTML `<div>`
 [35](#agrupamento-de-elementos-de-bloco---a-tag-html-div)
 
-Exemplo da *tag* `<div>': [35](#exemplo-da-tag-div)
+Exemplo da *tag* `<div>`: [35](#exemplo-da-tag-div)
 
-Agrupamento de texto - A tag HTML `<span>'
+Agrupamento de texto - A tag HTML `<span>`
 [36](#agrupamento-de-texto---a-tag-html-span)
 
-Exemplo da *tag* `<span>': [36](#exemplo-da-tag-span)
+Exemplo da *tag* `<span>`: [36](#exemplo-da-tag-span)
 
-Quebras de linha - A tag HTML `<br>'
+Quebras de linha - A tag HTML `<br>`
 [37](#quebras-de-linha---a-tag-html-br)
 
-Exemplo da *tag* `<br>': [37](#exemplo-da-tag-br)
+Exemplo da *tag* `<br>`: [37](#exemplo-da-tag-br)
 
-Parágrafos - A tag HTML `<p>' [38](#parágrafos---a-tag-html-p)
+Parágrafos - A tag HTML `<p>` [38](#parágrafos---a-tag-html-p)
 
-Exemplo da *tag* `<p>': [38](#exemplo-da-tag-p)
+Exemplo da *tag* `<p>`: [38](#exemplo-da-tag-p)
 
 Idiomas - O atributo HTML lang [39](#idiomas---o-atributo-html-lang)
 
 Exemplo do atributo *lang*: [39](#exemplo-do-atributo-lang)
 
-Textos sobrescritos - A tag HTML `<sup>'
+Textos sobrescritos - A tag HTML `<sup>`
 [40](#textos-sobrescritos---a-tag-html-sup)
 
-Exemplo da *tag* `<sup>': [40](#exemplo-da-tag-sup)
+Exemplo da *tag* `<sup>`: [40](#exemplo-da-tag-sup)
 
-Textos subscritos - A tag HTML `<sub>'
+Textos subscritos - A tag HTML `<sub>`
 [41](#textos-subscritos---a-tag-html-sub)
 
-Exemplo da *tag* `<sub>': [41](#exemplo-da-tag-sub)
+Exemplo da *tag* `<sub>`: [41](#exemplo-da-tag-sub)
 
-Fontes - A tag HTML `<font>' [42](#fontes---a-tag-html-font)
+Fontes - A tag HTML `<font>` [42](#fontes---a-tag-html-font)
 
-Exemplo da *tag* `<font>': [42](#exemplo-da-tag-font)
+Exemplo da *tag* `<font>`: [42](#exemplo-da-tag-font)
 
-Ênfase no texto - As tags HTML `<em>' e `<strong>'
+Ênfase no texto - As tags HTML `<em>` e `<strong>`
 [43](#ênfase-no-texto---as-tags-html-em-e-strong)
 
-Exemplo das *tags* `<em>' e `<strong>':
+Exemplo das *tags* `<em>` e `<strong>`:
 [43](#exemplo-das-tags-em-e-strong)
 
-Abreviações e siglas - As tags HTML `<abbr>' e `<acronym>'
+Abreviações e siglas - As tags HTML `<abbr>` e `<acronym>`
 [44](#abreviações-e-siglas---a-tags-html-abbr)
 
-Exemplo das *tags* `<abbr>' e `<acronym>': [44](#exemplos-da-tag-abbr)
+Exemplo das *tags* `<abbr>` e `<acronym>`: [44](#exemplos-da-tag-abbr)
 
 Exemplo: [44](#exemplo)
 
@@ -141,69 +141,69 @@ Cores - Os atributos HTML color e bgcolor
 Exemplo dos atributos color e bgcolor:
 [45](#exemplo-dos-atributos-color-e-bgcolor)
 
-Réguas horizontais - A tag HTML `<hr>'
+Réguas horizontais - A tag HTML `<hr>`
 [46](#réguas-horizontais---a-tag-html-hr)
 
-Exemplo da *tag* `<hr>': [46](#exemplo-da-tag-hr)
+Exemplo da *tag* `<hr>`: [46](#exemplo-da-tag-hr)
 
 Textos alternativos [47](#textos-alternativos)
 
-Imagens - A tag HTML `<img>' [48](#imagens---a-tag-html-img)
+Imagens - A tag HTML `<img>` [48](#imagens---a-tag-html-img)
 
-Exemplo da *tag* `<img>': [48](#exemplo-da-tag-img)
+Exemplo da *tag* `<img>`: [48](#exemplo-da-tag-img)
 
-Elementos multimídia - A tag HTML `<object>'
+Elementos multimídia - A tag HTML `<object>`
 [49](#elementos-multimídia---a-tag-html-object)
 
-Exemplo da *tag* `<object>': [49](#exemplo-da-tag-object)
+Exemplo da *tag* `<object>`: [49](#exemplo-da-tag-object)
 
-Formulários - A tag HTML `<form>' [50](#formulários---a-tag-html-form)
+Formulários - A tag HTML `<form>` [50](#formulários---a-tag-html-form)
 
 Exemplo de URL destino de um formulário via *get*:
 [50](#exemplo-de-url-destino-de-um-formulário-via-get)
 
-Campos de entrada de dados - A tag HTML `<input>'
+Campos de entrada de dados - A tag HTML `<input>`
 [51](#campos-de-entrada-de-dados---a-tag-html-input)
 
-Exemplo da *tag* `<input>': [51](#exemplo-da-tag-input)
+Exemplo da *tag* `<input>`: [51](#exemplo-da-tag-input)
 
-Rótulos - A tag HTML `<label>' [52](#rótulos---a-tag-html-label)
+Rótulos - A tag HTML `<label>` [52](#rótulos---a-tag-html-label)
 
-Exemplo da *tag* `<label>': [52](#exemplo-da-tag-label)
+Exemplo da *tag* `<label>`: [52](#exemplo-da-tag-label)
 
-Caixas de seleção - A tag HTML `<select>'
+Caixas de seleção - A tag HTML `<select>`
 [53](#caixas-de-seleção---a-tag-html-select)
 
-Exemplo da *tag* `<select>': [53](#exemplo-da-tag-select)
+Exemplo da *tag* `<select>`: [53](#exemplo-da-tag-select)
 
-Exemplo da *tag* `<optgroup>': [53](#exemplo-da-tag-optgroup)
+Exemplo da *tag* `<optgroup>`: [53](#exemplo-da-tag-optgroup)
 
-Campos de texto - A tag HTML `<textarea>'
+Campos de texto - A tag HTML `<textarea>`
 [54](#campos-de-texto---a-tag-html-textarea)
 
-Exemplo da *tag* `<textarea>': [54](#exemplo-da-tag-textarea)
+Exemplo da *tag* `<textarea>`: [54](#exemplo-da-tag-textarea)
 
-Agrupamento de elementos de formulário - A tag HTML `<fieldset>'
+Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
 [55](#agrupamento-de-elementos-de-formulário---a-tag-html-fieldset)
 
-Exemplo da *tag* `<fieldset>': [55](#exemplo-da-tag-fieldset)
+Exemplo da *tag* `<fieldset>`: [55](#exemplo-da-tag-fieldset)
 
-Rótulos para fieldsets - A tag HTML `<legend>'
+Rótulos para fieldsets - A tag HTML `<legend>`
 [56](#rótulos-para-fieldsets---a-tag-html-legend)
 
-Exemplo da *tag* `<legend>': [56](#exemplo-da-tag-legend)
+Exemplo da *tag* `<legend>`: [56](#exemplo-da-tag-legend)
 
-Tabelas - As tags HTML `<table>', `<td>', `<tr>', `<th>' e `<caption>'
+Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
 [57](#tabelas---as-tags-html-table-td-tr-th-e-caption)
 
-Exemplo da *tag* `<table>': [57](#exemplo-da-tag-table)
+Exemplo da *tag* `<table>`: [57](#exemplo-da-tag-table)
 
-Exemplo da *tag* `<th>': [57](#exemplo-da-tag-th)
+Exemplo da *tag* `<th>`: [57](#exemplo-da-tag-th)
 
-Exemplo do atributo *abbr* na *tag* `<th>':
+Exemplo do atributo *abbr* na *tag* `<th>`:
 [58](#exemplo-do-atributo-abbr-na-tag-th)
 
-Exemplo da *tag* `<caption>': [58](#exemplo-da-tag-caption)
+Exemplo da *tag* `<caption>`: [58](#exemplo-da-tag-caption)
 
 Validação de código HTML [60](#validação-de-código-html)
 
@@ -499,7 +499,7 @@ Exemplo de validação de formulários usando Javascript:
 Acesso a conteúdo e redundância utilizando JavaScript
 [103](#acesso-a-conteúdo-e-redundância-utilizando-javascript)
 
-Exemplo de uso da *tag* `<noscript>':
+Exemplo de uso da *tag* `<noscript>`:
 [103](#exemplo-de-uso-da-tag-noscript)
 
 Gráficos e animações utilizando JavaScript
@@ -1111,7 +1111,7 @@ integração de tecnologias. São eles:
 
     - Idiomas - O atributo HTML lang;
 
-    - Ênfase no texto - As tags HTML `<em>' e `<strong>';
+    - Ênfase no texto - As tags HTML `<em>` e `<strong>`;
 
 4.  **Aplicar padrões e diretrizes de tecnologias e conceitos** -
     Linguagens *Web* contam com padrões e recomendações que, quando
@@ -1221,9 +1221,9 @@ minúsculas. Esta é uma das recomendações do W3C para HTML. Padronização
 de código facilita bastante a manutenção.
 
 Basicamente existem dois tipos de *tags* HTML: as vazias e as não
-vazias. *Tags* vazias não contam com *tag* de fechamento (e.g., `<br>')
+vazias. *Tags* vazias não contam com *tag* de fechamento (e.g., `<br>`)
 e *tags* não vazias sempre devem utilizar *tags* de abertura e
-fechamento (e.g., `<em>' e `</em>').
+fechamento (e.g., `<em>` e `</em>`).
 
 Atributos fornecem informações adicionais sobre uma *tag*. Eles sempre
 aparecem na *tag* de abertura para *tags* não vazias e sempre são
@@ -1271,12 +1271,12 @@ Redator
 
 Designer
 
-Um arquivo HTML possui as seguintes *tags* básicas: `<html>', `<head>' e
-`<body>'. Elas possuem *tag* de abertura e fechamento e cada uma delas
+Um arquivo HTML possui as seguintes *tags* básicas: `<html>`, `<head>` e
+`<body>`. Elas possuem *tag* de abertura e fechamento e cada uma delas
 deve aparecer somente uma vez por página.
 
-A *tag* `<html>' deve estar após a declaração DOCTYPE e a *tag* de
-`</html>' deve ser a última *tag* do código HTML. Para a *tag* `<html>'
+A *tag* `<html>` deve estar após a declaração DOCTYPE e a *tag* de
+`</html>` deve ser a última *tag* do código HTML. Para a *tag* `<html>`
 pode ser definido o atributo lang, que define o idioma a que o conteúdo
 se refere.
 
@@ -1289,10 +1289,10 @@ se refere.
 </html>
 ```
 
-A *tag* `<head>' deve estar após a *tag* `<html>' e a *tag* `</head>'
-deve aparecer antes da *tag* `<body>'.
+A *tag* `<head>` deve estar após a *tag* `<html>` e a *tag* `</head>`
+deve aparecer antes da *tag* `<body>`.
 
-### Exemplo de uso das *tags* `<head>' e `<body>':
+### Exemplo de uso das *tags* `<head>` e `<body>`:
 
 ```html
 <!DOCTYPE html>
@@ -1306,11 +1306,11 @@ deve aparecer antes da *tag* `<body>'.
 </html>
 ```
 
-Na *tag* `<head>' são inseridas *tags* utilizadas para indexação do
-documento HTML (e.g., `<title>', `<meta>') e relacionamento com
-documentos externos (e.g., `<link>').
+Na *tag* `<head>` são inseridas *tags* utilizadas para indexação do
+documento HTML (e.g., `<title>`, `<meta>`) e relacionamento com
+documentos externos (e.g., `<link>`).
 
-A *tag* `<title>' é utilizada para definir o título da página, que é um
+A *tag* `<title>` é utilizada para definir o título da página, que é um
 dos principais conteúdos indexados pelas ferramentas de buscas e é o
 primeiro elemento processado por leitores de tela, contextualizando o
 usuário sobre o que a página trata.
@@ -1326,11 +1326,11 @@ pontuações que estiverem presentes no título.
 <title>_.:\^ Teste \^:.\_</title>
 ```
 
-As *tags* `<meta>' fornecem importantes informações sobre o documento
+As *tags* `<meta>` fornecem importantes informações sobre o documento
 para navegadores, ferramentas de busca, servidores de *proxy*, leitores
 de tela, entre outros.
 
-### Exemplo de *tags* `<meta>':
+### Exemplo de *tags* `<meta>`:
 
 ```html
 <meta name="author" content="Nome do autor">
@@ -1351,7 +1351,7 @@ Redator
 
 Designer
 
-Além destes exemplos, as *tags* `<meta>' podem ser utilizadas para
+Além destes exemplos, as *tags* `<meta>` podem ser utilizadas para
 atualizar a página automaticamente e redirecionar o usuário para outra
 página. No entanto, estas funcionalidades devem ser utilizadas com
 cuidado, pois essas manipulações devem ser feitas somente se o usuário
@@ -1370,7 +1370,7 @@ utilizando um leitor de telas.
 <meta http-equiv="refresh" content="1; http://www.unicamp.br/">
 ```
 
-A *tag* *link* deve estar entre as *tags* `<head>' e `</head>'. Com ela
+A *tag* *link* deve estar entre as *tags* `<head>` e `</head>`. Com ela
 é possível definir a relação entre documentos, como indicar a relação de
 uma página com uma folha de estilo, ou definir para quais tipos de
 dispositivos uma determinada página será utilizada.
@@ -1383,18 +1383,18 @@ dispositivos a página em questão será utilizada. Alguns dos valores
 possíveis são: *screen*, *tty*, *tv*, *projection*, *handheld*, *print*,
 *braille*, *aural* ou *all*.
 
-### Exemplo de relação entre documentos na *tag* `<link>':
+### Exemplo de relação entre documentos na *tag* `<link>`:
 
 ```html
 <link rel="stylesheet" type="text/css" href="estilo.css" media="screen, tty, print, braille, aural">
 ```
 
 A última das *tags* básicas da estrutura de documentos HTML é a *tag*
-`<body>', que deve estar após a *tag* `</head>', e a *tag* `</body>',
-que deve estar antes da *tag* `</html>'. Na *tag* `<body>' é incluído
+`<body>`, que deve estar após a *tag* `</head>`, e a *tag* `</body>`,
+que deve estar antes da *tag* `</html>`. Na *tag* `<body>` é incluído
 todo o conteúdo do documento HTML que será exibido no navegador.
 
-### Exemplo da *tag* `<body>':
+### Exemplo da *tag* `<body>`:
 
 ```html
 <!DOCTYPE html>
@@ -1414,7 +1414,7 @@ Redator
 
 Designer
 
-# Âncoras e hiperlinks - A tag HTML `<a>'
+# Âncoras e hiperlinks - A tag HTML `<a>`
 
 Designer
 
@@ -1422,7 +1422,7 @@ Redator
 
 Desenvolvedor
 
-As *tags* `<a>' e `</a>' são utilizadas para definir um *hiperlink*.
+As *tags* `<a>` e `</a>` são utilizadas para definir um *hiperlink*.
 Note que o texto (ou rótulo) do *hiperlink* deve identificar claramente
 o local para onde o usuário será enviado. Não utilize palavras vagas nem
 repita o mesmo conteúdo para dois *hiperlinks* distintos. Toda âncora
@@ -1465,9 +1465,9 @@ com o caractere associado a este atributo, sem necessitar do *mouse*.
 Note que o uso deste atributo deve ser consistente e único para cada
 *hiperlink* ou função do *website*.
 
-O atributo *title* é diferente da *tag* `<title>'. Aqui o atributo
+O atributo *title* é diferente da *tag* `<title>`. Aqui o atributo
 indica ao usuário o que há na página/âncora que o *hiperlink* remete, já
-a *tag* `<title>' se refere ao título da página.
+a *tag* `<title>` se refere ao título da página.
 
 Designer
 
@@ -1477,7 +1477,7 @@ Desenvolvedor
 
 Redator
 
-# Mapeamentos - A tag HTML `<map>'
+# Mapeamentos - A tag HTML `<map>`
 
 Designer
 
@@ -1489,7 +1489,7 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<map>' é utilizada para definir diferentes *links* para
+A *tag* `<map>` é utilizada para definir diferentes *links* para
 diferentes regiões de uma mesma imagem.
 
 Evite utilizá-la, pois alguns leitores de tela (e.g., Virtual Vision)
@@ -1500,7 +1500,7 @@ de tela.
 No entanto, se utilizar algum tipo de mapeamento, forneça também os
 mesmos *hiperlinks* em formato textual.
 
-# Listas - As tags HTML `<ol>', `<ul>' e `<dl>'
+# Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 
 Designer
 
@@ -1508,17 +1508,17 @@ Redator
 
 Desenvolvedor
 
-HTML permite a criação de três tipos básicos de listas: `<ol>' (listas
-ordenadas), `<ul>' (listas não ordenadas) e `<dl>' (listas de
+HTML permite a criação de três tipos básicos de listas: `<ol>` (listas
+ordenadas), `<ul>` (listas não ordenadas) e `<dl>` (listas de
 termos/definições).
 
-As *tags* `<ol>' e `</ol>' demarcam uma lista ordenada de itens, ou
+As *tags* `<ol>` e `</ol>` demarcam uma lista ordenada de itens, ou
 seja, os marcadores dos itens seguem uma ordem, como 1, 2, 3, etc.
 
-As *tags* `<ul>' e `</ul>' demarcam uma lista não ordenada de itens, ou
+As *tags* `<ul>` e `</ul>` demarcam uma lista não ordenada de itens, ou
 seja, apenas por tópicos não numerados.
 
-As *tags* `<li>' e `</li>' são utilizadas para demarcar um item de uma
+As *tags* `<li>` e `</li>` são utilizadas para demarcar um item de uma
 lista, seja ela ordenada ou não.
 
 Sempre que for aplicável prefira listas ordenadas, pois estas auxiliam
@@ -1530,11 +1530,11 @@ de forma indentada. No entanto, estas marcações devem ser utilizadas
 somente para listas. Se o intuito for exclusivamente a indentação,
 deve-se utilizar outro tipo de formatação via CSS.
 
-As *tags* `<dl>' e `</dl>' demarcam uma lista de definições de termos.
-Dentro delas, cada termo é delimitado por `<dt>' e `</dt>'; cada
-definição por `<dd>' e `</dd>'.
+As *tags* `<dl>` e `</dl>` demarcam uma lista de definições de termos.
+Dentro delas, cada termo é delimitado por `<dt>` e `</dt>`; cada
+definição por `<dd>` e `</dd>`.
 
-### Exemplo das *tags* `<dt>' e `<dd>':
+### Exemplo das *tags* `<dt>` e `<dd>`:
 
 ```html
 <dl>
@@ -1614,7 +1614,7 @@ Além da tabulação em HTML, também é necessário verificar se elementos
 gerados em outras linguagens, como Flash ou Silverlight, oferecem a
 tabulação em uma ordem que faça sentido ao usuário.
 
-# Frames - A tag HTML `<frame>'
+# Frames - A tag HTML `<frame>`
 
 Desenvolvedor
 
@@ -1622,7 +1622,7 @@ Designer
 
 Redator
 
-*Tags* `<frame>' são utilizadas juntamente com *tags* `<frameset>' para
+*Tags* `<frame>` são utilizadas juntamente com *tags* `<frameset>` para
 dividir o espaço útil da tela em regiões que podem conter páginas HTML
 diferentes, como navegação e conteúdo.
 
@@ -1644,9 +1644,9 @@ Desenvolvedor
 
 Redator
 
-Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>',
-`<h1>, `<form>', `<table>') de elementos de linha (e.g., `<em>',
-`<span>', `<input>'):
+Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
+`<h1>, `<form>`, `<table>`) de elementos de linha (e.g., `<em>`,
+`<span>`, `<input>`):
 
 - **Conteúdo** - elementos de bloco podem conter outros elementos de
   bloco e elementos de linha. Já os elementos de linha somente podem
@@ -1655,7 +1655,7 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>',
 - **Formatação** - elementos de bloco começam em novas linhas, o que não
   acontece com elementos de linha.
 
-# Agrupamento de elementos de bloco - A tag HTML `<div>'
+# Agrupamento de elementos de bloco - A tag HTML `<div>`
 
 Designer
 
@@ -1663,11 +1663,11 @@ Desenvolvedor
 
 Redator
 
-A *tag* `<div>' delimita elementos de bloco, ou seja, é um elemento de
+A *tag* `<div>` delimita elementos de bloco, ou seja, é um elemento de
 bloco utilizado para encapsular elementos de bloco ou conjuntos de texto
 com algum propósito especial.
 
-### Exemplo da *tag* `<div>':
+### Exemplo da *tag* `<div>`:
 
 ```html
 <div class="citacoes">
@@ -1679,7 +1679,7 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"</span>
 </div>
 ```
 
-# Agrupamento de texto - A tag HTML `<span>'
+# Agrupamento de texto - A tag HTML `<span>`
 
 Designer
 
@@ -1687,12 +1687,12 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<span>' é um elemento de linha utilizado para encapsular um
+A *tag* `<span>` é um elemento de linha utilizado para encapsular um
 conjunto de texto com algum propósito especial. Por exemplo, para
 aplicar um determinado estilo em CSS ou para delimitar um conteúdo em
 uma língua diferente do resto do texto.
 
-### Exemplo da *tag* `<span>':
+### Exemplo da *tag* `<span>`:
 
 ```html
 <p>
@@ -1703,7 +1703,7 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"
 </p>
 ```
 
-# Quebras de linha - A tag HTML `<br>'
+# Quebras de linha - A tag HTML `<br>`
 
 Designer
 
@@ -1711,10 +1711,10 @@ Redator
 
 Desenvolvedor
 
-A *tag* `<br>' define uma quebra de linha. Ela não possui *tag* de
+A *tag* `<br>` define uma quebra de linha. Ela não possui *tag* de
 fechamento.
 
-### Exemplo da *tag* `<br>':
+### Exemplo da *tag* `<br>`:
 
 ```html
 Linha 1<br>Linha 2<br>Linha 3
@@ -1728,7 +1728,7 @@ Linha 1
 Linha 2
 Linha 3
 
-# Parágrafos - A tag HTML `<p>'
+# Parágrafos - A tag HTML `<p>`
 
 Designer
 
@@ -1736,7 +1736,7 @@ Redator
 
 Desenvolvedor
 
-Utilize as *tags* `<p>' e `</p>' para delimitar parágrafos. Use `<br>'
+Utilize as *tags* `<p>` e `</p>` para delimitar parágrafos. Use `<br>`
 somente quando se referir a quebras de linha dentro do mesmo parágrafo.
 
 Para facilitar a leitura, o espaçamento entre linhas de parágrafos deve
@@ -1744,7 +1744,7 @@ ser pelo menos de 1,5. E o espaçamento entre parágrafos deve ser de pelo
 menos de 1,5 o tamanho do espaçamento entre linhas. O alinhamento dos
 parágrafos **não** dever ser justificado.
 
-### Exemplo da *tag* `<p>':
+### Exemplo da *tag* `<p>`:
 
 ```html
 <p>Parágrafo 1. Linha 1<br>Parágrafo 1. Linha 2</p>
@@ -1773,7 +1773,7 @@ Para qualquer mudança de idioma no conteúdo textual utilize o atributo
 
 Com isso, leitores de tela que suportam diferentes linguagens lerão o
 trecho de acordo com o idioma indicado e não de acordo com o idioma
-padrão ou o que foi definido para todo o documento na *tag* `<html>'.
+padrão ou o que foi definido para todo o documento na *tag* `<html>`.
 
 ### Exemplo do atributo *lang*:
 
@@ -1787,7 +1787,7 @@ Outra funcionalidade deste atributo é que usuários que lerem o conteúdo
 em Braille contarão com as marcações adequadas e abreviações para cada
 linguagem.
 
-# Textos sobrescritos - A tag HTML `<sup>'
+# Textos sobrescritos - A tag HTML `<sup>`
 
 Designer
 
@@ -1795,10 +1795,10 @@ Redator
 
 Desenvolvedor
 
-As *tags* `<sup>' e `</sup>' são utilizadas para demarcar conteúdo
+As *tags* `<sup>` e `</sup>` são utilizadas para demarcar conteúdo
 sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
-### Exemplo da *tag* `<sup>':
+### Exemplo da *tag* `<sup>`:
 
 ```html
 <p>2<sup>2</sup> `<br>2<sup>3<sup>4</sup></sup></p>
@@ -1811,7 +1811,7 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 2^2^
 $$2^{3^{4}}$$
 
-# Textos subscritos - A tag HTML `<sub>'
+# Textos subscritos - A tag HTML `<sub>`
 
 Designer
 
@@ -1819,11 +1819,11 @@ Redator
 
 Desenvolvedor
 
-As *tags* `<sub>' e `</sub>' são utilizadas para fazer com que elementos
+As *tags* `<sub>` e `</sub>` são utilizadas para fazer com que elementos
 fiquem subscritos como, por exemplo, o número de átomos em uma molécula
 de um elemento químico.
 
-### Exemplo da *tag* `<sub>':
+### Exemplo da *tag* `<sub>`:
 
 ```html
 <p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
