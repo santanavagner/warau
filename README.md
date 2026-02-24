@@ -1784,7 +1784,7 @@ atributo *checked* com valor *checked*.
 <input type="text" id="ex24_idade" name="campo_idade" value="18"/>
 <input type="submit" id="ex24_enviar" name="botao_enviar" value="Enviar"/>
 
-# Rótulos - A tag HTML `<label>
+# Rótulos - A tag HTML `<label>`
 
 Designer
 
@@ -1805,7 +1805,7 @@ Note que quando usa um rótulo, ele se torna um elemento clicável. E
 quando clicado, o foco é aplicado no campo de formulário a que fez
 referência.
 
-### Exemplo da *tag* `<label>:
+### Exemplo da *tag* `<label>`:
 
 ```html
 <label for="ex25_nome">* Nome:</label>
@@ -1820,7 +1820,7 @@ referência.
 <input type="text" name="nome" id="ex25_nome" value="João"/>
 ­­­­­­­­­­­
 
-# Caixas de seleção - A tag HTML `<select>
+# Caixas de seleção - A tag HTML `<select>`
 
 Designer
 
@@ -1837,7 +1837,7 @@ Para adicionar um item à caixa use a tag `<option>. Para indicar que um
 item da caixa de seleção está selecionado use o atributo *selected* com
 valor *selected*.
 
-### Exemplo da *tag* `<select>:
+### Exemplo da *tag* `<select>`:
 
 ```html
 <label for="ex26_personagens">Personagens</label>
@@ -1850,11 +1850,11 @@ valor *selected*.
 </select>
 ```
 
-A *tag* `<optgroup>` deve ser utilizada para agrupar *tags* `<option>.
+A *tag* `<optgroup>` deve ser utilizada para agrupar *tags* `<option>`.
 Ela permite reunir elementos, estruturá-los e facilitar sua
 identificação.
 
-### Exemplo da *tag* `<optgroup>:
+### Exemplo da *tag* `<optgroup>`:
 
 ```html
 <label for="ex26_herois">Heróis/heroínas</label>
@@ -1871,7 +1871,7 @@ identificação.
 </select>
 ```
 
-# Campos de texto - A tag HTML `<textarea>
+# Campos de texto - A tag HTML `<textarea>`
 
 Designer
 
@@ -1883,7 +1883,7 @@ As *tags* `<textarea>` e `</textarea>` delimitam uma área de entrada de
 texto extenso. Os atributos *rows* e *cols* definem o número de linhas e
 colunas, respectivamente.
 
-### Exemplo da *tag* `<textarea>:
+### Exemplo da *tag* `<textarea>`:
 
 ```html
 <label for="ex27_texto">Texto</label>
@@ -1893,7 +1893,7 @@ linhas.
 </textarea>
 ```
 
-# Agrupamento de elementos de formulário - A tag HTML `<fieldset>
+# Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
 
 Designer
 
@@ -1904,7 +1904,7 @@ Redator
 A *tag* `<fieldset>` deve ser utilizada para agrupar elementos de
 formulários correlacionados.
 
-### Exemplo da *tag* `<fieldset>:
+### Exemplo da *tag* `<fieldset>`:
 
 ```html
 <fieldset>
@@ -1926,7 +1926,7 @@ formulários correlacionados.
 <input type="text" name="idade" id="ex28_idade" value="18" />
 </fieldset>
 
-# Rótulos para fieldsets - A tag HTML `<legend>
+# Rótulos para fieldsets - A tag HTML `<legend>`
 
 Designer
 
@@ -1986,7 +1986,7 @@ tabela.
 A tag `<tr>` é utilizada para demarcar o conteúdo de uma linha de
 tabela.
 
-### Exemplo da *tag* `<table>:
+### Exemplo da *tag* `<table>`:
 
 ```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
@@ -2012,7 +2012,7 @@ das linhas seguintes para referenciar seu cabeçalho. Com isto quando um
 leitor de telas processa cada célula ele pode repetir o conteúdo da
 célula referenciada pelo *id* e assim contextualizar a informação lida.
 
-### Exemplo da *tag* `<th>:
+### Exemplo da *tag* `<th>`:
 
 <table summary="Esta tabela mostra a evolução da cotação do dólar
 turismo nos últimos 12 meses, mês a mês.">
@@ -2028,15 +2028,17 @@ turismo nos últimos 12 meses, mês a mês.">
 
 #### Código renderizado
 
-  -----------------------------------------------------------------------
-  **Junho**                           **Julho**
-  ----------------------------------- -----------------------------------
-  R\$ 3,97                            R\$ 4,02
-
-  -----------------------------------------------------------------------
-
-  : Esta tabela mostra a evolução da cotação do dólar turismo nos
-  últimos 12 meses, mês a mês.
+<table summary="Esta tabela mostra a evolução da cotação do dólar
+turismo nos últimos 12 meses, mês a mês.">
+<tr>
+<th id="ex31a_col_jun">Junho</th>
+<th id="ex31a_col_jul">Julho</th>
+</tr>
+<tr>
+<td headers="ex31a_col_jun">R\$ 3,97</td>
+<td headers="ex31a_col_jul">R\$ 4,02</td>
+</tr>
+</table>
 
 Complementarmente, o atributo *abbr* pode ser utilizado nos casos em que
 o conteúdo da *tag* `<th>` for extenso, o que tornaria o processamento
@@ -2048,15 +2050,12 @@ Desenvolvedor
 
 Redator
 
-### Exemplo do atributo *abbr* na *tag* `<th>:
+### Exemplo do atributo *abbr* na *tag* `<th>`:
 
-<table summary="Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 12 meses, mês a mês.">
+<table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
 <tr>
-<th id="ex31_col_totaljun" abbr="Média Junho">Média da cotação do
-dólar pelo Banco Central no mês de junho.</th>
-<th id="ex31_col_totaljul" abbr="Média Julho">Média da cotação do
-dólar pelo Banco Central no mês de julho.</th>
+<th id="ex31_col_totaljun" abbr="Média Junho">Média da cotação do dólar pelo Banco Central no mês de junho.</th>
+<th id="ex31_col_totaljul" abbr="Média Julho">Média da cotação do dólar pelo Banco Central no mês de julho.</th>
 </tr>
 <tr>
 <td headers="ex31_col_totaljun">R\$ 3,97</td>
@@ -2068,24 +2067,23 @@ dólar pelo Banco Central no mês de julho.</th>
 
 #### Código renderizado
 
-  -----------------------------------------------------------------------
-  **Média da cotação do dólar pelo    **Média da cotação do dólar pelo
-  Banco Central no mês de junho.**    Banco Central no mês de julho.**
-  ----------------------------------- -----------------------------------
-  R\$ 3,97                            R\$ 4,02
-
-  -----------------------------------------------------------------------
-
-  : Esta tabela mostra a evolução da cotação do dólar turismo nos
-  últimos 12 meses, mês a mês.
+<table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
+<tr>
+<th id="ex31_col_totaljun" abbr="Média Junho">Média da cotação do dólar pelo Banco Central no mês de junho.</th>
+<th id="ex31_col_totaljul" abbr="Média Julho">Média da cotação do dólar pelo Banco Central no mês de julho.</th>
+</tr>
+<tr>
+<td headers="ex31_col_totaljun">R\$ 3,97</td>
+<td headers="ex31_col_totaljul">R\$ 4,02</td>
+</tr>
+</table>
 
 As tags `<caption>` e `</caption>` são utilizadas para definir uma
 legenda de uma tabela.
 
-### Exemplo da *tag* `<caption>:
+### Exemplo da *tag* `<caption>`:
 
-<table summary="Esta tabela mostra a evolução da cotação do dólar
-turismo nos últimos 2 meses.">
+<table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 2 meses.">
 <caption>Cotação do dólar turismo</caption>
 <tr>
 <th id="ex31b_col_jun">Junho</th>
@@ -2101,16 +2099,17 @@ turismo nos últimos 2 meses.">
 
 #### Código renderizado
 
-+---------------------------------------------------------------------------+
-| Cotação do dólar turismo                                                  |
-+:===================================:+:===================================:+
-| **Junho**                           | **Julho**                           |
-+-------------------------------------+-------------------------------------+
-| R\$ 3,97                            | R\$ 4,02                            |
-+-------------------------------------+-------------------------------------+
-
-: Esta tabela mostra a evolução da cotação do dólar turismo nos últimos
-2 meses.
+<table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 2 meses.">
+<caption>Cotação do dólar turismo</caption>
+<tr>
+<th id="ex31b_col_jun">Junho</th>
+<th id="ex31b_col_jul">Julho</th>
+</tr>
+<tr>
+<td headers="ex31b_col_jun">R\$ 3,97</td>
+<td headers="ex31b_col_jul">R\$ 4,02</td>
+</tr>
+</table>
 
 Designer
 
@@ -2127,7 +2126,7 @@ Desenvolvedor
 Redator
 
 Para validar páginas HTML, o W3C disponibiliza o Markup Validation
-Service (<http://validator.w3.org/>) que é uma ferramenta *online*, onde
+Service (http://validator.w3.org/) que é uma ferramenta *online*, onde
 basta informar a URL, fazer *upload* do arquivo ou informar o código
 diretamente, para receber uma relação de possíveis erros, segundo a
 versão do HTML que esteja sendo utilizada na página.
@@ -2146,12 +2145,16 @@ estilo, e a lista dos atributos que é composta de pares atributo-valor
 separados por ponto e vírgula e delimitadas por chaves. Tem assim a
 seguinte forma:
 
+```css
 seletor {atributo: valor; \[atributo: valor;\]}
+```
 
 ### Exemplo de declaração atributo-valor CSS:
 
+```css
 body {background-color: #00ff00;}
 p {font-family: "sans serif";}
+```
 
 * Note o uso das aspas para nomes compostos
 
@@ -2160,7 +2163,9 @@ propriedades em comum.
 
 ### Exemplo de agrupamento de seletores CSS:
 
+```css
 h1, h2, h3, h4, h5, h6 {color: #00ff00; margin-bottom: 10px;}
+```
 
 **Seletor class** - Permite que você defina mais de um estilo para um
 mesmo elemento HTML. A seguir exemplo para duas definições para o
@@ -2170,26 +2175,30 @@ elemento parágrafo.
 
 ### Exemplo de seletor *class* em CSS:
 
+```css
 p.citacao {text-align: right;}
 p.paragrafoComum {text-align: left;}
 p.destaque {background-color: #00ff00;}
+```
 
 **No HTML:**
 
 ### Exemplo de uso do seletor *class* CSS no HTML:
 
+```html
 <p class="paragrafoComum">Parágrafo comum.</p>
 <p class="citacao">Parágrafo alinhado à direita.</p>
+```
 
 Também é possível combinar duas ou mais classes.
 
 ### Exemplo de uso combinado de classes CSS:
 
+```html
 <p class="citacao destaque">
-
 Parágrafo alinhado à direita com fundo verde.
-
 </p>
+```
 
 Outro recurso é o de omitir o nome do elemento HTML na classe. Dessa
 forma é possível utilizar a classe para qualquer elemento que possua as
@@ -2205,14 +2214,18 @@ Desenvolvedor
 
 ### Exemplo de omissão do elemento HTML na classe CSS:
 
+```css
 .destaque {background-color: #00ff00;}
+```
 
 **No HTML:**
 
 ### Exemplo de uso de classe CSS com omissão do elemento HTML:
 
+```html
 <p class="destaque">Parágrafo com fundo verde.</p>
 <div class="destaque">Bloco com com fundo verde.</div>
+```
 
 # Inclusão de código CSS
 
@@ -2237,10 +2250,10 @@ conteúdo como sendo texto.
 
 ### Exemplo de declaração interna do CSS:
 
+```html
 ...
 <head>
-<meta http-equiv="content-type" content="text/html;
-charset=UTF-8">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 <style type="text/css"><!\--
 hr {color: #000000;}
 p {margin-left: 20em;}
@@ -2248,12 +2261,14 @@ body {background-image: url("images/back40.gif");}
 --></style>
 </head>
 ...
+```
 
 **Declaração externa do CSS** - É a forma mais recomendada, pois permite
 o melhor reuso e clareza do documento HTML.
 
 ### Exemplo de declaração externo do CSS:
 
+```html
 ...
 <head>
 <meta http-equiv="content-type" content="text/html;
@@ -2261,6 +2276,7 @@ charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 ...
+```
 
 Note que em casos como este a folha de estilo não necessita estar dentro
 dos comentários CSS.
@@ -2270,11 +2286,13 @@ o elemento HTML.
 
 ### Exemplo de declaração *inline* do CSS:
 
+```html
 ...
 <p style="color: #000000; margin-left: 20em;">
 Este é um parágrafo
 </p>
 ...
+```
 
 Designer
 
@@ -2300,7 +2318,7 @@ o maior número tem maior prioridade):
 
 2.  *Style sheet* externo;
 
-3.  *Style sheet* interno (entre as *tags* `<head>` e `</head>);
+3.  *Style sheet* interno (entre as *tags* `<head>` e `</head>`);
 
 4.  *Inline style* (no atributo *style* de uma *tags*).
 
@@ -2311,14 +2329,13 @@ o peso calculado maior será a especificidade do seletor.
 
 ### Exemplo de cálculo de pesos de seletores CSS:
 
-strong { color: #ff0000; } /\* id=0 classe=0 tag=1 -> peso = 1 \*/
-p strong { color: #00ff00; } /\* id=0 classe=0 tag=2 -> peso = 2 \*/
-div p strong { color: #0000ff; } /\* id=0 classe=0 tag=3 -> peso = 3
-*/
-strong.fantasia { color: #000000; } /\* id=0 classe=1 tag=1 -> peso =
-11 \*/
-#cabecalho { color: #336699; } /\* id=1 classe=0 tag=0 -> peso = 100
-*/
+```css
+strong { color: #ff0000; } /* id=0 classe=0 tag=1 -> peso = 1 */
+p strong { color: #00ff00; } /* id=0 classe=0 tag=2 -> peso = 2 */
+div p strong { color: #0000ff; } /* id=0 classe=0 tag=3 -> peso = 3 */
+strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
+#cabecalho { color: #336699; } /* id=1 classe=0 tag=0 -> peso = 100 */
+````
 
 # Padronização de código CSS
 
