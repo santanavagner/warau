@@ -2236,12 +2236,12 @@ propriedades utilizadas.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools CSS2 Reference |
+| Resultados esperados | Padronização de código e Estruturação de documentos |
 
 # Inclusão de código CSS
 
@@ -2306,12 +2306,12 @@ Este é um parágrafo
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools CSS2 Reference |
+| Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 # Estrutura de documentos CSS
 
@@ -2342,16 +2342,16 @@ p strong { color: #00ff00; } /* id=0 classe=0 tag=2 -> peso = 2 */
 div p strong { color: #0000ff; } /* id=0 classe=0 tag=3 -> peso = 3 */
 strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 #cabecalho { color: #336699; } /* id=1 classe=0 tag=0 -> peso = 100 */
-````
+```
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Resultados esperados | Estruturação de documentos |
 
 # Padronização de código CSS
 
@@ -2418,12 +2418,12 @@ funcionam em navegadores mais antigos são: *margin*, *padding* e
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 # Prioridade para estilos do usuário
 
@@ -2435,12 +2435,12 @@ foi necessário forçar a aplicação de um determinado estilo.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Padronização de código e Estruturação de documentos |
 
 # Unidades de medida relativas - Unidades em CSS: Porcentagem e em
 
@@ -2464,12 +2464,12 @@ vetoriais).
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Codificação |
 
 # Conteúdos gerados pelo CSS: os pseudo-elementos before e after
 
@@ -2494,12 +2494,12 @@ Referência de CSS do W3 Schools.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Codificação |
 
 # Listas ordenadas utilizando CSS
 
@@ -2577,12 +2577,12 @@ lista</span></li>
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Resultados esperados | Navegação e Legibilidade |
 
 # Réguas - Alterando a aparência com CSS
 
@@ -2620,12 +2620,12 @@ hr:before { content: attr(title); }
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Bordas utilizando CSS
 
@@ -2650,12 +2650,13 @@ div {
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification,
+Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Posicionamento utilizando CSS
 
@@ -2700,12 +2701,12 @@ table tr td { padding: 0.1em; }
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Fontes utilizando CSS
 
@@ -2728,12 +2729,12 @@ sejam prejudicados por problemas de compatibilidade dos navegadores.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Efeitos em texto utilizando CSS
 
@@ -2770,12 +2771,12 @@ utilizassem CSS?
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Formatação e posicionamento de texto utilizando CSS
 
@@ -2812,12 +2813,12 @@ forma: text-align: center.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade |
 
 # Utilizando texto em vez de imagem
 
@@ -2859,12 +2860,12 @@ a.paginacao {
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Codificação |
 
 # Atributos aurais com CSS
 
@@ -2887,12 +2888,13 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification,
+Notepad++ e Bluefish |
+| Resultados esperados | Audibilidade |
 
 # Cores com CSS
 
@@ -2925,12 +2927,12 @@ incluindo imagens e cores de fundo.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Resultados esperados | Compatibilidade de código e Técnica |
 
 # Validação de folhas de estilo CSS
 
@@ -2942,12 +2944,12 @@ erros, segundo a versão do CSS que esteja sendo utilizada na página.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | W3C CSS Validation Service |
+| Resultados esperados | Avaliação |
 
 # Recomendações para uso do JavaScript
 
