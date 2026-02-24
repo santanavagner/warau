@@ -1245,7 +1245,7 @@ Desenvolvedor
 Redator
 
 Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
-`<h1>, `<form>`, `<table>`) de elementos de linha (e.g., `<em>`,
+`<h1>`, `<form>`, `<table>`) de elementos de linha (e.g., `<em>`,
 `<span>`, `<input>`):
 
 - **Conteúdo** - elementos de bloco podem conter outros elementos de
