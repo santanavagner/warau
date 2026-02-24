@@ -586,14 +586,16 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 *Design* Acessível foca nos princípios que estendem o processo de
 *design* padrão para aquelas pessoas com algum tipo de limitação".
 (Vanderheinden, G. C., 1992, tradução de (Baranauskas, 2007))
+
 | Ficha | |
 | --- | --- |
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e
+WAI |
+| Resultados esperados | Avaliação e definição de conceitos |
 
 # Tecnologias Assistivas
 
@@ -638,7 +640,7 @@ Versão em alto contraste.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Ferramental utilizado | NVDA, Jaws, WebAnywhere, DOSVOX e Lynx |
 | Resultados esperados | Definição de conceitos |
 
 # Princípios para o desenvolvimento Web acessível
@@ -765,12 +767,12 @@ integração de tecnologias. São eles:
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML, CSS, JavaScript, Acessibilidade e Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | WARAU |
+| Resultados esperados | Definição de conceitos e Técnica |
 
 # Padronização de códigos HTML
 
@@ -831,12 +833,12 @@ Texto mostrado
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Padronização de código |
 
 # Estrutura de documentos HTML
 
@@ -973,12 +975,12 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Estruturação de documentos |
 
 # Âncoras e hiperlinks - A tag HTML `<a>`
 
@@ -1031,12 +1033,12 @@ a *tag* `<title>` se refere ao título da página.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Navegação |
 
 # Mapeamentos - A tag HTML `<map>`
 
@@ -1053,12 +1055,12 @@ mesmos *hiperlinks* em formato textual.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Imagens e animações |
 
 # Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 
@@ -1112,12 +1114,12 @@ Usabilidade
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Navegação e Legibilidade |
 
 # Subtópicos - As tags HTML `<h1>` a `<h6>`
 
@@ -1145,12 +1147,12 @@ Dê preferência sempre à formatação via CSS.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Navegação e Legibilidade |
 
 # Tabulação - O atributo HTML tabindex
 
@@ -1171,12 +1173,12 @@ tabulação em uma ordem que faça sentido ao usuário.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Navegação e Formulários |
 
 # Frames - A tag HTML `<frame>`
 
@@ -1196,12 +1198,12 @@ muitos desses problemas.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Navegação e Codificação |
 
 # Elementos de bloco e elementos de linha
 
@@ -1218,11 +1220,11 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Relevância para redatores | Média |
+| Ferramental utilizado | HTML 5 Specification |
 | Resultados esperados | Definição de conceitos |
 
 # Agrupamento de elementos de bloco - A tag HTML `<div>`
@@ -1245,12 +1247,12 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"</span>
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Estruturação de documentos e Legibilidade |
 
 # Agrupamento de texto - A tag HTML `<span>`
 
@@ -1272,12 +1274,12 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Resultados esperados | Estruturação de documentos e Legibilidade |
 
 # Quebras de linha - A tag HTML `<br>`
 
