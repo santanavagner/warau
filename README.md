@@ -4264,10 +4264,7 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 
 #### Código renderizado
 
-...
-[Acessibilidade]{.underline} > [Acessibilidade na Web]{.underline} >
-[Navegação]{.underline} > Breadcrumbs
-...
+<a href="/acessibilidade/">Acessibilidade</a> > <a href="/acessibilidade/web/">Acessibilidade na Web</a> > <a href="/acessibilidade/web/navegação/">Navegação</a> > Breadcrumbs
 
 # Recomendações de Acessibilidade para: Teclas de Atalho
 
@@ -4543,6 +4540,8 @@ cores também esteja disponível sem cores.
 <tr><td style="color: #0000ff">50</td><td>50</td></tr>
 </table>
 ```
+
+#### Código renderizado
 
 <table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
 <tr style="background-color: #cccccc;">
