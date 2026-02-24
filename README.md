@@ -322,12 +322,6 @@ Maria Teresa Eglér Mantoan, em abril de 2020.
 
 # Introdução
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 O projeto Websites Atendendo a Requisitos de Acessibilidade e
 Usabilidade, ou WARAU, nasceu como um *website* que tinha o objetivo de
 ser um espaço de discussão sobre normas, diretrizes, técnicas e boas
@@ -391,12 +385,6 @@ conteúdo do WARAU, um roteiro de leitura sequencial que aborda a tríade
 básica de tecnologias Web, mas sempre com foco prático e sempre
 considerando Acessibilidade e Usabilidade.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 1.  Almeida, L. D. A., Santana, V. F., Baranauskas, M. C. C. (2008). [Um
     processo para adequação de websites a requisitos de acessibilidade e
     usabilidade](http://www.ic.unicamp.br/~reltech/2008/08-03.pdf).
@@ -410,12 +398,6 @@ Desenvolvedor
     2008.
 
 # Sobre os Autores
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 [**Vagner Figueredo de Santana**](http://lattes.cnpq.br/0796625901609802)[^1]
 
@@ -480,19 +462,7 @@ humano-computador, semiótica organizacional, interface de usuário e
 design de sistemas computacionais interativos em diversos domínios
 (social, educacional, de trabalho).
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 # O que é Acessibilidade?
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Segundo o Decreto nº 5.296 (DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004,
 2004), acessibilidade está relacionada a fornecer condição para
@@ -553,12 +523,6 @@ ferramenta de comunicação instantânea do webmail Gmail (Google Mail).
 Nele, notificações são informadas através de efeitos visuais e
 auditivos.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 Vídeo: The Fountain. Fonte: aniBoom.
 <https://www.youtube.com/watch?v=FX9g5a-KwHQ>
 
@@ -574,12 +538,6 @@ Nacional dos Direitos das Pessoas Portadoras de Deficiência.
 https://www.youtube.com/watch?v=IXPgg04_Evw
 
 # Design Universal e Design Acessível
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 O *Design* Universal é um conceito bastante polêmico, dada a sua
 definição inicial, que é "o *design* de produtos e ambientes para serem
@@ -622,12 +580,6 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 
 # Tecnologias Assistivas
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 Tecnologias assistivas, sob o escopo da informática, são todos os
 artefatos que auxiliam de alguma forma as pessoas com algum tipo de
 necessidade, seja ela física, ambiental, entre outros. Os artefatos
@@ -664,12 +616,6 @@ movimentos da cabeça.
 Versão em alto contraste.
 
 # Princípios para o desenvolvimento Web acessível
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Um bom processo de desenvolvimento *Web* não deve se restringir somente
 a validações de código. O conteúdo do WARAU é norteado por princípios
@@ -744,12 +690,6 @@ integração de tecnologias. São eles:
     Tal conhecimento complementa e, por vezes, redireciona diretrizes e
     padrões.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 - Atributos aurais com CSS;
 
 - Navegação utilizando JavaScript;
@@ -806,12 +746,6 @@ familiarizados com os códigos feitos por qualquer um dos membros da
 equipe. A seguir discutiremos a padronização de três importantes
 componentes de códigos HTML: *tags*, atributos e comentários.
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 Apesar das tags HTML não serem sensíveis à escrita em letras maiúsculas
 ou minúsculas, sugerimos que todas as *tags* sejam escritas com letras
 minúsculas. Esta é uma das recomendações do W3C para HTML. Padronização
@@ -861,12 +795,6 @@ Texto mostrado
 Texto mostrado
 
 # Estrutura de documentos HTML
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 Um arquivo HTML possui as seguintes *tags* básicas: `<html>`, `<head>` e
 `<body>`. Elas possuem *tag* de abertura e fechamento e cada uma delas
@@ -942,12 +870,6 @@ GMT">
 <meta http-equiv="cache-control" content="no-store">
 ```
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 Além destes exemplos, as *tags* `<meta>` podem ser utilizadas para
 atualizar a página automaticamente e redirecionar o usuário para outra
 página. No entanto, estas funcionalidades devem ser utilizadas com
@@ -1005,19 +927,7 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 </html>
 ```
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 # Âncoras e hiperlinks - A tag HTML `<a>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 As *tags* `<a>` e `</a>` são utilizadas para definir um *hiperlink*.
 Note que o texto (ou rótulo) do *hiperlink* deve identificar claramente
@@ -1056,7 +966,6 @@ chamado de *skip link*.
 ...
 <a id="conteudo">Início do conteúdo</a>
 
-
 O atributo *accesskey* indica um atalho pelo qual o usuário poderá
 acessar um *hiperlink* apenas combinando uma tecla especial (e.g., ALT)
 com o caractere associado a este atributo, sem necessitar do *mouse*.
@@ -1067,25 +976,7 @@ O atributo *title* é diferente da *tag* `<title>`. Aqui o atributo
 indica ao usuário o que há na página/âncora que o *hiperlink* remete, já
 a *tag* `<title>` se refere ao título da página.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
-Redator
-
 # Mapeamentos - A tag HTML `<map>`
-
-Designer
-
-Desenvolvedor
-
-Desenvolvedor
-
-Redator
-
-Desenvolvedor
 
 A *tag* `<map>` é utilizada para definir diferentes *links* para
 diferentes regiões de uma mesma imagem.
@@ -1099,12 +990,6 @@ No entanto, se utilizar algum tipo de mapeamento, forneça também os
 mesmos *hiperlinks* em formato textual.
 
 # Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 HTML permite a criação de três tipos básicos de listas: `<ol>` (listas
 ordenadas), `<ul>` (listas não ordenadas) e `<dl>` (listas de
@@ -1153,21 +1038,9 @@ Usabilidade
 > de maneira que eles atinjam seus objetivos com eficiência e
 > satisfação.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
  
 
 # Subtópicos - As tags HTML `<h1>` a `<h6>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Utilize as *tags* `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>` para
 estruturar uma página por meio do particionamento do conteúdo em
@@ -1193,12 +1066,6 @@ Dê preferência sempre à formatação via CSS.
 
 # Tabulação - O atributo HTML tabindex
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Note que a ordem padrão da tabulação é a que os elementos aparecem no
 código HTML.
 
@@ -1216,12 +1083,6 @@ tabulação em uma ordem que faça sentido ao usuário.
 
 # Frames - A tag HTML `<frame>`
 
-Desenvolvedor
-
-Designer
-
-Redator
-
 *Tags* `<frame>` são utilizadas juntamente com *tags* `<frameset>` para
 dividir o espaço útil da tela em regiões que podem conter páginas HTML
 diferentes, como navegação e conteúdo.
@@ -1238,12 +1099,6 @@ muitos desses problemas.
 
 # Elementos de bloco e elementos de linha
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 `<h1>`, `<form>`, `<table>`) de elementos de linha (e.g., `<em>`,
 `<span>`, `<input>`):
@@ -1256,12 +1111,6 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
   acontece com elementos de linha.
 
 # Agrupamento de elementos de bloco - A tag HTML `<div>`
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A *tag* `<div>` delimita elementos de bloco, ou seja, é um elemento de
 bloco utilizado para encapsular elementos de bloco ou conjuntos de texto
@@ -1281,12 +1130,6 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"</span>
 
 # Agrupamento de texto - A tag HTML `<span>`
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 A *tag* `<span>` é um elemento de linha utilizado para encapsular um
 conjunto de texto com algum propósito especial. Por exemplo, para
 aplicar um determinado estilo em CSS ou para delimitar um conteúdo em
@@ -1305,12 +1148,6 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"
 
 # Quebras de linha - A tag HTML `<br>`
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 A *tag* `<br>` define uma quebra de linha. Ela não possui *tag* de
 fechamento.
 
@@ -1327,12 +1164,6 @@ Linha 1<br>Linha 2<br>Linha 3
 Linha 1<br>Linha 2<br>Linha 3
 
 # Parágrafos - A tag HTML `<p>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Utilize as *tags* `<p>` e `</p>` para delimitar parágrafos. Use `<br>`
 somente quando se referir a quebras de linha dentro do mesmo parágrafo.
@@ -1358,12 +1189,6 @@ parágrafos **não** dever ser justificado.
 
 # Idiomas - O atributo HTML lang
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 Para qualquer mudança de idioma no conteúdo textual utilize o atributo
 *lang* para indicar qual é o idioma do trecho em questão.
 
@@ -1385,12 +1210,6 @@ linguagem.
 
 # Textos sobrescritos - A tag HTML `<sup>`
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 As *tags* `<sup>` e `</sup>` são utilizadas para demarcar conteúdo
 sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
@@ -1407,12 +1226,6 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 <p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
 
 # Textos subscritos - A tag HTML `<sub>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 As *tags* `<sub>` e `</sub>` são utilizadas para fazer com que elementos
 fiquem subscritos como, por exemplo, o número de átomos em uma molécula
@@ -1431,12 +1244,6 @@ de um elemento químico.
 <p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
 
 # Fontes - A tag HTML `<font>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 A *tag* `<font>` é pouco utilizada atualmente e não pertence ao conjunto
 de *tags* do HTML 5, portanto seu uso deve ser evitado. Recomendamos a
@@ -1463,12 +1270,6 @@ se adequa aos novos parâmetros.
 
 # Ênfase no texto - As tags HTML `<em>` e `<strong>`
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 As *tags* `<em>` e `<strong>` são utilizadas para dar ênfase e
 estruturar o conteúdo de um documento.
 
@@ -1488,18 +1289,11 @@ de várias formas, inclusive via leitor de telas.
 
 #### Código renderizado
 
-
 <p><strong>A grande produção</strong> de <em>adrenalina</em>.</p>
 ....
 <p><strong>Não</strong> use <em>clique aqui</em>.</p>
 
 # Abreviações e siglas - A tags HTML `<abbr>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 A *tag* `<abbr>`deve ser utilizada para demarcar abreviações e siglas.
 O atributo title é usado para apresentar a forma completa do termo
@@ -1533,12 +1327,6 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 
 # Cores - Os atributos HTML color e bgcolor
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 O atributo *color* é utilizado para definir a cor de texto e o atributo
 *bgcolor* é utilizado para definir a cor de fundo de várias *tags* como
 `<body>`, `<table>`, `<td>`, entre outras. Não utilize como valor destes
@@ -1565,12 +1353,6 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 
 # Réguas horizontais - A tag HTML `<hr>`
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 A *tag* `<hr>` não possui *tag* de fechamento. Ela define uma régua
 horizontal e é utilizada para auxiliar na distinção de blocos de
 conteúdo.
@@ -1590,12 +1372,6 @@ conteúdo.
 <p>Texto do segundo bloco.</p>
 
 # Textos alternativos
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Textos alternativos devem ser fornecidos para cada elemento da página
 que não for baseado em texto, por exemplo: imagens, vídeos, animações e
@@ -1617,12 +1393,6 @@ página - por exemplo: bordas e fundos de tela -, então não deve ser
 criado texto alternativo.
 
 # Imagens - A tag HTML `<img>`
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 A *tag* `<img>` é utilizada para adicionar imagens ao documento HTML.
 Ela não possui *tag* de fechamento.
@@ -1658,12 +1428,6 @@ Por fim, não utilize imagens animadas a não ser que o usuário tenha uma
 forma de interromper o movimento.
 
 # Elementos multimídia - A tag HTML `<object>`
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A *tag* `<object>` é usada para incluir elementos de multimídia em uma
 página HTML, por exemplo, animações em Flash, vídeos, etc.
@@ -1703,12 +1467,6 @@ aspectos de usabilidade.
 
 # Formulários - A tag HTML `<form>`
 
-Desenvolvedor
-
-Designer
-
-Redator
-
 As *tags* `<form>` e `</form>` são utilizadas para delimitar quais
 campos fazem parte de um formulário. Seus principais atributos são:
 *action*, *method* e *name*.
@@ -1743,12 +1501,6 @@ O atributo *name* é utilizado para nomear o formulário para que ele
 possa ser referenciado dentro da página.
 
 # Campos de entrada de dados - A tag HTML `<input>`
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A *tag* `<input>` é utilizada para definir um campo de entrada de dados
 em um formulário. Por meio do seu atributo *type* é possível escolher
@@ -1786,12 +1538,6 @@ atributo *checked* com valor *checked*.
 
 # Rótulos - A tag HTML `<label>`
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Sempre utilize a *tag* `<label>` para associar um rótulo ao seu
 respectivo campo de um formulário.
 
@@ -1821,12 +1567,6 @@ referência.
 ­­­­­­­­­­­
 
 # Caixas de seleção - A tag HTML `<select>`
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A *tag* `<label>` permite a criação de uma caixa de seleção de itens.
 Para permitir a seleção de vários itens use o atributo *multiple*. O
@@ -1873,12 +1613,6 @@ identificação.
 
 # Campos de texto - A tag HTML `<textarea>`
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 As *tags* `<textarea>` e `</textarea>` delimitam uma área de entrada de
 texto extenso. Os atributos *rows* e *cols* definem o número de linhas e
 colunas, respectivamente.
@@ -1894,12 +1628,6 @@ linhas.
 ```
 
 # Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A *tag* `<fieldset>` deve ser utilizada para agrupar elementos de
 formulários correlacionados.
@@ -1928,12 +1656,6 @@ formulários correlacionados.
 
 # Rótulos para fieldsets - A tag HTML `<legend>`
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 `<fieldset>`.
 
@@ -1960,12 +1682,6 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 </fieldset>
 
 # Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Procure utilizar tabelas somente para dados tabulares. Nesses casos,
 sempre faça uso do atributo *summary* contendo uma descrição da tabela,
@@ -2044,12 +1760,6 @@ Complementarmente, o atributo *abbr* pode ser utilizado nos casos em que
 o conteúdo da *tag* `<th>` for extenso, o que tornaria o processamento
 de uma tabela por um leitor de telas muito cansativo para o usuário.
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 ### Exemplo do atributo *abbr* na *tag* `<th>`:
 
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
@@ -2111,19 +1821,7 @@ legenda de uma tabela.
 </tr>
 </table>
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 # Validação de código HTML
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Para validar páginas HTML, o W3C disponibiliza o Markup Validation
 Service (http://validator.w3.org/) que é uma ferramenta *online*, onde
@@ -2132,12 +1830,6 @@ diretamente, para receber uma relação de possíveis erros, segundo a
 versão do HTML que esteja sendo utilizada na página.
 
 # Sintaxe CSS
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 **Sintaxe básica do CSS** - A sintaxe do CSS é composta de dois itens
 principais: o seletor que é a referência ao elemento que receberá o
@@ -2206,12 +1898,6 @@ propriedades utilizadas.
 
 **No CSS:**
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 ### Exemplo de omissão do elemento HTML na classe CSS:
 
 ```css
@@ -2228,12 +1914,6 @@ Desenvolvedor
 ```
 
 # Inclusão de código CSS
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 CSS permite que você defina a forma de exibição dos elementos de
 marcação de arquivos HTML, XHTML, entre outros. Normalmente são criados
@@ -2294,19 +1974,7 @@ Este é um parágrafo
 ...
 ```
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 # Estrutura de documentos CSS
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Caso sejam feitas várias definições de estilo sobre um mesmo elemento,
 essas definições serão *cascateadas* formando um só elemento. Por isso,
@@ -2338,12 +2006,6 @@ strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 ````
 
 # Padronização de código CSS
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Padronização facilita a identificação de erros e ajuda na manutenção de
 código bem escrito. Dessa forma sugerimos que as definições das
@@ -2406,19 +2068,7 @@ são compatíveis com os navegadores usados. Exemplos de atalhos que
 funcionam em navegadores mais antigos são: *margin*, *padding* e
 *border*.
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 # Prioridade para estilos do usuário
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 O operador *!important* é usado em CSS para forçar a aplicação de um
 determinado estilo. No entanto, ele descarta toda a estrutura e pesos de
@@ -2427,12 +2077,6 @@ indicativo que há problemas na estruturação do código CSS, uma vez que
 foi necessário forçar a aplicação de um determinado estilo.
 
 # Unidades de medida relativas - Unidades em CSS: Porcentagem e em
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Utilize sempre unidades de medida relativas para que a apresentação da
 página possa se adequar à saída, da melhor forma possível. As unidades
@@ -2454,12 +2098,6 @@ vetoriais).
 
 # Conteúdos gerados pelo CSS: os pseudo-elementos before e after
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 A geração de conteúdo utilizando CSS é uma característica do CSS nível
 2, o que indica que deve ser utilizada com cautela e acompanhada de
 testes com os navegadores mais utilizados pelo público alvo. A geração
@@ -2480,12 +2118,6 @@ os navegadores utilizados no seu *website*. A referência sugerida é
 Referência de CSS do W3 Schools.
 
 # Listas ordenadas utilizando CSS
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Sugerimos a utilização de listas ordenadas (*tag* `<ol>`) em vez das
 listas não ordenadas (*tag* `<ul>`). No entanto, ao utilizar listas
@@ -2561,12 +2193,6 @@ lista</span></li>
 
 # Réguas - Alterando a aparência com CSS
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 No HTML as réguas horizontais (`<hr>`) são indicadas para separar e
 delimitar blocos de conteúdo. Com a utilização de CSS elas se
 transformam em um elemento muito versátil para a separação de conteúdo.
@@ -2601,12 +2227,6 @@ hr:before { content: attr(title); }
 
 # Bordas utilizando CSS
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Através das propriedades oferecidas pelo CSS é possível atribuir vários
 tipos de formatação que sem sua utilização seriam possíveis apenas com
 imagens.
@@ -2627,12 +2247,6 @@ div {
 ```
 
 # Posicionamento utilizando CSS
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Uma das tarefas mais difíceis, senão a mais difícil, é fazer com que os
 elementos de uma página *Web* fiquem posicionados corretamente em
@@ -2675,12 +2289,6 @@ table tr td { padding: 0.1em; }
 
 # Fontes utilizando CSS
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Sempre utilize uma família de fonte genérica, pois elas estão presentes
 na grande maioria dos navegadores.
 
@@ -2699,12 +2307,6 @@ regra geral mantenha seu código válido e faça com que seus usuários não
 sejam prejudicados por problemas de compatibilidade dos navegadores.
 
 # Efeitos em texto utilizando CSS
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Para utilizar letras maiúsculas ou minúsculas para dar ênfase ou para
 padronizar *layout* utilize a propriedade *text-transform*. Note como é
@@ -2739,12 +2341,6 @@ utilizassem CSS?
 
 # Formatação e posicionamento de texto utilizando CSS
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Utilize CSS para alcançar a formatação que deseja. Não utilize espaços
 nem pontuações para enfatizar trechos de texto, pois provavelmente uma
 pessoa que utilizar um leitor de telas não receberá a mesma ênfase e,
@@ -2777,12 +2373,6 @@ alinhamento de texto, use a respectiva propriedade de CSS da seguinte
 forma: text-align: center.
 
 # Utilizando texto em vez de imagem
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Não utilize imagens que contenham apenas texto. O CSS fornece várias
 propriedades para alteração da aparência de textos e utilizar apenas
@@ -2822,12 +2412,6 @@ a.paginacao {
 
 # Atributos aurais com CSS
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 As propriedades relacionadas aos atributos aurais fazem parte do CSS
 nível 2 e, conforme outras propriedades que podem ter baixa
 compatibilidade, deve ser verificada entre os navegadores que seus
@@ -2846,12 +2430,6 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 ```
 
 # Cores com CSS
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Sugerimos que defina uma cor de fundo para todos os elementos da página.
 Uma forma bem estruturada de controlar essa propriedade de atribuir a
@@ -2882,12 +2460,6 @@ incluindo imagens e cores de fundo.
 
 # Validação de folhas de estilo CSS
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Para validar folhas de estilo CSS, o W3C disponibiliza o CSS Validation
 Service (http://jigsaw.w3.org/css-validator/) que é uma ferramenta
 *online*, em que basta informar a URL, fazer *upload* do arquivo ou
@@ -2895,12 +2467,6 @@ informar o código diretamente, para receber uma relação de possíveis
 erros, segundo a versão do CSS que esteja sendo utilizada na página.
 
 # Recomendações para uso do JavaScript
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 JavaScript deve ser usado para oferecer **funcionalidades adicionais**
 às já existentes e necessárias ao funcionamento da página *Web*. Dessa
@@ -2928,12 +2494,6 @@ funcionalidades adicionais**. Ele não deve ser a única tecnologia usada
 para oferecer funcionalidades básicas de um *website*.
 
 # Inclusão de código JavaScript
-
-Desenvolvedor
-
-Designer
-
-Redator
 
 Os códigos em JavaScript utilizados em uma página podem ser internos ou
 externos. Para utilização de código interno sugerimos que a estrutura
@@ -2974,12 +2534,6 @@ interpretado se o navegador suportar JavaScript.
 
 Todas as variáveis devem ser declaradas, com os tipos apropriados para o
 algoritmo, não importando se são globais ou não.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Exemplo de declaração de variáveis em Javascript:
 
@@ -3028,12 +2582,6 @@ A declaração de métodos e variáveis deve ser ordenada de forma que eles
 sejam utilizados somente após terem sido declarados. Uma boa prática é
 manter o código JavaScript na *tag* `<head>.
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 Quando não respeitada a ordem de declaração e uso de variáveis e métodos
 você fica sujeito a problemas de compatibilidade entre versões de
 JavaScript e diferentes formas de interpretação do código realizadas
@@ -3045,12 +2593,6 @@ De acordo com a especificação da linguagem as quebras de linhas são
 suficientes para separar expressões, mas devido às diferenças existentes
 entre as implementações de JavaScript *client-side* deve-se, sempre,
 utilizar ponto-e-vírgula ao final de todas expressões.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
 
@@ -3072,12 +2614,6 @@ x = 2;
 
 # Cuidados com versões da linguagem JavaScript
 
-Desenvolvedor
-
-Designer
-
-Redator
-
 Não utilize versão da linguagem na declaração do *script*. Diferentes
 implementações de JavaScript podem utilizar objetos diferentes na mesma
 versão, e se isso não for verificado pode resultar em erros. O ideal é
@@ -3095,12 +2631,6 @@ utilizado pelo usuário, uma vez que restringem a execução do código
 JavaScript a um grupo muito específico, além de não levar em conta
 usuários de navegadores que serão lançados. Lembre-se que quanto mais
 tempo seu código "sobreviver" menos manutenção ele necessitará.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Contraexemplo de código Javascript dependente de navegador:
 
@@ -3158,24 +2688,12 @@ if ( window.focus ){
 //--></script>
 ```
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 # Conversão de tipo de dados em JavaScript
 
 Operadores de comparação estritos ( === ou !== ) não devem ser
 utilizados. Sugerimos que, como boa prática de programação, a conversão
 de variáveis de tipos diferentes deve ser feita pelo programador. Com
 isso fica claro no código JavaScript quais são os tipos utilizados.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
 
@@ -3227,19 +2745,7 @@ function getLinha(pval){
 }
 ```
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 # Manipuladores de evento em HTML
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A partir da versão 4.0 o HTML possui recursos para disparar eventos por
 meio do navegador. Um exemplo seria o evento *onkeypress* que é
@@ -3273,12 +2779,6 @@ necessárias para laços e condicionais simples, ou seja, contendo apenas
 uma expressão. No entanto sugerimos a utilização de chaves mesmo nesses
 casos, pois desta forma se obtém um código mais legível e mais portável.
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 ### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
 
 ```html
@@ -3304,12 +2804,6 @@ No lugar de executar vários comandos de impressão (e.g.,
 document.write), o que pode tornar o *script* muito lento, concatene a
 saída em uma variável e por fim envie o conteúdo da variável de uma
 única vez.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Contraexemplo de impressão em Javascript:
 
@@ -3342,12 +2836,6 @@ Conteúdo de texto deve estar sempre entre aspas duplas (") e todas
 ocorrências delas no conteúdo devem ser escapadas com a barra invertida
 (\).
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 ### Contraexemplo de uso de aspas em Javascript:
 
 ```html
@@ -3379,12 +2867,6 @@ Deve-se escapar a barra de qualquer ETAGO (</) que estiver sendo
 escrito pelo JavaScript. Isso evita que o *parser* identifique um ETAGO
 de outra *tag* como sendo a de *script*.
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 ### Contraexemplo de impressão de ETAGO em Javascript:
 
 ```html
@@ -3406,12 +2888,6 @@ document.write( "<p>Teste<\/p>" ) ;
 Quando a palavra *script* for processada dentro de código JavaScript ela
 deve ser dividida e concatenada, para que o *parser* não a identifique
 como sendo a *tag script* que encerra o código JavaScript.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Contraexemplo de impressão da palavra script:
 
@@ -3435,12 +2911,6 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 
 # Manipulação de CSS utilizando JavaScript
 
-Desenvolvedor
-
-Designer
-
-Redator
-
 A combinação de JavaScript, CSS e HTML é muito utilizada em *websites*.
 Esta combinação possibilita que programas em JavaScript alterem a
 aparência (CSS), dados e/ou estrutura (HTML) de páginas *Web*.
@@ -3462,12 +2932,6 @@ name_element.style.borderColor = "#000000" ;
 ```
 
 # Navegação utilizando JavaScript
-
-Desenvolvedor
-
-Designer
-
-Redator
 
 Programas em JavaScript são muito utilizados para manipular menus e
 sub-menus em navegações de *websites*, mas utilizações cuidadosas desse
@@ -3529,12 +2993,6 @@ open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 ...
 ```
 
-Desenvolvedor
-
-Designer
-
-Redator
-
 #### Código renderizado
 
 <ol id="ex415_navegacao">
@@ -3579,12 +3037,6 @@ foi a de validação de formulários sem a necessidade de envio de
 informações para o servidor. No entanto, é necessário lembrar que a
 validação também deve estar presente no servidor.
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 No exemplo a seguir temos o exemplo de validação de um *input* que deve
 conter somente números inteiros. A validação é feita com uma expressão
 regular que diz que o valor dever ser obrigatoriamente composto por
@@ -3619,12 +3071,6 @@ function verificarInteiro( val ){
 
 # Acesso a conteúdo e redundância utilizando JavaScript
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 A execução de *scripts* pode ser desabilitada por várias razões tais
 como segurança, limitações do navegador ou por opção do usuário (comum
 em usuários com deficiência visual). Portanto, é interessante que sejam
@@ -3655,12 +3101,6 @@ está disponível, sem fazer uso do elemento `<noscript>. O intuito é
 mostrar que, apesar de ser uma boa opção para garantir a redundância de
 funcionalidades, o elemento `<noscript>` não é o único recurso
 disponível.
-
-Desenvolvedor
-
-Redator
-
-Designer
 
 ### Exemplo de animação utilizando Javascript:
 
@@ -3736,21 +3176,9 @@ setTimeout( "play_caption()", 1000 ) ;
 ...
 ```
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 #### 
 
 # Manipulação de HTML utilizando JavaScript
-
-Desenvolvedor
-
-Designer
-
-Redator
 
 Para alterar conteúdo de *tags* HTML, a maneira mais simples é utilizar
 o identificador da *tags* para acessar o respectivo objeto. Após acessar
@@ -3769,12 +3197,6 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 ```
 
 # AJAX
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Ao contrário do que alguns pensam, AJAX não é uma linguagem. AJAX é uma
 técnica que usa JavaScript para trocar informações em XML entre a página
@@ -3863,12 +3285,6 @@ dos resultados.
 
 # Manipulação de HTML utilizando JavaScript
 
-Desenvolvedor
-
-Designer
-
-Redator
-
 Para alterar conteúdo de *tags* HTML, a maneira mais simples é utilizar
 o identificador da *tags* para acessar o respectivo objeto. Após acessar
 o objeto basta utilizar o método innerHTML para acessar e manipular o
@@ -3887,24 +3303,12 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 # Verificação de código JavaScript
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Para validar código JavaScript, pode-se utilizar o JSLint
 (http://www.jslint.com/) que é uma ferramenta *online*, em que basta
 informar a informar o código diretamente, para receber uma relação de
 possíveis erros e recomendações segundo boas práticas.
 
 # Reaproveitamento de Código
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 *Websites* são aplicações extremamente dinâmicas, exigindo um grande
 volume de atualizações. Além disso, grande parte das equipes de
@@ -3976,12 +3380,6 @@ GMT">
 </html>
 ```
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 **Em CSS:**
 
 - Nomear seletores de acordo com sua função (ver Padronização de código
@@ -4039,12 +3437,6 @@ function isLoginFormfilled(){
 
 ### Exemplo de Javascript para reaproveitamento de código: 
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 ```html
 ...
 <script type="text/javascript"><!--
@@ -4061,12 +3453,6 @@ function isFormFilled( formObject ){
 ```
 
 # O que é Usabilidade?
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Resumidamente, um produto tem boa usabilidade se pode ser utilizado por
 seus usuários de forma que eles atinjam seus objetivos com eficiência e
@@ -4134,19 +3520,7 @@ para atingir objetivos específicos com eficácia, eficiência e satisfação
 em um contexto específico de uso"* (International Standards
 Organization (ISO), 1998).
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 # Integração Usabilidade - Acessibilidade
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A integração de acessibilidade e usabilidade deve ser buscada, pois a
 falta da combinação desses conceitos pode resultar em diferentes
@@ -4164,12 +3538,6 @@ compatibilidade do sistema com o mundo real, reconhecimento ao invés de
 relembrança.
 
 # Os 10 maiores erros em webdesign
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 A seguir serão apresentados os 10 maiores erros em *webdesign* adaptados
 da lista de Nielsen (Nielsen, 2007):
@@ -4243,12 +3611,6 @@ da lista de Nielsen (Nielsen, 2007):
     auxiliam na definição de contexto para usuários que estão utilizando
     várias janelas ao mesmo tempo;
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 7.  **Qualquer coisa que pareça com publicidade** - Visão seletiva é
     muito poderosa e usuários de *websites* aprendem a prestar menos
     atenção aos anúncios publicitários que possam atrapalhá-los durante
@@ -4298,19 +3660,7 @@ Redator
     produtos ou serviços, não fornecer taxa de juros, não fornecer preço
     total a prazo, etc.
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 # Inspeção Heurística de Usabilidade
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Muitas das ferramentas e metodologias para avaliação de *websites* são
 consideradas inaplicáveis em pequenas equipes, seja por custo,
@@ -4341,12 +3691,6 @@ heurísticas ao conjunto de premissas a serem seguidas naturalmente
 durante o *design*.
 
 # Heurística genéricas
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 O conjunto de heurísticas genéricas foi proposto inicialmente por
 Nielsen, 1994. Aqui será utilizada a versão revisada das heurísticas
@@ -4399,19 +3743,7 @@ contida em (Rocha e Baranauskas, 2003).
     documentação. Essas informações devem ser fáceis de encontrar,
     focalizadas na tarefa do usuário e não muito extensas.
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 # Usabilidade na Web
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 As heurísticas genéricas podem ser especializadas para atender
 determinada classe de aplicações (e.g., sistemas de informações
@@ -4437,7 +3769,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  <td>Páginas normalmente demoram mais que 15 segundos para carregar devido a grandes gráficos, sons, etc.</td>
 </tr>
 </table>
-
 
 <table>
 <tr>
@@ -4478,7 +3809,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  </tr>
 </table>
 
-
 <table>
 <tr>
  <td colspan="3">Tabela de heurísticas na Web - Controle do usuário e liberdade</td>
@@ -4497,7 +3827,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  <td>O website executa ações sem que estas tenham sido solicitadas pelo usuário ou o usuário não tem liberdade para escolher quando executar as ações.</td>
 </tr>
 </table>
-
 
 <table>
 <tr>
@@ -4566,8 +3895,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </tr>
 </table>
 
-
-
 <table>
 <tr>
  <td colspan="3">Tabela de heurísticas na Web - Flexibilidade e eficiência de uso</td>
@@ -4586,8 +3913,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  <td>O website oferece somente um modo de interação.</td>
 </tr>
 </table>
-
-
 
 <table>
 <tr>
@@ -4628,8 +3953,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </tr>
 </table>
 
-
-
 <table>
 <tr>
  <td colspan="3">Tabela de heurísticas na Web - Ajudar os usuários a reconhecer, diagnosticar e corrigir erros</td>
@@ -4648,8 +3971,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  <td>As mensagens de erro são apresentadas da mesma forma que são geradas. Isso torna sua compreensão restrita a especialistas da área.</td>
 </tr>
 </table>
-
-
 
 <table>
 <tr>
@@ -4681,12 +4002,6 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </table>
 
 # Formulário de Inspeção Heurística na Web
-
-Desenvolvedor
-
-Designer
-
-Redator
 
 | Campo | Dado da avaliação |
 | --- | --- |
@@ -4738,20 +4053,7 @@ Redator
 | Copyright                                                             |               |                |
 | Informações para Contato                                              |               |                |
 
-
-Desenvolvedor
-
-Designer
-
-Redator
-
 # Acessibilidade no W3C
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Uma das mais relevantes iniciativas para promover a acessibilidade na
 *Web* é o *WAI* (WAI - Web Accessibility Initiative), promovido pelo
@@ -4816,19 +4118,7 @@ Os quatro princípios são:
     conteúdo permaneça acessível à medida que navegadores e tecnologias
     evoluem.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 # Modelo de Acessibilidade Brasileiro - e-MAG
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Como mencionado no tópico "O que é Acessibilidade?", por meio do
 *decreto* (DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004, 2004), o Governo
@@ -4846,12 +4136,6 @@ e-MAG é o (DaSilva).
 
 # Recomendações de Acessibilidade para: Utilização de novas tecnologias
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Ao utilizar novas tecnologias deve-se projetar as páginas *Web* de forma
 que os usuários que não contam com esses novos recursos não sejam
 prejudicados e consigam utilizar e acessar o conteúdo e os serviços
@@ -4861,12 +4145,6 @@ recomendações de tecnologias *Web*. Nesse cenário, a W3C é a principal
 organização para a definição de padrões.
 
 # Recomendações de Acessibilidade para: Portabilidade
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Quando se pensa em tornar uma navegação acessível deve-se ter em mente
 que todos os componentes gráficos e o conteúdo textual serão
@@ -4881,12 +4159,6 @@ apenas uma dimensão (e.g., áudio).
 
 # Bloqueio da navegação por teclado
 
-Desenvolvedor
-
-Redator
-
-Designer
-
 Usuários devem poder navegar por todos os elementos do *website* usando
 somente o teclado. Além disso, a navegação deve ser organizada de
 maneira que faça sentido em relação aos blocos de informação. Algumas
@@ -4900,12 +4172,6 @@ navegação por teclado, por exemplo:
 - Atalhos.
 
 # Recomendações de Acessibilidade para: Skip Links
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Boa parte dos *layouts* de *websites* possuem um cabeçalho, ocupando a
 parte superior da página, um menu, ocupando a lateral esquerda, e o
@@ -4945,12 +4211,6 @@ leitores de telas. Entretanto, ela não atende usuários que navegam na
 *Web* via teclado e que não usam leitores de tela.
 
 # Recomendações de Acessibilidade para: Breadcrumbs
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 *Breadcrumbs* (ou migalhas de pão) são um texto de uma única linha para
 mostrar a localização de uma página Web na hierarquia do website
@@ -5009,19 +4269,7 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 [Navegação]{.underline} > Breadcrumbs
 ...
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 # Recomendações de Acessibilidade para: Teclas de Atalho
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Outra questão que surge com a serialização de conteúdo é: como chegar de
 maneira eficiente (direta) até *links* visitados freqüentemente, sem ter
@@ -5087,12 +4335,6 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 
 # Recomendações de Acessibilidade para: Legibilidade
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 Segundo Nielsen, *"todo o resto - design, velocidade, conteúdo - falha
 quando os usuários não conseguem ler o texto"* (Nielsen, 2000). Páginas
 *Web* bem projetadas e com redação adequada para a mídia, obtém boa
@@ -5125,12 +4367,6 @@ conteúdo de um *website* enquanto dirige seu carro e está com a visão
 ocupada.
 
 # Escrita de textos para a Web
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Um dos principais erros cometidos ao criar conteúdos para *websites* é o
 de ignorar o conhecimento sobre o domínio do *website* e o nível de
@@ -5172,12 +4408,6 @@ esperado.
 
 # Recomendações de Acessibilidade para: Contexto
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 É um desafio manter o usuário sempre informado sobre onde ele está e,
 consequentemente, seu contexto acerca da página *Web* que está
 utilizando. Vários elementos visuais informam ao usuário seu contexto
@@ -5215,12 +4445,6 @@ Exemplos da importância da definição de contexto:
 
 # Recomendações de Acessibilidade para: Agrupamento Espacial
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 A tolerância de usuários de páginas *Web* é baixa, dada a variedade de
 opções existentes. Portanto, um *website* deve disponibilizar de forma
 clara as suas funcionalidades sem que para isso, o usuário tenha que ler
@@ -5251,12 +4475,6 @@ elementos de uma página HTML. Exemplos seriam:
 
 # Recomendações de Acessibilidade para: Ícones
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 Pessoas não letradas ou com baixo letramento têm dificuldade para
 interpretar textos longos. Portanto, a utilização de ícones para
 representar textos é uma opção bastante eficaz. Porém, a seleção do
@@ -5279,12 +4497,6 @@ facilidade de os usuários relembrarem a função do signo em utilizações
 futuras.
 
 # Recomendações de Acessibilidade para: Redundância
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 Como nem todos os usuários podem enxergar as cores do *website*, seja
 por deficiência ou pela qualidade do monitor, é necessário que cuidados
@@ -5352,19 +4564,7 @@ sistema operacional do usuário; e o *Colorblind Web Page Filter*
 qualquer e a visualize utilizando as cores que um usuário com
 determinado tipo de deficiência enxergaria.
 
-Designer
-
-Redator
-
-Desenvolvedor
-
 # Recomendações de Acessibilidade para: Recursos de Áudio
-
-Designer
-
-Redator
-
-Desenvolvedor
 
 A redundância nas formas de apresentação é uma palavra-chave quando se
 pensa em acessibilidade. Além da estruturação das diversas mídias,
@@ -5399,12 +4599,6 @@ usuário possa desativar estes recursos.
 
 # Recomendações de Acessibilidade para: Controle do Usuário
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 É possível adicionar diversas funcionalidades a uma página *Web* como
 incluir áudio, animações, vídeo com um intérprete de LIBRAS, entre
 outros. No entanto, ao adicionar um recurso é possível que ele interfira
@@ -5438,12 +4632,6 @@ comprometer a segurança do usuário ou do *website*).
 
 # Técnicas para encontrar conteúdo em um website
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 A quantidade de informações disponíveis nos *websites* cresce
 rapidamente. No entanto, nem sempre o *website* fornece recursos para
 que os usuários encontrem a informação desejada de maneira eficiente.
@@ -5471,12 +4659,6 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
   Google Custom Search Engine.
 
 # Avaliação Simplificada de Acessibilidade
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Da mesma forma que é realizada a Inspeção de Usabilidade, a Avaliação
 Simplificada de Acessibilidade consiste de um conjunto básico de
@@ -5534,12 +4716,6 @@ irão, cedo ou tarde, burlar tais *scripts*. Portanto, a garantia de
 segurança do *website* deve ser implementada de maneira a não interferir
 na interação do usuário com o *website*.
 
-Designer
-
-Desenvolvedor
-
-Redator
-
 **Erro 5: Tentar resolver problemas fora da sua área de conhecimento**
 
 Algumas funções de acessibilidade (e.g., redimensionamento de fonte) são
@@ -5575,12 +4751,6 @@ na área e estabelecer alguns limites e requisitos que devem ser
 atendidos na construção do *website*.
 
 # Formulário para Avaliação Simplificada de Acessibilidade
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 **(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais, Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de Computação - UNICAMP)**
 
@@ -5626,7 +4796,6 @@ Avaliação Manual: Uso de Navegadores Gráficos e Textuais
 | **1. Verificar se as informações disponibilizadas são equivalentes àquelas oferecidas pelo navegador gráfico**                                                                                                                          |                          |                |
 | **2. Verificar se a informação apresentada faz sentido se apresentada de forma linear**                                                                                                                                                 |                          |                |
 
-
 ## Formulário de Avaliação Simplificada de Acessibilidade de Interface
 
 Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de avaliação de  acessibilidade)  
@@ -5636,12 +4805,6 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | Comentários dos resultados   |   |   |
 
 # Avaliação de acessibilidade utilizando ferramentas semiautomáticas
-
-Designer
-
-Desenvolvedor
-
-Redator
 
 Ferramentas semiautomáticas de avaliação de acessibilidade na *Web*
 geralmente são aplicações que, a partir de uma URL dada, validam um
