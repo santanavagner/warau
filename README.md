@@ -1,41 +1,18 @@
-# Vagner Figueredo de Santana
+# Websites Atendendo a Requisitos de Acessibilidade e Usabilidade
 
-# Leonelo Dell Anhol Almeida
+**Autores:** Vagner Figueredo de Santana, Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas
 
-# Maria Cecília Calani Baranauskas
+**Prefácio por:** Profa. Maria Teresa Eglér Mantoan
 
-Prefácio por
+| Formato | Citação | 
+| :--- | :--- | 
+| Texto | Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol; Baranauskas, Maria Cecília Calani. Leanpub. https://leanpub.com/warau |
+| Bibtex | \@book{Santana2018, title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade}, author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cec{\\\'\\i}lia Calani}, year={2018}, publisher = {Leanpub}, isbn = {978-85-907039-1-4} } |
 
-**Maria Teresa Eglér Mantoan**
+  Data da revisão: 13/02/2026
+  **ISBN:** 978-85-907039-1-4
 
-+-----------------------------------------------------------------------+
-| Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.      |
-| 2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol;      |
-| Baranauskas, Maria Cecília Calani. Leanpub. https://leanpub.com/warau |
-|                                                                       |
-| \@book{Santana2018,                                                   |
-|                                                                       |
-| title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e     |
-| Usabilidade},                                                         |
-|                                                                       |
-| author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and |
-| Baranauskas, Maria Cec{\\\'\\i}lia Calani}                            |
-|                                                                       |
-| year={2018},                                                          |
-|                                                                       |
-| publisher = {Leanpub},                                                |
-|                                                                       |
-| isbn = {978-85-907039-1-4}                                            |
-|                                                                       |
-| }                                                                     |
-+=======================================================================+
-
-  ----------------------------------------------------------------------------------------------------
-  ![](media/image2.png){width="0.8472222222222222in"   Data da revisão:         **ISBN:
-  height="0.2984536307961505in"}                       13/02/2026               978-85-907039-1-4**
-  ---------------------------------------------------- ------------------------ ----------------------
-
-  ----------------------------------------------------------------------------------------------------
+----
 
 Prefácio [9](#_Toc38545860)
 
