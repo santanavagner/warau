@@ -1324,9 +1324,7 @@ Linha 1<br>Linha 2<br>Linha 3
 
 #### Código renderizado
 
-Linha 1
-Linha 2
-Linha 3
+Linha 1<br>Linha 2<br>Linha 3
 
 # Parágrafos - A tag HTML `<p>`
 
@@ -1495,8 +1493,6 @@ de várias formas, inclusive via leitor de telas.
 ....
 <p><strong>Não</strong> use <em>clique aqui</em>.</p>
 
-**Não** use *clique aqui*.
-
 # Abreviações e siglas - A tags HTML `<abbr>`
 
 Designer
@@ -1567,7 +1563,7 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 </table>
 ```
 
-# Réguas horizontais - A tag HTML `<hr>
+# Réguas horizontais - A tag HTML `<hr>`
 
 Designer
 
@@ -1746,7 +1742,7 @@ Note que se o formulário utilizar dados que não são caracteres (e.g.,
 O atributo *name* é utilizado para nomear o formulário para que ele
 possa ser referenciado dentro da página.
 
-# Campos de entrada de dados - A tag HTML `<input>
+# Campos de entrada de dados - A tag HTML `<input>`
 
 Designer
 
@@ -1763,7 +1759,7 @@ Além do atributo *type* deve-se utilizar os atributos *id*, *name* e
 *value*.
 
 O atributo *id* serve para identificar o elemento e, entre outras
-coisas, possibilitar o uso da *tag* `<label>.
+coisas, possibilitar o uso da *tag* `<label>`.
 
 O atributo *name* é utilizado para referenciar o elemento no formulário
 via programação no cliente ou no servidor. O atributo *value* indica
@@ -1772,7 +1768,7 @@ qual é o valor inicial do campo.
 Quando for necessário indicar que um campo está selecionado, use o
 atributo *checked* com valor *checked*.
 
-### Exemplo da *tag* `<input>:
+### Exemplo da *tag* `<input>`:
 
 ```html
 <label for="ex24_idade">Idade:</label>
