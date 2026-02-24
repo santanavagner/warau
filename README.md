@@ -3632,7 +3632,7 @@ fornecidas outras formas de acesso ao conteúdo que seria apresentado
 pelo código JavaScript. Para tanto pode ser utilizada a tag `<noscript>
 que é executada sempre que *scripts client-side* estejam desabilitados.
 
-### Exemplo de uso da *tag* `<noscript>:
+### Exemplo de uso da *tag* `<noscript>`:
 
 ```html
 ...
@@ -4045,7 +4045,7 @@ Desenvolvedor
 
 Redator
 
-``html
+```html
 ...
 <script type="text/javascript"><!--
 function isFormFilled( formObject ){
