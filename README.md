@@ -4428,8 +4428,8 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </tr>
 <tr>
  <th>Heurística para Web</th>
- <th><strong>Ideal</strong></th>
- <th><strong>Incompleto</strong></th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
 </tr>
 <tr>
  <td>Tempo de carga</td>
@@ -4479,82 +4479,94 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 </table>
 
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Controle do usuário e liberdade                      |
-+=========================+=================================+=========================+
-| Heurística Genérica - 3. Controle do usuário e liberdade                            |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Controle sobre ações    | O usuário explicitamente        | O *website* executa     |
-|                         | solicita a execução das ações e | ações sem que estas     |
-|                         | tem o controle de quando        | tenham sido solicitadas |
-|                         | executá-las.                    | pelo usuário ou o       |
-|                         |                                 | usuário não tem         |
-|                         |                                 | liberdade para escolher |
-|                         |                                 | quando executar as      |
-|                         |                                 | ações.                  |
-+-------------------------+---------------------------------+-------------------------+
-|                         |                                 |                         |
-+-------------------------+---------------------------------+-------------------------+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Controle do usuário e liberdade</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 3. Controle do usuário e liberdade</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Controle sobre ações</td>
+ <td>O usuário explicitamente solicita a execução das ações e tem o controle de quando executá-las.</td>
+ <td>O website executa ações sem que estas tenham sido solicitadas pelo usuário ou o usuário não tem liberdade para escolher quando executar as ações.</td>
+</tr>
+</table>
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Consistência e padrões                               |
-+=========================+=================================+=========================+
-| Heurística Genérica - 4. Consistência e padrões                                     |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Links                   | Todos os links apontam para     | Menos de 3/4 dos links  |
-|                         | *website* de alta qualidade e   | apontam para *website*  |
-|                         | atualizados.                    | de alta qualidade e     |
-|                         |                                 | atualizados.            |
-+-------------------------+---------------------------------+-------------------------+
-| Escrita e gramática     | Não há erros na escrita,        | Há mais que 5 erros na  |
-|                         | pontuação ou gramática no       | escrita, pontuação ou   |
-|                         | *website*.                      | gramática no *website*. |
-+-------------------------+---------------------------------+-------------------------+
-| Navegação               | Links para navegação são        | Alguns links não levam  |
-|                         | claramente nomeados,            | o usuário para os       |
-|                         | consistentemente localizados,   | *websites* descritos. O |
-|                         | permitem que o leitor se mova   | usuário normalmente se  |
-|                         | de uma página para páginas      | sente perdido.          |
-|                         | relacionadas e levam o usuário  |                         |
-|                         | para onde ele espera ir. O      |                         |
-|                         | usuário não se perde.           |                         |
-+-------------------------+---------------------------------+-------------------------+
-|                         |                                 |                         |
-+-------------------------+---------------------------------+-------------------------+
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Prevenção de erros                                   |
-+=========================+=================================+=========================+
-| Heurística Genérica - 5. Prevenção de erros                                         |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Compatibilidade         | O *website* foi testado em      | O *website* não foi     |
-|                         | diferentes sistemas             | testado ou somente      |
-|                         | operacionais e diferentes       | suporta um navegador ou |
-|                         | versões de navegadores.         | um sistema operacional. |
-+-------------------------+---------------------------------+-------------------------+
-|                         |                                 |                         |
-+-------------------------+---------------------------------+-------------------------+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Consistência e padrões</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 4. Consistência e padrões</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Links</td>
+ <td>Todos os links apontam para website de alta qualidade e atualizados.</td>
+ <td>Menos de 3/4 dos links apontam para website de alta qualidade e atualizados.</td>
+</tr>
+<tr>
+ <td>Escrita e gramática</td>
+ <td>Não há erros na escrita, pontuação ou gramática no website.</td>
+ <td>Há mais que 5 erros na escrita, pontuação ou gramática no website.</td>
+</tr>
+<tr>
+ <td>Navegação</td>
+ <td>Links para navegação são claramente nomeados, consistentemente localizados, permitem que o leitor se mova de uma página para páginas relacionadas e levam o usuário para onde ele espera ir. O usuário não se perde.</td>
+ <td>Alguns links não levam o usuário para os websites descritos. O usuário normalmente se sente perdido.</td>
+</tr>
+</table>
 
-+-------------------------------------------------------------------------------------+
-| Tabela de heurísticas na Web - Reconhecimento ao invés de relembrança               |
-+=========================+=================================+=========================+
-| Heurística Genérica - 6. Reconhecimento ao invés de relembrança                     |
-+-------------------------+---------------------------------+-------------------------+
-| Heurística para Web     | **Ideal**                       | **Incompleto**          |
-+-------------------------+---------------------------------+-------------------------+
-| Identificação de        | O usuário percebe quais são os  | O usuário precisa       |
-| elementos de interação  | elementos do *website* que ele  | relembrar quais os      |
-|                         | pode interagir (e.g., links e   | elementos do *website*  |
-|                         | botões)                         | que ele pode interagir. |
-+-------------------------+---------------------------------+-------------------------+
-|                         |                                 |                         |
-+-------------------------+---------------------------------+-------------------------+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Prevenção de erros</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 5. Prevenção de erros</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Compatibilidade</td>
+ <td>O website foi testado em diferentes sistemas operacionais e diferentes versões de navegadores.</td>
+ <td>O website não foi testado ou somente suporta um navegador ou um sistema operacional.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td colspan="3">Tabela de heurísticas na Web - Reconhecimento ao invés de relembrança</td>
+</tr>
+<tr>
+ <td colspan="3">Heurística Genérica - 6. Reconhecimento ao invés de relembrança</td>
+</tr>
+<tr>
+ <th>Heurística para Web</th>
+ <th>Ideal</th>
+ <th>Incompleto</th>
+</tr>
+<tr>
+ <td>Identificação de elementos de interação</td>
+ <td>O usuário percebe quais são os elementos do website que ele pode interagir (e.g., links e botões)</td>
+ <td>O usuário precisa relembrar quais os elementos do website que ele pode interagir.</td>
+</tr>
+</table>
+
+
 
 +-------------------------------------------------------------------------------------+
 | Tabela de heurísticas na Web - Flexibilidade e eficiência de uso                    |
