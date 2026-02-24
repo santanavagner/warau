@@ -4688,12 +4688,12 @@ Designer
 
 Redator
 
-| Tipo | Dado da avaliação |
+| Campo | Dado da avaliação |
 | --- | --- |
-| Avaliador: | | 
-| Descrição da URL: | | 
-| URL: | | 
-| Data: | | 
+| Avaliador: | __________________________________________________ | 
+| Descrição da URL: | __________________________________________________ | 
+| URL: | __________________________________________________ | 
+| Data: | __________________________________________________ | 
 
 **Níveis de Severidade:**
 - 0: não concordo que seja um problema de usabilidade
