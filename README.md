@@ -2146,7 +2146,7 @@ separados por ponto e vírgula e delimitadas por chaves. Tem assim a
 seguinte forma:
 
 ```css
-seletor {atributo: valor; \[atributo: valor;\]}
+seletor {atributo: valor; [atributo: valor;]}
 ```
 
 ### Exemplo de declaração atributo-valor CSS:
@@ -2351,7 +2351,9 @@ propriedades sejam separadas e terminadas por ponto e vírgula.
 
 ### Exemplo de declaração padronizada em CSS:
 
+```css
 div.content { padding: 5%; margin: 5%; }
+```
 
 Em estilo *in-line*, sugerimos que todas as definições sejam terminadas
 com ponto e vírgula. Isso ajuda na manutenção e inclusão de novas
@@ -2360,11 +2362,15 @@ propriedades, além de facilitar uma eventual migração de estilos
 
 ### Contraexemplo de declaração *inline* em CSS:
 
+```html
 <td style="font-weight: bold">
+```
 
 ### Exemplo de declaração *inline* em CSS:
 
+```html
 <td style="font-weight: bold;">
+```
 
 Ao nomear seletores nunca se deve associar o nome à aparência do
 elemento. Tente sempre identificar o seletor a partir da função ou do
@@ -2372,19 +2378,25 @@ dado a que ele se refere.
 
 ### Contraexemplo de declaração CSS baseada na aparência:
 
+```html
 <td class="corVermelha">01/01/2007</td>
+```
 
 ### 
 
 ### Contraexemplo de declaração CSS baseada no conteúdo:
 
+```html
 <td class="texto1">01/01/2007</td>
+```
 
 ### 
 
 ### Exemplo de declaração CSS baseada na função do dado:
 
+```html
 <td class="data">01/01/2007</td>
+```
 
 Por fim, devido a problemas de compatibilidade na interpretação de CSS
 entre diferentes navegadores, especialmente para os mais antigos,
@@ -2490,9 +2502,11 @@ HTML, e é aí que entra a utilização de CSS.
 
 ### Exemplo de CSS para listas ordenadas com subníveis:
 
+```css
 ul, ol { counter-reset: item; }
 li { display: block; }
 li:before { content: counters(item, ".") ; counter-increment: item; }
+```
 
 Outra forma de melhorar a acessibilidade de uma lista é incluir
 marcações que auxiliem na navegação entre seus itens. Assim, além da
@@ -2503,11 +2517,32 @@ indicar o final de cada seção.
 
 ### Exemplo de marcações de fim de listas ordenadas usando CSS:
 
+```css
 span.fimDeLista { display: none; }
+```
 
 **No HTML:**
 
 ### Exemplo de marcações de fim de listas ordenadas usando CSS no HTML:
+
+```html
+<ol>
+<li>
+Padronização
+<ol>
+<li>Marcação</li>
+<li>Folha de Estilo</li>
+<li>Scripts `<span class="fimDeLista">Fim das
+linguagens</span></li>
+</ol>
+</li>
+<li>Usabilidade</li>
+<li>Acessibilidade `<span class="fimDeLista">Fim da
+lista</span></li>
+</ol>
+```
+
+#### Código renderizado
 
 <ol>
 <li>
@@ -2523,26 +2558,6 @@ linguagens</span></li>
 <li>Acessibilidade `<span class="fimDeLista">Fim da
 lista</span></li>
 </ol>
-
-#### Código renderizado
-
-1.  Padronização
-
-    1.  Marcação
-
-    2.  Folha de Estilo
-
-    3.  Scripts
-
-2.  Usabilidade
-
-Designer
-
-Desenvolvedor
-
-Redator
-
-3.  Acessibilidade
 
 # Réguas - Alterando a aparência com CSS
 
@@ -2563,24 +2578,26 @@ formas.
 
 ### Exemplo de alteração da aparência de réguas usando CSS:
 
+```css
 hr.reguaDeInstrucoes {
-
-> margin: 1em 0 1em 0;
-> height: 1em;
-> border: none;
-> background-image: url("estrela.gif");
-> background-repeat: no-repeat;
-> background-position: center center;
-
+    margin: 1em 0 1em 0;
+    height: 1em;
+    border: none;
+    background-image: url("estrela.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 hr:before { content: attr(title); }
+```
 
 **No HTML:**
 
 ### Exemplo de alteração da aparência de réguas usando CSS no HTML:
 
+```html
 <hr title="Fim das instruções" class="reguaDeInstrucoes">
+```
 
 # Bordas utilizando CSS
 
@@ -2596,18 +2613,18 @@ imagens.
 
 Além de possibilitar alterações na cor, tamanho e estilo, é possível
 editar cada um dos quatro lados dos elementos de bloco (e.g., `<table>`,
-<div>, `<p>`, entre outros).
+`<div>`, `<p>`, entre outros).
 
 ### Exemplo de definição de bordas usando CSS:
 
+```css
 div {
-
-> border-top: 0.2em dotted #000000;
-> border-right: 0.2em dotted #cccccc;
-> border-bottom: 0.3em double #000000;
-> border-left: 0.3em double #cccccc;
-
+    border-top: 0.2em dotted #000000;
+    border-right: 0.2em dotted #cccccc;
+    border-bottom: 0.3em double #000000;
+    border-left: 0.3em double #cccccc;
 }
+```
 
 # Posicionamento utilizando CSS
 
