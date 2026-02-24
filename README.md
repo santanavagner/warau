@@ -2980,12 +2980,12 @@ para oferecer funcionalidades básicas de um *website*.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | JavaScript | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Compatibilidade de código e Codificação |
 
 # Inclusão de código JavaScript
 
@@ -3026,12 +3026,12 @@ interpretado se o navegador suportar JavaScript.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 # Declaração de variáveis em JavaScript
 
@@ -3081,12 +3081,13 @@ function Valida(pa,pb) {
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript
+Reference |
+| Resultados esperados | Padronização de código e Compatibilidade de código |
 
 # Ordem da declaração de variáveis e métodos em JavaScript
 
@@ -3101,12 +3102,12 @@ pelos navegadores.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código, Estruturação de documentos e Codificação |
 
 # Quebras de linha no código JavaScript
 
@@ -3135,12 +3136,12 @@ x = 2;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código e Compatibilidade de código |
 
 # Cuidados com versões da linguagem JavaScript
 
@@ -3156,12 +3157,12 @@ ter que fazê-la, pense na possibilidade de utilizar bibliotecas de
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código e Compatibilidade de código |
 
 # Detecção de navegador, objetos e métodos utilizando JavaScript
 
@@ -3229,12 +3230,12 @@ if ( window.focus ){
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código e Compatibilidade de código |
 
 # Conversão de tipo de dados em JavaScript
 
@@ -3295,12 +3296,13 @@ function getLinha(pval){
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Estruturação de documentos e Compatibilidade de
+código |
 
 # Manipuladores de evento em HTML
 
@@ -3331,12 +3333,12 @@ function selecionou(porigem) {
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML, JavaScript e Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e Lynx |
+| Resultados esperados | Compatibilidade de código e Codificação |
 
 # Desvios e laços condicionais em JavaScript
 
@@ -3366,12 +3368,12 @@ if ( ... ){
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 # Escrita de HTML via JavaScript
 
@@ -3407,12 +3409,12 @@ document.write( html_code ) ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML e JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código e Codificação |
 
 # Aspas simples e duplas em JavaScript
 
@@ -3447,12 +3449,12 @@ código JavaScript estiver dentro de um atributo de uma tag HTML.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código |
 
 # ETAGO em JavaScript
 
@@ -3478,12 +3480,12 @@ document.write( "<p>Teste<\/p>" ) ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on |
+| Resultados esperados | Padronização de código e Compatibilidade de código |
 
 # Escrevendo a palavra reservada script
 
@@ -3513,12 +3515,12 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 # Manipulação de CSS utilizando JavaScript
 
@@ -3544,12 +3546,12 @@ name_element.style.borderColor = "#000000" ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | CSS e JavaScript | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código |
 
 # Navegação utilizando JavaScript
 
@@ -3652,12 +3654,12 @@ open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Navegação, Codificação e Técnica |
 
 # Validação de formulários utilizando JavaScript
 
@@ -3700,12 +3702,12 @@ function verificarInteiro( val ){
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Formulários e Codificação |
 
 # Acesso a conteúdo e redundância utilizando JavaScript
 
@@ -3731,12 +3733,12 @@ document.write("Texto escrito via javascript!");
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | JavaScript | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Compatibilidade de código e Codificação |
 
 # Gráficos e animações utilizando JavaScript
 
@@ -3825,12 +3827,12 @@ setTimeout( "play_caption()", 1000 ) ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | JavaScript | 
+| Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Imagens e animações e Codificação |
 
 # Manipulação de HTML utilizando JavaScript
 
@@ -3852,12 +3854,12 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema |  HTML e JavaScript | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código |
 
 # AJAX
 
@@ -3948,12 +3950,12 @@ dos resultados.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | JavaScript | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on |
+| Resultados esperados | Técnica |
 
 # Manipulação de HTML utilizando JavaScript
 
@@ -3975,12 +3977,12 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML e JavaScript | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Resultados esperados | Padronização de código |
 
 # Verificação de código JavaScript
 
@@ -3991,12 +3993,12 @@ possíveis erros e recomendações segundo boas práticas.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | JavaScript | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado |  JSLint The JavaScript Verifier |
+| Resultados esperados | Verificação |
 
 # Reaproveitamento de Código
 
@@ -4144,12 +4146,12 @@ function isFormFilled( formObject ){
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML, CSS e JavaScript | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Notepad++ e Bluefish |
+| Resultados esperados | Padronização de código e Estruturação de documentos |
 
 # O que é Usabilidade?
 
@@ -4221,11 +4223,11 @@ Organization (ISO), 1998).
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Relevância para redatores | Média |
+| Ferramental utilizado | Useit. Usability 101: Introduction to Usability |
 | Resultados esperados | Definição de conceitos |
 
 # Integração Usabilidade - Acessibilidade
@@ -4247,11 +4249,11 @@ relembrança.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | Acessibilidade e Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Relevância para redatores | Média |
+| Ferramental utilizado | Useit. Usability 101: Introduction to Usability e WAI |
 | Resultados esperados | Definição de conceitos |
 
 # Os 10 maiores erros em webdesign
@@ -4379,12 +4381,12 @@ da lista de Nielsen (Nielsen, 2007):
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Média |
+| Ferramental utilizado | Useit. Usability 101: Introduction to Usability |
+| Resultados esperados | Técnica |
 
 # Inspeção Heurística de Usabilidade
 
@@ -4418,12 +4420,12 @@ durante o *design*.
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
+| Resultados esperados | Avaliação e Técnica |
 
 # Heurística genéricas
 
@@ -4480,11 +4482,11 @@ contida em (Rocha e Baranauskas, 2003).
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
 | Resultados esperados | Definição de conceitos |
 
 # Usabilidade na Web
@@ -4747,11 +4749,11 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | Usabilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
 | Resultados esperados | Definição de conceitos |
 
 # Formulário de Inspeção Heurística na Web
@@ -4808,12 +4810,12 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | Usabilidade | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Web Developer Add-on e Lynx |
+| Resultados esperados | Avaliação e Técnica |
 
 # Acessibilidade no W3C
 
@@ -4887,7 +4889,7 @@ Os quatro princípios são:
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
 | Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Resultados esperados | Definição de conceitos e Técnica |
 
 # Modelo de Acessibilidade Brasileiro - e-MAG
 
@@ -4911,8 +4913,8 @@ e-MAG é o (DaSilva).
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | DaSilva e ASES |
+| Resultados esperados | Definição de conceitos e Técnica |
 
 # Recomendações de Acessibilidade para: Utilização de novas tecnologias
 
@@ -4930,8 +4932,8 @@ organização para a definição de padrões.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Avaliação, Compatibilidade de código e Técnica |
 
 # Recomendações de Acessibilidade para: Portabilidade
 
@@ -4952,8 +4954,8 @@ apenas uma dimensão (e.g., áudio).
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish, NVDA, JAWS, WebAnywhere, DOSVOX, Lynx e WAI |
+| Resultados esperados | Navegação, Compatibilidade de código e Técnica |
 
 # Bloqueio da navegação por teclado
 
@@ -4971,12 +4973,12 @@ navegação por teclado, por exemplo:
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | Alta |
+| Tema | HTML, JavaScript e Acessibilidade | 
+| Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
+| Relevância para redatores | Média |
 | Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Resultados esperados | Navegação |
 
 # Recomendações de Acessibilidade para: Skip Links
 
@@ -5022,9 +5024,9 @@ leitores de telas. Entretanto, ela não atende usuários que navegam na
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Navegação e Técnica |
 
 # Recomendações de Acessibilidade para: Breadcrumbs
 
@@ -5088,8 +5090,8 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Navegação e Técnica |
 
 # Recomendações de Acessibilidade para: Teclas de Atalho
 
@@ -5157,12 +5159,12 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | CSS e Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Navegação e Técnica |
 
 # Recomendações de Acessibilidade para: Legibilidade
 
@@ -5203,8 +5205,8 @@ ocupada.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
+| Resultados esperados | Legibilidade e Técnica |
 
 # Escrita de textos para a Web
 
@@ -5250,10 +5252,10 @@ esperado.
 | --- | --- |
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
-| Relevância para desenvolvedores | Alta |
+| Relevância para desenvolvedores | Baixa |
 | Relevância para redatores | Alta |
 | Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Resultados esperados | Legibilidade |
 
 # Recomendações de Acessibilidade para: Contexto
 
@@ -5298,8 +5300,8 @@ Exemplos da importância da definição de contexto:
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Navegação, Avaliação e Técnica |
 
 # Recomendações de Acessibilidade para: Agrupamento Espacial
 
@@ -5335,10 +5337,10 @@ elementos de uma página HTML. Exemplos seriam:
 | --- | --- |
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
-| Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para desenvolvedores | Média |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
+| Resultados esperados | Avaliação, Definição de conceitos e Técnica |
 
 # Recomendações de Acessibilidade para: Ícones
 
@@ -5368,9 +5370,9 @@ futuras.
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Design e Avaliação de Interfaces Humano-Computador |
+| Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
 # Recomendações de Acessibilidade para: Redundância
 
@@ -5448,8 +5450,8 @@ determinado tipo de deficiência enxergaria.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
 # Recomendações de Acessibilidade para: Recursos de Áudio
 
@@ -5490,8 +5492,8 @@ usuário possa desativar estes recursos.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
+| Resultados esperados | Audibilidade, Definição de conceitos e Técnica |
 
 # Recomendações de Acessibilidade para: Controle do Usuário
 
@@ -5531,9 +5533,9 @@ comprometer a segurança do usuário ou do *website*).
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Resultados esperados | Avaliação e Técnica |
 
 # Técnicas para encontrar conteúdo em um website
 
@@ -5565,12 +5567,12 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
 
 | Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
+| Tema | HTML e Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
+| Relevância para redatores | Baixa |
 | Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Resultados esperados | Navegação |
 
 # Avaliação Simplificada de Acessibilidade
 
@@ -5639,8 +5641,7 @@ do usuário muitas vezes é feita de forma ineficiente. Dessa maneira,
 recomenda-se a utilização moderada desses recursos, aproveitando os que
 já são disponibilizados pelo navegador ou pelo sistema operacional.
 
-**Erro 6: Esconder ou sobrescrever melhorias de
-acessibilidade/usabilidade**
+**Erro 6: Esconder ou sobrescrever melhorias de acessibilidade/usabilidade**
 
 A maioria dos mecanismos utilizados para melhorar a acessibilidade de um
 *website* não gera um grande impacto visual (e.g., atributo *alt*, *skip
@@ -5649,8 +5650,7 @@ links*). No entanto, alguns *designers* escondem estes mecanismos (e.g.,
 exclusivamente para usuários de leitores de telas. Portanto, eles devem
 ficar acessíveis a todos que possam desejar utilizá-los.
 
-**Erro 7: Oferecer suporte ao seu cliente e não aos clientes do seu
-cliente**
+**Erro 7: Oferecer suporte ao seu cliente e não aos clientes do seu cliente**
 
 Diferente do que acontecia no início da popularização da Internet,
 atualmente clientes de *websites* possuem preferências e dão opiniões
@@ -5669,9 +5669,9 @@ atendidos na construção do *website*.
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Formulário para Avaliação Simplificada de Acessibilidade |
+| Resultados esperados | Avaliação |
 
 # Formulário para Avaliação Simplificada de Acessibilidade
 
@@ -5727,14 +5727,16 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | --- | --- | --- |
 | Comentários dos resultados   |   |   |
 
+
 | Ficha | |
 | --- | --- |
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
+| Resultados esperados | Avaliação e Técnica |
+
 
 # Avaliação de acessibilidade utilizando ferramentas semiautomáticas
 
@@ -5774,9 +5776,9 @@ operacionais.
 | Tema | Acessibilidade | 
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
-| Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
-| Resultados esperados | Definição de conceitos |
+| Relevância para redatores | Baixa |
+| Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
+| Resultados esperados | Avaliação e Técnica |
 
 # Referências
 
