@@ -328,7 +328,7 @@ ser um espaço de discussão sobre normas, diretrizes, técnicas e boas
 práticas para a criação de código Web acessível e usável. O nascimento
 do projeto foi marcado pela publicação do relatório técnico intitulado
 *Um processo para adequação de websites a requisitos de acessibilidade e
-usabilidade*, 2008 \[1\]. Este relatório representa uma contribuição ao
+usabilidade*, 2008 [1]. Este relatório representa uma contribuição ao
 Projeto "*Acesso, Permanência e Prosseguimento da Escolaridade em Nível
 Superior de Pessoas com Deficiência: Ambientes Inclusivos*"
 (PROESP/CAPES), realizado na Universidade Estadual de Campinas
@@ -339,7 +339,7 @@ web acessível combinando HTML, CSS, JavaScript, Acessibilidade e
 Usabilidade. Como forma de lidar com esses desafios, o WARAU foi criado
 e disponibilizado para a comunidade de mantenedores de websites. Para
 detalhes sobre a criação do conteúdo do WARAU e sobre o estudo realizado
-mencionado, veja \[2\].
+mencionado, veja [2].
 
 O conteúdo do WARAU é voltado para mantenedores de *websites* que já
 tenham algum conhecimento de código Web (e.g., HTML, CSS, JavaScript) e
@@ -2384,15 +2384,11 @@ dado a que ele se refere.
 <td class="corVermelha">01/01/2007</td>
 ```
 
-### 
-
 ### Contraexemplo de declaração CSS baseada no conteúdo:
 
 ```html
 <td class="texto1">01/01/2007</td>
 ```
-
-### 
 
 ### Exemplo de declaração CSS baseada na função do dado:
 
@@ -3627,12 +3623,12 @@ function open_close( id_array ){
     return ;
   }
   for ( i = 0 ; i < id_array.length ; i++ ){
-    if ( document.getElementById( id_array\[i\] ) ){
-      if ( document.getElementById( id_array\[i\] ).style.display == "none" ){
-        document.getElementById( id_array\[i\] ).style.display = "block" ;
+    if ( document.getElementById( id_array[i] ) ){
+      if ( document.getElementById( id_array[i] ).style.display == "none" ){
+        document.getElementById( id_array[i] ).style.display = "block" ;
       }
       else{
-        document.getElementById( id_array\[i\] ).style.display = "none" ;
+        document.getElementById( id_array[i] ).style.display = "none" ;
       }
     }
   }
@@ -4034,7 +4030,7 @@ incluir um arquivo de cabeçalho.
 ### Exemplo de declaração de HTML reaproveitando código para cabeçalho:
 
 ```html
-[Arquivo cabecalho.inc\]
+[Arquivo cabecalho.inc]
 <meta name="author" content="João">
 <meta name="keywords" content="HTML, Acessibilidade">
 <meta name="description" content="Página de teste">
