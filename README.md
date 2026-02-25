@@ -1,6 +1,8 @@
 # Websites Atendendo a Requisitos de Acessibilidade e Usabilidade
 
-<a href="warau-livro.pdf"><img src="capa.png" alt="Capa da versão PDF do livro mostrando um varal com post-its pendurados formando o acrônimo WARAU" width="50%"/></a>
+<div style="align: center;">
+  <a href="warau-livro.pdf"><img src="capa.png" alt="Capa da versão PDF do livro mostrando um varal com post-its pendurados formando o acrônimo WARAU" width="50%"/></a>
+</div>
 
 **Autores:** Vagner Figueredo de Santana, Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas
 
