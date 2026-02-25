@@ -6,7 +6,7 @@
 
 **Autores:** Vagner Figueredo de Santana, Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas
 
-Este repositório disponibiliza o conteúdo do livro Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.
+Este repositório disponibiliza o conteúdo do livro **Websites Atendendo a Requisitos de Acessibilidade e Usabilidade**.
 
 - Versão web: https://santanavagner.github.io/warau/
 - Disponível também no Leanpub: https://leanpub.com/warau/
