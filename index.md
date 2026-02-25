@@ -2116,7 +2116,7 @@ propriedades utilizadas.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS2 Reference](https://www.w3schools.com/cssref/index.php) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS Reference](https://www.w3schools.com/cssref/index.php) |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## Inclusão de código CSS
@@ -2186,7 +2186,7 @@ Este é um parágrafo
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS2 Reference](https://www.w3schools.com/cssref/index.php) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS Reference](https://www.w3schools.com/cssref/index.php) |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Estrutura de documentos CSS
@@ -2880,7 +2880,7 @@ assim é sempre bom conhecer alternativas para problemas já conhecidos.
 
 A inserção de *scripts* externos pode ser feita da seguinte forma:
 
-#### Exemplo de inclusão de documento Javascript no HTML:
+#### Exemplo de inclusão de documento JavaScript no HTML:
 
 ```html
 <script type="text/javascript" src="codigo.js"></script>
@@ -2904,7 +2904,7 @@ interpretado se o navegador suportar JavaScript.
 Todas as variáveis devem ser declaradas, com os tipos apropriados para o
 algoritmo, não importando se são globais ou não.
 
-#### Exemplo de declaração de variáveis em Javascript:
+#### Exemplo de declaração de variáveis em JavaScript:
 
 ```javascript
 var x = new Number( 1 );
@@ -2982,7 +2982,7 @@ suficientes para separar expressões, mas devido às diferenças existentes
 entre as implementações de JavaScript *client-side* deve-se, sempre,
 utilizar ponto-e-vírgula ao final de todas expressões.
 
-#### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
+#### Contraexemplo de declaração em JavaScript sem ponto-e-vírgula:
 
 ```html
 <script type="text/javascript"><!--
@@ -2991,7 +2991,7 @@ x = 2
 //--></script>
 ```
 
-#### Exemplo de declaração em Javascript usando ponto-e-vírgula:
+#### Exemplo de declaração em JavaScript usando ponto-e-vírgula:
 
 ```html
 <script type="text/javascript"><!--
@@ -3038,7 +3038,7 @@ JavaScript a um grupo muito específico, além de não levar em conta
 usuários de navegadores que serão lançados. Lembre-se que quanto mais
 tempo seu código "sobreviver" menos manutenção ele necessitará.
 
-#### Contraexemplo de código Javascript dependente de navegador:
+#### Contraexemplo de código JavaScript dependente de navegador:
 
 ```html
 <script type="text/javascript"><!--
@@ -3053,7 +3053,7 @@ if ( browserName == "Firefox" ){
 Em vez disso, para garantir que o código será executado corretamente,
 sugerimos utilizar a detecção de objetos e métodos dessa forma:
 
-#### Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador:
+#### Exemplo de teste de compatibilidade de objeto JavaScript sem dependência de navegador:
 
 ```html
 <script type="text/javascript"><!--
@@ -3071,7 +3071,7 @@ métodos. Note que para detecção de métodos não se deve utilizar
 parênteses. Usar parênteses indica a utilização do método e não a
 verificação de sua existência.
 
-#### Contraexemplo de detecção de método Javascript com uso de parênteses:
+#### Contraexemplo de detecção de método JavaScript com uso de parênteses:
 
 ```html
 <script type="text/javascript"><!--
@@ -3083,7 +3083,7 @@ if ( window.focus() ){
 //--></script>
 ```
 
-#### Exemplo de detecção de método Javascript:
+#### Exemplo de detecção de método JavaScript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3110,7 +3110,7 @@ utilizados. Sugerimos que, como boa prática de programação, a conversão
 de variáveis de tipos diferentes deve ser feita pelo programador. Com
 isso fica claro no código JavaScript quais são os tipos utilizados.
 
-#### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
+#### Contraexemplo de comparação de variáveis JavaScript de tipos diferentes:
 
 ```html
 <script type="text/javascript"><!--
@@ -3123,7 +3123,7 @@ if ( x == y ){
 //--></script>
 ```
 
-#### Exemplo de conversão de tipo de variável Javascript antes de comparação:
+#### Exemplo de conversão de tipo de variável JavaScript antes de comparação:
 
 ```html
 <script type="text/javascript"><!--
@@ -3136,9 +3136,9 @@ if ( new Number ( x ) == y ){
 //--></script>
 ```
 
-As implementações da versão 1.2 do Javascript não convertem os tipos
+As implementações da versão 1.2 do JavaScript não convertem os tipos
 antes de uma comparação, já as implementações da versão 1.3 do
-Javascript possuem o mesmo comportamento que a versão 1.1, ou seja,
+JavaScript possuem o mesmo comportamento que a versão 1.1, ou seja,
 convertem tipos diferentes em tipos compatíveis antes de uma comparação.
 Assim, sugerimos que a conversão seja feita pelo programador para que
 assim o código seja mantido sem erros, independente da versão do
@@ -3180,7 +3180,7 @@ manipulares para diferentes dispositivos. Assim, se houver uma função
 disparada a partir apenas do *onclick*, então se deve disponibilizar a
 mesma funcionalidade a partir do *onkeypress*, e vice-versa.
 
-#### Exemplo de manipuladores Javascript de eventos para diferentes dispositivos:
+#### Exemplo de manipuladores JavaScript de eventos para diferentes dispositivos:
 
 ```html
 <script type="text/javascript"><!--
@@ -3213,21 +3213,21 @@ necessárias para laços e condicionais simples, ou seja, contendo apenas
 uma expressão. No entanto sugerimos a utilização de chaves mesmo nesses
 casos, pois desta forma se obtém um código mais legível e mais portável.
 
-#### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
+#### Contraexemplo de não uso de chaves para blocos condicionais e laços em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
 if ( ... )
-  // apenas uma expressão
+    // apenas uma expressão
 //--></script>
 ```
 
-#### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
+#### Exemplo de uso de chaves para blocos condicionais e laços em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
 if ( ... ){
-  // uma ou mais expressões;
+    // uma ou mais expressões;
 }
 //--></script>
 ```
@@ -3248,7 +3248,7 @@ document.write), o que pode tornar o *script* muito lento, concatene a
 saída em uma variável e por fim envie o conteúdo da variável de uma
 única vez.
 
-#### Contraexemplo de impressão em Javascript:
+#### Contraexemplo de impressão em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3260,7 +3260,7 @@ document.write( "</table>" ) ;
 //--></script>
 ```
 
-#### Exemplo de impressão em Javascript usando concatenação:
+#### Exemplo de impressão em JavaScript usando concatenação:
 
 ```html
 <script type="text/javascript"><!--
@@ -3288,7 +3288,7 @@ Conteúdo de texto deve estar sempre entre aspas duplas (") e todas
 ocorrências delas no conteúdo devem ser escapadas com a barra invertida
 (\).
 
-#### Contraexemplo de uso de aspas em Javascript:
+#### Contraexemplo de uso de aspas em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3296,7 +3296,7 @@ document.write( 'Conteúdo de texto. "Teste", teste.' ) ;
 //--></script>
 ```
 
-#### Exemplo de uso de aspas em Javascript:
+#### Exemplo de uso de aspas em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3307,7 +3307,7 @@ document.write( "Conteúdo de texto. \"Teste\", teste." ) ;
 Aspa simples ou apóstrofe (') deve ser utilizada somente quando o
 código JavaScript estiver dentro de um atributo de uma tag HTML.
 
-#### Exemplo de uso de aspas simples em Javascript:
+#### Exemplo de uso de aspas simples em JavaScript:
 
 ```html
 ...<a href="./" onClick="alert( function( 'conteúdo string' ) );">...
@@ -3328,7 +3328,7 @@ Deve-se escapar a barra de qualquer ETAGO (</) que estiver sendo
 escrito pelo JavaScript. Isso evita que o *parser* identifique um ETAGO
 de outra *tag* como sendo a de *script*.
 
-#### Contraexemplo de impressão de ETAGO em Javascript:
+#### Contraexemplo de impressão de ETAGO em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3336,7 +3336,7 @@ document.write( "<p>Teste</p>" ) ;
 //--></script>
 ```
 
-#### Exemplo de impressão de ETAGO em Javascript:
+#### Exemplo de impressão de ETAGO em JavaScript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3398,7 +3398,7 @@ Para manipular folhas de estilo via JavaScript basta alterar as
 propriedades do objeto *style* dos elementos ou alterar o atributo
 *class*.
 
-#### Exemplo de manipulação de CSS utilizando Javascript:
+#### Exemplo de manipulação de CSS utilizando JavaScript:
 
 ```html
 ...
@@ -3440,7 +3440,7 @@ verificar os itens acerca de uma sessão presente na navegação ou acessar
 um item de interesse dentro de uma lista simplificada com muitos
 elementos.
 
-#### Exemplo de melhoria de navegação usando Javascript:
+#### Exemplo de melhoria de navegação usando JavaScript:
 
 ```html
 ...
@@ -3539,21 +3539,21 @@ conter somente números inteiros. A validação é feita com uma expressão
 regular que diz que o valor dever ser obrigatoriamente composto por
 números.
 
-#### Exemplo de validação de formulários usando Javascript:
+#### Exemplo de validação de formulários usando JavaScript:
 
 ```html
 ...
 <script type="text/javascript"><!--
 var expressao = /^\d+\$/;
 function verificarInteiro( val ){
-  if( expressao.test( val ) ){
-    alert( "OK" );
-  }
-  else{
-    if( val != null && val != "" ){
-      alert( "Não é um inteiro válido" );
-    }
-  }
+    if( expressao.test( val ) ){
+        alert( "OK" );
+    }
+    else{
+        if( val != null && val != "" ){
+            alert( "Não é um inteiro válido" );
+        }
+    }
 }
 //--></script>
 <form id="frmInteiro" action="#" onsubmit="verificarInteiro(this.txtInteiro.value); return false;">
@@ -3617,7 +3617,7 @@ mostrar que, apesar de ser uma boa opção para garantir a redundância de
 funcionalidades, o elemento `<noscript>` não é o único recurso
 disponível.
 
-#### Exemplo de animação utilizando Javascript:
+#### Exemplo de animação utilizando JavaScript:
 
 ```html
 ...
@@ -3633,55 +3633,55 @@ var char_counter = 0 ;
 var messages = new Array() ;
 //Torna o objeto invisível
 function init( obj_id ){
-  if ( !document.getElementById ){
-    return ;
-  }
-  if ( document.getElementById( obj_id ) ){
-    document.getElementById( obj_id ).style.display = "none" ;
-  }
+    if ( !document.getElementById ){
+        return ;
+    }
+    if ( document.getElementById( obj_id ) ){
+        document.getElementById( obj_id ).style.display = "none" ;
+    }
 }
 //Carrega as mensagens que serão apresentadas no ticker
 function get_messages( noscript_container ){
-  if ( !document.getElementById ){
-    return ;
-  }
-  var obj = document.getElementById( noscript_container ) ;
-  var p_array = obj.getElementsByTagName( "p" ) ;
-  for ( var i = 0 ; i < p_array.length ; i++ ){
-    messages.push( p_array[i].innerHTML ) ;
-  }
-  obj.innerHTML = "" ;
-  obj.style.display = "block" ;
+    if ( !document.getElementById ){
+        return ;
+    }
+    var obj = document.getElementById( noscript_container ) ;
+    var p_array = obj.getElementsByTagName( "p" ) ;
+    for ( var i = 0 ; i < p_array.length ; i++ ){
+        messages.push( p_array[i].innerHTML ) ;
+    }
+    obj.innerHTML = "" ;
+    obj.style.display = "block" ;
 }
 //Mostra as mensagens carregadas no ticker
 function play_caption(){
-  if ( !document.getElementById ){
-    return ;
-  }
-  //Limpa o ticker caso esteja começando uma nova mensagem
-  if ( char_counter == 0 ){
-    document.getElementById( "ex418_caption" ).innerHTML = "" ;
-  }
-  //Mostra o próximo caracter da mensagem
-  if ( document.getElementById( "ex418_caption" ) ){
-    if ( char_counter < messages[ message_counter ].length ){
-      document.getElementById( "ex418_caption" ).innerHTML += messages[message_counter].charAt( char_counter++ ) ;
-      setTimeout( 'play_caption()', 150 ) ;
-    }
-    else{
-      char_counter = 0 ;
-      message_counter++ ;
-      //Intervalo antes de iniciar uma nova mensagem
-      if ( message_counter < messages.length ){
-        setTimeout( 'play_caption()', 2000 ) ;
-      }
-      //Intervalo antes de iniciar a primeira mensagem
-      else{
-        message_counter = 0 ;
-        setTimeout( 'play_caption()', 2000 );
-      }
-    }
-  }
+    if ( !document.getElementById ){
+        return ;
+    }
+    //Limpa o ticker caso esteja começando uma nova mensagem
+    if ( char_counter == 0 ){
+        document.getElementById( "ex418_caption" ).innerHTML = "" ;
+    }
+    //Mostra o próximo caracter da mensagem
+    if ( document.getElementById( "ex418_caption" ) ){
+        if ( char_counter < messages[ message_counter ].length ){
+            document.getElementById( "ex418_caption" ).innerHTML += messages[message_counter].charAt( char_counter++ ) ;
+            setTimeout( 'play_caption()', 150 ) ;
+        }
+        else{
+            char_counter = 0 ;
+            message_counter++ ;
+            //Intervalo antes de iniciar uma nova mensagem
+            if ( message_counter < messages.length ){
+                setTimeout( 'play_caption()', 2000 ) ;
+            }
+            //Intervalo antes de iniciar a primeira mensagem
+            else{
+                message_counter = 0 ;
+                setTimeout( 'play_caption()', 2000 );
+            }
+        }
+    }
 }
 // Chamada às funções
 init( 'ex418_caption' ) ;
@@ -3707,7 +3707,7 @@ o identificador da *tags* para acessar o respectivo objeto. Após acessar
 o objeto basta utilizar o método innerHTML para acessar e manipular o
 conteúdo da *tags*.
 
-#### Exemplo de alteração de código HTML utilizando Javascript:
+#### Exemplo de alteração de código HTML utilizando JavaScript:
 
 ```html
 ...
@@ -3976,7 +3976,7 @@ p.contraExemplo { color: #ff0000; }
 - Dividir o código em funções menores e parametrizadas para serem
   utilizadas em vários locais.
 
-#### Contraexemplo de Javascript para reaproveitamento de código:
+#### Contraexemplo de JavaScript para reaproveitamento de código:
 
 ```html
 ...
@@ -3993,7 +3993,7 @@ function isLoginFormfilled(){
 ...
 ```
 
-#### Exemplo de Javascript para reaproveitamento de código: 
+#### Exemplo de JavaScript para reaproveitamento de código: 
 
 ```html
 ...
@@ -4290,7 +4290,7 @@ durante o *design*.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
+| Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Heurística genéricas
@@ -4352,7 +4352,7 @@ contida em (Rocha e Baranauskas, 2003).
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
+| Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
 | Resultados esperados | Definição de conceitos |
 
 ## Usabilidade na Web
@@ -4619,7 +4619,7 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
+| Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
 | Resultados esperados | Definição de conceitos |
 
 ## Formulário de Inspeção Heurística na Web
@@ -5757,13 +5757,11 @@ operacionais.
 31. DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004.
     www.planalto.gov.br/ccivil_03/\_ato2004-2006/2004/decreto/d5296.htm
 
-32. e-MAG - Modelo de Acessibilidade de Governo Eletrônico.
-    https://emag.governoeletronico.gov.br/
+32. e-MAG - Modelo de Acessibilidade de Governo Eletrônico. <https://emag.governoeletronico.gov.br/>
 
-33. Gestalt Laws.
-    <http://www.sapdesignguild.org/resources/optical_illusions/gestalt_laws.html>
+33. Gestalt Laws. <http://www.sapdesignguild.org/resources/optical_illusions/gestalt_laws.html>
 
-34. Google Mail. http://gmail.google.com
+34. Google Mail. <http://gmail.google.com>
 
 35. HTML5 Specification. <http://www.w3.org/TR/html5/>
 
@@ -5782,9 +5780,7 @@ operacionais.
 
 41. Lynx. <http://lynx.isc.org/>
 
-42. Micropower - Dicas de acessibilidade - Regras para criação de
-    páginas acessíveis pelo Virtual Vision.
-    <http://www.micropower.com.br/v3/pt/acessibilidade/dicas.asp>
+42. Micropower - Dicas de acessibilidade - Regras para criação de páginas acessíveis pelo Virtual Vision. <http://www.micropower.com.br/v3/pt/acessibilidade/dicas.asp>
 
 43. NVDA. <http://www.nvda-project.org/>
 
