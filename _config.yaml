@@ -1,0 +1,51 @@
+# Site Settings
+title: "WARAU"
+description: "Websites Atendendo a Requisitos de Acessibilidade e Usabilidade"
+url: "https://santanavagner.github.io/"
+baseurl: "/warau" 
+
+# Author
+author:
+  name: "Vagner Figueredo de Santana"
+  email: "vsantana@nic.br"
+
+# Theme
+# remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: brandoncardoso/hima
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Markdown & Syntax Highlighting
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+
+# Collections (optional)
+# collections:
+#   docs:
+#     output: true
+#     permalink: /:collection/:name
+
+# Default Front Matter (optional)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
