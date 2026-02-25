@@ -5235,7 +5235,7 @@ futuras.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Design e Avaliação de Interfaces Humano-Computador |
+| Ferramental utilizado | [Design e Avaliação de Interfaces Humano-Computador](https://www.nied.unicamp.br/biblioteca/design-e-avaliacao-de-interfaces-humano-computador/) |
 | Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Redundância
@@ -5534,7 +5534,7 @@ atendidos na construção do *website*.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Formulário para Avaliação Simplificada de Acessibilidade |
+| Ferramental utilizado | [Formulário para Avaliação Simplificada de Acessibilidade](#formulário-para-avaliação-simplificada-de-acessibilidade) |
 | Resultados esperados | Avaliação |
 
 ## Formulário para Avaliação Simplificada de Acessibilidade
@@ -5597,7 +5597,7 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, MAUVE++, AChecker, [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, [MAUVE++](https://mauve.isti.cnr.it/), [AChecker](https://achecks.org/checker/index.php), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Avaliação de acessibilidade utilizando ferramentas semiautomáticas
@@ -5639,7 +5639,7 @@ operacionais.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, MAUVE++, AChecker, [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, [MAUVE++](https://mauve.isti.cnr.it/), [AChecker](https://achecks.org/checker/index.php), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Referências
