@@ -824,8 +824,6 @@ Texto mostrado
 </p>
 ```
 
-#### 
-
 #### Código renderizado
 
 Texto mostrado
@@ -905,13 +903,10 @@ de tela, entre outros.
 ```html
 <meta name="author" content="Nome do autor">
 <meta name="keywords" content="HTML, Acessibilidade">
-<meta name="description" content="Descrição utilizada por
-ferramentas de busca">
-<meta http-equiv="content-type" content="text/html;
-charset=ISO-8859-1">
+<meta name="description" content="Descrição utilizada por ferramentas de busca">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
-GMT">
+<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
 <meta http-equiv="cache-control" content="no-store">
 ```
 
@@ -1012,8 +1007,6 @@ chamado de *skip link*.
 <a id="conteudo">Início do conteúdo</a>
 ```
 
-#### 
-
 #### Código renderizado
 
 <a href="#conteudo">Ir para conteúdo principal</a>
@@ -1100,8 +1093,6 @@ satisfação.</dd>
 </dl>
 ```
 
-#### 
-
 #### Código renderizado
 
 Usabilidade
@@ -1109,7 +1100,6 @@ Usabilidade
 > É a capacidade de um produto qualquer ser utilizado por seus usuários
 > de maneira que eles atinjam seus objetivos com eficiência e
 > satisfação.
-
 
 | Ficha | |
 | --- | --- |
@@ -1237,9 +1227,7 @@ com algum propósito especial.
 ```html
 <div class="citacoes">
 <p>
-<span class="citacao">
-O personagem diz `<span lang="it">"Buon Giorno Principessa"</span>
-</span>
+<span class="citacao">O personagem diz `<span lang="it">"Buon Giorno Principessa"</span></span>
 </p>
 </div>
 ```
@@ -1291,8 +1279,6 @@ fechamento.
 Linha 1<br>Linha 2<br>Linha 3
 ```
 
-#### 
-
 #### Código renderizado
 
 Linha 1<br>Linha 2<br>Linha 3
@@ -1322,8 +1308,6 @@ parágrafos **não** dever ser justificado.
 <p>Parágrafo 1. Linha 1<br>Parágrafo 1. Linha 2</p>
 <p>Parágrafo 2.</p>
 ```
-
-#### 
 
 #### Código renderizado
 
@@ -1380,8 +1364,6 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 <p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
 ```
 
-#### 
-
 #### Código renderizado
 
 <p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
@@ -1406,8 +1388,6 @@ de um elemento químico.
 ```html
 <p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
 ```
-
-#### 
 
 #### Código renderizado
 
@@ -1502,8 +1482,6 @@ reduzido.
 <p><abbr title="Universidade Estadual de Campinas">Unicamp</abbr></p>
 <p><abbr title="Código de Endereçamento Postal">CEP</abbr></p>
 ```
-
-#### 
 
 #### Código renderizado
 
@@ -1830,6 +1808,8 @@ referência.
 <label for="ex25_nome">* Nome:</label>
 <input type="text" name="nome" id="ex25_nome" value="João"/>
 ­­­­­­­­­­­
+
+
 | Ficha | |
 | --- | --- |
 | Tema | HTML | 
@@ -1846,7 +1826,7 @@ Para permitir a seleção de vários itens use o atributo *multiple*. O
 número de itens exibidos simultaneamente na caixa é definido pelo
 atributo *size*.
 
-Para adicionar um item à caixa use a tag `<option>. Para indicar que um
+Para adicionar um item à caixa use a tag `<option>`. Para indicar que um
 item da caixa de seleção está selecionado use o atributo *selected* com
 valor *selected*.
 
@@ -1943,6 +1923,8 @@ formulários correlacionados.
 <input type="text" name="idade" id="ex28_idade" value="18" />
 </fieldset>
 
+<br>
+
 | Ficha | |
 | --- | --- |
 | Tema | HTML | 
@@ -1978,6 +1960,8 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 <label for="ex29_idade">Idade:</label>
 <input type="text" name="idade" id="ex29_idade" value="" />
 </fieldset>
+
+<br>
 
 | Ficha | |
 | --- | --- |
@@ -2037,6 +2021,7 @@ célula referenciada pelo *id* e assim contextualizar a informação lida.
 
 ### Exemplo da *tag* `<th>`:
 
+```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar
 turismo nos últimos 12 meses, mês a mês.">
 <tr>
@@ -2048,6 +2033,7 @@ turismo nos últimos 12 meses, mês a mês.">
 <td headers="ex31a_col_jul">R$ 4,02</td>
 </tr>
 </table>
+```
 
 #### Código renderizado
 
@@ -2069,6 +2055,7 @@ de uma tabela por um leitor de telas muito cansativo para o usuário.
 
 ### Exemplo do atributo *abbr* na *tag* `<th>`:
 
+```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
 <tr>
 <th id="ex31_col_totaljun" abbr="Média Junho">Média da cotação do dólar pelo Banco Central no mês de junho.</th>
@@ -2079,6 +2066,7 @@ de uma tabela por um leitor de telas muito cansativo para o usuário.
 <td headers="ex31_col_totaljul">R$ 4,02</td>
 </tr>
 </table>
+```
 
 #### Código renderizado
 
@@ -2098,6 +2086,7 @@ legenda de uma tabela.
 
 ### Exemplo da *tag* `<caption>`:
 
+```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 2 meses.">
 <caption>Cotação do dólar turismo</caption>
 <tr>
@@ -2109,6 +2098,7 @@ legenda de uma tabela.
 <td headers="ex31b_col_jul">R$ 4,02</td>
 </tr>
 </table>
+```
 
 #### Código renderizado
 
@@ -2123,6 +2113,8 @@ legenda de uma tabela.
 <td headers="ex31b_col_jul">R$ 4,02</td>
 </tr>
 </table>
+
+<br>
 
 | Ficha | |
 | --- | --- |
@@ -2548,13 +2540,11 @@ Padronização
 <ol>
 <li>Marcação</li>
 <li>Folha de Estilo</li>
-<li>Scripts `<span class="fimDeLista">Fim das
-linguagens</span></li>
+<li>Scripts <span class="fimDeLista">Fim das linguagens</span></li>
 </ol>
 </li>
 <li>Usabilidade</li>
-<li>Acessibilidade `<span class="fimDeLista">Fim da
-lista</span></li>
+<li>Acessibilidade <span class="fimDeLista">Fim da lista</span></li>
 </ol>
 ```
 
@@ -2566,13 +2556,11 @@ Padronização
 <ol>
 <li>Marcação</li>
 <li>Folha de Estilo</li>
-<li>Scripts `<span class="fimDeLista">Fim das
-linguagens</span></li>
+<li>Scripts <span class="fimDeLista">Fim das linguagens</span></li>
 </ol>
 </li>
 <li>Usabilidade</li>
-<li>Acessibilidade `<span class="fimDeLista">Fim da
-lista</span></li>
+<li>Acessibilidade <span class="fimDeLista">Fim da lista</span></li>
 </ol>
 
 | Ficha | |
@@ -3596,19 +3584,19 @@ elementos.
 </ol>
 <script type="text/javascript"><!--
 function open_close( id_array ){
-  if ( !document.getElementById ){
-    return ;
-  }
-  for ( i = 0 ; i < id_array.length ; i++ ){
-    if ( document.getElementById( id_array\[i\] ) ){
-      if ( document.getElementById( id_array\[i\] ).style.display == "none" ){
-        document.getElementById( id_array\[i\] ).style.display = "block" ;
-      }
-      else{
-        document.getElementById( id_array\[i\] ).style.display = "none" ;
-      }
-    }
-  }
+    if ( !document.getElementById ){
+        return ;
+    }
+    for ( i = 0 ; i < id_array.length ; i++ ){
+        if ( document.getElementById( id_array[i] ) ){
+            if ( document.getElementById( id_array[i] ).style.display == "none" ){
+                document.getElementById( id_array[i] ).style.display = "block" ;
+            }
+            else{
+                document.getElementById( id_array[i] ).style.display = "none" ;
+            }
+        }
+    }
 }
 open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 //--></script>
@@ -4059,7 +4047,7 @@ GMT">
 ```
 
 ```html
-[Arquivo index.html\]
+[Arquivo index.html]
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -4116,12 +4104,12 @@ p.contraExemplo { color: #ff0000; }
 ...
 <script type="text/javascript"><!--
 function isLoginFormfilled(){
- if( document.getElementById("email").value == "" || document.getElementById("password").value == "" ){
-  return false ;
- }
- else{
-  return true;
- }
+    if( document.getElementById("email").value == "" || document.getElementById("password").value == "" ){
+        return false ;
+    }
+    else{
+        return true;
+    }
 }
 //--></script>
 ...
@@ -4133,12 +4121,12 @@ function isLoginFormfilled(){
 ...
 <script type="text/javascript"><!--
 function isFormFilled( formObject ){
- for( var i = 0 ; i < formObject.elements.length ; i++ ){
-  if( formObject.elements[i].value == "" ){
-   return false ;
-  }
- }
- return true ;
+    for( var i = 0 ; i < formObject.elements.length ; i++ ){
+        if( formObject.elements[i].value == "" ){
+            return false ;
+        }
+    }
+    return true ;
 }
 //--></script>
 ...
@@ -5078,8 +5066,6 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 ...
 ```
 
-#### 
-
 #### Código renderizado
 
 <a href="/acessibilidade/">Acessibilidade</a> > <a href="/acessibilidade/web/">Acessibilidade na Web</a> > <a href="/acessibilidade/web/navegação/">Navegação</a> > Breadcrumbs
@@ -5727,7 +5713,6 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | --- | --- | --- |
 | Comentários dos resultados   |   |   |
 
-
 | Ficha | |
 | --- | --- |
 | Tema | Acessibilidade | 
@@ -5736,7 +5721,6 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | Relevância para redatores | Baixa |
 | Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
 | Resultados esperados | Avaliação e Técnica |
-
 
 # Avaliação de acessibilidade utilizando ferramentas semiautomáticas
 
