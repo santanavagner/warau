@@ -17,7 +17,7 @@
 
 ----
 
-- Prefácio [9](#_Toc38545860)
+- Prefácio [9](#prefácio)
 - Introdução [11](#introdução)
 - Sobre os Autores [13](#sobre-os-autores)
 - O que é Acessibilidade? [15](#o-que-é-acessibilidade)
