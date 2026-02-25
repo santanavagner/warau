@@ -1204,7 +1204,7 @@ parágrafos **não** dever ser justificado.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Idiomas - O atributo HTML lang
@@ -1234,7 +1234,7 @@ linguagem.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Textos sobrescritos - A tag HTML `<sup>`
@@ -1258,7 +1258,7 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Textos subscritos - A tag HTML `<sub>`
@@ -1283,7 +1283,7 @@ de um elemento químico.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Fontes - A tag HTML `<font>`
@@ -1317,7 +1317,7 @@ se adequa aos novos parâmetros.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Ênfase no texto - As tags HTML `<em>` e `<strong>`
@@ -1351,7 +1351,7 @@ de várias formas, inclusive via leitor de telas.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Abreviações e siglas - A tags HTML `<abbr>`
@@ -1390,7 +1390,7 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :yellow_circle: Média |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Cores - Os atributos HTML color e bgcolor
@@ -1425,7 +1425,7 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Réguas horizontais - A tag HTML `<hr>`
@@ -1454,7 +1454,7 @@ conteúdo.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :red_circle: Baixa |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Textos alternativos
@@ -2023,7 +2023,7 @@ versão do HTML que esteja sendo utilizada na página.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | W3C Markup Validation Service |
+| Ferramental utilizado | [W3C Markup Validation Service](https://validator.w3.org/) |
 | Resultados esperados | Avaliação |
 
 ## Sintaxe CSS
@@ -2116,7 +2116,7 @@ propriedades utilizadas.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools CSS2 Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS2 Reference](https://www.w3schools.com/cssref/index.php) |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## Inclusão de código CSS
@@ -2186,7 +2186,7 @@ Este é um parágrafo
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools CSS2 Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS2 Reference](https://www.w3schools.com/cssref/index.php) |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Estrutura de documentos CSS
@@ -2226,7 +2226,7 @@ strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Estruturação de documentos |
 
 ## Padronização de código CSS
@@ -2294,7 +2294,7 @@ funcionam em navegadores mais antigos são: *margin*, *padding* e
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 ## Prioridade para estilos do usuário
@@ -2311,7 +2311,7 @@ foi necessário forçar a aplicação de um determinado estilo.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## Unidades de medida relativas - Unidades em CSS: Porcentagem e em
@@ -2340,7 +2340,7 @@ vetoriais).
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Conteúdos gerados pelo CSS: os pseudo-elementos before e after
@@ -2370,7 +2370,7 @@ Referência de CSS do W3 Schools.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Listas ordenadas utilizando CSS
@@ -2449,7 +2449,7 @@ Padronização
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação e Legibilidade |
 
 ## Réguas - Alterando a aparência com CSS
@@ -2492,7 +2492,7 @@ hr:before { content: attr(title); }
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Bordas utilizando CSS
@@ -2522,8 +2522,7 @@ div {
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification,
-[Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Posicionamento utilizando CSS
@@ -2573,7 +2572,7 @@ table tr td { padding: 0.1em; }
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Fontes utilizando CSS
@@ -2601,7 +2600,7 @@ sejam prejudicados por problemas de compatibilidade dos navegadores.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Efeitos em texto utilizando CSS
@@ -2643,7 +2642,7 @@ utilizassem CSS?
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Formatação e posicionamento de texto utilizando CSS
@@ -2685,7 +2684,7 @@ forma: text-align: center.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Utilizando texto em vez de imagem
@@ -2732,7 +2731,7 @@ a.paginacao {
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Atributos aurais com CSS
@@ -2760,8 +2759,7 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification,
-[Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Audibilidade |
 
 ## Cores com CSS
@@ -2799,7 +2797,7 @@ incluindo imagens e cores de fundo.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Compatibilidade de código e Técnica |
 
 ## Validação de folhas de estilo CSS
@@ -2816,7 +2814,7 @@ erros, segundo a versão do CSS que esteja sendo utilizada na página.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | W3C CSS Validation Service |
+| Ferramental utilizado | [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) |
 | Resultados esperados | Avaliação |
 
 ## Recomendações para uso do JavaScript
@@ -2852,7 +2850,7 @@ para oferecer funcionalidades básicas de um *website*.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Compatibilidade de código e Codificação |
 
 ## Inclusão de código JavaScript
@@ -2898,7 +2896,7 @@ interpretado se o navegador suportar JavaScript.
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Declaração de variáveis em JavaScript
@@ -2953,7 +2951,7 @@ function Valida(pa,pb) {
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e W3Schools JavaScript
 Reference |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
@@ -2974,7 +2972,7 @@ pelos navegadores.
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Codificação |
 
 ## Quebras de linha no código JavaScript
@@ -3008,7 +3006,7 @@ x = 2;
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Cuidados com versões da linguagem JavaScript
@@ -3029,7 +3027,7 @@ ter que fazê-la, pense na possibilidade de utilizar bibliotecas de
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Detecção de navegador, objetos e métodos utilizando JavaScript
@@ -3102,7 +3100,7 @@ if ( window.focus ){
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Conversão de tipo de dados em JavaScript
@@ -3168,7 +3166,7 @@ function getLinha(pval){
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Estruturação de documentos e Compatibilidade de
 código |
 
@@ -3240,7 +3238,7 @@ if ( ... ){
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Escrita de HTML via JavaScript
@@ -3281,7 +3279,7 @@ document.write( html_code ) ;
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código e Codificação |
 
 ## Aspas simples e duplas em JavaScript
@@ -3321,7 +3319,7 @@ código JavaScript estiver dentro de um atributo de uma tag HTML.
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código |
 
 ## ETAGO em JavaScript
@@ -3352,7 +3350,7 @@ document.write( "<p>Teste<\/p>" ) ;
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Escrevendo a palavra reservada script
@@ -3387,7 +3385,7 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 ## Manipulação de CSS utilizando JavaScript
@@ -3418,7 +3416,7 @@ name_element.style.borderColor = "#000000" ;
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código |
 
 ## Navegação utilizando JavaScript
@@ -3526,7 +3524,7 @@ open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Navegação, Codificação e Técnica |
 
 ## Validação de formulários utilizando JavaScript
@@ -3574,7 +3572,7 @@ function verificarInteiro( val ){
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Formulários e Codificação |
 
 ## Acesso a conteúdo e redundância utilizando JavaScript
@@ -3605,7 +3603,7 @@ document.write("Texto escrito via javascript!");
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Compatibilidade de código e Codificação |
 
 ## Gráficos e animações utilizando JavaScript
@@ -3699,7 +3697,7 @@ setTimeout( "play_caption()", 1000 ) ;
 | Relevância para designers | :red_circle: Baixa |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Imagens e animações e Codificação |
 
 ## Manipulação de HTML utilizando JavaScript
@@ -3726,7 +3724,7 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código |
 
 ## AJAX
@@ -3822,7 +3820,7 @@ dos resultados.
 | Relevância para designers | :green_circle: Alta |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) |
 | Resultados esperados | Técnica |
 
 ## Manipulação de HTML utilizando JavaScript
@@ -3849,7 +3847,7 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
 | Resultados esperados | Padronização de código |
 
 ## Verificação de código JavaScript
@@ -4682,7 +4680,7 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 | Relevância para designers | :yellow_circle: Média |
 | Relevância para desenvolvedores | :green_circle: Alta |
 | Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e [Lynx](https://lynx.invisible-island.net/current/) |
+| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [Lynx](https://lynx.invisible-island.net/current/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Acessibilidade no W3C
