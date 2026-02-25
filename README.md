@@ -1,14 +1,13 @@
 # Websites Atendendo a Requisitos de Acessibilidade e Usabilidade
 
-![Capa da versão PDF do livro mostrando um varal com post-its pendurados formando o acrônimo WARAU](capa.png)
+[![Capa da versão PDF do livro mostrando um varal com post-its pendurados formando o acrônimo WARAU](capa.png)](warau-livro.pdf)
 
 **Autores:** Vagner Figueredo de Santana, Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas
 
 Este repositório disponibiliza o conteúdo do livro Websites Atendendo a Requisitos de Acessibilidade e Usabilidade.
 
-Versão web: https://santanavagner.github.io/warau/
-
-Versão PDF: https://leanpub.com/warau/
+- Versão web: https://santanavagner.github.io/warau/
+- Disponível também no Leanpub: https://leanpub.com/warau/
 
 ## Como citar
 
