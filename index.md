@@ -423,7 +423,7 @@ https://www.youtube.com/watch?v=IXPgg04_Evw
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Definição de conceitos |
 
 ## Design Universal e Design Acessível
@@ -473,7 +473,7 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação e definição de conceitos |
 
 ## Tecnologias Assistivas
@@ -501,8 +501,7 @@ uma mão.
 
 **Exemplos de tecnologias assistivas de software são:**
 
-Leitores de telas: *NVDA* (NVDA), *JAWS* (JAWS), *WebAnywhere*
-(WebAnywhere)
+Leitores de telas: *[NVDA](https://www.nvaccess.org/download/)*, *[JAWS](https://support.freedomscientific.com/Downloads/JAWS)*, *[WebAnywhere](https://webinsight.cs.washington.edu/wa/)*
 
 Ampliador de telas.
 
@@ -519,7 +518,7 @@ Versão em alto contraste.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | NVDA, Jaws, WebAnywhere, DOSVOX e Lynx |
+| Ferramental utilizado | [NVDA](https://www.nvaccess.org/download/), [JAWS](https://webinsight.cs.washington.edu/wa/), [WebAnywhere](https://webinsight.cs.washington.edu/wa/), [DOSVOX](https://intervox.nce.ufrj.br/dosvox/) e [Lynx](https://lynx.invisible-island.net/current/) |
 | Resultados esperados | Definição de conceitos |
 
 ## Princípios para o desenvolvimento Web acessível
@@ -714,7 +713,7 @@ Texto mostrado
 | Relevância para designers | Baixa |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Padronização de código |
 
 ## Estrutura de documentos HTML
@@ -853,7 +852,7 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 | Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Estruturação de documentos |
 
 ## Âncoras e hiperlinks - A tag HTML `<a>`
@@ -909,7 +908,7 @@ a *tag* `<title>` se refere ao título da página.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação |
 
 ## Mapeamentos - A tag HTML `<map>`
@@ -931,7 +930,7 @@ mesmos *hiperlinks* em formato textual.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Imagens e animações |
 
 ## Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
@@ -987,7 +986,7 @@ Usabilidade
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação e Legibilidade |
 
 ## Subtópicos - As tags HTML `<h1>` a `<h6>`
@@ -1020,7 +1019,7 @@ Dê preferência sempre à formatação via CSS.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação e Legibilidade |
 
 ## Tabulação - O atributo HTML tabindex
@@ -1046,7 +1045,7 @@ tabulação em uma ordem que faça sentido ao usuário.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação e Formulários |
 
 ## Frames - A tag HTML `<frame>`
@@ -1071,7 +1070,7 @@ muitos desses problemas.
 | Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação e Codificação |
 
 ## Elementos de bloco e elementos de linha
@@ -1093,7 +1092,7 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | HTML 5 Specification |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/) |
 | Resultados esperados | Definição de conceitos |
 
 ## Agrupamento de elementos de bloco - A tag HTML `<div>`
@@ -1118,7 +1117,7 @@ com algum propósito especial.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Estruturação de documentos e Legibilidade |
 
 ## Agrupamento de texto - A tag HTML `<span>`
@@ -1145,7 +1144,7 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Estruturação de documentos e Legibilidade |
 
 ## Quebras de linha - A tag HTML `<br>`
@@ -1169,7 +1168,7 @@ Linha 1<br>Linha 2<br>Linha 3
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Parágrafos - A tag HTML `<p>`
@@ -1200,7 +1199,7 @@ parágrafos **não** dever ser justificado.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Idiomas - O atributo HTML lang
@@ -1230,7 +1229,7 @@ linguagem.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Textos sobrescritos - A tag HTML `<sup>`
@@ -1254,7 +1253,7 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Textos subscritos - A tag HTML `<sub>`
@@ -1279,7 +1278,7 @@ de um elemento químico.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Fontes - A tag HTML `<font>`
@@ -1313,7 +1312,7 @@ se adequa aos novos parâmetros.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Ênfase no texto - As tags HTML `<em>` e `<strong>`
@@ -1347,7 +1346,7 @@ de várias formas, inclusive via leitor de telas.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Abreviações e siglas - A tags HTML `<abbr>`
@@ -1386,7 +1385,7 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Média |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Cores - Os atributos HTML color e bgcolor
@@ -1421,7 +1420,7 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Réguas horizontais - A tag HTML `<hr>`
@@ -1450,7 +1449,7 @@ conteúdo.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Baixa |
 | Relevância para redatores | Alta |
-| Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado |  [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Textos alternativos
@@ -1480,7 +1479,7 @@ criado texto alternativo.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Legibilidade |
 
 ## Imagens - A tag HTML `<img>`
@@ -1505,7 +1504,7 @@ imagem.
 O conteúdo do atributo *alt* é utilizado em vários cenários. Entre eles:
 quando as imagens estão desabilitadas, quando o usuário utiliza leitor
 de telas ou quando o usuário utiliza um navegador baseado em texto
-(e.g., Lynx).
+(e.g., [Lynx](https://lynx.invisible-island.net/current/)).
 
 Para que um código HTML seja válido todas as imagens devem contar com o
 atributo *alt*, assim, para imagens decorativas ou estruturais este
@@ -1524,7 +1523,7 @@ forma de interromper o movimento.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | HTML 5 Specification, Notepad++, Bluefish e Lynx |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [Lynx](https://lynx.invisible-island.net/current/) |
 | Resultados esperados | Legibilidade e Imagens e animações |
 
 ## Elementos multimídia - A tag HTML `<object>`
@@ -1571,7 +1570,7 @@ aspectos de usabilidade.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Imagens e animações |
 
 ## Formulários - A tag HTML `<form>`
@@ -1615,7 +1614,7 @@ possa ser referenciado dentro da página.
 | Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Estruturação de documentos e Formulários |
 
 ## Campos de entrada de dados - A tag HTML `<input>`
@@ -1658,7 +1657,7 @@ atributo *checked* com valor *checked*.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Formulários |
 
 ## Rótulos - A tag HTML `<label>`
@@ -1696,7 +1695,7 @@ referência.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Formulários |
 
 ## Caixas de seleção - A tag HTML `<select>`
@@ -1750,7 +1749,7 @@ identificação.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Formulários |
 
 ## Campos de texto - A tag HTML `<textarea>`
@@ -1775,7 +1774,7 @@ linhas.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Formulários |
 
 ## Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
@@ -1811,7 +1810,7 @@ formulários correlacionados.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Formulários |
 
 ## Rótulos para fieldsets - A tag HTML `<legend>`
@@ -1849,7 +1848,7 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Formulários |
 
 ## Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
@@ -2002,13 +2001,13 @@ legenda de uma tabela.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Tabelas |
 
 ## Validação de código HTML
 
-Para validar páginas HTML, o W3C disponibiliza o Markup Validation
-Service (http://validator.w3.org/) que é uma ferramenta *online*, onde
+Para validar páginas HTML, o W3C disponibiliza o [Markup Validation
+Service](https://validator.w3.org/) que é uma ferramenta *online*, onde
 basta informar a URL, fazer *upload* do arquivo ou informar o código
 diretamente, para receber uma relação de possíveis erros, segundo a
 versão do HTML que esteja sendo utilizada na página.
@@ -2222,7 +2221,7 @@ strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Estruturação de documentos |
 
 ## Padronização de código CSS
@@ -2290,7 +2289,7 @@ funcionam em navegadores mais antigos são: *margin*, *padding* e
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 ## Prioridade para estilos do usuário
@@ -2307,7 +2306,7 @@ foi necessário forçar a aplicação de um determinado estilo.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## Unidades de medida relativas - Unidades em CSS: Porcentagem e em
@@ -2336,7 +2335,7 @@ vetoriais).
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Conteúdos gerados pelo CSS: os pseudo-elementos before e after
@@ -2366,7 +2365,7 @@ Referência de CSS do W3 Schools.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Listas ordenadas utilizando CSS
@@ -2445,7 +2444,7 @@ Padronização
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Navegação e Legibilidade |
 
 ## Réguas - Alterando a aparência com CSS
@@ -2488,7 +2487,7 @@ hr:before { content: attr(title); }
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Bordas utilizando CSS
@@ -2519,7 +2518,7 @@ div {
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification,
-Notepad++ e Bluefish |
+[Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Posicionamento utilizando CSS
@@ -2569,7 +2568,7 @@ table tr td { padding: 0.1em; }
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Fontes utilizando CSS
@@ -2597,7 +2596,7 @@ sejam prejudicados por problemas de compatibilidade dos navegadores.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Efeitos em texto utilizando CSS
@@ -2639,7 +2638,7 @@ utilizassem CSS?
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Formatação e posicionamento de texto utilizando CSS
@@ -2681,7 +2680,7 @@ forma: text-align: center.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade |
 
 ## Utilizando texto em vez de imagem
@@ -2728,7 +2727,7 @@ a.paginacao {
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Codificação |
 
 ## Atributos aurais com CSS
@@ -2757,7 +2756,7 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification,
-Notepad++ e Bluefish |
+[Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Audibilidade |
 
 ## Cores com CSS
@@ -2795,7 +2794,7 @@ incluindo imagens e cores de fundo.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
+| Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Compatibilidade de código e Técnica |
 
 ## Validação de folhas de estilo CSS
@@ -3201,7 +3200,7 @@ function selecionou(porigem) {
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e Lynx |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [Lynx](https://lynx.invisible-island.net/current/) |
 | Resultados esperados | Compatibilidade de código e Codificação |
 
 ## Desvios e laços condicionais em JavaScript
@@ -4014,7 +4013,7 @@ function isFormFilled( formObject ){
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Notepad++ e Bluefish |
+| Ferramental utilizado | [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## O que é Usabilidade?
@@ -4091,7 +4090,7 @@ Organization (ISO), 1998).
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | Useit. Usability 101: Introduction to Usability |
+| Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) |
 | Resultados esperados | Definição de conceitos |
 
 ## Integração Usabilidade - Acessibilidade
@@ -4117,7 +4116,7 @@ relembrança.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | Useit. Usability 101: Introduction to Usability e WAI |
+| Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Definição de conceitos |
 
 ## Os 10 maiores erros em webdesign
@@ -4249,7 +4248,7 @@ da lista de Nielsen (Nielsen, 2007):
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | Useit. Usability 101: Introduction to Usability |
+| Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) |
 | Resultados esperados | Técnica |
 
 ## Inspeção Heurística de Usabilidade
@@ -4678,13 +4677,13 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 | Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Web Developer Add-on e Lynx |
+| Ferramental utilizado | Firefox Web Developer Add-on e [Lynx](https://lynx.invisible-island.net/current/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Acessibilidade no W3C
 
 Uma das mais relevantes iniciativas para promover a acessibilidade na
-*Web* é o *WAI* (WAI - Web Accessibility Initiative), promovido pelo
+*Web* é o *[WAI](https://www.w3.org/WAI/)* (WAI - Web Accessibility Initiative), promovido pelo
 *World Wide Web Consortium* (W3C) e que visa o desenvolvimento de
 diretrizes e recursos que contribuem para tornar a *Web* acessível. O
 WAI concentra seus esforços em três focos, tal como descrito em
@@ -4752,7 +4751,7 @@ Os quatro princípios são:
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Definição de conceitos e Técnica |
 
 ## Modelo de Acessibilidade Brasileiro - e-MAG
@@ -4796,7 +4795,7 @@ organização para a definição de padrões.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação, Compatibilidade de código e Técnica |
 
 ## Recomendações de Acessibilidade para: Portabilidade
@@ -4818,7 +4817,7 @@ apenas uma dimensão (e.g., áudio).
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish, NVDA, JAWS, WebAnywhere, DOSVOX, Lynx e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/), [NVDA](https://www.nvaccess.org/download/), [JAWS](https://support.freedomscientific.com/Downloads/JAWS), [WebAnywhere](https://webinsight.cs.washington.edu/wa/), [DOSVOX](https://intervox.nce.ufrj.br/dosvox/), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação, Compatibilidade de código e Técnica |
 
 ## Bloqueio da navegação por teclado
@@ -4841,7 +4840,7 @@ navegação por teclado, por exemplo:
 | Relevância para designers | Média |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Média |
-| Ferramental utilizado | WAI |
+| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação |
 
 ## Recomendações de Acessibilidade para: Skip Links
@@ -4889,7 +4888,7 @@ leitores de telas. Entretanto, ela não atende usuários que navegam na
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação e Técnica |
 
 ## Recomendações de Acessibilidade para: Breadcrumbs
@@ -4952,7 +4951,7 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação e Técnica |
 
 ## Recomendações de Acessibilidade para: Teclas de Atalho
@@ -5025,7 +5024,7 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação e Técnica |
 
 ## Recomendações de Acessibilidade para: Legibilidade
@@ -5067,7 +5066,7 @@ ocupada.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Legibilidade e Técnica |
 
 ## Escrita de textos para a Web
@@ -5116,7 +5115,7 @@ esperado.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Baixa |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | WAI |
+| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Legibilidade |
 
 ## Recomendações de Acessibilidade para: Contexto
@@ -5162,7 +5161,7 @@ Exemplos da importância da definição de contexto:
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação, Avaliação e Técnica |
 
 ## Recomendações de Acessibilidade para: Agrupamento Espacial
@@ -5201,7 +5200,7 @@ elementos de uma página HTML. Exemplos seriam:
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Média |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Avaliação, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Ícones
@@ -5312,7 +5311,7 @@ determinado tipo de deficiência enxergaria.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Recursos de Áudio
@@ -5354,7 +5353,7 @@ usuário possa desativar estes recursos.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Alta |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
 | Resultados esperados | Audibilidade, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Controle do Usuário
@@ -5396,7 +5395,7 @@ comprometer a segurança do usuário ou do *website*).
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Técnicas para encontrar conteúdo em um website
@@ -5433,7 +5432,7 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | WAI |
+| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Navegação |
 
 ## Avaliação Simplificada de Acessibilidade
@@ -5446,7 +5445,7 @@ avaliação é realizada de maneira manual, utilizando o Formulário de
 Avaliação Simplificada de Acessibilidade, assim o avaliador deve validar
 cada heurística com base na observação e interação com o *website*. A
 avaliação manual deve ser realizada utilizando navegadores gráficos
-(e.g., *Safari*, *Firefox*) e navegadores textuais (e.g., *Lynx*). Já na
+(e.g., *Safari*, *Firefox*) e navegadores textuais (e.g., *[Lynx](https://lynx.invisible-island.net/current/)*). Já na
 segunda seção, é utilizada uma ferramenta semiautomática de avaliação,
 que deverá retornar todas as possíveis falhas de acessibilidade do
 *website*.
@@ -5577,7 +5576,7 @@ Avaliação Manual: Uso de Navegadores Gráficos e Textuais
 | **7. Acessar links e formulários da página por meio da tecla TAB, sem auxílio do mouse — Verificar se todos os links são acessíveis e estão bem descritos, bem como se os controles dos formulários são acessíveis. Mais informações:** |                          |                |
 | - Bloqueio da navegação por teclado;                                                                                                                                                                                                    |                          |                |
 | - Técnicas para encontrar conteúdo em um website.                                                                                                                                                                                       |                          |                |
-| **b) Ao utilizar um navegador textual (e.g., Lynx)**                                                                                                                                                                                    |                          |                |
+| **b) Ao utilizar um navegador textual (e.g., [Lynx](https://lynx.invisible-island.net/current/))**                                                                                                                                                                                    |                          |                |
 | **1. Verificar se as informações disponibilizadas são equivalentes àquelas oferecidas pelo navegador gráfico**                                                                                                                          |                          |                |
 | **2. Verificar se a informação apresentada faz sentido se apresentada de forma linear**                                                                                                                                                 |                          |                |
 
@@ -5595,7 +5594,7 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, MAUVE++, AChecker, [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Avaliação de acessibilidade utilizando ferramentas semiautomáticas
@@ -5637,7 +5636,7 @@ operacionais.
 | Relevância para designers | Alta |
 | Relevância para desenvolvedores | Alta |
 | Relevância para redatores | Baixa |
-| Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
+| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, MAUVE++, AChecker, [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
 | Resultados esperados | Avaliação e Técnica |
 
 ## Referências
@@ -5668,11 +5667,11 @@ operacionais.
 
 6.  Heilmann, C., (2006a)
     Seven Accessibility Mistakes (part 1)
-    `<http://www.digital-web.com/articles/seven_accessibility_mistakes_part_1/>
+    <http://www.digital-web.com/articles/seven_accessibility_mistakes_part_1/>
 
 7.  Heilmann, C., (2006b)
     Seven Accessibility Mistakes (part 2)
-    `<http://www.digital-web.com:80/articles/seven_accessibility_mistakes_part_2/>
+    <http://www.digital-web.com:80/articles/seven_accessibility_mistakes_part_2/>
 
 8.  International Standards Organization (ISO)., (1998)
     Ergonomic requirements for office work with display terminals
@@ -5681,7 +5680,7 @@ operacionais.
 9.  Melo, A. M., Baranauskas, M. C. C., (2005)
     Design e Avaliação de Tecnologia Web-acessível. XXV Congresso da
     Sociedade Brasileira da Computação. pg. 1500-1544.
-    `<http://www.sbc.org.br/bibliotecadigital/download.php?paper=131>
+    <http://www.sbc.org.br/bibliotecadigital/download.php?paper=131>
 
 10. Nielsen, J., (2007)
     Breadcrumb Navigation Increasingly Useful.
@@ -5692,18 +5691,18 @@ operacionais.
 
 12. Nielsen, J., (2007)
     Top Ten Mistakes in Web Design.
-    `<http://ww.useit.com/alertbox/9605.html>
+    <http://ww.useit.com/alertbox/9605.html>
 
 13. Nielsen, J., (1993)
     Usability Engineering Academic Press, Cambridge, MA.
 
 14. Nielsen, J., (1999)
     When Bad Design Elements Become the Standard.
-    `<http://www.useit.com/alertbox/991114.html>
+    <http://www.useit.com/alertbox/991114.html>
 
 15. Robertson, S., (2003)
     Accesskeys: Unlocking Hidden Navigation.
-    `<http://www.alistapart.com/articles/accesskeys/>
+    <http://www.alistapart.com/articles/accesskeys/>
 
 16. Rocha, H. V. da, Baranauskas, M. C. C., (2003)
     Design e Avaliação de Interfaces Humano-Computador Campinas,
@@ -5715,42 +5714,42 @@ operacionais.
 
 18. Silva, M. S., (2005)
     Componentes essenciais para Acessibilidade à Web.
-    `<http://maujor.com/w3c/wcacomponents.html>
+    <http://maujor.com/w3c/wcacomponents.html>
     Tradução do texto "Essential Components of Web Accessibility", Web
     Accessibility Initiative (W3C)
 
 19. Acesso Digital. http://acessodigital.net
 
 20. ASES - Avaliador e Simulador de AcessibilidadE de Sítios.
-    `<http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG/ases-avaliador-e-simulador-de-acessibilidade-sitios>
+    <http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG/ases-avaliador-e-simulador-de-acessibilidade-sitios>
 
 21. ATAG - Authoring Tool Accessibility Guidelines 2.0.
-    `<http://www.w3.org:80/TR/ATAG20/>
+    <http://www.w3.org:80/TR/ATAG20/>
 
 22. Centricle.com - Will the browser apply the rule(s)?
-    `<http://centricle.com/ref/css/filters/>
+    <http://centricle.com/ref/css/filters/>
 
 23. Client-Side JavaScript Reference.
-    `<http://docs.sun.com:80/source/816-6408-10/whatsnew.htm>
+    <http://docs.sun.com:80/source/816-6408-10/whatsnew.htm>
 
 24. Core JavaScript 1.5 Reference:Operators:Comparison Operators
-    `<http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:Operators:Comparison_Operators>
+    <http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:Operators:Comparison_Operators>
 
 25. Client-Side JavaScript Reference - Event Handlers.
     http://docs.sun.com:80/source/816-6408-10/handlers.htm
 
 26. Client-Side Scripting and HTML.
-    `<http://www.w3.org:80/TR/WD-script-970314>
+    <http://www.w3.org:80/TR/WD-script-970314>
 
 27. Color Laboratory.
-    `<http://colorlab.wickline.org/colorblind/colorlab/>
+    <http://colorlab.wickline.org/colorblind/colorlab/>
 
-28. Colorblind Web Page Filter. `<http://colorfilter.wickline.org/>
+28. Colorblind Web Page Filter. <http://colorfilter.wickline.org/>
 
 29. CSS Techniques for Web Content Accessibility Guidelines 1.0.
-    `<http://www.w3.org/TR/WCAG10-CSS-TECHS/>
+    <http://www.w3.org/TR/WCAG10-CSS-TECHS/>
 
-30. DaSilva. `<http://www.dasilva.org.br/>
+30. DaSilva. <http://www.dasilva.org.br/>
 
 31. DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004.
     www.planalto.gov.br/ccivil_03/\_ato2004-2006/2004/decreto/d5296.htm
@@ -5759,71 +5758,71 @@ operacionais.
     https://emag.governoeletronico.gov.br/
 
 33. Gestalt Laws.
-    `<http://www.sapdesignguild.org/resources/optical_illusions/gestalt_laws.html>
+    <http://www.sapdesignguild.org/resources/optical_illusions/gestalt_laws.html>
 
 34. Google Mail. http://gmail.google.com
 
-35. HTML5 Specification. `<http://www.w3.org/TR/html5/>
+35. HTML5 Specification. <http://www.w3.org/TR/html5/>
 
 36. IRT - JavaScript Guidelines and Best Practices.
-    `<http://www.irt.org/articles/js169/>
+    <http://www.irt.org/articles/js169/>
 
-37. JAWS. `<http://www.freedomscientific.com/fs_downloads/jaws.asp>
+37. JAWS. <http://www.freedomscientific.com/fs_downloads/jaws.asp>
 
-38. JSLint: The JavaScript Verifier. `<http://www.jslint.com/lint.html>
+38. JSLint: The JavaScript Verifier. <http://www.jslint.com/lint.html>
 
 39. Juicy Studio - Luminosity Colour Contrast Ratio Analyser.
     http://juicystudio.com/services/luminositycontrastratio.php
 
 40. Lomak - Light Operated Mouse and Keyboard.
-    `<http://www.lomakkeyboard.com/index.html>
+    <http://www.lomakkeyboard.com/index.html>
 
-41. Lynx. `<http://lynx.isc.org/>
+41. Lynx. <http://lynx.isc.org/>
 
 42. Micropower - Dicas de acessibilidade - Regras para criação de
     páginas acessíveis pelo Virtual Vision.
-    `<http://www.micropower.com.br/v3/pt/acessibilidade/dicas.asp>
+    <http://www.micropower.com.br/v3/pt/acessibilidade/dicas.asp>
 
-43. NVDA. `<http://www.nvda-project.org/>
+43. NVDA. <http://www.nvda-project.org/>
 
 44. Quirksmode - JavaScript: General introduction.
-    `<http://www.quirksmode.org/js/intro.html>
+    <http://www.quirksmode.org/js/intro.html>
 
 45. Quirksmode - JavaScript: Object detection.
-    `<http://www.quirksmode.org/js/support.html>
+    <http://www.quirksmode.org/js/support.html>
 
-46. Todos Nós - UNICAMP acessível. `<http://www.todosnos.unicamp.br/>
+46. Todos Nós - UNICAMP acessível. <http://www.todosnos.unicamp.br/>
 
 47. The Center for Universal Design: The Principles of Universal Design,
     Version 2.0. Raleigh, NC:North Carolina State University. (1997)
-    `<http://www.design.ncsu.edu/cud/about_ud/udprincipleshtmlformat.html#top>
+    <http://www.design.ncsu.edu/cud/about_ud/udprincipleshtmlformat.html#top>
 
 48. UAAG - User Agent Accessibility Guidelines 2.0.
-    `<http://www.w3.org/TR/UAAG20/>
+    <http://www.w3.org/TR/UAAG20/>
 
 49. W3C Recommendation - Cascading Style Sheets, level 1 - Cascading
     order.
-    `<http://www.w3.org/TR/REC-CSS1#cascading-order>
+    <http://www.w3.org/TR/REC-CSS1#cascading-order>
 
 50. W3Schools - CSS 2 Reference.
-    `<http://www.w3schools.com/css/css_reference.asp>
+    <http://www.w3schools.com/css/css_reference.asp>
 
-51. W3Schools - CSS Tutorial. `<http://www.w3schools.com/css/>
+51. W3Schools - CSS Tutorial. <http://www.w3schools.com/css/>
 
-52. W3Schools - HTML Tutorial. `<http://www.w3schools.com/html/>
+52. W3Schools - HTML Tutorial. <http://www.w3schools.com/html/>
 
 53. W3Schools - JavaScript Event Reference.
-    `<http://www.w3schools.com/jsref/jsref_events.asp>
+    <http://www.w3schools.com/jsref/jsref_events.asp>
 
-54. WAI - Web Accessibility Initiative. `<http://www.w3.org/WAI/>
+54. WAI - Web Accessibility Initiative. <http://www.w3.org/WAI/>
 
 55. WCAG - Web Content Accessibility Guidelines 2.2.
-    `<http://www.w3.org/TR/WCAG22/>
+    <http://www.w3.org/TR/WCAG22/>
 
 56. WebAIM - Web Accessibility In Mind: "Skip Navigation" Links.
-    `<http://www.webaim.org/techniques/skipnav/>
+    <http://www.webaim.org/techniques/skipnav/>
 
-57. WebAnywhere. `<http://webanywhere.cs.washington.edu/>
+57. WebAnywhere. <http://webanywhere.cs.washington.edu/>
 
 ## Glossário
 
