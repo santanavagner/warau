@@ -17,6 +17,8 @@
 
 ----
 
+## Índice
+
 - [Prefácio](#prefácio)
 - [Introdução](#introdução)
 - [Sobre os Autores](#sobre-os-autores)
@@ -132,7 +134,7 @@
 
 ----
 
-# Prefácio
+## Prefácio
 
 O projeto "Acesso, Permanência e Prosseguimento da Escolaridade de Nível
 Superior de Alunos com Deficiência: Ambientes Inclusivos", financiado
@@ -198,7 +200,7 @@ melhores condições de vivê-lo e de usufrui-lo sem limites.
 
 Maria Teresa Eglér Mantoan, em abril de 2020.
 
-# Introdução
+## Introdução
 
 O projeto Websites Atendendo a Requisitos de Acessibilidade e
 Usabilidade, ou WARAU, nasceu como um *website* que tinha o objetivo de
@@ -275,7 +277,7 @@ considerando Acessibilidade e Usabilidade.
     Revista Brasileira de Informática na Educação, v. 16, p. 71-83,
     2008.
 
-# Sobre os Autores
+## Sobre os Autores
 
 [**Vagner Figueredo de Santana**](http://lattes.cnpq.br/0796625901609802)[^1]
 
@@ -340,7 +342,7 @@ humano-computador, semiótica organizacional, interface de usuário e
 design de sistemas computacionais interativos em diversos domínios
 (social, educacional, de trabalho).
 
-# O que é Acessibilidade?
+## O que é Acessibilidade?
 
 Segundo o Decreto nº 5.296 (DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004,
 2004), acessibilidade está relacionada a fornecer condição para
@@ -424,7 +426,7 @@ https://www.youtube.com/watch?v=IXPgg04_Evw
 | Ferramental utilizado | WAI |
 | Resultados esperados | Definição de conceitos |
 
-# Design Universal e Design Acessível
+## Design Universal e Design Acessível
 
 O *Design* Universal é um conceito bastante polêmico, dada a sua
 definição inicial, que é "o *design* de produtos e ambientes para serem
@@ -474,7 +476,7 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Avaliação e definição de conceitos |
 
-# Tecnologias Assistivas
+## Tecnologias Assistivas
 
 Tecnologias assistivas, sob o escopo da informática, são todos os
 artefatos que auxiliam de alguma forma as pessoas com algum tipo de
@@ -520,7 +522,7 @@ Versão em alto contraste.
 | Ferramental utilizado | NVDA, Jaws, WebAnywhere, DOSVOX e Lynx |
 | Resultados esperados | Definição de conceitos |
 
-# Princípios para o desenvolvimento Web acessível
+## Princípios para o desenvolvimento Web acessível
 
 Um bom processo de desenvolvimento *Web* não deve se restringir somente
 a validações de código. O conteúdo do WARAU é norteado por princípios
@@ -651,7 +653,7 @@ integração de tecnologias. São eles:
 | Ferramental utilizado | WARAU |
 | Resultados esperados | Definição de conceitos e Técnica |
 
-# Padronização de códigos HTML
+## Padronização de códigos HTML
 
 Como em qualquer linguagem de programação, sugerimos que todos que
 escrevem códigos HTML para um dado *website* sigam o mesmo estilo de
@@ -681,7 +683,7 @@ que todos os atributos estejam entre aspas duplas. Aspas simples também
 são permitidas e podem ser utilizadas quando há necessidade de utilizar
 aspas dentro de um atributo.
 
-### Exemplo de atributo HTML com aspas simples:
+#### Exemplo de atributo HTML com aspas simples:
 
 ```html
 alt="Foto de Anderson 'Spyder' Silva"
@@ -693,7 +695,7 @@ necessário tornar algo mais claro para a equipe que mantém o *website*.
 Evite utilizar comentários para inutilizar trechos de código obsoleto,
 pois isto pode causar erros.
 
-### Exemplo de comentário em HTML:
+#### Exemplo de comentário em HTML:
 
 ```html
 <p>
@@ -715,7 +717,7 @@ Texto mostrado
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Padronização de código |
 
-# Estrutura de documentos HTML
+## Estrutura de documentos HTML
 
 Um arquivo HTML possui as seguintes *tags* básicas: `<html>`, `<head>` e
 `<body>`. Elas possuem *tag* de abertura e fechamento e cada uma delas
@@ -726,7 +728,7 @@ A *tag* `<html>` deve estar após a declaração DOCTYPE e a *tag* de
 pode ser definido o atributo lang, que define o idioma a que o conteúdo
 se refere.
 
-### Exemplo de *tags* básicas do HTML:
+#### Exemplo de *tags* básicas do HTML:
 
 ```html
 <!DOCTYPE html>
@@ -738,7 +740,7 @@ se refere.
 A *tag* `<head>` deve estar após a *tag* `<html>` e a *tag* `</head>`
 deve aparecer antes da *tag* `<body>`.
 
-### Exemplo de uso das *tags* `<head>` e `<body>`:
+#### Exemplo de uso das *tags* `<head>` e `<body>`:
 
 ```html
 <!DOCTYPE html>
@@ -766,7 +768,7 @@ procurem reproduzir detalhes gráficos, também conhecidos como ASCII
 *art*, pois nestes casos o leitor de telas vai "falar" todas as
 pontuações que estiverem presentes no título.
 
-### Contraexemplo de título de página:
+#### Contraexemplo de título de página:
 
 ```html
 <title>_.:\^ Teste \^:.\_</title>
@@ -776,7 +778,7 @@ As *tags* `<meta>` fornecem importantes informações sobre o documento
 para navegadores, ferramentas de busca, servidores de *proxy*, leitores
 de tela, entre outros.
 
-### Exemplo de *tags* `<meta>`:
+#### Exemplo de *tags* `<meta>`:
 
 ```html
 <meta name="author" content="Nome do autor">
@@ -800,7 +802,7 @@ redirecionando-a para o início da navegação da página. Para verificar
 este problema, experimente navegar em um *website* de notícias
 utilizando um leitor de telas.
 
-### Contraexemplo sobre atualização automática de páginas:
+#### Contraexemplo sobre atualização automática de páginas:
 
 ```html
 <meta http-equiv="refresh" content="60">
@@ -820,7 +822,7 @@ dispositivos a página em questão será utilizada. Alguns dos valores
 possíveis são: *screen*, *tty*, *tv*, *projection*, *handheld*, *print*,
 *braille*, *aural* ou *all*.
 
-### Exemplo de relação entre documentos na *tag* `<link>`:
+#### Exemplo de relação entre documentos na *tag* `<link>`:
 
 ```html
 <link rel="stylesheet" type="text/css" href="estilo.css" media="screen, tty, print, braille, aural">
@@ -831,7 +833,7 @@ A última das *tags* básicas da estrutura de documentos HTML é a *tag*
 que deve estar antes da *tag* `</html>`. Na *tag* `<body>` é incluído
 todo o conteúdo do documento HTML que será exibido no navegador.
 
-### Exemplo da *tag* `<body>`:
+#### Exemplo da *tag* `<body>`:
 
 ```html
 <!DOCTYPE html>
@@ -854,7 +856,7 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Estruturação de documentos |
 
-# Âncoras e hiperlinks - A tag HTML `<a>`
+## Âncoras e hiperlinks - A tag HTML `<a>`
 
 As *tags* `<a>` e `</a>` são utilizadas para definir um *hiperlink*.
 Note que o texto (ou rótulo) do *hiperlink* deve identificar claramente
@@ -877,7 +879,7 @@ diretamente para esse conteúdo, evitando que tenha que passar por cada
 um dos *links* até alcançar o conteúdo principal. Este mecanismo é
 chamado de *skip link*.
 
-### Exemplo de *skip link*:
+#### Exemplo de *skip link*:
 
 ```html
 <a href="#conteudo">Ir para conteúdo principal</a>
@@ -910,7 +912,7 @@ a *tag* `<title>` se refere ao título da página.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Navegação |
 
-# Mapeamentos - A tag HTML `<map>`
+## Mapeamentos - A tag HTML `<map>`
 
 A *tag* `<map>` é utilizada para definir diferentes *links* para
 diferentes regiões de uma mesma imagem.
@@ -932,7 +934,7 @@ mesmos *hiperlinks* em formato textual.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Imagens e animações |
 
-# Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
+## Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 
 HTML permite a criação de três tipos básicos de listas: `<ol>` (listas
 ordenadas), `<ul>` (listas não ordenadas) e `<dl>` (listas de
@@ -960,7 +962,7 @@ As *tags* `<dl>` e `</dl>` demarcam uma lista de definições de termos.
 Dentro delas, cada termo é delimitado por `<dt>` e `</dt>`; cada
 definição por `<dd>` e `</dd>`.
 
-### Exemplo das *tags* `<dt>` e `<dd>`:
+#### Exemplo das *tags* `<dt>` e `<dd>`:
 
 ```html
 <dl>
@@ -988,7 +990,7 @@ Usabilidade
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Navegação e Legibilidade |
 
-# Subtópicos - As tags HTML `<h1>` a `<h6>`
+## Subtópicos - As tags HTML `<h1>` a `<h6>`
 
 Utilize as *tags* `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` e `<h6>` para
 estruturar uma página por meio do particionamento do conteúdo em
@@ -999,7 +1001,7 @@ exemplo, `<h2>`, depois `<h3>`, e assim sucessivamente até o `<h6>`.
 É importante que os elementos sejam aninhados corretamente de acordo com
 sua estrutura.
 
-### Exemplo de aninhamento de *tags* para subtópicos:
+#### Exemplo de aninhamento de *tags* para subtópicos:
 
 ```html
 <h1>Título</h1>
@@ -1021,7 +1023,7 @@ Dê preferência sempre à formatação via CSS.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Navegação e Legibilidade |
 
-# Tabulação - O atributo HTML tabindex
+## Tabulação - O atributo HTML tabindex
 
 Note que a ordem padrão da tabulação é a que os elementos aparecem no
 código HTML.
@@ -1047,7 +1049,7 @@ tabulação em uma ordem que faça sentido ao usuário.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Navegação e Formulários |
 
-# Frames - A tag HTML `<frame>`
+## Frames - A tag HTML `<frame>`
 
 *Tags* `<frame>` são utilizadas juntamente com *tags* `<frameset>` para
 dividir o espaço útil da tela em regiões que podem conter páginas HTML
@@ -1072,7 +1074,7 @@ muitos desses problemas.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Navegação e Codificação |
 
-# Elementos de bloco e elementos de linha
+## Elementos de bloco e elementos de linha
 
 Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 `<h1>`, `<form>`, `<table>`) de elementos de linha (e.g., `<em>`,
@@ -1094,13 +1096,13 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 | Ferramental utilizado | HTML 5 Specification |
 | Resultados esperados | Definição de conceitos |
 
-# Agrupamento de elementos de bloco - A tag HTML `<div>`
+## Agrupamento de elementos de bloco - A tag HTML `<div>`
 
 A *tag* `<div>` delimita elementos de bloco, ou seja, é um elemento de
 bloco utilizado para encapsular elementos de bloco ou conjuntos de texto
 com algum propósito especial.
 
-### Exemplo da *tag* `<div>`:
+#### Exemplo da *tag* `<div>`:
 
 ```html
 <div class="citacoes">
@@ -1119,14 +1121,14 @@ com algum propósito especial.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Estruturação de documentos e Legibilidade |
 
-# Agrupamento de texto - A tag HTML `<span>`
+## Agrupamento de texto - A tag HTML `<span>`
 
 A *tag* `<span>` é um elemento de linha utilizado para encapsular um
 conjunto de texto com algum propósito especial. Por exemplo, para
 aplicar um determinado estilo em CSS ou para delimitar um conteúdo em
 uma língua diferente do resto do texto.
 
-### Exemplo da *tag* `<span>`:
+#### Exemplo da *tag* `<span>`:
 
 ```html
 <p>
@@ -1146,12 +1148,12 @@ O personagem diz `<span lang="it">"Buon Giorno Principessa"
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Estruturação de documentos e Legibilidade |
 
-# Quebras de linha - A tag HTML `<br>`
+## Quebras de linha - A tag HTML `<br>`
 
 A *tag* `<br>` define uma quebra de linha. Ela não possui *tag* de
 fechamento.
 
-### Exemplo da *tag* `<br>`:
+#### Exemplo da *tag* `<br>`:
 
 ```html
 Linha 1<br>Linha 2<br>Linha 3
@@ -1170,7 +1172,7 @@ Linha 1<br>Linha 2<br>Linha 3
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Parágrafos - A tag HTML `<p>`
+## Parágrafos - A tag HTML `<p>`
 
 Utilize as *tags* `<p>` e `</p>` para delimitar parágrafos. Use `<br>`
 somente quando se referir a quebras de linha dentro do mesmo parágrafo.
@@ -1180,7 +1182,7 @@ ser pelo menos de 1,5. E o espaçamento entre parágrafos deve ser de pelo
 menos de 1,5 o tamanho do espaçamento entre linhas. O alinhamento dos
 parágrafos **não** dever ser justificado.
 
-### Exemplo da *tag* `<p>`:
+#### Exemplo da *tag* `<p>`:
 
 ```html
 <p>Parágrafo 1. Linha 1<br>Parágrafo 1. Linha 2</p>
@@ -1201,7 +1203,7 @@ parágrafos **não** dever ser justificado.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Idiomas - O atributo HTML lang
+## Idiomas - O atributo HTML lang
 
 Para qualquer mudança de idioma no conteúdo textual utilize o atributo
 *lang* para indicar qual é o idioma do trecho em questão.
@@ -1210,7 +1212,7 @@ Com isso, leitores de tela que suportam diferentes linguagens lerão o
 trecho de acordo com o idioma indicado e não de acordo com o idioma
 padrão ou o que foi definido para todo o documento na *tag* `<html>`.
 
-### Exemplo do atributo *lang*:
+#### Exemplo do atributo *lang*:
 
 ```html
 <html lang="pt-br">
@@ -1231,12 +1233,12 @@ linguagem.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Textos sobrescritos - A tag HTML `<sup>`
+## Textos sobrescritos - A tag HTML `<sup>`
 
 As *tags* `<sup>` e `</sup>` são utilizadas para demarcar conteúdo
 sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
-### Exemplo da *tag* `<sup>`:
+#### Exemplo da *tag* `<sup>`:
 
 ```html
 <p>2<sup>2</sup> <br>2<sup>3<sup>4</sup></sup></p>
@@ -1255,13 +1257,13 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Textos subscritos - A tag HTML `<sub>`
+## Textos subscritos - A tag HTML `<sub>`
 
 As *tags* `<sub>` e `</sub>` são utilizadas para fazer com que elementos
 fiquem subscritos como, por exemplo, o número de átomos em uma molécula
 de um elemento químico.
 
-### Exemplo da *tag* `<sub>`:
+#### Exemplo da *tag* `<sub>`:
 
 ```html
 <p>Óxido de ouro - Au<sub>2</sub>O<sub>3</sub></p>
@@ -1280,7 +1282,7 @@ de um elemento químico.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Fontes - A tag HTML `<font>`
+## Fontes - A tag HTML `<font>`
 
 A *tag* `<font>` é pouco utilizada atualmente e não pertence ao conjunto
 de *tags* do HTML 5, portanto seu uso deve ser evitado. Recomendamos a
@@ -1299,7 +1301,7 @@ sempre especificados de forma relativa às configurações do usuário, pois
 quando um usuário configura uma fonte de tamanho maior, todo o *website*
 se adequa aos novos parâmetros.
 
-### Exemplo da *tag* `<font>`:
+#### Exemplo da *tag* `<font>`:
 
 ```html
 <font size="+1">...</font>
@@ -1314,7 +1316,7 @@ se adequa aos novos parâmetros.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Codificação |
 
-# Ênfase no texto - As tags HTML `<em>` e `<strong>`
+## Ênfase no texto - As tags HTML `<em>` e `<strong>`
 
 As *tags* `<em>` e `<strong>` são utilizadas para dar ênfase e
 estruturar o conteúdo de um documento.
@@ -1324,7 +1326,7 @@ elas implicam apenas no destaque visual. As *tags* `<em>` e `<strong>`
 foram projetadas para indicar ênfase e, portanto, podem ser renderizadas
 de várias formas, inclusive via leitor de telas.
 
-### Exemplo das *tags* `<em>`e `<strong>`:
+#### Exemplo das *tags* `<em>`e `<strong>`:
 
 ```html
 <p><strong>A grande produção</strong> de
@@ -1348,13 +1350,13 @@ de várias formas, inclusive via leitor de telas.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Abreviações e siglas - A tags HTML `<abbr>`
+## Abreviações e siglas - A tags HTML `<abbr>`
 
 A *tag* `<abbr>`deve ser utilizada para demarcar abreviações e siglas.
 O atributo title é usado para apresentar a forma completa do termo
 reduzido.
 
-### Exemplos da *tag* `<abbr>`:
+#### Exemplos da *tag* `<abbr>`:
 
 ```html
 <p><abbr title="Universidade Estadual de Campinas">Unicamp</abbr></p>
@@ -1368,7 +1370,7 @@ reduzido.
 
 Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art* acessíveis.
 
-### Exemplo:
+#### Exemplo:
 
 ```html
 <abbr title="smiley">:-)</abbr>
@@ -1387,7 +1389,7 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Cores - Os atributos HTML color e bgcolor
+## Cores - Os atributos HTML color e bgcolor
 
 O atributo *color* é utilizado para definir a cor de texto e o atributo
 *bgcolor* é utilizado para definir a cor de fundo de várias *tags* como
@@ -1402,7 +1404,7 @@ valores (de 0 a 9 e a, b, c, d, e, f).
 Recomendamos a utilização de propriedades CSS para a definição de cores,
 pois facilita a manutenção e ajuda a deixar o design consistente.
 
-### Exemplo dos atributos color e bgcolor:
+#### Exemplo dos atributos color e bgcolor:
 
 ```html
 <table bgcolor="#0000bb">
@@ -1422,13 +1424,13 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Réguas horizontais - A tag HTML `<hr>`
+## Réguas horizontais - A tag HTML `<hr>`
 
 A *tag* `<hr>` não possui *tag* de fechamento. Ela define uma régua
 horizontal e é utilizada para auxiliar na distinção de blocos de
 conteúdo.
 
-### Exemplo da *tag* `<hr>`:
+#### Exemplo da *tag* `<hr>`:
 
 ```html
 <p>Texto do primeiro bloco.</p>
@@ -1451,7 +1453,7 @@ conteúdo.
 | Ferramental utilizado |  HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Textos alternativos
+## Textos alternativos
 
 Textos alternativos devem ser fornecidos para cada elemento da página
 que não for baseado em texto, por exemplo: imagens, vídeos, animações e
@@ -1481,7 +1483,7 @@ criado texto alternativo.
 | Ferramental utilizado | Notepad++, Bluefish e WAI |
 | Resultados esperados | Legibilidade |
 
-# Imagens - A tag HTML `<img>`
+## Imagens - A tag HTML `<img>`
 
 A *tag* `<img>` é utilizada para adicionar imagens ao documento HTML.
 Ela não possui *tag* de fechamento.
@@ -1492,7 +1494,7 @@ conteúdo deve refletir o que está apresentado na imagem ou na ação
 associada à imagem, ou seja, ser um texto equivalente ao conteúdo da
 imagem.
 
-### Exemplo da *tag* `<img>`:
+#### Exemplo da *tag* `<img>`:
 
 ```html
 <img src="livros.gif" width="15" height="10" alt="Livros">
@@ -1525,7 +1527,7 @@ forma de interromper o movimento.
 | Ferramental utilizado | HTML 5 Specification, Notepad++, Bluefish e Lynx |
 | Resultados esperados | Legibilidade e Imagens e animações |
 
-# Elementos multimídia - A tag HTML `<object>`
+## Elementos multimídia - A tag HTML `<object>`
 
 A *tag* `<object>` é usada para incluir elementos de multimídia em uma
 página HTML, por exemplo, animações em Flash, vídeos, etc.
@@ -1555,7 +1557,7 @@ hemorragias, olhos injetados, vertigens e desmaios. No dia seguinte,
 mais de 12.000 estudantes faltaram às aulas (somente em Tóquio), a
 maioria decorrente de problemas relacionados ao desenho.
 
-### Exemplo da *tag* `<object>`:
+#### Exemplo da *tag* `<object>`:
 
 <object id="ex22_slides" data="apresentacao.swf">
 Apresentação de slides sobre utilização de HTML válido utilizando
@@ -1572,7 +1574,7 @@ aspectos de usabilidade.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Imagens e animações |
 
-# Formulários - A tag HTML `<form>`
+## Formulários - A tag HTML `<form>`
 
 As *tags* `<form>` e `</form>` são utilizadas para delimitar quais
 campos fazem parte de um formulário. Seus principais atributos são:
@@ -1591,7 +1593,7 @@ JavaScript (*client-side*) ou via linguagem de programação
 *server-side*. A seguir um exemplo de uma URL de destino recebendo dados
 de um formulário via *get*.
 
-### Exemplo de URL destino de um formulário via *get*:
+#### Exemplo de URL destino de um formulário via *get*:
 
 ```html
 https://www.exemplo.com.br/cadastro.php?nome=Carlos&Idade=33
@@ -1616,7 +1618,7 @@ possa ser referenciado dentro da página.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Estruturação de documentos e Formulários |
 
-# Campos de entrada de dados - A tag HTML `<input>`
+## Campos de entrada de dados - A tag HTML `<input>`
 
 A *tag* `<input>` é utilizada para definir um campo de entrada de dados
 em um formulário. Por meio do seu atributo *type* é possível escolher
@@ -1636,7 +1638,7 @@ qual é o valor inicial do campo.
 Quando for necessário indicar que um campo está selecionado, use o
 atributo *checked* com valor *checked*.
 
-### Exemplo da *tag* `<input>`:
+#### Exemplo da *tag* `<input>`:
 
 ```html
 <label for="ex24_idade">Idade:</label>
@@ -1659,7 +1661,7 @@ atributo *checked* com valor *checked*.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Formulários |
 
-# Rótulos - A tag HTML `<label>`
+## Rótulos - A tag HTML `<label>`
 
 Sempre utilize a *tag* `<label>` para associar um rótulo ao seu
 respectivo campo de um formulário.
@@ -1674,7 +1676,7 @@ Note que quando usa um rótulo, ele se torna um elemento clicável. E
 quando clicado, o foco é aplicado no campo de formulário a que fez
 referência.
 
-### Exemplo da *tag* `<label>`:
+#### Exemplo da *tag* `<label>`:
 
 ```html
 <label for="ex25_nome">* Nome:</label>
@@ -1697,7 +1699,7 @@ referência.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Formulários |
 
-# Caixas de seleção - A tag HTML `<select>`
+## Caixas de seleção - A tag HTML `<select>`
 
 A *tag* `<label>` permite a criação de uma caixa de seleção de itens.
 Para permitir a seleção de vários itens use o atributo *multiple*. O
@@ -1708,7 +1710,7 @@ Para adicionar um item à caixa use a tag `<option>`. Para indicar que um
 item da caixa de seleção está selecionado use o atributo *selected* com
 valor *selected*.
 
-### Exemplo da *tag* `<select>`:
+#### Exemplo da *tag* `<select>`:
 
 ```html
 <label for="ex26_personagens">Personagens</label>
@@ -1725,7 +1727,7 @@ A *tag* `<optgroup>` deve ser utilizada para agrupar *tags* `<option>`.
 Ela permite reunir elementos, estruturá-los e facilitar sua
 identificação.
 
-### Exemplo da *tag* `<optgroup>`:
+#### Exemplo da *tag* `<optgroup>`:
 
 ```html
 <label for="ex26_herois">Heróis/heroínas</label>
@@ -1751,13 +1753,13 @@ identificação.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Formulários |
 
-# Campos de texto - A tag HTML `<textarea>`
+## Campos de texto - A tag HTML `<textarea>`
 
 As *tags* `<textarea>` e `</textarea>` delimitam uma área de entrada de
 texto extenso. Os atributos *rows* e *cols* definem o número de linhas e
 colunas, respectivamente.
 
-### Exemplo da *tag* `<textarea>`:
+#### Exemplo da *tag* `<textarea>`:
 
 ```html
 <label for="ex27_texto">Texto</label>
@@ -1776,12 +1778,12 @@ linhas.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Formulários |
 
-# Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
+## Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
 
 A *tag* `<fieldset>` deve ser utilizada para agrupar elementos de
 formulários correlacionados.
 
-### Exemplo da *tag* `<fieldset>`:
+#### Exemplo da *tag* `<fieldset>`:
 
 ```html
 <fieldset>
@@ -1812,12 +1814,12 @@ formulários correlacionados.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Formulários |
 
-# Rótulos para fieldsets - A tag HTML `<legend>`
+## Rótulos para fieldsets - A tag HTML `<legend>`
 
 A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 `<fieldset>`.
 
-### Exemplo da *tag* `<legend>`:
+#### Exemplo da *tag* `<legend>`:
 
 ```html
 <fieldset>
@@ -1850,7 +1852,7 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Formulários |
 
-# Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
+## Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
 
 Procure utilizar tabelas somente para dados tabulares. Nesses casos,
 sempre faça uso do atributo *summary* contendo uma descrição da tabela,
@@ -1871,7 +1873,7 @@ tabela.
 A tag `<tr>` é utilizada para demarcar o conteúdo de uma linha de
 tabela.
 
-### Exemplo da *tag* `<table>`:
+#### Exemplo da *tag* `<table>`:
 
 ```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
@@ -1897,7 +1899,7 @@ das linhas seguintes para referenciar seu cabeçalho. Com isto quando um
 leitor de telas processa cada célula ele pode repetir o conteúdo da
 célula referenciada pelo *id* e assim contextualizar a informação lida.
 
-### Exemplo da *tag* `<th>`:
+#### Exemplo da *tag* `<th>`:
 
 ```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar
@@ -1931,7 +1933,7 @@ Complementarmente, o atributo *abbr* pode ser utilizado nos casos em que
 o conteúdo da *tag* `<th>` for extenso, o que tornaria o processamento
 de uma tabela por um leitor de telas muito cansativo para o usuário.
 
-### Exemplo do atributo *abbr* na *tag* `<th>`:
+#### Exemplo do atributo *abbr* na *tag* `<th>`:
 
 ```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 12 meses, mês a mês.">
@@ -1962,7 +1964,7 @@ de uma tabela por um leitor de telas muito cansativo para o usuário.
 As tags `<caption>` e `</caption>` são utilizadas para definir uma
 legenda de uma tabela.
 
-### Exemplo da *tag* `<caption>`:
+#### Exemplo da *tag* `<caption>`:
 
 ```html
 <table summary="Esta tabela mostra a evolução da cotação do dólar turismo nos últimos 2 meses.">
@@ -2003,7 +2005,7 @@ legenda de uma tabela.
 | Ferramental utilizado | HTML 5 Specification, Notepad++ e Bluefish |
 | Resultados esperados | Tabelas |
 
-# Validação de código HTML
+## Validação de código HTML
 
 Para validar páginas HTML, o W3C disponibiliza o Markup Validation
 Service (http://validator.w3.org/) que é uma ferramenta *online*, onde
@@ -2020,7 +2022,7 @@ versão do HTML que esteja sendo utilizada na página.
 | Ferramental utilizado | W3C Markup Validation Service |
 | Resultados esperados | Avaliação |
 
-# Sintaxe CSS
+## Sintaxe CSS
 
 **Sintaxe básica do CSS** - A sintaxe do CSS é composta de dois itens
 principais: o seletor que é a referência ao elemento que receberá o
@@ -2032,7 +2034,7 @@ seguinte forma:
 seletor {atributo: valor; [atributo: valor;]}
 ```
 
-### Exemplo de declaração atributo-valor CSS:
+#### Exemplo de declaração atributo-valor CSS:
 
 ```css
 body {background-color: #00ff00;}
@@ -2044,7 +2046,7 @@ p {font-family: "sans serif";}
 **Agrupamento** - O CSS permite que você agrupe seletores que tenham
 propriedades em comum.
 
-### Exemplo de agrupamento de seletores CSS:
+#### Exemplo de agrupamento de seletores CSS:
 
 ```css
 h1, h2, h3, h4, h5, h6 {color: #00ff00; margin-bottom: 10px;}
@@ -2056,7 +2058,7 @@ elemento parágrafo.
 
 **No CSS:**
 
-### Exemplo de seletor *class* em CSS:
+#### Exemplo de seletor *class* em CSS:
 
 ```css
 p.citacao {text-align: right;}
@@ -2066,7 +2068,7 @@ p.destaque {background-color: #00ff00;}
 
 **No HTML:**
 
-### Exemplo de uso do seletor *class* CSS no HTML:
+#### Exemplo de uso do seletor *class* CSS no HTML:
 
 ```html
 <p class="paragrafoComum">Parágrafo comum.</p>
@@ -2075,7 +2077,7 @@ p.destaque {background-color: #00ff00;}
 
 Também é possível combinar duas ou mais classes.
 
-### Exemplo de uso combinado de classes CSS:
+#### Exemplo de uso combinado de classes CSS:
 
 ```html
 <p class="citacao destaque">
@@ -2089,7 +2091,7 @@ propriedades utilizadas.
 
 **No CSS:**
 
-### Exemplo de omissão do elemento HTML na classe CSS:
+#### Exemplo de omissão do elemento HTML na classe CSS:
 
 ```css
 .destaque {background-color: #00ff00;}
@@ -2097,7 +2099,7 @@ propriedades utilizadas.
 
 **No HTML:**
 
-### Exemplo de uso de classe CSS com omissão do elemento HTML:
+#### Exemplo de uso de classe CSS com omissão do elemento HTML:
 
 ```html
 <p class="destaque">Parágrafo com fundo verde.</p>
@@ -2113,7 +2115,7 @@ propriedades utilizadas.
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools CSS2 Reference |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
-# Inclusão de código CSS
+## Inclusão de código CSS
 
 CSS permite que você defina a forma de exibição dos elementos de
 marcação de arquivos HTML, XHTML, entre outros. Normalmente são criados
@@ -2128,7 +2130,7 @@ com navegadores antigos. Este recurso faz com que os navegadores antigos
 que não suportam CSS não processem a folha de estilo nem apresentem seu
 conteúdo como sendo texto.
 
-### Exemplo de declaração interna do CSS:
+#### Exemplo de declaração interna do CSS:
 
 ```html
 ...
@@ -2146,7 +2148,7 @@ body {background-image: url("images/back40.gif");}
 **Declaração externa do CSS** - É a forma mais recomendada, pois permite
 o melhor reuso e clareza do documento HTML.
 
-### Exemplo de declaração externo do CSS:
+#### Exemplo de declaração externo do CSS:
 
 ```html
 ...
@@ -2164,7 +2166,7 @@ dos comentários CSS.
 **Declaração inline** - Somente recomendado quando o estilo é único para
 o elemento HTML.
 
-### Exemplo de declaração *inline* do CSS:
+#### Exemplo de declaração *inline* do CSS:
 
 ```html
 ...
@@ -2183,7 +2185,7 @@ Este é um parágrafo
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools CSS2 Reference |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
-# Estrutura de documentos CSS
+## Estrutura de documentos CSS
 
 Caso sejam feitas várias definições de estilo sobre um mesmo elemento,
 essas definições serão *cascateadas* formando um só elemento. Por isso,
@@ -2204,7 +2206,7 @@ nível de especificidade do seletor CSS. A representação a seguir mostra
 as especificidades dos seletores e os pesos atribuídos. Quanto maior for
 o peso calculado maior será a especificidade do seletor.
 
-### Exemplo de cálculo de pesos de seletores CSS:
+#### Exemplo de cálculo de pesos de seletores CSS:
 
 ```css
 strong { color: #ff0000; } /* id=0 classe=0 tag=1 -> peso = 1 */
@@ -2223,13 +2225,13 @@ strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
 | Resultados esperados | Estruturação de documentos |
 
-# Padronização de código CSS
+## Padronização de código CSS
 
 Padronização facilita a identificação de erros e ajuda na manutenção de
 código bem escrito. Dessa forma sugerimos que as definições das
 propriedades sejam separadas e terminadas por ponto e vírgula.
 
-### Exemplo de declaração padronizada em CSS:
+#### Exemplo de declaração padronizada em CSS:
 
 ```css
 div.content { padding: 5%; margin: 5%; }
@@ -2240,13 +2242,13 @@ com ponto e vírgula. Isso ajuda na manutenção e inclusão de novas
 propriedades, além de facilitar uma eventual migração de estilos
 *in-line* para um arquivo CSS melhor estruturado.
 
-### Contraexemplo de declaração *inline* em CSS:
+#### Contraexemplo de declaração *inline* em CSS:
 
 ```html
 <td style="font-weight: bold">
 ```
 
-### Exemplo de declaração *inline* em CSS:
+#### Exemplo de declaração *inline* em CSS:
 
 ```html
 <td style="font-weight: bold;">
@@ -2256,19 +2258,19 @@ Ao nomear seletores nunca se deve associar o nome à aparência do
 elemento. Tente sempre identificar o seletor a partir da função ou do
 dado a que ele se refere.
 
-### Contraexemplo de declaração CSS baseada na aparência:
+#### Contraexemplo de declaração CSS baseada na aparência:
 
 ```html
 <td class="corVermelha">01/01/2007</td>
 ```
 
-### Contraexemplo de declaração CSS baseada no conteúdo:
+#### Contraexemplo de declaração CSS baseada no conteúdo:
 
 ```html
 <td class="texto1">01/01/2007</td>
 ```
 
-### Exemplo de declaração CSS baseada na função do dado:
+#### Exemplo de declaração CSS baseada na função do dado:
 
 ```html
 <td class="data">01/01/2007</td>
@@ -2291,7 +2293,7 @@ funcionam em navegadores mais antigos são: *margin*, *padding* e
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
 | Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
-# Prioridade para estilos do usuário
+## Prioridade para estilos do usuário
 
 O operador *!important* é usado em CSS para forçar a aplicação de um
 determinado estilo. No entanto, ele descarta toda a estrutura e pesos de
@@ -2308,7 +2310,7 @@ foi necessário forçar a aplicação de um determinado estilo.
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
-# Unidades de medida relativas - Unidades em CSS: Porcentagem e em
+## Unidades de medida relativas - Unidades em CSS: Porcentagem e em
 
 Utilize sempre unidades de medida relativas para que a apresentação da
 página possa se adequar à saída, da melhor forma possível. As unidades
@@ -2337,7 +2339,7 @@ vetoriais).
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Codificação |
 
-# Conteúdos gerados pelo CSS: os pseudo-elementos before e after
+## Conteúdos gerados pelo CSS: os pseudo-elementos before e after
 
 A geração de conteúdo utilizando CSS é uma característica do CSS nível
 2, o que indica que deve ser utilizada com cautela e acompanhada de
@@ -2367,7 +2369,7 @@ Referência de CSS do W3 Schools.
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Codificação |
 
-# Listas ordenadas utilizando CSS
+## Listas ordenadas utilizando CSS
 
 Sugerimos a utilização de listas ordenadas (*tag* `<ol>`) em vez das
 listas não ordenadas (*tag* `<ul>`). No entanto, ao utilizar listas
@@ -2382,7 +2384,7 @@ para cada nível de profundidade e assim obter itens da forma 1, 1.2,
 1.2.3, etc. Mas não há uma maneira fácil de incluir esta informação em
 HTML, e é aí que entra a utilização de CSS.
 
-### Exemplo de CSS para listas ordenadas com subníveis:
+#### Exemplo de CSS para listas ordenadas com subníveis:
 
 ```css
 ul, ol { counter-reset: item; }
@@ -2397,7 +2399,7 @@ indicar o final de cada seção.
 
 **No CSS:**
 
-### Exemplo de marcações de fim de listas ordenadas usando CSS:
+#### Exemplo de marcações de fim de listas ordenadas usando CSS:
 
 ```css
 span.fimDeLista { display: none; }
@@ -2405,7 +2407,7 @@ span.fimDeLista { display: none; }
 
 **No HTML:**
 
-### Exemplo de marcações de fim de listas ordenadas usando CSS no HTML:
+#### Exemplo de marcações de fim de listas ordenadas usando CSS no HTML:
 
 ```html
 <ol>
@@ -2446,7 +2448,7 @@ Padronização
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
 | Resultados esperados | Navegação e Legibilidade |
 
-# Réguas - Alterando a aparência com CSS
+## Réguas - Alterando a aparência com CSS
 
 No HTML as réguas horizontais (`<hr>`) são indicadas para separar e
 delimitar blocos de conteúdo. Com a utilização de CSS elas se
@@ -2457,7 +2459,7 @@ formas.
 
 **No CSS:**
 
-### Exemplo de alteração da aparência de réguas usando CSS:
+#### Exemplo de alteração da aparência de réguas usando CSS:
 
 ```css
 hr.reguaDeInstrucoes {
@@ -2474,7 +2476,7 @@ hr:before { content: attr(title); }
 
 **No HTML:**
 
-### Exemplo de alteração da aparência de réguas usando CSS no HTML:
+#### Exemplo de alteração da aparência de réguas usando CSS no HTML:
 
 ```html
 <hr title="Fim das instruções" class="reguaDeInstrucoes">
@@ -2489,7 +2491,7 @@ hr:before { content: attr(title); }
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Bordas utilizando CSS
+## Bordas utilizando CSS
 
 Através das propriedades oferecidas pelo CSS é possível atribuir vários
 tipos de formatação que sem sua utilização seriam possíveis apenas com
@@ -2499,7 +2501,7 @@ Além de possibilitar alterações na cor, tamanho e estilo, é possível
 editar cada um dos quatro lados dos elementos de bloco (e.g., `<table>`,
 `<div>`, `<p>`, entre outros).
 
-### Exemplo de definição de bordas usando CSS:
+#### Exemplo de definição de bordas usando CSS:
 
 ```css
 div {
@@ -2520,7 +2522,7 @@ div {
 Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Posicionamento utilizando CSS
+## Posicionamento utilizando CSS
 
 Uma das tarefas mais difíceis, senão a mais difícil, é fazer com que os
 elementos de uma página *Web* fiquem posicionados corretamente em
@@ -2554,7 +2556,7 @@ Assim, para definir o CSS de uma tabela com margem superior e inferior
 de 0.5em e células com espaçamento de 0.1em entre o conteúdo e a borda
 teríamos o seguinte CSS:
 
-### Exemplo de posicionamento usando CSS:
+#### Exemplo de posicionamento usando CSS:
 
 ```css
 table { margin-top: 0.5em; margin-bottom: 0.5em; }
@@ -2570,12 +2572,12 @@ table tr td { padding: 0.1em; }
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Fontes utilizando CSS
+## Fontes utilizando CSS
 
 Sempre utilize uma família de fonte genérica, pois elas estão presentes
 na grande maioria dos navegadores.
 
-### Exemplo de definição de fontes usando CSS:
+#### Exemplo de definição de fontes usando CSS:
 
 ```css
 body { font-family: verdana, sans-serif; }
@@ -2598,13 +2600,13 @@ sejam prejudicados por problemas de compatibilidade dos navegadores.
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Efeitos em texto utilizando CSS
+## Efeitos em texto utilizando CSS
 
 Para utilizar letras maiúsculas ou minúsculas para dar ênfase ou para
 padronizar *layout* utilize a propriedade *text-transform*. Note como é
 feita a separação entre os dados e sua apresentação.
 
-### Contraexemplo de uso de letras maiúsculas no HTML:
+#### Contraexemplo de uso de letras maiúsculas no HTML:
 
 ```html
 <strong>DESTAQUES DO EVENTO</strong>
@@ -2612,7 +2614,7 @@ feita a separação entre os dados e sua apresentação.
 
 **No CSS:**
 
-### Exemplo de transformação de texto para letras maiúsculas usando CSS:
+#### Exemplo de transformação de texto para letras maiúsculas usando CSS:
 
 ```css
 strong.destaque { text-transform: uppercase; }
@@ -2620,7 +2622,7 @@ strong.destaque { text-transform: uppercase; }
 
 **No HTML:**
 
-### Exemplo de transformação de texto para letras maiúsculas usando CSS no HTML:
+#### Exemplo de transformação de texto para letras maiúsculas usando CSS no HTML:
 
 ```html
 <strong class="destaque">Destaques do evento</strong>
@@ -2640,7 +2642,7 @@ utilizassem CSS?
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Formatação e posicionamento de texto utilizando CSS
+## Formatação e posicionamento de texto utilizando CSS
 
 Utilize CSS para alcançar a formatação que deseja. Não utilize espaços
 nem pontuações para enfatizar trechos de texto, pois provavelmente uma
@@ -2649,13 +2651,13 @@ talvez, fique até difícil de entender o conteúdo. As propriedades
 *word-spacing* e *letter-spacing* controlam o espaçamento entre as
 palavras e entre as letras, respectivamente.
 
-### Contraexemplo de ênfase em texto usando espaços e letras maiúsculas:
+#### Contraexemplo de ênfase em texto usando espaços e letras maiúsculas:
 
 A T E N Ç Ã O
 
 **No CSS:**
 
-### Exemplo de ênfase em texto usando CSS:
+#### Exemplo de ênfase em texto usando CSS:
 
 ```css
 em.mensagem { letter-spacing: 150%; text-transform: uppercase; }
@@ -2663,7 +2665,7 @@ em.mensagem { letter-spacing: 150%; text-transform: uppercase; }
 
 **No HTML:**
 
-### Exemplo de ênfase em texto usando classe CSS no HTML:
+#### Exemplo de ênfase em texto usando classe CSS no HTML:
 
 ```html
 <em class="mensagem">Atenção</em>
@@ -2682,7 +2684,7 @@ forma: text-align: center.
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Specification, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade |
 
-# Utilizando texto em vez de imagem
+## Utilizando texto em vez de imagem
 
 Não utilize imagens que contenham apenas texto. O CSS fornece várias
 propriedades para alteração da aparência de textos e utilizar apenas
@@ -2690,7 +2692,7 @@ imagens para representá-los restringe o acesso para usuários que
 utilizam *display* em Braille, leitores de tela e outras tecnologias
 assistivas que se baseiam no conteúdo textual.
 
-### Contraexemplo de uso de imagens para representar texto:
+#### Contraexemplo de uso de imagens para representar texto:
 
 ```html
 <p>
@@ -2702,7 +2704,7 @@ assistivas que se baseiam no conteúdo textual.
 
 **No CSS:**
 
-### Exemplo de texto com aparência definida no CSS:
+#### Exemplo de texto com aparência definida no CSS:
 
 ```css
 a.paginacao {
@@ -2714,7 +2716,7 @@ a.paginacao {
 
 **No HTML:**
 
-### Exemplo de uso de classe CSS para alterar a aparência do texto no HTML:
+#### Exemplo de uso de classe CSS para alterar a aparência do texto no HTML:
 
 ```html
 <p><a href="pagina_2.html" class="paginacao">Próxima página</a></p>
@@ -2729,7 +2731,7 @@ a.paginacao {
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Codificação |
 
-# Atributos aurais com CSS
+## Atributos aurais com CSS
 
 As propriedades relacionadas aos atributos aurais fazem parte do CSS
 nível 2 e, conforme outras propriedades que podem ter baixa
@@ -2742,7 +2744,7 @@ leitores de tela como alterar volume, incluir ícones sonoros, alterar o
 Para verificar outras propriedades veja referência em Referência de CSS2
 Aural do W3 Schools.
 
-### Exemplo de atributos aurais no CSS:
+#### Exemplo de atributos aurais no CSS:
 
 ```css
 h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
@@ -2758,7 +2760,7 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 Notepad++ e Bluefish |
 | Resultados esperados | Audibilidade |
 
-# Cores com CSS
+## Cores com CSS
 
 Sugerimos que defina uma cor de fundo para todos os elementos da página.
 Uma forma bem estruturada de controlar essa propriedade de atribuir a
@@ -2772,7 +2774,7 @@ Para validar se a sua escolha de cores oferece contraste adequado você
 pode utilizar ferramentas como o Luminosity Colour Contrast Ratio
 Analyser.
 
-### Exemplo de definição de cor de fundo e de texto usando CSS:
+#### Exemplo de definição de cor de fundo e de texto usando CSS:
 
 ```css
 p.destaque { color: #000000; background-color: #ffffff; }
@@ -2796,7 +2798,7 @@ incluindo imagens e cores de fundo.
 | Ferramental utilizado | Firefox Web Developer Add-on, W3C CSS Validation Service, Notepad++ e Bluefish |
 | Resultados esperados | Compatibilidade de código e Técnica |
 
-# Validação de folhas de estilo CSS
+## Validação de folhas de estilo CSS
 
 Para validar folhas de estilo CSS, o W3C disponibiliza o CSS Validation
 Service (http://jigsaw.w3.org/css-validator/) que é uma ferramenta
@@ -2813,7 +2815,7 @@ erros, segundo a versão do CSS que esteja sendo utilizada na página.
 | Ferramental utilizado | W3C CSS Validation Service |
 | Resultados esperados | Avaliação |
 
-# Recomendações para uso do JavaScript
+## Recomendações para uso do JavaScript
 
 JavaScript deve ser usado para oferecer **funcionalidades adicionais**
 às já existentes e necessárias ao funcionamento da página *Web*. Dessa
@@ -2849,13 +2851,13 @@ para oferecer funcionalidades básicas de um *website*.
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Compatibilidade de código e Codificação |
 
-# Inclusão de código JavaScript
+## Inclusão de código JavaScript
 
 Os códigos em JavaScript utilizados em uma página podem ser internos ou
 externos. Para utilização de código interno sugerimos que a estrutura
 utilizada seja a seguinte:
 
-### Exemplo de inclusão de JavaScript internamente no HTML:
+#### Exemplo de inclusão de JavaScript internamente no HTML:
 
 ```html
 <script type="text/javascript"><!--
@@ -2876,7 +2878,7 @@ assim é sempre bom conhecer alternativas para problemas já conhecidos.
 
 A inserção de *scripts* externos pode ser feita da seguinte forma:
 
-### Exemplo de inclusão de documento Javascript no HTML:
+#### Exemplo de inclusão de documento Javascript no HTML:
 
 ```html
 <script type="text/javascript" src="codigo.js"></script>
@@ -2895,12 +2897,12 @@ interpretado se o navegador suportar JavaScript.
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
-# Declaração de variáveis em JavaScript
+## Declaração de variáveis em JavaScript
 
 Todas as variáveis devem ser declaradas, com os tipos apropriados para o
 algoritmo, não importando se são globais ou não.
 
-### Exemplo de declaração de variáveis em Javascript:
+#### Exemplo de declaração de variáveis em Javascript:
 
 ```javascript
 var x = new Number( 1 );
@@ -2909,7 +2911,7 @@ var x = new Number( 1 );
 Outro ponto a ser lembrado é que as variáveis devem ser utilizadas
 dentro do escopo em que foram criadas.
 
-### Contraexemplo de uso de variáveis fora de seu escopo:
+#### Contraexemplo de uso de variáveis fora de seu escopo:
 
 ```javascript
 function Valida(pa,pb) {
@@ -2925,7 +2927,7 @@ function Valida(pa,pb) {
 };
 ```
 
-### Exemplo de uso de variáveis com o escopo correto:
+#### Exemplo de uso de variáveis com o escopo correto:
 
 ```javascript
 function Valida(pa,pb) {
@@ -2951,7 +2953,7 @@ function Valida(pa,pb) {
 Reference |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
-# Ordem da declaração de variáveis e métodos em JavaScript
+## Ordem da declaração de variáveis e métodos em JavaScript
 
 A declaração de métodos e variáveis deve ser ordenada de forma que eles
 sejam utilizados somente após terem sido declarados. Uma boa prática é
@@ -2971,14 +2973,14 @@ pelos navegadores.
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Codificação |
 
-# Quebras de linha no código JavaScript
+## Quebras de linha no código JavaScript
 
 De acordo com a especificação da linguagem as quebras de linhas são
 suficientes para separar expressões, mas devido às diferenças existentes
 entre as implementações de JavaScript *client-side* deve-se, sempre,
 utilizar ponto-e-vírgula ao final de todas expressões.
 
-### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
+#### Contraexemplo de declaração em Javascript sem ponto-e-vírgula:
 
 ```html
 <script type="text/javascript"><!--
@@ -2987,7 +2989,7 @@ x = 2
 //--></script>
 ```
 
-### Exemplo de declaração em Javascript usando ponto-e-vírgula:
+#### Exemplo de declaração em Javascript usando ponto-e-vírgula:
 
 ```html
 <script type="text/javascript"><!--
@@ -3005,7 +3007,7 @@ x = 2;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
-# Cuidados com versões da linguagem JavaScript
+## Cuidados com versões da linguagem JavaScript
 
 Não utilize versão da linguagem na declaração do *script*. Diferentes
 implementações de JavaScript podem utilizar objetos diferentes na mesma
@@ -3026,7 +3028,7 @@ ter que fazê-la, pense na possibilidade de utilizar bibliotecas de
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
-# Detecção de navegador, objetos e métodos utilizando JavaScript
+## Detecção de navegador, objetos e métodos utilizando JavaScript
 
 Sugerimos que evite fazer verificações relacionadas ao navegador
 utilizado pelo usuário, uma vez que restringem a execução do código
@@ -3034,7 +3036,7 @@ JavaScript a um grupo muito específico, além de não levar em conta
 usuários de navegadores que serão lançados. Lembre-se que quanto mais
 tempo seu código "sobreviver" menos manutenção ele necessitará.
 
-### Contraexemplo de código Javascript dependente de navegador:
+#### Contraexemplo de código Javascript dependente de navegador:
 
 ```html
 <script type="text/javascript"><!--
@@ -3049,7 +3051,7 @@ if ( browserName == "Firefox" ){
 Em vez disso, para garantir que o código será executado corretamente,
 sugerimos utilizar a detecção de objetos e métodos dessa forma:
 
-### Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador:
+#### Exemplo de teste de compatibilidade de objeto Javascript sem dependência de navegador:
 
 ```html
 <script type="text/javascript"><!--
@@ -3067,7 +3069,7 @@ métodos. Note que para detecção de métodos não se deve utilizar
 parênteses. Usar parênteses indica a utilização do método e não a
 verificação de sua existência.
 
-### Contraexemplo de detecção de método Javascript com uso de parênteses:
+#### Contraexemplo de detecção de método Javascript com uso de parênteses:
 
 ```html
 <script type="text/javascript"><!--
@@ -3079,7 +3081,7 @@ if ( window.focus() ){
 //--></script>
 ```
 
-### Exemplo de detecção de método Javascript:
+#### Exemplo de detecção de método Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3099,14 +3101,14 @@ if ( window.focus ){
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
-# Conversão de tipo de dados em JavaScript
+## Conversão de tipo de dados em JavaScript
 
 Operadores de comparação estritos ( === ou !== ) não devem ser
 utilizados. Sugerimos que, como boa prática de programação, a conversão
 de variáveis de tipos diferentes deve ser feita pelo programador. Com
 isso fica claro no código JavaScript quais são os tipos utilizados.
 
-### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
+#### Contraexemplo de comparação de variáveis Javascript de tipos diferentes:
 
 ```html
 <script type="text/javascript"><!--
@@ -3119,7 +3121,7 @@ if ( x == y ){
 //--></script>
 ```
 
-### Exemplo de conversão de tipo de variável Javascript antes de comparação:
+#### Exemplo de conversão de tipo de variável Javascript antes de comparação:
 
 ```html
 <script type="text/javascript"><!--
@@ -3145,7 +3147,7 @@ adequado para a lógica do programa. Assim, as operações aplicadas a
 esses valores podem ser feitas diretamente, o que torna o programa mais
 legível e mais estruturado.
 
-### Exemplo de retorno de função com tipo de dados compatível com a lógica da função:
+#### Exemplo de retorno de função com tipo de dados compatível com a lógica da função:
 
 ```javascript
 function getLinha(pval){
@@ -3166,7 +3168,7 @@ function getLinha(pval){
 | Resultados esperados | Estruturação de documentos e Compatibilidade de
 código |
 
-# Manipuladores de evento em HTML
+## Manipuladores de evento em HTML
 
 A partir da versão 4.0 o HTML possui recursos para disparar eventos por
 meio do navegador. Um exemplo seria o evento *onkeypress* que é
@@ -3176,7 +3178,7 @@ manipulares para diferentes dispositivos. Assim, se houver uma função
 disparada a partir apenas do *onclick*, então se deve disponibilizar a
 mesma funcionalidade a partir do *onkeypress*, e vice-versa.
 
-### Exemplo de manipuladores Javascript de eventos para diferentes dispositivos:
+#### Exemplo de manipuladores Javascript de eventos para diferentes dispositivos:
 
 ```html
 <script type="text/javascript"><!--
@@ -3202,14 +3204,14 @@ function selecionou(porigem) {
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e Lynx |
 | Resultados esperados | Compatibilidade de código e Codificação |
 
-# Desvios e laços condicionais em JavaScript
+## Desvios e laços condicionais em JavaScript
 
 De acordo com a especificação da linguagem, as chaves não são
 necessárias para laços e condicionais simples, ou seja, contendo apenas
 uma expressão. No entanto sugerimos a utilização de chaves mesmo nesses
 casos, pois desta forma se obtém um código mais legível e mais portável.
 
-### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
+#### Contraexemplo de não uso de chaves para blocos condicionais e laços em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3218,7 +3220,7 @@ if ( ... )
 //--></script>
 ```
 
-### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
+#### Exemplo de uso de chaves para blocos condicionais e laços em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3237,14 +3239,14 @@ if ( ... ){
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
-# Escrita de HTML via JavaScript
+## Escrita de HTML via JavaScript
 
 No lugar de executar vários comandos de impressão (e.g.,
 document.write), o que pode tornar o *script* muito lento, concatene a
 saída em uma variável e por fim envie o conteúdo da variável de uma
 única vez.
 
-### Contraexemplo de impressão em Javascript:
+#### Contraexemplo de impressão em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3256,7 +3258,7 @@ document.write( "</table>" ) ;
 //--></script>
 ```
 
-### Exemplo de impressão em Javascript usando concatenação:
+#### Exemplo de impressão em Javascript usando concatenação:
 
 ```html
 <script type="text/javascript"><!--
@@ -3278,13 +3280,13 @@ document.write( html_code ) ;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código e Codificação |
 
-# Aspas simples e duplas em JavaScript
+## Aspas simples e duplas em JavaScript
 
 Conteúdo de texto deve estar sempre entre aspas duplas (") e todas
 ocorrências delas no conteúdo devem ser escapadas com a barra invertida
 (\).
 
-### Contraexemplo de uso de aspas em Javascript:
+#### Contraexemplo de uso de aspas em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3292,7 +3294,7 @@ document.write( 'Conteúdo de texto. "Teste", teste.' ) ;
 //--></script>
 ```
 
-### Exemplo de uso de aspas em Javascript:
+#### Exemplo de uso de aspas em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3303,7 +3305,7 @@ document.write( "Conteúdo de texto. \"Teste\", teste." ) ;
 Aspa simples ou apóstrofe (') deve ser utilizada somente quando o
 código JavaScript estiver dentro de um atributo de uma tag HTML.
 
-### Exemplo de uso de aspas simples em Javascript:
+#### Exemplo de uso de aspas simples em Javascript:
 
 ```html
 ...<a href="./" onClick="alert( function( 'conteúdo string' ) );">...
@@ -3318,13 +3320,13 @@ código JavaScript estiver dentro de um atributo de uma tag HTML.
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código |
 
-# ETAGO em JavaScript
+## ETAGO em JavaScript
 
 Deve-se escapar a barra de qualquer ETAGO (</) que estiver sendo
 escrito pelo JavaScript. Isso evita que o *parser* identifique um ETAGO
 de outra *tag* como sendo a de *script*.
 
-### Contraexemplo de impressão de ETAGO em Javascript:
+#### Contraexemplo de impressão de ETAGO em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3332,7 +3334,7 @@ document.write( "<p>Teste</p>" ) ;
 //--></script>
 ```
 
-### Exemplo de impressão de ETAGO em Javascript:
+#### Exemplo de impressão de ETAGO em Javascript:
 
 ```html
 <script type="text/javascript"><!--
@@ -3349,13 +3351,13 @@ document.write( "<p>Teste<\/p>" ) ;
 | Ferramental utilizado | Firefox Web Developer Add-on |
 | Resultados esperados | Padronização de código e Compatibilidade de código |
 
-# Escrevendo a palavra reservada script
+## Escrevendo a palavra reservada script
 
 Quando a palavra *script* for processada dentro de código JavaScript ela
 deve ser dividida e concatenada, para que o *parser* não a identifique
 como sendo a *tag script* que encerra o código JavaScript.
 
-### Contraexemplo de impressão da palavra script:
+#### Contraexemplo de impressão da palavra script:
 
 ```html
 ...
@@ -3365,7 +3367,7 @@ document.write( "<script language=\"javascript\" type=\"text/javascript\" src=\"
 ...
 ```
 
-### Exemplo de impressão da palavra script:
+#### Exemplo de impressão da palavra script:
 
 ```html
 ...
@@ -3384,7 +3386,7 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
-# Manipulação de CSS utilizando JavaScript
+## Manipulação de CSS utilizando JavaScript
 
 A combinação de JavaScript, CSS e HTML é muito utilizada em *websites*.
 Esta combinação possibilita que programas em JavaScript alterem a
@@ -3394,7 +3396,7 @@ Para manipular folhas de estilo via JavaScript basta alterar as
 propriedades do objeto *style* dos elementos ou alterar o atributo
 *class*.
 
-### Exemplo de manipulação de CSS utilizando Javascript:
+#### Exemplo de manipulação de CSS utilizando Javascript:
 
 ```html
 ...
@@ -3415,7 +3417,7 @@ name_element.style.borderColor = "#000000" ;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código |
 
-# Navegação utilizando JavaScript
+## Navegação utilizando JavaScript
 
 Programas em JavaScript são muito utilizados para manipular menus e
 sub-menus em navegações de *websites*, mas utilizações cuidadosas desse
@@ -3436,7 +3438,7 @@ verificar os itens acerca de uma sessão presente na navegação ou acessar
 um item de interesse dentro de uma lista simplificada com muitos
 elementos.
 
-### Exemplo de melhoria de navegação usando Javascript:
+#### Exemplo de melhoria de navegação usando Javascript:
 
 ```html
 ...
@@ -3523,7 +3525,7 @@ open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Navegação, Codificação e Técnica |
 
-# Validação de formulários utilizando JavaScript
+## Validação de formulários utilizando JavaScript
 
 Uma das primeiras funções mais interessantes do uso de JavaScript na Web
 foi a de validação de formulários sem a necessidade de envio de
@@ -3535,7 +3537,7 @@ conter somente números inteiros. A validação é feita com uma expressão
 regular que diz que o valor dever ser obrigatoriamente composto por
 números.
 
-### Exemplo de validação de formulários usando Javascript:
+#### Exemplo de validação de formulários usando Javascript:
 
 ```html
 ...
@@ -3571,7 +3573,7 @@ function verificarInteiro( val ){
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Formulários e Codificação |
 
-# Acesso a conteúdo e redundância utilizando JavaScript
+## Acesso a conteúdo e redundância utilizando JavaScript
 
 A execução de *scripts* pode ser desabilitada por várias razões tais
 como segurança, limitações do navegador ou por opção do usuário (comum
@@ -3580,7 +3582,7 @@ fornecidas outras formas de acesso ao conteúdo que seria apresentado
 pelo código JavaScript. Para tanto pode ser utilizada a tag `<noscript>
 que é executada sempre que *scripts client-side* estejam desabilitados.
 
-### Exemplo de uso da *tag* `<noscript>`:
+#### Exemplo de uso da *tag* `<noscript>`:
 
 ```html
 ...
@@ -3602,7 +3604,7 @@ document.write("Texto escrito via javascript!");
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Compatibilidade de código e Codificação |
 
-# Gráficos e animações utilizando JavaScript
+## Gráficos e animações utilizando JavaScript
 
 JavaScript também pode ser utilizado para produzir efeitos como
 animações. Para ilustrar essa funcionalidade apresentamos o código de um
@@ -3613,7 +3615,7 @@ mostrar que, apesar de ser uma boa opção para garantir a redundância de
 funcionalidades, o elemento `<noscript>` não é o único recurso
 disponível.
 
-### Exemplo de animação utilizando Javascript:
+#### Exemplo de animação utilizando Javascript:
 
 ```html
 ...
@@ -3696,14 +3698,14 @@ setTimeout( "play_caption()", 1000 ) ;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Imagens e animações e Codificação |
 
-# Manipulação de HTML utilizando JavaScript
+## Manipulação de HTML utilizando JavaScript
 
 Para alterar conteúdo de *tags* HTML, a maneira mais simples é utilizar
 o identificador da *tags* para acessar o respectivo objeto. Após acessar
 o objeto basta utilizar o método innerHTML para acessar e manipular o
 conteúdo da *tags*.
 
-### Exemplo de alteração de código HTML utilizando Javascript:
+#### Exemplo de alteração de código HTML utilizando Javascript:
 
 ```html
 ...
@@ -3723,7 +3725,7 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código |
 
-# AJAX
+## AJAX
 
 Ao contrário do que alguns pensam, AJAX não é uma linguagem. AJAX é uma
 técnica que usa JavaScript para trocar informações em XML entre a página
@@ -3760,7 +3762,7 @@ pois alguns navegadores tratam o XMLHTTPRequest de maneira diferente. O
 formato usado para troca de informações é HTML para deixar o exemplo
 mais simples.
 
-### Exemplo de busca dinâmica utilizando AJAX:
+#### Exemplo de busca dinâmica utilizando AJAX:
 
 ```html
 <script type="text/javascript"><!--
@@ -3819,14 +3821,14 @@ dos resultados.
 | Ferramental utilizado | Firefox Web Developer Add-on |
 | Resultados esperados | Técnica |
 
-# Manipulação de HTML utilizando JavaScript
+## Manipulação de HTML utilizando JavaScript
 
 Para alterar conteúdo de *tags* HTML, a maneira mais simples é utilizar
 o identificador da *tags* para acessar o respectivo objeto. Após acessar
 o objeto basta utilizar o método innerHTML para acessar e manipular o
 conteúdo da *tags*.
 
-### Exemplo:
+#### Exemplo:
 
 ```html
 ...
@@ -3846,7 +3848,7 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 | Ferramental utilizado | Firefox Web Developer Add-on e W3Schools JavaScript Reference |
 | Resultados esperados | Padronização de código |
 
-# Verificação de código JavaScript
+## Verificação de código JavaScript
 
 Para validar código JavaScript, pode-se utilizar o JSLint
 (http://www.jslint.com/) que é uma ferramenta *online*, em que basta
@@ -3862,7 +3864,7 @@ possíveis erros e recomendações segundo boas práticas.
 | Ferramental utilizado |  JSLint The JavaScript Verifier |
 | Resultados esperados | Verificação |
 
-# Reaproveitamento de Código
+## Reaproveitamento de Código
 
 *Websites* são aplicações extremamente dinâmicas, exigindo um grande
 volume de atualizações. Além disso, grande parte das equipes de
@@ -3879,7 +3881,7 @@ código.
 - Separar elementos que aparecem em diversas telas (e.g., cabeçalho,
   rodapé, menu) em documentos separados.
 
-### Contraexemplo de documento HTML que não propicia reaproveitamento de código:
+#### Contraexemplo de documento HTML que não propicia reaproveitamento de código:
 
 ```html
 <!DOCTYPE html>
@@ -3905,7 +3907,7 @@ GMT">
 O exemplo a seguir usa o comando include de *Server Side Include* para
 incluir um arquivo de cabeçalho.
 
-### Exemplo de declaração de HTML reaproveitando código para cabeçalho:
+#### Exemplo de declaração de HTML reaproveitando código para cabeçalho:
 
 ```html
 [Arquivo cabecalho.inc]
@@ -3942,7 +3944,7 @@ GMT">
 - Usar a estrutura em cascata do CSS para reaproveitar seletores (ver
   Estrutura de documentos CSS).
 
-### Contraexemplo de seletores CSS que não propiciam reaproveitamento:
+#### Contraexemplo de seletores CSS que não propiciam reaproveitamento:
 
 ```css
 ...
@@ -3953,7 +3955,7 @@ margin: 0.2em 0 0.2em 0; padding: 0.2em; color: #ff0000; }
 ...
 ```
 
-### Exemplo de declaração de seletores CSS utilizando a estrutura em cascata:
+#### Exemplo de declaração de seletores CSS utilizando a estrutura em cascata:
 
 ```css
 ...
@@ -3972,7 +3974,7 @@ p.contraExemplo { color: #ff0000; }
 - Dividir o código em funções menores e parametrizadas para serem
   utilizadas em vários locais.
 
-### Contraexemplo de Javascript para reaproveitamento de código:
+#### Contraexemplo de Javascript para reaproveitamento de código:
 
 ```html
 ...
@@ -3989,7 +3991,7 @@ function isLoginFormfilled(){
 ...
 ```
 
-### Exemplo de Javascript para reaproveitamento de código: 
+#### Exemplo de Javascript para reaproveitamento de código: 
 
 ```html
 ...
@@ -4015,7 +4017,7 @@ function isFormFilled( formObject ){
 | Ferramental utilizado | Notepad++ e Bluefish |
 | Resultados esperados | Padronização de código e Estruturação de documentos |
 
-# O que é Usabilidade?
+## O que é Usabilidade?
 
 Resumidamente, um produto tem boa usabilidade se pode ser utilizado por
 seus usuários de forma que eles atinjam seus objetivos com eficiência e
@@ -4092,7 +4094,7 @@ Organization (ISO), 1998).
 | Ferramental utilizado | Useit. Usability 101: Introduction to Usability |
 | Resultados esperados | Definição de conceitos |
 
-# Integração Usabilidade - Acessibilidade
+## Integração Usabilidade - Acessibilidade
 
 A integração de acessibilidade e usabilidade deve ser buscada, pois a
 falta da combinação desses conceitos pode resultar em diferentes
@@ -4118,7 +4120,7 @@ relembrança.
 | Ferramental utilizado | Useit. Usability 101: Introduction to Usability e WAI |
 | Resultados esperados | Definição de conceitos |
 
-# Os 10 maiores erros em webdesign
+## Os 10 maiores erros em webdesign
 
 A seguir serão apresentados os 10 maiores erros em *webdesign* adaptados
 da lista de Nielsen (Nielsen, 2007):
@@ -4250,7 +4252,7 @@ da lista de Nielsen (Nielsen, 2007):
 | Ferramental utilizado | Useit. Usability 101: Introduction to Usability |
 | Resultados esperados | Técnica |
 
-# Inspeção Heurística de Usabilidade
+## Inspeção Heurística de Usabilidade
 
 Muitas das ferramentas e metodologias para avaliação de *websites* são
 consideradas inaplicáveis em pequenas equipes, seja por custo,
@@ -4289,7 +4291,7 @@ durante o *design*.
 | Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
 | Resultados esperados | Avaliação e Técnica |
 
-# Heurística genéricas
+## Heurística genéricas
 
 O conjunto de heurísticas genéricas foi proposto inicialmente por
 Nielsen, 1994. Aqui será utilizada a versão revisada das heurísticas
@@ -4351,7 +4353,7 @@ contida em (Rocha e Baranauskas, 2003).
 | Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
 | Resultados esperados | Definição de conceitos |
 
-# Usabilidade na Web
+## Usabilidade na Web
 
 As heurísticas genéricas podem ser especializadas para atender
 determinada classe de aplicações (e.g., sistemas de informações
@@ -4618,7 +4620,7 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 | Ferramental utilizado | Formulário de Inspeção Heurística de Usabilidade na Web |
 | Resultados esperados | Definição de conceitos |
 
-# Formulário de Inspeção Heurística na Web
+## Formulário de Inspeção Heurística na Web
 
 | Campo | Dado da avaliação |
 | --- | --- |
@@ -4679,7 +4681,7 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 | Ferramental utilizado | Firefox Web Developer Add-on e Lynx |
 | Resultados esperados | Avaliação e Técnica |
 
-# Acessibilidade no W3C
+## Acessibilidade no W3C
 
 Uma das mais relevantes iniciativas para promover a acessibilidade na
 *Web* é o *WAI* (WAI - Web Accessibility Initiative), promovido pelo
@@ -4753,7 +4755,7 @@ Os quatro princípios são:
 | Ferramental utilizado | WAI |
 | Resultados esperados | Definição de conceitos e Técnica |
 
-# Modelo de Acessibilidade Brasileiro - e-MAG
+## Modelo de Acessibilidade Brasileiro - e-MAG
 
 Como mencionado no tópico "O que é Acessibilidade?", por meio do
 *decreto* (DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004, 2004), o Governo
@@ -4778,7 +4780,7 @@ e-MAG é o (DaSilva).
 | Ferramental utilizado | DaSilva e ASES |
 | Resultados esperados | Definição de conceitos e Técnica |
 
-# Recomendações de Acessibilidade para: Utilização de novas tecnologias
+## Recomendações de Acessibilidade para: Utilização de novas tecnologias
 
 Ao utilizar novas tecnologias deve-se projetar as páginas *Web* de forma
 que os usuários que não contam com esses novos recursos não sejam
@@ -4797,7 +4799,7 @@ organização para a definição de padrões.
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Avaliação, Compatibilidade de código e Técnica |
 
-# Recomendações de Acessibilidade para: Portabilidade
+## Recomendações de Acessibilidade para: Portabilidade
 
 Quando se pensa em tornar uma navegação acessível deve-se ter em mente
 que todos os componentes gráficos e o conteúdo textual serão
@@ -4819,7 +4821,7 @@ apenas uma dimensão (e.g., áudio).
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish, NVDA, JAWS, WebAnywhere, DOSVOX, Lynx e WAI |
 | Resultados esperados | Navegação, Compatibilidade de código e Técnica |
 
-# Bloqueio da navegação por teclado
+## Bloqueio da navegação por teclado
 
 Usuários devem poder navegar por todos os elementos do *website* usando
 somente o teclado. Além disso, a navegação deve ser organizada de
@@ -4842,7 +4844,7 @@ navegação por teclado, por exemplo:
 | Ferramental utilizado | WAI |
 | Resultados esperados | Navegação |
 
-# Recomendações de Acessibilidade para: Skip Links
+## Recomendações de Acessibilidade para: Skip Links
 
 Boa parte dos *layouts* de *websites* possuem um cabeçalho, ocupando a
 parte superior da página, um menu, ocupando a lateral esquerda, e o
@@ -4863,7 +4865,7 @@ não lhe interessam, tal como é feito pelos demais usuários. *Skip links*
 podem ser feitos de diversas maneiras. Uma forma comum é usar um *link*
 visível no início da região que pode ser "pulada".
 
-### Exemplo de *skip link*:
+#### Exemplo de *skip link*:
 
 ```html
 ...
@@ -4890,7 +4892,7 @@ leitores de telas. Entretanto, ela não atende usuários que navegam na
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Navegação e Técnica |
 
-# Recomendações de Acessibilidade para: Breadcrumbs
+## Recomendações de Acessibilidade para: Breadcrumbs
 
 *Breadcrumbs* (ou migalhas de pão) são um texto de uma única linha para
 mostrar a localização de uma página Web na hierarquia do website
@@ -4932,7 +4934,7 @@ pontos (:) e imagens de setas. Ainda não existe um padrão para o
 separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 1999).
 
-### Exemplo de *breadcrumb*:
+#### Exemplo de *breadcrumb*:
 
 ```html
 ...
@@ -4953,7 +4955,7 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Navegação e Técnica |
 
-# Recomendações de Acessibilidade para: Teclas de Atalho
+## Recomendações de Acessibilidade para: Teclas de Atalho
 
 Outra questão que surge com a serialização de conteúdo é: como chegar de
 maneira eficiente (direta) até *links* visitados freqüentemente, sem ter
@@ -4967,7 +4969,7 @@ tecla de acesso desejada. Para utilizá-la, basta que o usuário combine a
 tecla de acesso (referente ao atributo *accesskey*) com a tecla especial
 utilizada pelo seu navegador (e.g., ALT).
 
-### Exemplo de declaração de teclas de atalho utilizando o atributo accesskey:
+#### Exemplo de declaração de teclas de atalho utilizando o atributo accesskey:
 
 ```html
 ...
@@ -4995,7 +4997,7 @@ semelhante à utilizada em alguns sistemas operacionais.
 
 **No CSS:**
 
-### Exemplo de CSS para indicação visual de teclas de atalho:
+#### Exemplo de CSS para indicação visual de teclas de atalho:
 
 ```css
 ...
@@ -5005,7 +5007,7 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 
 **No HTML:**
 
-### Exemplo de uso de classe CSS para indiciação visual de teclas de atalho no HTML:
+#### Exemplo de uso de classe CSS para indiciação visual de teclas de atalho no HTML:
 
 ```html
 ...
@@ -5026,7 +5028,7 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Navegação e Técnica |
 
-# Recomendações de Acessibilidade para: Legibilidade
+## Recomendações de Acessibilidade para: Legibilidade
 
 Segundo Nielsen, *"todo o resto - design, velocidade, conteúdo - falha
 quando os usuários não conseguem ler o texto"* (Nielsen, 2000). Páginas
@@ -5068,7 +5070,7 @@ ocupada.
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
 | Resultados esperados | Legibilidade e Técnica |
 
-# Escrita de textos para a Web
+## Escrita de textos para a Web
 
 Um dos principais erros cometidos ao criar conteúdos para *websites* é o
 de ignorar o conhecimento sobre o domínio do *website* e o nível de
@@ -5117,7 +5119,7 @@ esperado.
 | Ferramental utilizado | WAI |
 | Resultados esperados | Legibilidade |
 
-# Recomendações de Acessibilidade para: Contexto
+## Recomendações de Acessibilidade para: Contexto
 
 É um desafio manter o usuário sempre informado sobre onde ele está e,
 consequentemente, seu contexto acerca da página *Web* que está
@@ -5163,7 +5165,7 @@ Exemplos da importância da definição de contexto:
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Navegação, Avaliação e Técnica |
 
-# Recomendações de Acessibilidade para: Agrupamento Espacial
+## Recomendações de Acessibilidade para: Agrupamento Espacial
 
 A tolerância de usuários de páginas *Web* é baixa, dada a variedade de
 opções existentes. Portanto, um *website* deve disponibilizar de forma
@@ -5202,7 +5204,7 @@ elementos de uma página HTML. Exemplos seriam:
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
 | Resultados esperados | Avaliação, Definição de conceitos e Técnica |
 
-# Recomendações de Acessibilidade para: Ícones
+## Recomendações de Acessibilidade para: Ícones
 
 Pessoas não letradas ou com baixo letramento têm dificuldade para
 interpretar textos longos. Portanto, a utilização de ícones para
@@ -5234,7 +5236,7 @@ futuras.
 | Ferramental utilizado | Design e Avaliação de Interfaces Humano-Computador |
 | Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
-# Recomendações de Acessibilidade para: Redundância
+## Recomendações de Acessibilidade para: Redundância
 
 Como nem todos os usuários podem enxergar as cores do *website*, seja
 por deficiência ou pela qualidade do monitor, é necessário que cuidados
@@ -5242,7 +5244,7 @@ especiais sejam tomados na seleção da paleta de cores de um *website*. A
 primeira medida a ser tomada é a de que toda informação oferecida por
 cores também esteja disponível sem cores.
 
-### Contraexemplo de informação fornecida somente por cores:
+#### Contraexemplo de informação fornecida somente por cores:
 
 ```html
 <table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
@@ -5268,7 +5270,7 @@ cores também esteja disponível sem cores.
 <tr><td style="color: #0000ff">50</td><td>50</td></tr>
 </table>
 
-### Exemplo de informação fornecida por cores e texto:
+#### Exemplo de informação fornecida por cores e texto:
 
 ```html
 <table width="50%" cellpadding="5" cellspacing="0" border="1" style="font-weight: bold;">
@@ -5313,7 +5315,7 @@ determinado tipo de deficiência enxergaria.
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
-# Recomendações de Acessibilidade para: Recursos de Áudio
+## Recomendações de Acessibilidade para: Recursos de Áudio
 
 A redundância nas formas de apresentação é uma palavra-chave quando se
 pensa em acessibilidade. Além da estruturação das diversas mídias,
@@ -5355,7 +5357,7 @@ usuário possa desativar estes recursos.
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++ e Bluefish |
 | Resultados esperados | Audibilidade, Definição de conceitos e Técnica |
 
-# Recomendações de Acessibilidade para: Controle do Usuário
+## Recomendações de Acessibilidade para: Controle do Usuário
 
 É possível adicionar diversas funcionalidades a uma página *Web* como
 incluir áudio, animações, vídeo com um intérprete de LIBRAS, entre
@@ -5397,7 +5399,7 @@ comprometer a segurança do usuário ou do *website*).
 | Ferramental utilizado | Firefox Accessibility Extension, Notepad++, Bluefish e WAI |
 | Resultados esperados | Avaliação e Técnica |
 
-# Técnicas para encontrar conteúdo em um website
+## Técnicas para encontrar conteúdo em um website
 
 A quantidade de informações disponíveis nos *websites* cresce
 rapidamente. No entanto, nem sempre o *website* fornece recursos para
@@ -5434,7 +5436,7 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
 | Ferramental utilizado | WAI |
 | Resultados esperados | Navegação |
 
-# Avaliação Simplificada de Acessibilidade
+## Avaliação Simplificada de Acessibilidade
 
 Da mesma forma que é realizada a Inspeção de Usabilidade, a Avaliação
 Simplificada de Acessibilidade consiste de um conjunto básico de
@@ -5533,7 +5535,7 @@ atendidos na construção do *website*.
 | Ferramental utilizado | Formulário para Avaliação Simplificada de Acessibilidade |
 | Resultados esperados | Avaliação |
 
-# Formulário para Avaliação Simplificada de Acessibilidade
+## Formulário para Avaliação Simplificada de Acessibilidade
 
 **(baseado do curso MO622 - Fatores Humanos em Sistemas Computacionais, Prof.a M. Cecília C. Baranauskas, Segundo Semestre de 2007. Instituto de Computação - UNICAMP)**
 
@@ -5551,7 +5553,7 @@ atendidos na construção do *website*.
 - 3: problema grave - alta prioridade na correção
 - 4: problema catastrófico - correção obrigatória para entrega do produto
 
-## Formulário de Avaliação Simplificada de Acessibilidade de Interface
+### Formulário de Avaliação Simplificada de Acessibilidade de Interface
 
 Avaliação Manual: Uso de Navegadores Gráficos e Textuais                     
 
@@ -5579,7 +5581,7 @@ Avaliação Manual: Uso de Navegadores Gráficos e Textuais
 | **1. Verificar se as informações disponibilizadas são equivalentes àquelas oferecidas pelo navegador gráfico**                                                                                                                          |                          |                |
 | **2. Verificar se a informação apresentada faz sentido se apresentada de forma linear**                                                                                                                                                 |                          |                |
 
-## Formulário de Avaliação Simplificada de Acessibilidade de Interface
+### Formulário de Avaliação Simplificada de Acessibilidade de Interface
 
 Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de avaliação de  acessibilidade)  
 
@@ -5596,7 +5598,7 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 | Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
 | Resultados esperados | Avaliação e Técnica |
 
-# Avaliação de acessibilidade utilizando ferramentas semiautomáticas
+## Avaliação de acessibilidade utilizando ferramentas semiautomáticas
 
 Ferramentas semiautomáticas de avaliação de acessibilidade na *Web*
 geralmente são aplicações que, a partir de uma URL dada, validam um
@@ -5638,7 +5640,7 @@ operacionais.
 | Ferramental utilizado | Firefox Accessibility Extension, DaSilva, MAUVE++, AChecker, Lynx e WAI |
 | Resultados esperados | Avaliação e Técnica |
 
-# Referências
+## Referências
 
 1.  Baranauskas, M. C. C., (2007)
     Design Universal e Design Acessível Notas de Aula do curso MO622 -
@@ -5823,7 +5825,7 @@ operacionais.
 
 57. WebAnywhere. `<http://webanywhere.cs.washington.edu/>
 
-# Glossário
+## Glossário
 
 abreviação
 
@@ -6183,9 +6185,9 @@ XML
 > linguagem de marcação extensível, ou seja, permite a utilização de
 > *tags* customizadas.
 
-## 
+### 
 
-## Referências do Glossário
+### Referências do Glossário
 
 1.  Braille Virtual - Universidade de São Paulo. Disponível em:
     `<<http://www.braillevirtual.fe.usp.br/> >. Acesso em: 15 de
