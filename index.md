@@ -580,9 +580,9 @@ integração de tecnologias. São eles:
     necessidades específicas de cada usuário (e.g., navegação via
     teclado, sem recursos sonoros).
 
-    - Os 10 maiores erros em webdesign;
+    - [Os 10 maiores erros em webdesign](#os-10-maiores-erros-em-webdesign);
 
-    - Inspeção Heurística de Usabilidade;
+    - [Inspeção Heurística de Usabilidade](#inspeção-heurística-de-usabilidade);
 
 5.  **Não se restringir a padrões, diretrizes de tecnologias nem
     conceitos** - Apesar de trazerem melhorias, padrões e diretrizes não
@@ -591,9 +591,9 @@ integração de tecnologias. São eles:
     restrições de uso específicas de cada *website* e levar em
     consideração o referencial teórico da área em questão.
 
-    - Recomendações de Acessibilidade para: Skip Links;
+    - [Recomendações de Acessibilidade para: Skip Links](#recomendações-de-acessibilidade-para-skip-links);
 
-    - Recomendações de Acessibilidade para: Breadcrumbs;
+    - [Recomendações de Acessibilidade para: Breadcrumbs](#recomendações-de-acessibilidade-para-breadcrumbs);
 
 6.  **Considerar a diversidade de usuários** - Ao contrário do que
     geralmente é adotado por mantenedores de *websites*, desenvolver
@@ -603,11 +603,11 @@ integração de tecnologias. São eles:
     Tal conhecimento complementa e, por vezes, redireciona diretrizes e
     padrões.
 
-- Atributos aurais com CSS;
+- [Atributos aurais com CSS](#atributos-aurais-com-css);
 
-- Navegação utilizando JavaScript;
+- [Navegação utilizando JavaScript](#navegação-utilizando-javascript);
 
-- Recomendações de Acessibilidade para: Teclas de Atalho;
+- [Recomendações de Acessibilidade para: Teclas de Atalho](#recomendações-de-acessibilidade-para-teclas-de-atalho);
 
 7.  **Considerar diferentes formas de apresentação de páginas Web
     (dispositivos e configurações)** - *Websites* não são documentos
@@ -615,7 +615,7 @@ integração de tecnologias. São eles:
     considerados como construções flexíveis e a diferentes dispositivos,
     tamanho de *display* e preferências de visualização de usuários.
 
-    - Unidades de medida relativas - Unidades em CSS: Porcentagem e em;
+    - [Unidades de medida relativas - Unidades em CSS: Porcentagem e em](#unidades-de-medida-relativas---unidades-em-css-porcentagem-e-em);
 
 8.  **Avaliação e validação** - Devido à característica dinâmica de
     *websites*, mesmo quando mantenedores conhecem e empregam os padrões
@@ -625,15 +625,15 @@ integração de tecnologias. São eles:
     ferramentas automatizadas de validação de código ou por meio de
     avaliação manual.
 
-    - Validação de código HTML;
+    - [Validação de código HTML](#validação-de-código-html);
 
-    - Validação de folhas de estilo CSS;
+    - [Validação de folhas de estilo CSS](#validação-de-folhas-de-estilo-css);
 
-    - Verificação de código JavaScript;
+    - [Verificação de código JavaScript](#verificação-de-código-javascript);
 
-    - Formulário de Inspeção Heurística na Web;
+    - [Formulário de Inspeção Heurística na Web](#formulário-de-inspeção-heurística-na-web);
 
-    - Avaliação Simplificada de Acessibilidade;
+    - [Avaliação Simplificada de Acessibilidade](#avaliação-simplificada-de-acessibilidade);
 
 9.  **Integrar tecnologias e conceitos durante todo o
     desenvolvimento** - Um dos grandes problemas no desenvolvimento de
@@ -648,7 +648,7 @@ integração de tecnologias. São eles:
     regras de desenvolvimento, mas também das necessidades e dos
     benefícios gerados por sua aplicação.
 
-    - Integração Usabilidade - Acessibilidade.
+    - [Integração Usabilidade - Acessibilidade](#integração-usabilidade---acessibilidade).
 
 | :clipboard: Ficha | |
 | --- | --- |
@@ -6005,8 +6005,7 @@ XML
     setembro de 2008.
 
 2.  ECMA International - Standard ECMA-262 Disponível em:
-    <http://www.ecma-international.org/publications/standards/Ecma-262.htm>
-    >. Acesso em: 15 de setembro de 2008.
+    <http://www.ecma-international.org/publications/standards/Ecma-262.htm>. Acesso em: 15 de setembro de 2008.
 
 3.  HULL, L. Accessibility: It's not just for disabilities any more.
     Interactions, New York, v. 11, n. 2, 36-41, Mar./Abr. 2004.
@@ -6028,14 +6027,12 @@ XML
 
 7.  Netscape - Core JavaScript Reference 1.5: Core JavaScript Reference.
     Disponível em:
-    <http://devedge-temp.mozilla.org/library/manuals/2000/javascript/1.5/reference/>
-    >. Acesso em: 15 de setembro de 2008.
+    <http://devedge-temp.mozilla.org/library/manuals/2000/javascript/1.5/reference/>. Acesso em: 15 de setembro de 2008.
 
 8.  PUPO, D. T.; MELO, A. M.; PÉREZ FERRÉS, S. (Org.) Acessibilidade:
     discurso e prática no cotidiano das bibliotecas. Campinas:
     Unicamp/Biblioteca Central Cesar Lattes, 2006. 91 p. Disponível em:
-    <http://styx.nied.unicamp.br:8080/todosnos/artigos-cientificos/livro_acessibilidade_bibliotecas.pdf>
-    >. Acesso em: 18 de setembro de 2008.
+    <http://styx.nied.unicamp.br:8080/todosnos/artigos-cientificos/livro_acessibilidade_bibliotecas.pdf>. Acesso em: 18 de setembro de 2008.
 
 9.  ROCHA, H. V.; BARANAUSKAS, M. C. Design e Avaliação de Interfaces
     Humano-Computador. Campinas: Nied-Unicamp, 2003. 244 p. Disponível
@@ -6043,8 +6040,7 @@ XML
     em: 17 de setembro de 2008.
 
 10. WebAIM - Web Accessibility in Mind. Creating Accessible Flash
-    Content. Disponível em: <http://www.webaim.org/techniques/flash/>
-    >. Acesso em: 3 de outubro de 2008.
+    Content. Disponível em: <http://www.webaim.org/techniques/flash/>. Acesso em: 3 de outubro de 2008.
 
 11. W3C - World Wide Web Consortium. Web Accessibility Guidelines 1.0 -
     Apendix B. 1999. Disponível em:
