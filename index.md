@@ -3773,25 +3773,24 @@ mais simples.
 ```html
 <script type="text/javascript"><!--
 function getSuggestions(q){
- var xmlHttp;
- try { xmlHttp=new XMLHttpRequest(); } catch (e) {
-  try { xmlHttp=new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {
-   try { xmlHttp=new ActiveXObject("Microsoft.XMLHTTP"); } catch (e)
-{
-    return false;
-   }
-  }
- }
- xmlHttp.onreadystatechange = function(){
-  if( xmlHttp.readyState == 4 ){
-   try{
-    document.getElementById("ex421_topicSearchResults").innerHTML = xmlHttp.responseText ;
-   }
-   catch( e ) { }
-  }
- } ;
- xmlHttp.open( "GET","sites/default/files/examples/ajax-suggest.php?q=" + q , true ) ;
- xmlHttp.send( null ) ;
+    var xmlHttp;
+    try { xmlHttp=new XMLHttpRequest(); } catch (e) {
+        try { xmlHttp=new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {
+            try { xmlHttp=new ActiveXObject("Microsoft.XMLHTTP"); } catch (e){
+                return false;
+            }
+        }
+    }
+    xmlHttp.onreadystatechange = function(){
+        if( xmlHttp.readyState == 4 ){
+            try{
+                document.getElementById("ex421_topicSearchResults").innerHTML = xmlHttp.responseText ;
+            }
+            catch( e ) { }
+        }
+     } ;
+    xmlHttp.open( "GET","sites/default/files/examples/ajax-suggest.php?q=" + q , true ) ;
+    xmlHttp.send( null ) ;
 }
 //--></script>
 <form action="/files/examples/ajax-suggest.php">
@@ -3896,11 +3895,9 @@ código.
 <meta name="author" content="João">
 <meta name="keywords" content="HTML, Acessibilidade">
 <meta name="description" content="Página de teste">
-<meta http-equiv="content-type" content="text/html;
-charset=ISO-8859-1">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
-GMT">
+<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
 <meta http-equiv="cache-control" content="no-store">
 <title>Página inicial</title>
 </head>
@@ -3920,11 +3917,9 @@ incluir um arquivo de cabeçalho.
 <meta name="author" content="João">
 <meta name="keywords" content="HTML, Acessibilidade">
 <meta name="description" content="Página de teste">
-<meta http-equiv="content-type" content="text/html;
-charset=ISO-8859-1">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00
-GMT">
+<meta http-equiv="expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
 <meta http-equiv="cache-control" content="no-store">
 ```
 
@@ -4616,6 +4611,8 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
  <td>Várias páginas não contêm informação de autoria, data de publicação/última data de edição.</td>
 </tr>
 </table>
+
+<br>
 
 | :clipboard: Ficha | |
 | --- | --- |
@@ -5995,8 +5992,6 @@ WCAG
 
 XML
 : Acrônimo em inglês para *eXtensible Markup Language*, que é uma linguagem de marcação extensível, ou seja, permite a utilização de *tags* customizadas.
-
-### 
 
 ### Referências do Glossário
 
