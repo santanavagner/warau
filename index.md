@@ -426,12 +426,12 @@ Nacional dos Direitos das Pessoas Portadoras de Deficiência.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Design Universal e Design Acessível
 
@@ -476,12 +476,12 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Avaliação e definição de conceitos |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Avaliação e definição de conceitos |
 
 ## Tecnologias Assistivas
 
@@ -521,12 +521,12 @@ Versão em alto contraste.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [NVDA](https://www.nvaccess.org/download/), [JAWS](https://webinsight.cs.washington.edu/wa/), [WebAnywhere](https://webinsight.cs.washington.edu/wa/), [DOSVOX](https://intervox.nce.ufrj.br/dosvox/) e [Lynx](https://lynx.invisible-island.net/current/) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [NVDA](https://www.nvaccess.org/download/), [JAWS](https://webinsight.cs.washington.edu/wa/), [WebAnywhere](https://webinsight.cs.washington.edu/wa/), [DOSVOX](https://intervox.nce.ufrj.br/dosvox/) e [Lynx](https://lynx.invisible-island.net/current/) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Princípios para o desenvolvimento Web acessível
 
@@ -652,12 +652,12 @@ integração de tecnologias. São eles:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML, CSS, JavaScript, Acessibilidade e Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | WARAU |
-| Resultados esperados | Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | HTML, CSS, JavaScript, Acessibilidade e Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | WARAU |
+| :star_struck: Resultados esperados | Definição de conceitos e Técnica |
 
 ## Padronização de códigos HTML
 
@@ -716,12 +716,12 @@ Texto mostrado
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Padronização de código |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Padronização de código |
 
 ## Estrutura de documentos HTML
 
@@ -855,12 +855,12 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Estruturação de documentos |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Estruturação de documentos |
 
 ## Âncoras e hiperlinks - A tag HTML `<a>`
 
@@ -911,12 +911,12 @@ a *tag* `<title>` se refere ao título da página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Navegação |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Navegação |
 
 ## Mapeamentos - A tag HTML `<map>`
 
@@ -933,12 +933,12 @@ mesmos *hiperlinks* em formato textual.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Imagens e animações |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Imagens e animações |
 
 ## Listas - As tags HTML `<ol>`, `<ul>` e `<dl>`
 
@@ -973,9 +973,7 @@ definição por `<dd>` e `</dd>`.
 ```html
 <dl>
 <dt>Usabilidade</dt>
-<dd>É a capacidade de um produto qualquer ser utilizado por seus
-usuários de maneira que eles atinjam seus objetivos com eficiência e
-satisfação.</dd>
+<dd>É a capacidade de um produto qualquer ser utilizado por seus usuários de maneira que eles atinjam seus objetivos com eficiência e satisfação.</dd>
 </dl>
 ```
 
@@ -991,12 +989,12 @@ satisfação.</dd>
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Navegação e Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Navegação e Legibilidade |
 
 ## Subtópicos - As tags HTML `<h1>` a `<h6>`
 
@@ -1024,12 +1022,12 @@ Dê preferência sempre à formatação via CSS.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Navegação e Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Navegação e Legibilidade |
 
 ## Tabulação - O atributo HTML tabindex
 
@@ -1050,12 +1048,12 @@ tabulação em uma ordem que faça sentido ao usuário.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Navegação e Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Navegação e Formulários |
 
 ## Frames - A tag HTML `<frame>`
 
@@ -1075,12 +1073,12 @@ muitos desses problemas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Navegação e Codificação |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Navegação e Codificação |
 
 ## Elementos de bloco e elementos de linha
 
@@ -1097,12 +1095,12 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Agrupamento de elementos de bloco - A tag HTML `<div>`
 
@@ -1115,19 +1113,19 @@ com algum propósito especial.
 ```html
 <div class="citacoes">
 <p>
-<span class="citacao">O personagem diz `<span lang="it">"Buon Giorno Principessa"</span></span>
+<span class="citacao">O personagem diz <span lang="it">"Buon Giorno Principessa"</span></span>
 </p>
 </div>
 ```
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Estruturação de documentos e Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Estruturação de documentos e Legibilidade |
 
 ## Agrupamento de texto - A tag HTML `<span>`
 
@@ -1140,21 +1138,18 @@ uma língua diferente do resto do texto.
 
 ```html
 <p>
-<span class="citacao">
-O personagem diz `<span lang="it">"Buon Giorno Principessa"
-</span>
-</span>
+<span class="citacao">O personagem diz <span lang="it">"Buon Giorno Principessa"</span></span>
 </p>
 ```
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Estruturação de documentos e Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Estruturação de documentos e Legibilidade |
 
 ## Quebras de linha - A tag HTML `<br>`
 
@@ -1173,12 +1168,12 @@ Linha 1<br>Linha 2<br>Linha 3
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Parágrafos - A tag HTML `<p>`
 
@@ -1204,12 +1199,12 @@ parágrafos **não** dever ser justificado.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Idiomas - O atributo HTML lang
 
@@ -1234,12 +1229,12 @@ linguagem.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Textos sobrescritos - A tag HTML `<sup>`
 
@@ -1258,12 +1253,12 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Textos subscritos - A tag HTML `<sub>`
 
@@ -1283,12 +1278,12 @@ de um elemento químico.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Fontes - A tag HTML `<font>`
 
@@ -1317,12 +1312,12 @@ se adequa aos novos parâmetros.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Codificação |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Codificação |
 
 ## Ênfase no texto - As tags HTML `<em>` e `<strong>`
 
@@ -1351,12 +1346,12 @@ de várias formas, inclusive via leitor de telas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Abreviações e siglas - A tags HTML `<abbr>`
 
@@ -1390,12 +1385,12 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :yellow_circle: Média |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :yellow_circle: Média |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Cores - Os atributos HTML color e bgcolor
 
@@ -1425,12 +1420,12 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Réguas horizontais - A tag HTML `<hr>`
 
@@ -1454,12 +1449,12 @@ conteúdo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :red_circle: Baixa |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :red_circle: Baixa |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Textos alternativos
 
@@ -1484,12 +1479,12 @@ criado texto alternativo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML e Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | HTML e Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Imagens - A tag HTML `<img>`
 
@@ -1528,12 +1523,12 @@ forma de interromper o movimento.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [Lynx](https://lynx.invisible-island.net/current/) |
-| Resultados esperados | Legibilidade e Imagens e animações |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [Lynx](https://lynx.invisible-island.net/current/) |
+| :star_struck: Resultados esperados | Legibilidade e Imagens e animações |
 
 ## Elementos multimídia - A tag HTML `<object>`
 
@@ -1575,12 +1570,12 @@ aspectos de usabilidade.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Imagens e animações |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Imagens e animações |
 
 ## Formulários - A tag HTML `<form>`
 
@@ -1619,12 +1614,12 @@ possa ser referenciado dentro da página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Estruturação de documentos e Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Estruturação de documentos e Formulários |
 
 ## Campos de entrada de dados - A tag HTML `<input>`
 
@@ -1662,12 +1657,12 @@ atributo *checked* com valor *checked*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Formulários |
 
 ## Rótulos - A tag HTML `<label>`
 
@@ -1700,12 +1695,12 @@ referência.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Formulários |
 
 ## Caixas de seleção - A tag HTML `<select>`
 
@@ -1754,12 +1749,12 @@ identificação.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Formulários |
 
 ## Campos de texto - A tag HTML `<textarea>`
 
@@ -1779,12 +1774,12 @@ linhas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Formulários |
 
 ## Agrupamento de elementos de formulário - A tag HTML `<fieldset>`
 
@@ -1815,12 +1810,12 @@ formulários correlacionados.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Formulários |
 
 ## Rótulos para fieldsets - A tag HTML `<legend>`
 
@@ -1853,12 +1848,12 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Formulários |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Formulários |
 
 ## Tabelas - As tags HTML `<table>`, `<td>`, `<tr>`, `<th>` e `<caption>`
 
@@ -2006,12 +2001,12 @@ legenda de uma tabela.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Tabelas |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [HTML 5 Specification](https://html.spec.whatwg.org/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Tabelas |
 
 ## Validação de código HTML
 
@@ -2023,12 +2018,12 @@ versão do HTML que esteja sendo utilizada na página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [W3C Markup Validation Service](https://validator.w3.org/) |
-| Resultados esperados | Avaliação |
+| :puzzle_piece: Tema | HTML | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [W3C Markup Validation Service](https://validator.w3.org/) |
+| :star_struck: Resultados esperados | Avaliação |
 
 ## Sintaxe CSS
 
@@ -2116,12 +2111,12 @@ propriedades utilizadas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS Reference](https://www.w3schools.com/cssref/index.php) |
-| Resultados esperados | Padronização de código e Estruturação de documentos |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS Reference](https://www.w3schools.com/cssref/index.php) |
+| :star_struck: Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## Inclusão de código CSS
 
@@ -2186,12 +2181,12 @@ Este é um parágrafo
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS Reference](https://www.w3schools.com/cssref/index.php) |
-| Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools CSS Reference](https://www.w3schools.com/cssref/index.php) |
+| :star_struck: Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Estrutura de documentos CSS
 
@@ -2226,12 +2221,12 @@ strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Estruturação de documentos |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Estruturação de documentos |
 
 ## Padronização de código CSS
 
@@ -2294,12 +2289,12 @@ funcionam em navegadores mais antigos são: *margin*, *padding* e
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 ## Prioridade para estilos do usuário
 
@@ -2311,12 +2306,12 @@ foi necessário forçar a aplicação de um determinado estilo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Padronização de código e Estruturação de documentos |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), W3C CSS Validation Service, [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## Unidades de medida relativas - Unidades em CSS: Porcentagem e em
 
@@ -2340,12 +2335,12 @@ vetoriais).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Codificação |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Codificação |
 
 ## Conteúdos gerados pelo CSS: os pseudo-elementos before e after
 
@@ -2370,12 +2365,12 @@ Referência de CSS do W3 Schools.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Codificação |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Codificação |
 
 ## Listas ordenadas utilizando CSS
 
@@ -2449,12 +2444,12 @@ Padronização
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Navegação e Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Navegação e Legibilidade |
 
 ## Réguas - Alterando a aparência com CSS
 
@@ -2492,12 +2487,12 @@ hr:before { content: attr(title); }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Bordas utilizando CSS
 
@@ -2522,12 +2517,12 @@ div {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Posicionamento utilizando CSS
 
@@ -2572,12 +2567,12 @@ table tr td { padding: 0.1em; }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Fontes utilizando CSS
 
@@ -2600,12 +2595,12 @@ sejam prejudicados por problemas de compatibilidade dos navegadores.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Efeitos em texto utilizando CSS
 
@@ -2642,12 +2637,12 @@ utilizassem CSS?
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Formatação e posicionamento de texto utilizando CSS
 
@@ -2684,12 +2679,12 @@ forma: text-align: center.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Utilizando texto em vez de imagem
 
@@ -2731,12 +2726,12 @@ a.paginacao {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Codificação |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Codificação |
 
 ## Atributos aurais com CSS
 
@@ -2759,12 +2754,12 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Audibilidade |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Specification](https://www.w3.org/Style/CSS/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Audibilidade |
 
 ## Cores com CSS
 
@@ -2797,12 +2792,12 @@ incluindo imagens e cores de fundo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Compatibilidade de código e Técnica |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Compatibilidade de código e Técnica |
 
 ## Validação de folhas de estilo CSS
 
@@ -2814,12 +2809,12 @@ erros, segundo a versão do CSS que esteja sendo utilizada na página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) |
-| Resultados esperados | Avaliação |
+| :puzzle_piece: Tema | CSS | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) |
+| :star_struck: Resultados esperados | Avaliação |
 
 ## Recomendações para uso do JavaScript
 
@@ -2850,12 +2845,12 @@ para oferecer funcionalidades básicas de um *website*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Compatibilidade de código e Codificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Compatibilidade de código e Codificação |
 
 ## Inclusão de código JavaScript
 
@@ -2896,12 +2891,12 @@ interpretado se o navegador suportar JavaScript.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Declaração de variáveis em JavaScript
 
@@ -2951,13 +2946,12 @@ function Valida(pa,pb) {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e W3Schools JavaScript
-Reference |
-| Resultados esperados | Padronização de código e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Ordem da declaração de variáveis e métodos em JavaScript
 
@@ -2972,12 +2966,12 @@ pelos navegadores.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código, Estruturação de documentos e Codificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código, Estruturação de documentos e Codificação |
 
 ## Quebras de linha no código JavaScript
 
@@ -3006,12 +3000,12 @@ x = 2;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Cuidados com versões da linguagem JavaScript
 
@@ -3027,12 +3021,12 @@ ter que fazê-la, pense na possibilidade de utilizar bibliotecas de
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Detecção de navegador, objetos e métodos utilizando JavaScript
 
@@ -3100,12 +3094,12 @@ if ( window.focus ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Conversão de tipo de dados em JavaScript
 
@@ -3166,12 +3160,12 @@ function getLinha(pval){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Estruturação de documentos e Compatibilidade de
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Estruturação de documentos e Compatibilidade de
 código |
 
 ## Manipuladores de evento em HTML
@@ -3203,12 +3197,12 @@ function selecionou(porigem) {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML, JavaScript e Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [Lynx](https://lynx.invisible-island.net/current/) |
-| Resultados esperados | Compatibilidade de código e Codificação |
+| :puzzle_piece: Tema | HTML, JavaScript e Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [Lynx](https://lynx.invisible-island.net/current/) |
+| :star_struck: Resultados esperados | Compatibilidade de código e Codificação |
 
 ## Desvios e laços condicionais em JavaScript
 
@@ -3238,12 +3232,12 @@ if ( ... ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código, Estruturação de documentos e Compatibilidade de código |
 
 ## Escrita de HTML via JavaScript
 
@@ -3279,12 +3273,12 @@ document.write( html_code ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML e JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código e Codificação |
+| :puzzle_piece: Tema | HTML e JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código e Codificação |
 
 ## Aspas simples e duplas em JavaScript
 
@@ -3319,12 +3313,12 @@ código JavaScript estiver dentro de um atributo de uma tag HTML.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código |
 
 ## ETAGO em JavaScript
 
@@ -3350,12 +3344,12 @@ document.write( "<p>Teste<\/p>" ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) |
-| Resultados esperados | Padronização de código e Compatibilidade de código |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) |
+| :star_struck: Resultados esperados | Padronização de código e Compatibilidade de código |
 
 ## Escrevendo a palavra reservada script
 
@@ -3385,12 +3379,12 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código, Compatibilidade de código e Codificação |
 
 ## Manipulação de CSS utilizando JavaScript
 
@@ -3416,12 +3410,12 @@ name_element.style.borderColor = "#000000" ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS e JavaScript | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código |
+| :puzzle_piece: Tema | CSS e JavaScript | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código |
 
 ## Navegação utilizando JavaScript
 
@@ -3524,12 +3518,12 @@ open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Navegação, Codificação e Técnica |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Navegação, Codificação e Técnica |
 
 ## Validação de formulários utilizando JavaScript
 
@@ -3572,12 +3566,12 @@ function verificarInteiro( val ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Formulários e Codificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Formulários e Codificação |
 
 ## Acesso a conteúdo e redundância utilizando JavaScript
 
@@ -3603,12 +3597,12 @@ document.write("Texto escrito via javascript!");
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Compatibilidade de código e Codificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Compatibilidade de código e Codificação |
 
 ## Gráficos e animações utilizando JavaScript
 
@@ -3697,12 +3691,12 @@ setTimeout( "play_caption()", 1000 ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :red_circle: Baixa |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Imagens e animações e Codificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :red_circle: Baixa |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Imagens e animações e Codificação |
 
 ## Manipulação de HTML utilizando JavaScript
 
@@ -3724,12 +3718,12 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema |  HTML e JavaScript | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código |
+| :puzzle_piece: Tema |  HTML e JavaScript | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código |
 
 ## AJAX
 
@@ -3819,12 +3813,12 @@ dos resultados.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) |
-| Resultados esperados | Técnica |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) |
+| :star_struck: Resultados esperados | Técnica |
 
 ## Manipulação de HTML utilizando JavaScript
 
@@ -3846,12 +3840,12 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML e JavaScript | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
-| Resultados esperados | Padronização de código |
+| :puzzle_piece: Tema | HTML e JavaScript | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [W3Schools JavaScript Reference](https://www.w3schools.com/jsref/jsref_reference.asp) |
+| :star_struck: Resultados esperados | Padronização de código |
 
 ## Verificação de código JavaScript
 
@@ -3862,12 +3856,12 @@ possíveis erros e recomendações segundo boas práticas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | JavaScript | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado |  JSLint The JavaScript Verifier |
-| Resultados esperados | Verificação |
+| :puzzle_piece: Tema | JavaScript | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado |  JSLint The JavaScript Verifier |
+| :star_struck: Resultados esperados | Verificação |
 
 ## Reaproveitamento de Código
 
@@ -4011,12 +4005,12 @@ function isFormFilled( formObject ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML, CSS e JavaScript | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Padronização de código e Estruturação de documentos |
+| :puzzle_piece: Tema | HTML, CSS e JavaScript | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Padronização de código e Estruturação de documentos |
 
 ## O que é Usabilidade?
 
@@ -4088,12 +4082,12 @@ Organization (ISO), 1998).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Integração Usabilidade - Acessibilidade
 
@@ -4114,12 +4108,12 @@ relembrança.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade e Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | Acessibilidade e Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Os 10 maiores erros em webdesign
 
@@ -4246,12 +4240,12 @@ da lista de Nielsen (Nielsen, 2007):
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) |
-| Resultados esperados | Técnica |
+| :puzzle_piece: Tema | Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) |
+| :star_struck: Resultados esperados | Técnica |
 
 ## Inspeção Heurística de Usabilidade
 
@@ -4285,12 +4279,12 @@ durante o *design*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
-| Resultados esperados | Avaliação e Técnica |
+| :puzzle_piece: Tema | Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
+| :star_struck: Resultados esperados | Avaliação e Técnica |
 
 ## Heurística genéricas
 
@@ -4347,12 +4341,12 @@ contida em (Rocha e Baranauskas, 2003).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Usabilidade na Web
 
@@ -4616,12 +4610,12 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Usabilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
-| Resultados esperados | Definição de conceitos |
+| :puzzle_piece: Tema | Usabilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Formulário de Inspeção Heurística de Usabilidade na Web](#formulário-de-inspeção-heurística-na-web) |
+| :star_struck: Resultados esperados | Definição de conceitos |
 
 ## Formulário de Inspeção Heurística na Web
 
@@ -4677,12 +4671,12 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Usabilidade | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [Lynx](https://lynx.invisible-island.net/current/) |
-| Resultados esperados | Avaliação e Técnica |
+| :puzzle_piece: Tema | Usabilidade | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Firefox Web Developer Add-on](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) e [Lynx](https://lynx.invisible-island.net/current/) |
+| :star_struck: Resultados esperados | Avaliação e Técnica |
 
 ## Acessibilidade no W3C
 
@@ -4751,12 +4745,12 @@ Os quatro princípios são:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Definição de conceitos e Técnica |
 
 ## Modelo de Acessibilidade Brasileiro - e-MAG
 
@@ -4776,12 +4770,12 @@ e-MAG é o (DaSilva).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | DaSilva e ASES |
-| Resultados esperados | Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | DaSilva e ASES |
+| :star_struck: Resultados esperados | Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Utilização de novas tecnologias
 
@@ -4795,12 +4789,12 @@ organização para a definição de padrões.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Avaliação, Compatibilidade de código e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Avaliação, Compatibilidade de código e Técnica |
 
 ## Recomendações de Acessibilidade para: Portabilidade
 
@@ -4817,12 +4811,12 @@ apenas uma dimensão (e.g., áudio).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/), [NVDA](https://www.nvaccess.org/download/), [JAWS](https://support.freedomscientific.com/Downloads/JAWS), [WebAnywhere](https://webinsight.cs.washington.edu/wa/), [DOSVOX](https://intervox.nce.ufrj.br/dosvox/), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação, Compatibilidade de código e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/), [NVDA](https://www.nvaccess.org/download/), [JAWS](https://support.freedomscientific.com/Downloads/JAWS), [WebAnywhere](https://webinsight.cs.washington.edu/wa/), [DOSVOX](https://intervox.nce.ufrj.br/dosvox/), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação, Compatibilidade de código e Técnica |
 
 ## Bloqueio da navegação por teclado
 
@@ -4840,12 +4834,12 @@ navegação por teclado, por exemplo:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML, JavaScript e Acessibilidade | 
-| Relevância para designers | :yellow_circle: Média |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :yellow_circle: Média |
-| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação |
+| :puzzle_piece: Tema | HTML, JavaScript e Acessibilidade | 
+| :pencil2: Relevância para designers | :yellow_circle: Média |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :yellow_circle: Média |
+| :hammer_and_wrench: Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação |
 
 ## Recomendações de Acessibilidade para: Skip Links
 
@@ -4888,12 +4882,12 @@ leitores de telas. Entretanto, ela não atende usuários que navegam na
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação e Técnica |
 
 ## Recomendações de Acessibilidade para: Breadcrumbs
 
@@ -4951,12 +4945,12 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação e Técnica |
 
 ## Recomendações de Acessibilidade para: Teclas de Atalho
 
@@ -5024,12 +5018,12 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | CSS e Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação e Técnica |
+| :puzzle_piece: Tema | CSS e Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação e Técnica |
 
 ## Recomendações de Acessibilidade para: Legibilidade
 
@@ -5066,12 +5060,12 @@ ocupada.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Legibilidade e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Legibilidade e Técnica |
 
 ## Escrita de textos para a Web
 
@@ -5115,12 +5109,12 @@ esperado.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :red_circle: Baixa |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Legibilidade |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :red_circle: Baixa |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Legibilidade |
 
 ## Recomendações de Acessibilidade para: Contexto
 
@@ -5161,12 +5155,12 @@ Exemplos da importância da definição de contexto:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação, Avaliação e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação, Avaliação e Técnica |
 
 ## Recomendações de Acessibilidade para: Agrupamento Espacial
 
@@ -5200,12 +5194,12 @@ elementos de uma página HTML. Exemplos seriam:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :yellow_circle: Média |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Avaliação, Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :yellow_circle: Média |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Avaliação, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Ícones
 
@@ -5232,12 +5226,12 @@ futuras.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Design e Avaliação de Interfaces Humano-Computador](https://www.nied.unicamp.br/biblioteca/design-e-avaliacao-de-interfaces-humano-computador/) |
-| Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Design e Avaliação de Interfaces Humano-Computador](https://www.nied.unicamp.br/biblioteca/design-e-avaliacao-de-interfaces-humano-computador/) |
+| :star_struck: Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Redundância
 
@@ -5311,12 +5305,12 @@ determinado tipo de deficiência enxergaria.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Imagens e animações, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Recursos de Áudio
 
@@ -5353,12 +5347,12 @@ usuário possa desativar estes recursos.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :green_circle: Alta |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
-| Resultados esperados | Audibilidade, Definição de conceitos e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :green_circle: Alta |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/) e [Bluefish](https://bluefish.openoffice.nl/) |
+| :star_struck: Resultados esperados | Audibilidade, Definição de conceitos e Técnica |
 
 ## Recomendações de Acessibilidade para: Controle do Usuário
 
@@ -5395,12 +5389,12 @@ comprometer a segurança do usuário ou do *website*).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Avaliação e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), [Notepad++](https://notepad-plus-plus.org/), [Bluefish](https://bluefish.openoffice.nl/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Avaliação e Técnica |
 
 ## Técnicas para encontrar conteúdo em um website
 
@@ -5432,12 +5426,12 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | HTML e Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Navegação |
+| :puzzle_piece: Tema | HTML e Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Navegação |
 
 ## Avaliação Simplificada de Acessibilidade
 
@@ -5531,12 +5525,12 @@ atendidos na construção do *website*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [Formulário para Avaliação Simplificada de Acessibilidade](#formulário-para-avaliação-simplificada-de-acessibilidade) |
-| Resultados esperados | Avaliação |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [Formulário para Avaliação Simplificada de Acessibilidade](#formulário-para-avaliação-simplificada-de-acessibilidade) |
+| :star_struck: Resultados esperados | Avaliação |
 
 ## Formulário para Avaliação Simplificada de Acessibilidade
 
@@ -5594,12 +5588,12 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, [MAUVE++](https://mauve.isti.cnr.it/), [AChecker](https://achecks.org/checker/index.php), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Avaliação e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, [MAUVE++](https://mauve.isti.cnr.it/), [AChecker](https://achecks.org/checker/index.php), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Avaliação e Técnica |
 
 ## Avaliação de acessibilidade utilizando ferramentas semiautomáticas
 
@@ -5636,12 +5630,12 @@ operacionais.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| Tema | Acessibilidade | 
-| Relevância para designers | :green_circle: Alta |
-| Relevância para desenvolvedores | :green_circle: Alta |
-| Relevância para redatores | :red_circle: Baixa |
-| Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, [MAUVE++](https://mauve.isti.cnr.it/), [AChecker](https://achecks.org/checker/index.php), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
-| Resultados esperados | Avaliação e Técnica |
+| :puzzle_piece: Tema | Acessibilidade | 
+| :pencil2: Relevância para designers | :green_circle: Alta |
+| :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
+| :pen_fountain: Relevância para redatores | :red_circle: Baixa |
+| :hammer_and_wrench: Ferramental utilizado | [WAVE Browser Extension](https://wave.webaim.org/extension/), DaSilva, [MAUVE++](https://mauve.isti.cnr.it/), [AChecker](https://achecks.org/checker/index.php), [Lynx](https://lynx.invisible-island.net/current/) e [WAI](https://www.w3.org/WAI/) |
+| :star_struck: Resultados esperados | Avaliação e Técnica |
 
 ## Referências
 
@@ -6049,6 +6043,10 @@ XML
 
 ----
 
+**Site gerado em:** {{ site.time }}
+
+----
+
 [^1]: Pesquisa apoiada até março de 2009 pela Coordenação de
     Aperfeiçoamento de Pessoal de Nível Superior (CAPES) através de
     bolsa de mestrado. De abril de 2009 a setembro de 2012 a pesquisa
@@ -6058,9 +6056,3 @@ XML
 [^2]: Pesquisa apoiada pela Fundação de Amparo à Pesquisa do Estado de
     São Paulo (FAPESP) através de bolsa de doutorado (processo
     #2007/02161-0).
-
-----
-
-**Site gerado em:** {{ site.time }}
-
-----
