@@ -15,10 +15,12 @@
 | Bibtex | \@book{Santana2018,<br>&emsp;title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade},<br>&emsp;author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cecília Calani},<br>&emsp;year={2018},<br>&emsp;publisher = {Leanpub},<br>&emsp;isbn = {978-85-907039-1-4}<br>} |
 
 **Data da revisão:** 13/02/2026
-
-**Site gerado em:** {{ site.time }}
   
 **ISBN:** 978-85-907039-1-4
+
+<div align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="images/by-nc-nd.png" alt="Creative Commons BY-NC-ND" width="10%"/></a>
+</div>
 
 ----
 
@@ -5656,7 +5658,7 @@ operacionais.
 
 3.  Calazans, F. (2011)
     Biomidiologia: Pokemon
-    http://www.calazans.ppg.br/c_pok.htm
+    <http://www.calazans.ppg.br/c_pok.htm>
 
 4.  Chisholm, W. A., Henry, S. L., (2005)
     Interdependent components of web accessibility In Proceedings of the
@@ -5666,7 +5668,7 @@ operacionais.
 5.  Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Berners-Lee, T.,
     (1997)
     RFC 2068-Hypertext Transfer Protocol-HTTP/1.1. IETF-Network Working
-    Group. http://www.ietf.org/rfc/rfc2068.txt
+    Group. <http://www.ietf.org/rfc/rfc2068.txt>
 
 6.  Heilmann, C., (2006a)
     Seven Accessibility Mistakes (part 1)
@@ -5754,8 +5756,7 @@ operacionais.
 
 30. DaSilva. <http://www.dasilva.org.br/>
 
-31. DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004.
-    www.planalto.gov.br/ccivil_03/\_ato2004-2006/2004/decreto/d5296.htm
+31. DECRETO nº 5.296 DE 2 DE DEZEMBRO DE 2004. <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm>
 
 32. e-MAG - Modelo de Acessibilidade de Governo Eletrônico. <https://emag.governoeletronico.gov.br/>
 
@@ -5773,7 +5774,7 @@ operacionais.
 38. JSLint: The JavaScript Verifier. <http://www.jslint.com/lint.html>
 
 39. Juicy Studio - Luminosity Colour Contrast Ratio Analyser.
-    http://juicystudio.com/services/luminositycontrastratio.php
+    <http://juicystudio.com/services/luminositycontrastratio.php>
 
 40. Lomak - Light Operated Mouse and Keyboard.
     <http://www.lomakkeyboard.com/index.html>
@@ -5826,10 +5827,7 @@ operacionais.
 ## Glossário
 
 abreviação
-
-> Omissão de parte de uma ou mais palavras para formar uma nova palavra
-> reduzida. Por exemplo: Unicamp é abreviação de Universidade Estadual
-> de Campinas.
+: Omissão de parte de uma ou mais palavras para formar uma nova palavra reduzida. Por exemplo: Unicamp é abreviação de Universidade Estadual de Campinas.
 
 acessibilidade
 
@@ -6188,45 +6186,45 @@ XML
 ### Referências do Glossário
 
 1.  Braille Virtual - Universidade de São Paulo. Disponível em:
-    `<<http://www.braillevirtual.fe.usp.br/> >. Acesso em: 15 de
+    <http://www.braillevirtual.fe.usp.br/>. Acesso em: 15 de
     setembro de 2008.
 
 2.  ECMA International - Standard ECMA-262 Disponível em:
-    `<<http://www.ecma-international.org/publications/standards/Ecma-262.htm>
+    <http://www.ecma-international.org/publications/standards/Ecma-262.htm>
     >. Acesso em: 15 de setembro de 2008.
 
 3.  HULL, L. Accessibility: It's not just for disabilities any more.
     Interactions, New York, v. 11, n. 2, 36-41, Mar./Abr. 2004.
 
-4.  JSON. Disponível em: `<<http://www.json.org/> >. Acesso em: 15 de
+4.  JSON. Disponível em: <http://www.json.org/>. Acesso em: 15 de
     setembro de 2008.
 
 5.  MELO, A. M. Design inclusivo de sistemas de informação na Web. 2007.
     xxiv, 339 p. (Doutorado em Ciência da Computação) -- Instituto de
     Computação, Universidade Estadual de Campinas, Campinas, 2007.
     Disponível em:
-    `<<http://libdigi.unicamp.br/document/?code=vtls000438900> >.
+    <http://libdigi.unicamp.br/document/?code=vtls000438900>.
     Acesso em: 15 de setembro de 2008.
 
 6.  MÍDIA e Deficiência. Brasília: Andi, 2003. 184 p. (Diversidade).
     Disponível em:
-    `<<http://www.andi.org.br/_pdfs/Midia_e_deficiencia.pdf> >. Acesso
+    <http://www.andi.org.br/_pdfs/Midia_e_deficiencia.pdf>. Acesso
     em: 17 de setembro de 2008.
 
 7.  Netscape - Core JavaScript Reference 1.5: Core JavaScript Reference.
     Disponível em:
-    `<<http://devedge-temp.mozilla.org/library/manuals/2000/javascript/1.5/reference/>
+    <http://devedge-temp.mozilla.org/library/manuals/2000/javascript/1.5/reference/>
     >. Acesso em: 15 de setembro de 2008.
 
 8.  PUPO, D. T.; MELO, A. M.; PÉREZ FERRÉS, S. (Org.) Acessibilidade:
     discurso e prática no cotidiano das bibliotecas. Campinas:
     Unicamp/Biblioteca Central Cesar Lattes, 2006. 91 p. Disponível em:
-    `<<http://styx.nied.unicamp.br:8080/todosnos/artigos-cientificos/livro_acessibilidade_bibliotecas.pdf>
+    <http://styx.nied.unicamp.br:8080/todosnos/artigos-cientificos/livro_acessibilidade_bibliotecas.pdf>
     >. Acesso em: 18 de setembro de 2008.
 
 9.  ROCHA, H. V.; BARANAUSKAS, M. C. Design e Avaliação de Interfaces
     Humano-Computador. Campinas: Nied-Unicamp, 2003. 244 p. Disponível
-    em: `<<http://www.nied.unicamp.br/download_livro.html> >. Acesso
+    em: <http://www.nied.unicamp.br/download_livro.html>. Acesso
     em: 17 de setembro de 2008.
 
 10. WebAIM - Web Accessibility in Mind. Creating Accessible Flash
@@ -6235,12 +6233,12 @@ XML
 
 11. W3C - World Wide Web Consortium. Web Accessibility Guidelines 1.0 -
     Apendix B. 1999. Disponível em:
-    `<<http://www.w3.org/TR/WCAG10/#glossary> >. Acesso em: 15 de
+    <http://www.w3.org/TR/WCAG10/#glossary>. Acesso em: 15 de
     setembro de 2008.
 
 12. W3C - World Wide Web Consortium. Web Accessibility Guidelines 2.0 -
     Apendix A. 2008. Disponível em:
-    `<<http://www.w3.org/TR/WCAG20/#glossary> >. Acesso em: 15 de
+    <http://www.w3.org/TR/WCAG20/#glossary>. Acesso em: 15 de
     setembro de 2008.
 
 [^1]: Pesquisa apoiada até março de 2009 pela Coordenação de
@@ -6252,3 +6250,7 @@ XML
 [^2]: Pesquisa apoiada pela Fundação de Amparo à Pesquisa do Estado de
     São Paulo (FAPESP) através de bolsa de doutorado (processo
     #2007/02161-0).
+
+----
+
+**Site gerado em:** {{ site.time }}
