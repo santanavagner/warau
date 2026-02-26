@@ -543,11 +543,11 @@ integração de tecnologias. São eles:
     contribui para a legibilidade do código. Para a equipe de
     desenvolvimento facilita manutenção e inclusão de novos recursos.
 
-    - Padronização de códigos HTML;
+    - [Padronização de códigos HTML](#padronização-de-códigos-html);
 
-    - Padronização de código CSS;
+    - [Padronização de código CSS](#padronização-de-código-css);
 
-    - Inclusão de código JavaScript;
+    - [Inclusão de código JavaScript](#inclusão-de-código-javascript);
 
 2.  **Estruturar páginas e *websites* prezando o reaproveitamento de
     código** - Todo o código *Web*, seja ele documento HTML, folha de
@@ -556,18 +556,18 @@ integração de tecnologias. São eles:
     consequentemente, contribua para a manutenção e redução de consumo
     de recursos de tempo e financeiro.
 
-    - Reaproveitamento de Código;
+    - [Reaproveitamento de Código](#reaproveitamento-de-código);
 
 3.  **Prezar pela semântica no código** - O conteúdo de *websites* deve
     ser escrito considerando os elementos semânticos disponíveis nas
     linguagens de marcação (e.g., títulos, parágrafos, tabelas,
     abreviações).
 
-    - Subtópicos - As tags HTML `<h1>` a `<h6>`;
+    - [Subtópicos - As tags HTML `<h1>` a `<h6>`](#subtópicos---as-tags-html-h1-a-h6);
 
-    - Idiomas - O atributo HTML lang;
+    - [Idiomas - O atributo HTML lang](#idiomas---o-atributo-html-lang);
 
-    - Ênfase no texto - As tags HTML `<em>` e `<strong>`;
+    - [Ênfase no texto - As tags HTML `<em>` e `<strong>`](#ênfase-no-texto---as-tags-html-em-e-strong);
 
 4.  **Aplicar padrões e diretrizes de tecnologias e conceitos** -
     Linguagens *Web* contam com padrões e recomendações que, quando
@@ -981,11 +981,13 @@ satisfação.</dd>
 
 #### Código renderizado
 
-Usabilidade
+<dl>
+<dt>Usabilidade</dt>
+<dd>É a capacidade de um produto qualquer ser utilizado por seus
+usuários de maneira que eles atinjam seus objetivos com eficiência e
+satisfação.</dd>
+</dl>
 
-> É a capacidade de um produto qualquer ser utilizado por seus usuários
-> de maneira que eles atinjam seus objetivos com eficiência e
-> satisfação.
 
 | :clipboard: Ficha | |
 | --- | --- |
@@ -5830,356 +5832,169 @@ abreviação
 : Omissão de parte de uma ou mais palavras para formar uma nova palavra reduzida. Por exemplo: Unicamp é abreviação de Universidade Estadual de Campinas.
 
 acessibilidade
-
-> Segundo a legislação brasileira sobre acessibilidade, é condição para
-> utilização, com segurança e autonomia, total ou assistida, dos
-> espaços, mobiliários e equipamentos urbanos, das edificações, dos
-> serviços de transporte e dos dispositivos, sistemas e meios de
-> comunicação e informação, por pessoa com deficiência ou com mobilidade
-> reduzida. Entretanto, acessibilidade diz respeito à facilidade de
-> acesso, por qualquer pessoa, aos ambientes físicos, aos bens e
-> serviços, às pessoas, à informação.
+: Segundo a legislação brasileira sobre acessibilidade, é condição para utilização, com segurança e autonomia, total ou assistida, dos espaços, mobiliários e equipamentos urbanos, das edificações, dos serviços de transporte e dos dispositivos, sistemas e meios de comunicação e informação, por pessoa com deficiência ou com mobilidade reduzida. Entretanto, acessibilidade diz respeito à facilidade de acesso, por qualquer pessoa, aos ambientes físicos, aos bens e serviços, às pessoas, à informação.
 
 acessibilidade na Web
-
-> Promoção de acesso indiscriminado à *world wide Web*, considerando
-> diferenças entre usuários, tecnologias de acesso e contexto de uso.
-> Segundo Hull (2006), qualquer pessoa usando qualquer tecnologia de
-> navegação na *Web* deveria estar apta a visitar qualquer *site*, obter
-> a informação que ele oferece e interagir com o *site*.
+: Promoção de acesso indiscriminado à *world wide Web*, considerando diferenças entre usuários, tecnologias de acesso e contexto de uso. Segundo Hull (2006), qualquer pessoa usando qualquer tecnologia de navegação na *Web* deveria estar apta a visitar qualquer *site*, obter a informação que ele oferece e interagir com o *site*.
 
 acrônimo
-
-> Utilização de iniciais de palavras para formar um único termo. Por
-> exemplo: CEP é um acrônimo para Código de Endereçamento Postal. Também
-> conhecido como sigla.
+: Utilização de iniciais de palavras para formar um único termo. Por exemplo: CEP é um acrônimo para Código de Endereçamento Postal. Também conhecido como sigla.
 
 agente de usuário
-
-> Qualquer *software* que recupera e apresenta conteúdo *Web* para seus
-> usuários. Ex. navegadores, *players* de mídia, *plug-ins* e outros
-> programas - tecnologias assistivas - que auxiliam a recuperar, a
-> apresentar e a interagir com o conteúdo *Web*.
+: Qualquer *software* que recupera e apresenta conteúdo *Web* para seus usuários. Ex. navegadores, *players* de mídia, *plug-ins* e outros programas - tecnologias assistivas - que auxiliam a recuperar, a apresentar e a interagir com o conteúdo *Web*.
 
 AJAX
-
-> Acrônimo em inglês para *Asynchronous JavaScript And XML*, que é uma
-> técnica de transmissão assíncrona de dados em XML utilizando a
-> linguagem JavaScript. O formato dos dados transmitidos pode ser
-> diferente (e.g., texto ou JSON), resultando em outros acrônimos (e.g.,
-> AJAT, AJAJ). Note que AJAX não é uma linguagem.
+: Acrônimo em inglês para *Asynchronous JavaScript And XML*, que é uma técnica de transmissão assíncrona de dados em XML utilizando a linguagem JavaScript. O formato dos dados transmitidos pode ser diferente (e.g., texto ou JSON), resultando em outros acrônimos (e.g., AJAT, AJAJ). Note que AJAX não é uma linguagem.
 
 Ampliador de telas
-
-> Artefato utilizado para ampliar uma parte da tela do computador. É
-> comumente utilizado por pessoas com baixa acuidade visual e pode ser
-> um *software* ou *hardware*.
+: Artefato utilizado para ampliar uma parte da tela do computador. É comumente utilizado por pessoas com baixa acuidade visual e pode ser um *software* ou *hardware*.
 
 ATAG
-
-> Acrônimo em inglês para *Authoring Tools Accessibility Guidelines*.
-> São diretrizes para que ferramentas de autoria de código *Web*
-> ofereçam os recursos necessários para a criação de código acessível
-> (conforme o WCAG), definidas por um subgrupo do WAI/W3C.
+: Acrônimo em inglês para *Authoring Tools Accessibility Guidelines*. São diretrizes para que ferramentas de autoria de código *Web* ofereçam os recursos necessários para a criação de código acessível (conforme o WCAG), definidas por um subgrupo do WAI/W3C.
 
 avaliação de acessibilidade Web
-
-> Diz respeito à observação da acessibilidade em páginas e *websites*.
-> Pode combinar uma série de técnicas como a verificação da codificação
-> usada em páginas *Web*com auxílio de ferramentas automáticas; uso de
-> navegadores e tecnologias assistivas em diferentes configurações de
-> acesso; uso de ferramentas semiautomáticas de avaliação de
-> acessibilidade; verificação por pessoas experientes na avaliação de
-> acessibilidade, apoiadas por pontos de verificação ou critérios de
-> sucesso; avaliação com auxílio de diferentes usuários em diferentes
-> situações de acesso (tradicionalmente via testes de usabilidade); e
-> revisão da linguagem utilizada nas páginas.
+: Diz respeito à observação da acessibilidade em páginas e *websites*. Pode combinar uma série de técnicas como a verificação da codificação usada em páginas *Web*com auxílio de ferramentas automáticas; uso de navegadores e tecnologias assistivas em diferentes configurações de acesso; uso de ferramentas semiautomáticas de avaliação de acessibilidade; verificação por pessoas experientes na avaliação de acessibilidade, apoiadas por pontos de verificação ou critérios de sucesso; avaliação com auxílio de diferentes usuários em diferentes situações de acesso (tradicionalmente via testes de usabilidade); e revisão da linguagem utilizada nas páginas.
 
 audiodescrição
-
-> Uma audiodescrição consiste da apresentação, por meio de áudio, de
-> elementos visuais importantes que não representados nos diálogos, por
-> exemplo: ambiente, expressões faciais, roupas.
+: Uma audiodescrição consiste da apresentação, por meio de áudio, de elementos visuais importantes que não representados nos diálogos, por exemplo: ambiente, expressões faciais, roupas.
 
 Braille
-
-> Código de leitura tátil e de escrita, usado por pessoas cegas. Usa
-> conjuntos de seis pontos em relevo dispostos em duas colunas,
-> possibilita a formação símbolos usados em literatura nos diversos
-> idiomas, na simbologia matemática e científica, na música e na
-> informática.
+: Código de leitura tátil e de escrita, usado por pessoas cegas. Usa conjuntos de seis pontos em relevo dispostos em duas colunas, possibilita a formação símbolos usados em literatura nos diversos idiomas, na simbologia matemática e científica, na música e na informática.
 
 *browser*
-
-> Ver navegador.
+: Ver navegador.
 
 CSS
-
-> Acrônimo em inglês para *Cascading Styles Sheet*, que é a definição da
-> aparência de um arquivo que utiliza linguagem de marcação (e.g., HTML,
-> XML). A tradução do Acrônimo resulta em Folhas de Estilo em Cascata,
-> em que cascata se refere à ordem de prioridade que deve ser utilizada
-> pelo navegador ao aplicar as formas de apresentação a uma dada página.
+: Acrônimo em inglês para *Cascading Styles Sheet*, que é a definição da aparência de um arquivo que utiliza linguagem de marcação (e.g., HTML, XML). A tradução do Acrônimo resulta em Folhas de Estilo em Cascata, em que cascata se refere à ordem de prioridade que deve ser utilizada pelo navegador ao aplicar as formas de apresentação a uma dada página.
 
 design acessível
-
-> Foca em princípios que estendem o processo de design padrão para
-> pessoas com algum tipo de limitação.
+: Foca em princípios que estendem o processo de design padrão para pessoas com algum tipo de limitação.
 
 design inclusivo
-
-> Ver design para todos.
+: Ver design para todos.
 
 design para todos
-
-> Abordagem europeia ao design universal.
+: Abordagem europeia ao design universal.
 
 design universal
-
-> Design de produtos e ambientes que sejam usáveis por todas as pessoas,
-> na maior extensão possível, sem a necessidade de adaptação ou design
-> especializado.
+: Design de produtos e ambientes que sejam usáveis por todas as pessoas, na maior extensão possível, sem a necessidade de adaptação ou design especializado.
 
 diretriz
-
-> Ver *guideline*.
+: Ver *guideline*.
 
 e-MAG
-
-> Modelo de Acessibilidade de Governo Eletrônico, desenvolvido pelo
-> Governo Brasileiro, que oferece um conjunto de recomendações para o
-> desenvolvimento de *sites* governamentais.
+: Modelo de Acessibilidade de Governo Eletrônico, desenvolvido pelo Governo Brasileiro, que oferece um conjunto de recomendações para o desenvolvimento de *sites* governamentais.
 
 Flash
-
-> Tecnologia que viabiliza adicionar animação e interatividade em
-> páginas *Web*. Pode ser usada para publicar conteúdos em diferentes
-> mídias: gráficos, textos, vídeo, áudio, etc. Embora seja comum
-> restrição quanto ao uso dessa tecnologia para o desenvolvimento de
-> *sites*, o problema não está na tecnologia em si, mas na forma com tem
-> sido usada: o conteúdo em *flash* raramente é desenvolvido para
-> incluir diferentes estratégias de interação, o que o torna inacessível
-> de alguma maneira.
+: Tecnologia que viabiliza adicionar animação e interatividade em páginas *Web*. Pode ser usada para publicar conteúdos em diferentes mídias: gráficos, textos, vídeo, áudio, etc. Embora seja comum restrição quanto ao uso dessa tecnologia para o desenvolvimento de *sites*, o problema não está na tecnologia em si, mas na forma com tem sido usada: o conteúdo em *flash* raramente é desenvolvido para incluir diferentes estratégias de interação, o que o torna inacessível de alguma maneira.
 
 ferramenta automática de verificação de código
-
-> Inspecionam o código de páginas *Web* a partir de uma determinada
-> especificação (ex. HTML, CSS, etc), validando o código ou indicando
-> problemas a serem corrigidos.
+: Inspecionam o código de páginas *Web* a partir de uma determinada especificação (ex. HTML, CSS, etc), validando o código ou indicando problemas a serem corrigidos.
 
 ferramenta de autoria
-
-> *Software* que oferece um conjunto de recursos para a criação de
-> conteúdos, sejam eles, texto, imagem, código fonte, ou outro qualquer.
+: *Software* que oferece um conjunto de recursos para a criação de conteúdos, sejam eles, texto, imagem, código fonte, ou outro qualquer.
 
 ferramenta semiautomática de avaliação de acessibilidade
-
-> Auxilia na verificação de páginas *Web*, comparando-as com pontos de
-> verificação (ou critérios de sucesso) de diretrizes de acessibilidade.
-> Embora seja de grande valor e praticamente indispensáveis à avaliação
-> de acessibilidade de uma página na *Web*, indicando erros e possíveis
-> problemas de acessibilidade agrupados em níveis de prioridades, e
-> oferecendo orientações, algumas questões ainda precisam de avaliação
-> por pessoas.
+: Auxilia na verificação de páginas *Web*, comparando-as com pontos de verificação (ou critérios de sucesso) de diretrizes de acessibilidade. Embora seja de grande valor e praticamente indispensáveis à avaliação de acessibilidade de uma página na *Web*, indicando erros e possíveis problemas de acessibilidade agrupados em níveis de prioridades, e oferecendo orientações, algumas questões ainda precisam de avaliação por pessoas.
 
 folha de estilo
-
-> Ver CSS.
+: Ver CSS.
 
 guideline
-
-> Orienta o *designer* na tomada de decisões consistentes através dos
-> elementos que constituem o produto (ex. conteúdo, apresentação,
-> funções, etc.). Devem ser entendidas e aplicadas de forma
-> contextualizada (ROCHA e BARANAUSKAS, 2003).
+: Orienta o *designer* na tomada de decisões consistentes através dos elementos que constituem o produto (ex. conteúdo, apresentação, funções, etc.). Devem ser entendidas e aplicadas de forma contextualizada (ROCHA e BARANAUSKAS, 2003).
 
 HTML
-
-> Acrônimo em inglês para *HyperText Markup Language*, que é uma
-> linguagem de marcação para páginas *Web*.
+: Acrônimo em inglês para *HyperText Markup Language*, que é uma linguagem de marcação para páginas *Web*.
 
 heurística
-
-> Regra geral que objetiva descrever propriedades comuns de interfaces
-> usáveis (ROCHA e BARANAUSKAS, 2003).
+: Regra geral que objetiva descrever propriedades comuns de interfaces usáveis (ROCHA e BARANAUSKAS, 2003).
 
 IBGE
-
-> Acrônimo para Instituto Brasileiro de Geografia e Estatística.
+: Acrônimo para Instituto Brasileiro de Geografia e Estatística.
 
 INAF
-
-> Acrônimo para Indicador Alfabetismo Funcional, mantido pelo Instituto
-> Paulo Montenegro.
+: Acrônimo para Indicador Alfabetismo Funcional, mantido pelo Instituto Paulo Montenegro.
 
 inclusão
-
-> Segundo Maria Teresa Eglér Mantoan, "é a nossa capacidade de entender
-> e reconhecer o outro e, assim, ter o privilégio de conviver e
-> compartilhar com pessoas diferentes de nós".
+: Segundo Maria Teresa Eglér Mantoan, "é a nossa capacidade de entender e reconhecer o outro e, assim, ter o privilégio de conviver e compartilhar com pessoas diferentes de nós".
 
 independência de dispositivo
-
-> Fato de que algum artefato de *software* poder ser utilizado por
-> usuários com diferentes dispositivos.
+: Fato de que algum artefato de *software* poder ser utilizado por usuários com diferentes dispositivos.
 
 JavaScript
-
-> Linguagem de programação interpretada e multi-plataforma mantida pela
-> Netscape. Ela pode ser utilizada no lado do servidor e no lado do
-> usuário. No entanto, é mais utilizada em aplicações no lado do
-> cliente. Ela é baseada no padrão ECMA-262, que define a linguagem
-> ECMAScript.
+: Linguagem de programação interpretada e multi-plataforma mantida pela Netscape. Ela pode ser utilizada no lado do servidor e no lado do usuário. No entanto, é mais utilizada em aplicações no lado do cliente. Ela é baseada no padrão ECMA-262, que define a linguagem ECMAScript.
 
 JSON
-
-> Acrônimo em inglês para *JavaScript Object Notation*, que é um formato
-> de troca de dados baseado em um subconjunto da linguagem de
-> programação JavaScript. Alguns de seus pontos positivos estão: ser
-> leve, ser de fácil leitura para humanos e ser de fácil geração e
-> interpretação por sistemas computacionais.
+: Acrônimo em inglês para *JavaScript Object Notation*, que é um formato de troca de dados baseado em um subconjunto da linguagem de programação JavaScript. Alguns de seus pontos positivos estão: ser leve, ser de fácil leitura para humanos e ser de fácil geração e interpretação por sistemas computacionais.
 
 leitor de telas
-
-> Tecnologia assistiva que tem a finalidade de ler o conteúdo textual
-> que é exibido no computador e, por meio de síntese de voz ou
-> *displays* em Braille, apresenta o conteúdo lido.
+: Tecnologia assistiva que tem a finalidade de ler o conteúdo textual que é exibido no computador e, por meio de síntese de voz ou *displays* em Braille, apresenta o conteúdo lido.
 
 LIBRAS
-
-> Acrônimo para Língua Brasileira de Sinais.
+: Acrônimo para Língua Brasileira de Sinais.
 
 linearização do conteúdo
-
-> Refere-se a ordem do conteúdo quando toda a formatação é removida.
-> Trata-se de um aspecto importante no *design* de *websites*,
-> especialmente para a leitura do conteúdo por usuários de leitores de
-> telas.
+: Refere-se a ordem do conteúdo quando toda a formatação é removida. Trata-se de um aspecto importante no *design* de *websites*, especialmente para a leitura do conteúdo por usuários de leitores de telas.
 
 linguagem de marcação
-
-> Linguagem que define termos e uma sintaxe específica para demarcar
-> conteúdo textual com o uso de *tags* (ou marcadores).
+: Linguagem que define termos e uma sintaxe específica para demarcar conteúdo textual com o uso de *tags* (ou marcadores).
 
 navegador
-
-> Programa utilizado para navegar na *Web*. Também conhecido como
-> *browser*.
+: Programa utilizado para navegar na *Web*. Também conhecido como *browser*.
 
 PDF
-
-> Acrônimo em inglês para *Portable Document Format*, que é um formato
-> ou tipo de documento criado para troca de documentos, independentes de
-> *software*, *hardware* ou sistema operacional. Documentos neste
-> formato também devem ser publicados com acessibilidade em mente.
+: Acrônimo em inglês para *Portable Document Format*, que é um formato ou tipo de documento criado para troca de documentos, independentes de *software*, *hardware* ou sistema operacional. Documentos neste formato também devem ser publicados com acessibilidade em mente.
 
 recomendação
-
-> Ver *guideline*.
+: Ver *guideline*.
 
 redundância
-
-> Na Teoria da Comunicação diz respeito ao excesso ou desperdício de
-> sinais ou de signos na transmissão da mensagem, que serve, contudo,
-> para neutralizar os efeitos do ruído no canal de comunicação. É
-> estratégia bastante comum na promoção da acessibilidade.
+: Na Teoria da Comunicação diz respeito ao excesso ou desperdício de sinais ou de signos na transmissão da mensagem, que serve, contudo, para neutralizar os efeitos do ruído no canal de comunicação. É estratégia bastante comum na promoção da acessibilidade.
 
 robustez
-
-> Em acessibilidade na *Web*, diz respeito à compatibilidade do conteúdo
-> com tecnologias correntes e futuras, incluindo tecnologias assistivas.
+: Em acessibilidade na *Web*, diz respeito à compatibilidade do conteúdo com tecnologias correntes e futuras, incluindo tecnologias assistivas.
 
 sigla
-
-> Ver acrônimo.
+: Ver acrônimo.
 
 síntese de voz
-
-> Reprodução artificial da voz humana.
+: Reprodução artificial da voz humana.
 
 tag
-
-> É uma marca utilizada em linguagens de marcação para diferenciar
-> conteúdo de marcação. Por exemplo: `<tag>Conteúdo textual</tag>.
+: É uma marca utilizada em linguagens de marcação para diferenciar conteúdo de marcação. Por exemplo: `<tag>Conteúdo textual</tag>.
 
 tecnologia assistiva
-
-> No escopo da informática são todos os artefatos que auxiliam de alguma
-> forma as pessoas com algum tipo de necessidade, seja ela física,
-> ambiental, etc. As tecnologias assistivas podem ser tanto *hardware*
-> (e.g., impressora Braille, linhas Braille, apontadores) como
-> *software* (e.g., leitores de telas, ampliadores de telas, navegadores
-> textuais, barras de acessibilidade com ajustes de tamanho de texto e
-> contraste).
+: No escopo da informática são todos os artefatos que auxiliam de alguma forma as pessoas com algum tipo de necessidade, seja ela física, ambiental, etc. As tecnologias assistivas podem ser tanto *hardware* (e.g., impressora Braille, linhas Braille, apontadores) como *software* (e.g., leitores de telas, ampliadores de telas, navegadores textuais, barras de acessibilidade com ajustes de tamanho de texto e contraste).
 
 texto alternativo
-
-> Atributo utilizado em arquivos de marcação para representar funções de
-> imagens e gráficos através de conteúdo textual. Dessa forma, em
-> contextos que não utilizam as imagens (e.g., usuários de leitores de
-> telas ou de navegadores textuais) as funções das imagens não são
-> perdidas.
+: Atributo utilizado em arquivos de marcação para representar funções de imagens e gráficos através de conteúdo textual. Dessa forma, em contextos que não utilizam as imagens (e.g., usuários de leitores de telas ou de navegadores textuais) as funções das imagens não são perdidas.
 
 UAAG
-
-> Acrônimo em inglês para *User Agent Accessibility Guidelines*. São
-> diretrizes para tornar acessíveis navegadores, *players* de mídia,
-> tecnologias assistivas, entre outros, definidas por um subgrupo do
-> WAI/W3C.
+: Acrônimo em inglês para *User Agent Accessibility Guidelines*. São diretrizes para tornar acessíveis navegadores, *players* de mídia, tecnologias assistivas, entre outros, definidas por um subgrupo do WAI/W3C.
 
 UNESCO
-
-> Acrônimo em inglês para *United Nations Educational, Scientific and
-> Cultural Organization*.
+: Acrônimo em inglês para *United Nations Educational, Scientific and Cultural Organization*.
 
 usabilidade
-
-> Resumidamente, um produto tem boa usabilidade se pode ser utilizado
-> por seus usuários de forma que eles atinjam seus objetivos com
-> eficácia, eficiência e satisfação.
+: Resumidamente, um produto tem boa usabilidade se pode ser utilizado por seus usuários de forma que eles atinjam seus objetivos com eficácia, eficiência e satisfação.
 
 W3C
-
-> Abreviação em inglês para *World Wide Web Consortium*, que é um
-> consórcio internacional que desenvolve padrões (*Web standards*) e
-> recomendações para manutenção da *Web*, de modo a manter suas
-> tecnologias compatíveis umas com as outras (independentes de
-> plataforma e interoperáveis).
+: Abreviação em inglês para *World Wide Web Consortium*, que é um consórcio internacional que desenvolve padrões (*Web standards*) e recomendações para manutenção da *Web*, de modo a manter suas tecnologias compatíveis umas com as outras (independentes de plataforma e interoperáveis).
 
 WAI
-
-> Acrônimo em inglês para *Web Accessibility Initiative*. É um grupo do
-> W3C que investiga soluções para acessibilidade na *Web*. O WAI tem
-> subgrupos que investigam navegadores, *players* de mídia, ferramentas
-> assistivas (UAAG), ferramentas de autoria de código *Web* (ATAG) e
-> código *Web* (WCAG).
+: Acrônimo em inglês para *Web Accessibility Initiative*. É um grupo do W3C que investiga soluções para acessibilidade na *Web*. O WAI tem subgrupos que investigam navegadores, *players* de mídia, ferramentas assistivas (UAAG), ferramentas de autoria de código *Web* (ATAG) e código *Web* (WCAG).
 
 WCAG
-
-> Acrônimo em inglês para *Web Content Accessibility Guidelines*, que
-> corresponde ao conjunto de diretrizes de acessibilidade para
-> desenvolvimento de conteúdo *Web*, definido por um subgrupo do
-> WAI/W3C.
+: Acrônimo em inglês para *Web Content Accessibility Guidelines*, que corresponde ao conjunto de diretrizes de acessibilidade para desenvolvimento de conteúdo *Web*, definido por um subgrupo do WAI/W3C.
 
 *webdesign*
-
-> Todo o processo de desenvolvimento de sistemas *Web*, desde sua
-> concepção até sua publicação.
+: Todo o processo de desenvolvimento de sistemas *Web*, desde sua concepção até sua publicação.
 
 *Web standards*
-
-> Oferecem uma base comum para o desenvolvimento de tecnologia *Web*
-> independente de plataforma e interoperável. Buscam simplificar a
-> manutenção das páginas *Web* e a sua a indexação por mecanismos de
-> buscas, entre outros benefícios. São exemplos as especificações do W3C
-> para a linguagem HTML e para folhas de estilo CSS, o padrão ECMA-262
-> que define a linguagem ECMAScript.
+: Oferecem uma base comum para o desenvolvimento de tecnologia *Web* independente de plataforma e interoperável. Buscam simplificar a manutenção das páginas *Web* e a sua a indexação por mecanismos de buscas, entre outros benefícios. São exemplos as especificações do W3C para a linguagem HTML e para folhas de estilo CSS, o padrão ECMA-262 que define a linguagem ECMAScript.
 
 XML
-
-> Acrônimo em inglês para *eXtensible Markup Language*, que é uma
-> linguagem de marcação extensível, ou seja, permite a utilização de
-> *tags* customizadas.
+: Acrônimo em inglês para *eXtensible Markup Language*, que é uma linguagem de marcação extensível, ou seja, permite a utilização de *tags* customizadas.
 
 ### 
 
@@ -6241,6 +6056,8 @@ XML
     <http://www.w3.org/TR/WCAG20/#glossary>. Acesso em: 15 de
     setembro de 2008.
 
+----
+
 [^1]: Pesquisa apoiada até março de 2009 pela Coordenação de
     Aperfeiçoamento de Pessoal de Nível Superior (CAPES) através de
     bolsa de mestrado. De abril de 2009 a setembro de 2012 a pesquisa
@@ -6254,3 +6071,5 @@ XML
 ----
 
 **Site gerado em:** {{ site.time }}
+
+----
