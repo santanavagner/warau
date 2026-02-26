@@ -19,5 +19,5 @@ Este repositório disponibiliza o conteúdo do livro **Websites Atendendo a Requ
 | Bibtex | \@book{Santana2018,<br>&emsp;title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade},<br>&emsp;author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cecília Calani},<br>&emsp;year={2018},<br>&emsp;publisher = {Leanpub},<br>&emsp;isbn = {978-85-907039-1-4}<br>} |
   
 <div align="center">
-  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="images/by-nc-nd.png" alt="Creative Commons BY-NC-ND"/></a>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="images/by-nc-nd.png" alt="Creative Commons BY-NC-ND" witdh="100px"/></a>
 </div>
