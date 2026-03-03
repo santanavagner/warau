@@ -1,4 +1,4 @@
-# Websites Atendendo a Requisitos de Acessibilidade e Usabilidade
+# WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade
 
 <div align="center">
   <a href="warau-livro.pdf"><img src="images/capa.png" alt="Capa da versão PDF do livro mostrando um varal com post-its pendurados formando o acrônimo WARAU" width="50%"/></a>
