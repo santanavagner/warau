@@ -426,7 +426,7 @@ Nacional dos Direitos das Pessoas Portadoras de Deficiência.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -476,7 +476,7 @@ consequentemente, possui um escopo mais restrito. Assim, "\... o
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -521,7 +521,7 @@ Versão em alto contraste.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -652,7 +652,7 @@ integração de tecnologias. São eles:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML, CSS, JavaScript, Acessibilidade e Usabilidade | 
+| :label: Tema | HTML, CSS, JavaScript, Acessibilidade e Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -716,7 +716,7 @@ Texto mostrado
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -855,7 +855,7 @@ todo o conteúdo do documento HTML que será exibido no navegador.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -911,7 +911,7 @@ a *tag* `<title>` se refere ao título da página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -933,7 +933,7 @@ mesmos *hiperlinks* em formato textual.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -989,7 +989,7 @@ satisfação.</dd>
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1022,7 +1022,7 @@ Dê preferência sempre à formatação via CSS.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1048,7 +1048,7 @@ tabulação em uma ordem que faça sentido ao usuário.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1073,7 +1073,7 @@ muitos desses problemas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1095,7 +1095,7 @@ Há duas formas básicas de diferenciar elementos de bloco (e.g., `<p>`,
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -1120,7 +1120,7 @@ com algum propósito especial.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1144,7 +1144,7 @@ uma língua diferente do resto do texto.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1168,7 +1168,7 @@ Linha 1<br>Linha 2<br>Linha 3
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1199,7 +1199,7 @@ parágrafos **não** dever ser justificado.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1229,7 +1229,7 @@ linguagem.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1253,7 +1253,7 @@ sobrescrito, como índices de nota de rodapé e potências matemáticas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1278,7 +1278,7 @@ de um elemento químico.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1312,7 +1312,7 @@ se adequa aos novos parâmetros.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1346,7 +1346,7 @@ de várias formas, inclusive via leitor de telas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1385,7 +1385,7 @@ Outra utilização da tag `<abbr>` é para tornar conteúdos do tipo ASCII *art*
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :yellow_circle: Média |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1420,7 +1420,7 @@ pois facilita a manutenção e ajuda a deixar o design consistente.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -1449,7 +1449,7 @@ conteúdo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :red_circle: Baixa |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1479,7 +1479,7 @@ criado texto alternativo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML e Acessibilidade | 
+| :label: Tema | HTML e Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1523,7 +1523,7 @@ forma de interromper o movimento.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -1570,7 +1570,7 @@ aspectos de usabilidade.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -1614,7 +1614,7 @@ possa ser referenciado dentro da página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1657,7 +1657,7 @@ atributo *checked* com valor *checked*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1695,7 +1695,7 @@ referência.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1749,7 +1749,7 @@ identificação.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1774,7 +1774,7 @@ linhas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1810,7 +1810,7 @@ formulários correlacionados.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -1848,7 +1848,7 @@ A *tag* `<legend>` é utilizada para atribuir um rótulo a um
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2001,7 +2001,7 @@ legenda de uma tabela.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -2018,7 +2018,7 @@ versão do HTML que esteja sendo utilizada na página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML | 
+| :label: Tema | HTML | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2111,7 +2111,7 @@ propriedades utilizadas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -2181,7 +2181,7 @@ Este é um parágrafo
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -2221,7 +2221,7 @@ strong.fantasia { color: #000000; } /* id=0 classe=1 tag=1 -> peso = 11 */
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2289,7 +2289,7 @@ funcionam em navegadores mais antigos são: *margin*, *padding* e
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2306,7 +2306,7 @@ foi necessário forçar a aplicação de um determinado estilo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2335,7 +2335,7 @@ vetoriais).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2365,7 +2365,7 @@ Referência de CSS do W3 Schools.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2444,7 +2444,7 @@ Padronização
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2487,7 +2487,7 @@ hr:before { content: attr(title); }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2517,7 +2517,7 @@ div {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2567,7 +2567,7 @@ table tr td { padding: 0.1em; }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2595,7 +2595,7 @@ sejam prejudicados por problemas de compatibilidade dos navegadores.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2637,7 +2637,7 @@ utilizassem CSS?
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -2679,7 +2679,7 @@ forma: text-align: center.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -2726,7 +2726,7 @@ a.paginacao {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2754,7 +2754,7 @@ h1, h2, h3, h4, h5, h6 { volume: 130%; voice-family: male; }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2792,7 +2792,7 @@ incluindo imagens e cores de fundo.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2809,7 +2809,7 @@ erros, segundo a versão do CSS que esteja sendo utilizada na página.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS | 
+| :label: Tema | CSS | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2845,7 +2845,7 @@ para oferecer funcionalidades básicas de um *website*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2891,7 +2891,7 @@ interpretado se o navegador suportar JavaScript.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2946,7 +2946,7 @@ function Valida(pa,pb) {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -2966,7 +2966,7 @@ pelos navegadores.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3000,7 +3000,7 @@ x = 2;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3021,7 +3021,7 @@ ter que fazê-la, pense na possibilidade de utilizar bibliotecas de
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3094,7 +3094,7 @@ if ( window.focus ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3160,7 +3160,7 @@ function getLinha(pval){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3197,7 +3197,7 @@ function selecionou(porigem) {
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML, JavaScript e Acessibilidade | 
+| :label: Tema | HTML, JavaScript e Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3232,7 +3232,7 @@ if ( ... ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3273,7 +3273,7 @@ document.write( html_code ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML e JavaScript | 
+| :label: Tema | HTML e JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3313,7 +3313,7 @@ código JavaScript estiver dentro de um atributo de uma tag HTML.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3344,7 +3344,7 @@ document.write( "<p>Teste<\/p>" ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3379,7 +3379,7 @@ document.write( "<scr" + "ipt language=\"javascript\" type=\"text/javascript\" s
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3410,7 +3410,7 @@ name_element.style.borderColor = "#000000" ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS e JavaScript | 
+| :label: Tema | CSS e JavaScript | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3518,7 +3518,7 @@ open_close( new Array( "ex415_graduacao_menu", "ex415_pos_graduacao_menu" ) ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3566,7 +3566,7 @@ function verificarInteiro( val ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3597,7 +3597,7 @@ document.write("Texto escrito via javascript!");
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3691,7 +3691,7 @@ setTimeout( "play_caption()", 1000 ) ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :red_circle: Baixa |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3718,7 +3718,7 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema |  HTML e JavaScript | 
+| :label: Tema |  HTML e JavaScript | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3813,7 +3813,7 @@ dos resultados.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3840,7 +3840,7 @@ name_element.innerHTML = name_element.innerHTML + "_" ;
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML e JavaScript | 
+| :label: Tema | HTML e JavaScript | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -3856,7 +3856,7 @@ possíveis erros e recomendações segundo boas práticas.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | JavaScript | 
+| :label: Tema | JavaScript | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4005,7 +4005,7 @@ function isFormFilled( formObject ){
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML, CSS e JavaScript | 
+| :label: Tema | HTML, CSS e JavaScript | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4082,7 +4082,7 @@ Organization (ISO), 1998).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Usabilidade | 
+| :label: Tema | Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -4108,7 +4108,7 @@ relembrança.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade e Usabilidade | 
+| :label: Tema | Acessibilidade e Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -4240,7 +4240,7 @@ da lista de Nielsen (Nielsen, 2007):
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Usabilidade | 
+| :label: Tema | Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -4279,7 +4279,7 @@ durante o *design*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Usabilidade | 
+| :label: Tema | Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4341,7 +4341,7 @@ contida em (Rocha e Baranauskas, 2003).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Usabilidade | 
+| :label: Tema | Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4610,7 +4610,7 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Usabilidade | 
+| :label: Tema | Usabilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4671,7 +4671,7 @@ especificamente para *websites*, adaptado de (Rutter, 2004).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Usabilidade | 
+| :label: Tema | Usabilidade | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4745,7 +4745,7 @@ Os quatro princípios são:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -4770,7 +4770,7 @@ e-MAG é o (DaSilva).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -4789,7 +4789,7 @@ organização para a definição de padrões.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -4811,7 +4811,7 @@ apenas uma dimensão (e.g., áudio).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -4834,7 +4834,7 @@ navegação por teclado, por exemplo:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML, JavaScript e Acessibilidade | 
+| :label: Tema | HTML, JavaScript e Acessibilidade | 
 | :pencil2: Relevância para designers | :yellow_circle: Média |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :yellow_circle: Média |
@@ -4882,7 +4882,7 @@ leitores de telas. Entretanto, ela não atende usuários que navegam na
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -4945,7 +4945,7 @@ separador, mas o recomendado é a utilização do sinal de maior (Nielsen,
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -5018,7 +5018,7 @@ span.shortcut { text-decoration: underline; font-weight: bold; }
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | CSS e Acessibilidade | 
+| :label: Tema | CSS e Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5060,7 +5060,7 @@ ocupada.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -5109,7 +5109,7 @@ esperado.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :red_circle: Baixa |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -5155,7 +5155,7 @@ Exemplos da importância da definição de contexto:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -5194,7 +5194,7 @@ elementos de uma página HTML. Exemplos seriam:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :yellow_circle: Média |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5226,7 +5226,7 @@ futuras.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5305,7 +5305,7 @@ determinado tipo de deficiência enxergaria.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -5347,7 +5347,7 @@ usuário possa desativar estes recursos.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :green_circle: Alta |
@@ -5389,7 +5389,7 @@ comprometer a segurança do usuário ou do *website*).
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5426,7 +5426,7 @@ diversas maneiras para que elas sejam executadas. Exemplos são:
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | HTML e Acessibilidade | 
+| :label: Tema | HTML e Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5525,7 +5525,7 @@ atendidos na construção do *website*.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5588,7 +5588,7 @@ Avaliação semiautomática (utilizar uma das ferramentas semiautomáticas de av
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
@@ -5630,7 +5630,7 @@ operacionais.
 
 | :clipboard: Ficha | |
 | --- | --- |
-| :puzzle_piece: Tema | Acessibilidade | 
+| :label: Tema | Acessibilidade | 
 | :pencil2: Relevância para designers | :green_circle: Alta |
 | :keyboard: Relevância para desenvolvedores | :green_circle: Alta |
 | :pen_fountain: Relevância para redatores | :red_circle: Baixa |
