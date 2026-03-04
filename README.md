@@ -4,7 +4,13 @@
   <a href="warau-livro.pdf"><img src="images/capa.png" alt="Capa da versão PDF do livro mostrando um varal com post-its pendurados formando o acrônimo WARAU" width="50%"/></a>
 </div>
 
-**Autores:** Vagner Figueredo de Santana, Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas
+
+**Autores:** 
+- [Vagner Figueredo de Santana](http://lattes.cnpq.br/0796625901609802)
+- [Leonelo Dell Anhol Almeida](http://lattes.cnpq.br/4597216569899545)
+- [Maria Cecília Calani Baranauskas](http://lattes.cnpq.br/1750385790843118)
+
+**Prefácio por:** Profa. Maria Teresa Eglér Mantoan
 
 Este livro é voltado para mantenedores de websites (desenvolvedores, designers e redatores) com conhecimentos básicos sobre tecnologias Web (e.g., HTML, CSS, JavaScript) e que queiram aprender a construir websites válidos, acessíveis e usáveis, a partir de exemplos simples e práticos.
 
