@@ -10,7 +10,7 @@
 - [Leonelo Dell Anhol Almeida](http://lattes.cnpq.br/4597216569899545)
 - [Maria Cecília Calani Baranauskas](http://lattes.cnpq.br/1750385790843118)
 
-**Prefácio por:** Profa. Maria Teresa Eglér Mantoan
+**Prefácio por:** Profa. [Maria Teresa Eglér Mantoan](https://lattes.cnpq.br/1568940831784716)
 
 Este livro é voltado para mantenedores de websites (desenvolvedores, designers e redatores) com conhecimentos básicos sobre tecnologias Web (e.g., HTML, CSS, JavaScript) e que queiram aprender a construir websites válidos, acessíveis e usáveis, a partir de exemplos simples e práticos.
 
