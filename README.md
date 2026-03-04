@@ -6,7 +6,7 @@
 
 **Autores:** Vagner Figueredo de Santana, Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas
 
-Este repositório disponibiliza o conteúdo do livro **Websites Atendendo a Requisitos de Acessibilidade e Usabilidade**.
+Este livro é voltado para mantenedores de websites (desenvolvedores, designers e redatores) com conhecimentos básicos sobre tecnologias Web (e.g., HTML, CSS, JavaScript) e que queiram aprender a construir websites válidos, acessíveis e usáveis, a partir de exemplos simples e práticos.
 
 - Versão web: https://santanavagner.github.io/warau/
 - Disponível também no Leanpub: https://leanpub.com/warau/
@@ -15,7 +15,7 @@ Este repositório disponibiliza o conteúdo do livro **Websites Atendendo a Requ
 
 | Formato | Citação | 
 | :--- | :--- | 
-| Texto | Websites Atendendo a Requisitos de Acessibilidade e Usabilidade. 2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol; Baranauskas, Maria Cecília Calani. Leanpub. https://leanpub.com/warau |
+| Texto | Websites Atendendo a Requisitos de Acessibilidade e Usabilidade. 2018. Santana, Vagner Figueredo de; Almeida, Leonelo Dell Anhol; Baranauskas, Maria Cecília Calani. ISBN: 978-85-907039-1-4. Leanpub. https://leanpub.com/warau |
 | Bibtex | \@book{Santana2018,<br>&emsp;title={WARAU: Websites Atendendo a Requisitos de Acessibilidade e Usabilidade},<br>&emsp;author={Santana, Vagner Figueredo and Almeida, Leonelo Dell Anhol and Baranauskas, Maria Cecília Calani},<br>&emsp;year={2018},<br>&emsp;publisher = {Leanpub},<br>&emsp;isbn = {978-85-907039-1-4}<br>} |
   
 <div align="center">
