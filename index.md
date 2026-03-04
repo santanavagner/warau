@@ -5,7 +5,7 @@
 - [Leonelo Dell Anhol Almeida](http://lattes.cnpq.br/4597216569899545)
 - [Maria Cecília Calani Baranauskas](http://lattes.cnpq.br/1750385790843118)
 
-**Prefácio por:** Profa. Maria Teresa Eglér Mantoan
+**Prefácio por:** Profa. [Maria Teresa Eglér Mantoan](https://lattes.cnpq.br/1568940831784716)
 
 ----
 
